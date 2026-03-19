@@ -1,0 +1,459 @@
+========================================================================
+WerProfitiert — Analysebericht
+Zeitraum : 1950 – 1950
+Gruppen  : Bauern, Industriearbeiter, Angestellte, Beamte, Unternehmer, Immobilien Besitzer, Mieter, Frauen, Kriegsheimkehrer, Kirche
+Erstellt : 2026-03-19 12:01
+Modell   : claude-sonnet-4-5
+========================================================================
+
+Legende: Prozentwerte sind unabhängig pro Gruppe (summieren nicht auf 100).
+         0% = nicht betroffen, 100% = maximaler direkter Nutzen.
+BGBl. 1950/1 | | 
+  [Analysefehler]
+
+BGBl. 1950/2 | | 
+  [Analysefehler]
+
+BGBl. 1950/3 | | 
+  [Analysefehler]
+
+BGBl. 1950/4 | | 
+  [Analysefehler]
+
+BGBl. 1950/5 | | 
+  [Analysefehler]
+
+BGBl. 1950/6 | | 
+  [Analysefehler]
+
+BGBl. 1950/7 | | 
+  [Analysefehler]
+
+BGBl. 1950/8 | | 
+  [Analysefehler]
+
+BGBl. 1950/9 | | 
+  [Analysefehler]
+
+BGBl. 1950/10 | | 
+  [Analysefehler]
+
+BGBl. 1950/11 | | 
+  [Analysefehler]
+
+BGBl. 1950/12 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für arbeitsinspektionspflichtige Betriebe per 31. Dezember 1950. Die bisherigen Vorschriften werden durch das Arbeitsinspektionsgesetz ersetzt.
+  Bauern              :   5% — Landwirtschaftliche Betriebe unterliegen meist nicht der Arbeitsinspektion, daher kaum betroffen
+  Industriearbeiter   :  45% — Direkt betroffen durch neue Unfallverhütungsregelungen in arbeitsinspektionspflichtigen Industriebetrieben
+  Angestellte         :  35% — In arbeitsinspektionspflichtigen Betrieben tätig, profitieren von einheitlichen Sicherheitsvorschriften
+  Beamte              :  10% — Öffentlicher Dienst fällt meist nicht unter Arbeitsinspektion, nur geringe indirekte Betroffenheit
+  Unternehmer         :  40% — Müssen sich auf neue einheitliche Unfallverhütungsvorschriften statt verschiedener Berufsgenossenschaftsregeln einstellen
+  Immobilien Besitzer :   0% — Keine Relevanz für Immobilienbesitz
+  Mieter              :   0% — Keine Relevanz für Wohnverhältnisse
+  Frauen              :  35% — Als Arbeitnehmerinnen in Industrie und Gewerbe von neuen Arbeitssicherheitsregelungen betroffen
+  Kriegsheimkehrer    :  30% — Bei Wiedereinstieg in Industriebetriebe von modernisierten Sicherheitsvorschriften betroffen
+  Kirche              :   0% — Keine Relevanz für kirchliche Einrichtungen
+
+BGBl. 1950/13 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt primär das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften per 31.12.1950 für arbeitsinspektionspflichtige Betriebe. Es handelt sich um eine technische Anpassung im Arbeitnehmerschutzrecht.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen meist nicht der Arbeitsinspektion.
+  Industriearbeiter   :  45% — Industriebetriebe unterliegen der Arbeitsinspektion; die Änderung der Unfallverhütungsvorschriften betrifft diese Gruppe direkt.
+  Angestellte         :  35% — Angestellte in arbeitsinspektionspflichtigen Betrieben sind mittelbar von Unfallverhütungsvorschriften betroffen.
+  Beamte              :   0% — Öffentlicher Dienst unterliegt nicht der Arbeitsinspektion.
+  Unternehmer         :  40% — Unternehmer mit arbeitsinspektionspflichtigen Betrieben müssen sich auf veränderte Unfallverhütungsregelungen einstellen.
+  Immobilien Besitzer :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Bestimmungen.
+  Mieter              :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Bestimmungen.
+  Frauen              :  20% — Soweit sie in arbeitsinspektionspflichtigen Betrieben beschäftigt sind, indirekt betroffen.
+  Kriegsheimkehrer    :  25% — Soweit sie in arbeitsinspektionspflichtigen Betrieben arbeiten, profitieren sie vom Arbeitnehmerschutz.
+  Kirche              :   0% — Kirchliche Einrichtungen sind von dieser Regelung nicht betroffen.
+
+BGBl. 1950/14 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für arbeitsinspektionspflichtige Betriebe per 31. Dezember 1950. Es handelt sich um eine technische Änderung der Arbeitsinspektionsvorschriften.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen üblicherweise nicht der Arbeitsinspektion.
+  Industriearbeiter   :  45% — Beschäftigte in arbeitsinspektionspflichtigen Betrieben sind durch Änderungen der Unfallverhütungsvorschriften betroffen.
+  Angestellte         :  35% — Angestellte in inspektionspflichtigen Betrieben profitieren indirekt von fortgesetzten Sicherheitsstandards.
+  Beamte              :   5% — Nur Arbeitsinspektoren sind als Vollzugsbeamte tangiert, die meisten Beamten nicht betroffen.
+  Unternehmer         :  25% — Betriebsinhaber müssen sich auf geänderte Unfallverhütungsvorschriften einstellen, administrative Anpassungen erforderlich.
+  Immobilien Besitzer :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Vorschriften.
+  Mieter              :   0% — Keine Relevanz für Mietverhältnisse.
+  Frauen              :  20% — Arbeitende Frauen in Betrieben profitieren wie alle Beschäftigten von Arbeitssicherheitsregelungen.
+  Kriegsheimkehrer    :  15% — Wiedereingestellte Kriegsheimkehrer in Betrieben sind wie andere Arbeitnehmer von Sicherheitsvorschriften betroffen.
+  Kirche              :   0% — Keine Berührung durch arbeitsinspektionsrechtliche Änderungen.
+
+BGBl. 1950/15 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz ändert das Arbeitsinspektionsgesetz und setzt fest, dass Unfallverhütungsvorschriften der Berufsgenossenschaften für Betriebe unter Arbeitsinspektion mit 31. Dezember 1950 außer Kraft treten. Es handelt sich um eine technische Anpassung der Rechtslage im Bereich Arbeitsschutz und -aufsicht.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen typischerweise nicht der Arbeitsinspektion.
+  Industriearbeiter   :  45% — Industriearbeiter sind direkt von Unfallverhütungsvorschriften und der Arbeitsinspektion betroffen, wobei die Novelle eine Übergangsregelung schafft.
+  Angestellte         :  35% — Angestellte in der Arbeitsinspektion unterliegenden Betrieben sind mittelbar von den Änderungen der Unfallverhütungsvorschriften betroffen.
+  Beamte              :   5% — Beamte unterliegen nicht der Arbeitsinspektion, nur einzelne Verwaltungsbeamte vollziehen das Gesetz.
+  Unternehmer         :  40% — Unternehmer müssen die geänderten Regelungen zu Unfallverhütungsvorschriften in ihren Betrieben umsetzen.
+  Immobilien Besitzer :   0% — Das Gesetz berührt Immobilienbesitz nicht.
+  Mieter              :   0% — Mietverhältnisse werden durch dieses Gesetz nicht tangiert.
+  Frauen              :  20% — Frauen als Arbeitnehmerinnen sind anteilig von Arbeitsschutzbestimmungen betroffen, aber nicht spezifisch adressiert.
+  Kriegsheimkehrer    :   0% — Das Gesetz enthält keine spezifischen Regelungen für Kriegsheimkehrer.
+  Kirche              :   0% — Die Kirche wird durch diese arbeitsinspektionsrechtliche Novelle nicht berührt.
+
+BGBl. 1950/16 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz ändert das Arbeitsinspektionsgesetz und legt fest, dass von Berufsgenossenschaften erlassene Unfallverhütungsvorschriften für arbeitsinspezierende Betriebe mit 31. Dezember 1950 außer Wirksamkeit treten. Es handelt sich um eine technische Anpassung der Aufsichtsregelungen im Arbeitsschutz.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen üblicherweise nicht der Arbeitsinspektion.
+  Industriearbeiter   :  45% — Betroffen durch Änderungen bei Unfallverhütungsvorschriften in ihren Betrieben, moderater Einfluss auf Arbeitsschutz.
+  Angestellte         :  35% — In Betrieben unter Arbeitsinspektion tätig, aber weniger direkt von Unfallverhütung betroffen als Arbeiter.
+  Beamte              :   5% — Öffentlicher Dienst unterliegt nicht der Arbeitsinspektion, nur indirekt als Vollzugsbehörde relevant.
+  Unternehmer         :  40% — Müssen als Betriebsinhaber die geänderten Vorschriften zur Unfallverhütung umsetzen und anpassen.
+  Immobilien Besitzer :   0% — Keine Berührung mit arbeitsrechtlichen Inspektionsvorschriften.
+  Mieter              :   0% — Keine Berührung mit arbeitsrechtlichen Inspektionsvorschriften.
+  Frauen              :  20% — Soweit als Arbeitnehmerinnen in betroffenen Betrieben tätig, indirekt durch Arbeitsschutzänderungen berührt.
+  Kriegsheimkehrer    :  15% — Bei Wiedereinstieg in Industriebetriebe von geänderten Arbeitsschutzbestimmungen betroffen.
+  Kirche              :   0% — Keine Relevanz für kirchliche Einrichtungen.
+
+BGBl. 1950/17 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für Betriebe unter Arbeitsinspektion mit Stichtag 31. Dezember 1950. Es handelt sich um eine technische Anpassung des Arbeitsinspektionsgesetzes.
+  Bauern              :   0% — Landwirtschaftliche Betriebe fallen nicht unter die Arbeitsinspektion
+  Industriearbeiter   :  45% — Betrifft ihre Arbeitssicherheit, da Unfallverhütungsvorschriften auslaufen und neue Regelungen kommen
+  Angestellte         :  30% — Mittelbar betroffen durch Änderungen im Arbeitssicherheitsrecht in inspektionspflichtigen Betrieben
+  Beamte              :   5% — Kaum betroffen, da nicht unter Arbeitsinspektion fallend
+  Unternehmer         :  40% — Müssen sich auf neue Unfallverhütungsbestimmungen nach Auslaufen der Berufsgenossenschaftsvorschriften einstellen
+  Immobilien Besitzer :   0% — Keine Relevanz für Immobilienbesitz
+  Mieter              :   0% — Keine Relevanz für Mietverhältnisse
+  Frauen              :  20% — Als Arbeitnehmerinnen in Industriebetrieben von Arbeitssicherheitsänderungen betroffen
+  Kriegsheimkehrer    :  15% — Bei Wiederaufnahme von Arbeit in inspektionspflichtigen Betrieben indirekt betroffen
+  Kirche              :   0% — Keine Relevanz für kirchliche Institutionen
+
+BGBl. 1950/18 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für Betriebe unter Arbeitsinspektion per 31. Dezember 1950. Es handelt sich um eine technische Anpassung des Arbeitsinspektionsgesetzes bezüglich der Geltungsdauer bestimmter Sicherheitsvorschriften.
+  Bauern              :   0% — Landwirtschaftliche Betriebe fallen typischerweise nicht unter die Arbeitsinspektion
+  Industriearbeiter   :  45% — Betroffen durch Änderungen bei Unfallverhütungsvorschriften in Industriebetrieben, die der Arbeitsinspektion unterliegen
+  Angestellte         :  35% — Profitieren indirekt von Arbeitssicherheitsregelungen in Betrieben unter Arbeitsinspektion
+  Beamte              :   5% — Kaum betroffen, da öffentlicher Dienst meist nicht unter Arbeitsinspektion fällt
+  Unternehmer         :  25% — Müssen sich auf veränderte Rechtslage bei Unfallverhütungsvorschriften einstellen
+  Immobilien Besitzer :   0% — Keine Berührung mit Arbeitsinspektionsregelungen
+  Mieter              :   0% — Keine Berührung mit Arbeitsinspektionsregelungen
+  Frauen              :  20% — Sofern als Arbeitnehmerinnen in betroffenen Betrieben tätig, von Sicherheitsvorschriften berührt
+  Kriegsheimkehrer    :  15% — Soweit in Betrieben unter Arbeitsinspektion beschäftigt, von Arbeitssicherheitsregelungen betroffen
+  Kirche              :   0% — Keine Berührung mit Arbeitsinspektionsregelungen
+
+BGBl. 1950/19 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Das Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für Betriebe unter Arbeitsinspektion per 31. Dezember 1950. Es handelt sich um eine technische Anpassung des Arbeitsinspektionsgesetzes.
+  Bauern              :   5% — Kaum betroffen, da landwirtschaftliche Betriebe meist nicht der Arbeitsinspektion unterliegen
+  Industriearbeiter   :  45% — Direkt betroffen durch Änderungen bei Unfallverhütungsvorschriften in Industriebetrieben unter Arbeitsinspektion
+  Angestellte         :  35% — Betroffen als Beschäftigte in Betrieben unter Arbeitsinspektion, aber weniger direkt als gewerbliche Arbeiter
+  Beamte              :   0% — Nicht betroffen, da öffentlicher Dienst nicht der Arbeitsinspektion unterliegt
+  Unternehmer         :  40% — Betroffen als Betreiber von Betrieben unter Arbeitsinspektion durch geänderte Rechtslage bei Unfallverhütung
+  Immobilien Besitzer :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Vorschriften
+  Mieter              :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Vorschriften
+  Frauen              :  20% — Nur soweit sie als Arbeitnehmerinnen in betroffenen Betrieben beschäftigt sind
+  Kriegsheimkehrer    :  15% — Nur relevant falls sie in Betrieben unter Arbeitsinspektion beschäftigt sind
+  Kirche              :   0% — Keine Berührung mit arbeitsinspektionsrechtlichen Vorschriften
+
+BGBl. 1950/20 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften zum 31. Dezember 1950 für Betriebe unter Arbeitsinspektion. Es handelt sich um eine technische Anpassung im Arbeitnehmerschutzrecht.
+  Bauern              :   0% — Landwirtschaftliche Betriebe fallen nicht in den Anwendungsbereich der Arbeitsinspektion.
+  Industriearbeiter   :  45% — Betroffen durch Änderungen bei Unfallverhütungsvorschriften in inspektionspflichtigen Industriebetrieben.
+  Angestellte         :  30% — Teilweise betroffen, sofern sie in Betrieben unter Arbeitsinspektion tätig sind.
+  Beamte              :   5% — Kaum betroffen, da öffentlicher Dienst nicht der Arbeitsinspektion unterliegt.
+  Unternehmer         :  35% — Betriebe unter Arbeitsinspektion müssen sich auf veränderte Unfallverhütungsbestimmungen einstellen.
+  Immobilien Besitzer :   0% — Das Gesetz berührt keine immobilienrechtlichen Aspekte.
+  Mieter              :   0% — Keine Relevanz für Mietverhältnisse.
+  Frauen              :  20% — Betroffen soweit sie als Arbeiterinnen in inspektionspflichtigen Betrieben beschäftigt sind.
+  Kriegsheimkehrer    :   0% — Keine spezifischen Regelungen für Kriegsheimkehrer enthalten.
+  Kirche              :   0% — Keine kirchenrelevanten Bestimmungen im Gesetz.
+
+BGBl. 1950/21 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften zum 31. Dezember 1950 im Bereich der Arbeitsinspektion. Es handelt sich um eine technische Anpassung des Arbeitsinspektionsgesetzes ohne substantielle Leistungsänderungen.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen in der Regel nicht der Arbeitsinspektion, daher keine Berührung.
+  Industriearbeiter   :  25% — Indirekt betroffen durch Änderungen im Unfallschutzregime, aber nur befristete Übergangsregelung ohne konkrete Verbesserungen.
+  Angestellte         :  20% — Ähnlich wie Industriearbeiter minimal betroffen durch arbeitsschutzrechtliche Übergangsbestimmungen.
+  Beamte              :   5% — Beamte unterliegen nicht der Arbeitsinspektion, daher kaum relevanter Nutzen.
+  Unternehmer         :  15% — Klarheit über Geltungsdauer von Unfallverhütungsvorschriften schafft begrenzte Rechtssicherheit für Betriebe.
+  Immobilien Besitzer :   0% — Keine Verbindung zu Immobilienbesitz oder -verwaltung erkennbar.
+  Mieter              :   0% — Keine Berührung mit Mietverhältnissen.
+  Frauen              :   0% — Keine geschlechtsspezifischen Regelungen enthalten.
+  Kriegsheimkehrer    :   0% — Keine spezifischen Regelungen für Kriegsheimkehrer in diesem Gesetz.
+  Kirche              :   0% — Keine kirchenrelevanten Bestimmungen.
+
+BGBl. 1950/22 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz ändert das Arbeitsinspektionsgesetz und setzt die Gültigkeit von Unfallverhütungsvorschriften der Berufsgenossenschaften für inspektionspflichtige Betriebe bis 31. Dezember 1950 außer Kraft.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen in der Regel nicht der Arbeitsinspektion
+  Industriearbeiter   :  45% — Unfallverhütungsvorschriften in inspektionspflichtigen Industriebetrieben werden vorübergehend außer Kraft gesetzt, was die Arbeitssicherheit beeinträchtigen kann
+  Angestellte         :  25% — In inspektionspflichtigen Betrieben tätige Angestellte sind indirekt von der Aussetzung der Unfallverhütungsvorschriften betroffen
+  Beamte              :   0% — Öffentlicher Dienst ist nicht vom Arbeitsinspektionsgesetz erfasst
+  Unternehmer         :  35% — Unternehmer in inspektionspflichtigen Betrieben haben vorübergehend weniger strenge Unfallverhütungsauflagen zu erfüllen
+  Immobilien Besitzer :   0% — Dieses Gesetz hat keinen Bezug zu Immobilienbesitz
+  Mieter              :   0% — Dieses Gesetz hat keinen Bezug zu Mietverhältnissen
+  Frauen              :  20% — Soweit in inspektionspflichtigen Betrieben beschäftigt, sind sie wie andere Arbeitnehmer von der Aussetzung der Unfallverhütungsvorschriften betroffen
+  Kriegsheimkehrer    :  15% — Soweit sie in inspektionspflichtigen Betrieben arbeiten, sind sie von den geänderten Unfallverhütungsbestimmungen betroffen
+  Kirche              :   0% — Kirchliche Einrichtungen sind von diesem Gesetz nicht betroffen
+
+BGBl. 1950/23 | 1949-12-07 | 2. Novelle zum Arbeitsinspektionsgesetz
+  Kurzbeschreibung: Dieses Gesetz regelt das Außerkrafttreten von Unfallverhütungsvorschriften der Berufsgenossenschaften für arbeitsinspektionspflichtige Betriebe per 31. Dezember 1950. Es handelt sich um eine technische Anpassung im Arbeitsschutzrecht.
+  Bauern              :   0% — Landwirtschaftliche Betriebe unterliegen üblicherweise nicht der Arbeitsinspektion, daher keine Betroffenheit.
+  Industriearbeiter   :  35% — Unfallverhütungsvorschriften betreffen direkt die Arbeitssicherheit in Industriebetrieben, Änderung hat moderate Auswirkungen.
+  Angestellte         :  25% — Angestellte in arbeitsinspektionspflichtigen Betrieben sind indirekt von Arbeitsschutzvorschriften betroffen.
+  Beamte              :   0% — Beamte unterliegen nicht der Arbeitsinspektion und sind daher nicht betroffen.
+  Unternehmer         :  40% — Unternehmer müssen die Unfallverhütungsvorschriften umsetzen, Änderungen betreffen ihre Pflichten direkt.
+  Immobilien Besitzer :   0% — Keine Relevanz für Immobilienbesitz.
+  Mieter              :   0% — Keine Relevanz für Mietverhältnisse.
+  Frauen              :  20% — Frauen in Arbeitsverhältnissen profitieren indirekt von Arbeitsschutzregelungen, aber keine geschlechtsspezifische Regelung.
+  Kriegsheimkehrer    :   0% — Keine spezifische Regelung für Kriegsheimkehrer in diesem Gesetz.
+  Kirche              :   0% — Keine Betroffenheit kirchlicher Institutionen.
+
+BGBl. 1950/24 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien auf (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft) und verteilt deren Kompetenzen neu auf andere Ministerien. Es regelt vor allem die Verwaltung der Lebensmittelversorgung, Vermögenssicherung und verstaatlichte Betriebe in der Übergangswirtschaft.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten des Landwirtschaftsministeriums bei Lebensmittelversorgung und Preisregelung
+  Industriearbeiter   :  20% — Leicht betroffen durch Neuordnung der Verwaltung verstaatlichter Betriebe und Lebensmittelversorgung für Verbrauchergruppen
+  Angestellte         :  15% — Marginal betroffen durch allgemeine Lebensmittelversorgung und Verwaltungsreorganisation
+  Beamte              :  75% — Stark betroffen durch Auflösung dreier Ministerien, Versetzungen und Neustrukturierung des Verwaltungsapparats
+  Unternehmer         :  30% — Betroffen durch neue Zuständigkeiten bei Vermögensverwaltung, Kreditlenkung und Gütevorschriften für Lebensmittel
+  Immobilien Besitzer :   5% — Kaum direkt betroffen, allenfalls durch Vermögenssicherungskompetenzen
+  Mieter              :   0% — Keine Regelungen zu Wohnraum oder Mieten enthalten
+  Frauen              :   0% — Keine geschlechtsspezifischen Regelungen in diesem Verwaltungsorganisationsgesetz
+  Kriegsheimkehrer    :   0% — Keine spezifischen Regelungen für diese Gruppe trotz erwähnter Überbrückungshilfen in anderen Gesetzen
+  Kirche              :   0% — Keine kirchenrelevanten Bestimmungen in diesem Organisationsgesetz
+
+BGBl. 1950/25 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien auf (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft) und verteilt deren Aufgaben neu auf andere Ministerien. Es regelt insbesondere die Lebensmittelversorgung in der Übergangswirtschaft und die Verwaltung verstaatlichter Betriebe.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten bei Land- und Forstwirtschaftsministerium für Lebensmittelversorgung und Vertretung in der Ernährungskommission
+  Industriearbeiter   :  20% — Geringe indirekte Auswirkungen durch Neuordnung der verstaatlichten Betriebe und Gewerkschaftsvertretung in der Ernährungskommission
+  Angestellte         :  15% — Minimal betroffen durch allgemeine Lebensmittelversorgungsregelungen und Kammernvertretung
+  Beamte              :  65% — Stark betroffen durch Ministerienauflösung, Versetzungen und neue organisatorische Strukturen in der Bundesverwaltung
+  Unternehmer         :  30% — Betroffen durch Neuordnung der Wirtschaftsplanung, Vermögensverwaltung und Vertretung in der Ernährungskommission über die Wirtschaftskammer
+  Immobilien Besitzer :  10% — Kaum betroffen, nur indirekt durch allgemeine Verwaltungsreorganisation
+  Mieter              :   5% — Minimal betroffen durch Lebensmittelversorgungsregelungen für Verbrauchergruppen
+  Frauen              :   8% — Geringfügig betroffen durch Lebensmittelversorgung und Fürsorge für Verbrauchergruppen
+  Kriegsheimkehrer    :   5% — Kaum direkt betroffen, nur durch allgemeine Lebensmittelversorgungsregelungen
+  Kirche              :   0% — Nicht betroffen durch diese Verwaltungsreorganisation
+
+BGBl. 1950/26 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien auf (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft) und verteilt deren Aufgaben auf andere Ministerien neu. Es regelt insbesondere die Lebensmittelversorgung in der Übergangswirtschaft und die Verwaltung verstaatlichter Betriebe.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten bei Lebensmittelplanung und landwirtschaftlicher Produktion im Ministerium für Land- und Forstwirtschaft
+  Industriearbeiter   :  30% — Profitieren von der Neuordnung der Verwaltung verstaatlichter Betriebe und der gesicherten Lebensmittelversorgung in der Übergangswirtschaft
+  Angestellte         :  15% — Geringe indirekte Vorteile durch organisierte Lebensmittelversorgung und wirtschaftliche Stabilisierung
+  Beamte              :  70% — Direkt betroffen durch Auflösung und Neuorganisation von Ministerien, Versetzungen und neue Aufgabenbereiche in der Verwaltung
+  Unternehmer         :  35% — Betroffen durch Neuordnung der Wirtschaftsplanung, Kreditlenkung und Verwaltung von Vermögen sowie Preisregelungen
+  Immobilien Besitzer :  10% — Minimal betroffen durch Neuordnung der Vermögenssicherung und -verwaltung
+  Mieter              :  20% — Profitieren indirekt von geregelter Lebensmittelversorgung und Preisüberwachung in der Übergangswirtschaft
+  Frauen              :  15% — Profitieren als Teil der Bevölkerung von organisierter Lebensmittelversorgung und Preisregelung
+  Kriegsheimkehrer    :  20% — Nutzen von gesicherter Lebensmittelversorgung und sozialer Fürsorge für bestimmte Verbrauchergruppen
+  Kirche              :   5% — Kaum betroffen, eventuell als gemeinnützige Einrichtung bei Lebensmittelversorgung
+
+BGBl. 1950/27 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft) auf und verteilt deren Aufgaben auf andere Ministerien neu. Es regelt insbesondere die Zuständigkeiten für Lebensmittelversorgung, Vermögensverwaltung und verstaatlichte Betriebe in der Übergangswirtschaft.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten bei Lebensmittelversorgung und landwirtschaftlichen Verarbeitungsbetrieben, aber keine direkten Leistungen
+  Industriearbeiter   :  20% — Neuordnung der Zuständigkeiten für verstaatlichte Betriebe könnte indirekt Einfluss auf ihre Arbeitgeber haben
+  Angestellte         :  15% — Minimal betroffen durch allgemeine Verwaltungsreform, keine spezifischen Vorteile
+  Beamte              :  45% — Direkt betroffen durch Auflösung und Neuordnung von Ministerien, Versetzungen und neue Zuständigkeiten in der Verwaltung
+  Unternehmer         :  30% — Betroffen durch Neuordnung der Zuständigkeiten für Vermögenssicherung, Wirtschaftsplanung und Lebensmittelversorgung
+  Immobilien Besitzer :  10% — Nur marginal betroffen durch Vermögensverwaltungs-Zuständigkeiten, keine direkten Regelungen
+  Mieter              :   5% — Kaum betroffen, lediglich indirekt durch allgemeine Lebensmittelversorgungsregelungen
+  Frauen              :   5% — Keine geschlechtsspezifischen Regelungen, nur als Teil der Gesamtbevölkerung bei Lebensmittelversorgung tangiert
+  Kriegsheimkehrer    :   5% — Keine spezifischen Regelungen für diese Gruppe in diesem Verwaltungsreformgesetz
+  Kirche              :   0% — Nicht von diesem Verwaltungsorganisationsgesetz berührt
+
+BGBl. 1950/28 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Das Gesetz löst drei Bundesministerien (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft und Elektrifizierung) auf und verteilt deren Kompetenzen auf andere Ministerien neu. Es regelt insbesondere die Lebensmittelversorgung, Vermögensverwaltung und verstaatlichte Betriebe in der Übergangswirtschaft.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten für landwirtschaftliche Lebensmittelproduktion beim Landwirtschaftsministerium
+  Industriearbeiter   :  35% — Profitieren von der Neuordnung der verstaatlichten Betriebe und der Lebensmittelversorgung für Verbrauchergruppen
+  Angestellte         :  20% — Geringe indirekte Vorteile durch verbesserte Verwaltungsstruktur und Lebensmittelversorgung
+  Beamte              :  65% — Direkt betroffen durch Ministerienauflösung, Versetzungen und neue Organisationsstrukturen in der Verwaltung
+  Unternehmer         :  40% — Betroffen durch neue Zuständigkeiten für Kreditlenkung, Vermögensverwaltung und wirtschaftliche Planungskompetenz
+  Immobilien Besitzer :  15% — Marginale Berührung durch Neuordnung der Vermögenssicherung und -verwaltung
+  Mieter              :  10% — Kaum direkt betroffen, minimale indirekte Effekte durch Verwaltungsreform
+  Frauen              :  15% — Leicht betroffen als Verbrauchergruppe durch Neuordnung der Lebensmittelversorgung
+  Kriegsheimkehrer    :  10% — Nicht spezifisch angesprochen, nur allgemeine Verwaltungsreform
+  Kirche              :   5% — Nicht direkt betroffen, rein verwaltungstechnische Reorganisation
+
+BGBl. 1950/29 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien auf (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft und Elektrifizierung) und verteilt deren Kompetenzen neu auf andere Ministerien. Es regelt insbesondere die Zuständigkeiten für Lebensmittelversorgung, verstaatlichte Betriebe und Wirtschaftsplanung in der Übergangswirtschaft.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten für landwirtschaftliche Verarbeitung und Lebensmittelplanung beim Landwirtschaftsministerium
+  Industriearbeiter   :  35% — Betroffen durch Neuorganisation der Zuständigkeiten für verstaatlichte Betriebe und Gewerkschaftsvertretung in der Lebensmittelkommission
+  Angestellte         :  20% — Geringfügig betroffen durch allgemeine Reorganisation der Wirtschaftsverwaltung und Arbeiterkammervertretung
+  Beamte              :  70% — Direkt stark betroffen durch Auflösung von drei Ministerien und Versetzungen in andere Ressorts
+  Unternehmer         :  40% — Betroffen durch neue Zuständigkeiten für Vermögensverwaltung, Kreditlenkung und Wirtschaftsplanung sowie Vertretung in der Lebensmittelkommission
+  Immobilien Besitzer :  15% — Minimal betroffen durch Neuordnung der Vermögenssicherung und -verwaltung
+  Mieter              :   5% — Kaum direkt betroffen, nur indirekt durch allgemeine Verwaltungsreorganisation
+  Frauen              :  10% — Indirekt betroffen als Teil verschiedener Verbrauchergruppen bei Lebensmittelversorgung
+  Kriegsheimkehrer    :  10% — Minimal betroffen durch Neuorganisation der Fürsorge für bestimmte Verbrauchergruppen
+  Kirche              :   0% — Keine Berührung durch diese Verwaltungsreform
+
+BGBl. 1950/30 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Das Gesetz löst drei Bundesministerien (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft) auf und verteilt deren Agenden auf andere Ministerien neu. Es regelt insbesondere die Übergangswirtschaft bei der Lebensmittelversorgung und die Verwaltung verstaatlichter Betriebe.
+  Bauern              :  25% — Indirekt betroffen durch neue Zuständigkeiten in der Lebensmittelwirtschaft und Vertretung in der neu geschaffenen Kommission beim Landwirtschaftsministerium
+  Industriearbeiter   :  35% — Profitieren durch gestärkte Kontrolle über verstaatlichte Betriebe und Vertretung durch Gewerkschaftsbund und Arbeiterkammern in der Ernährungskommission
+  Angestellte         :  20% — Geringer indirekter Nutzen durch Interessenvertretung in den Kammern, die in der Kommission vertreten sind
+  Beamte              :  65% — Direkt betroffen durch Ministerienauflösung, Versetzungen und Neuorganisation der Verwaltungsstrukturen mit detaillierten Übergangsregelungen
+  Unternehmer         :  30% — Betroffen durch neue Zuständigkeiten bei Vermögensverwaltung, Kreditlenkung und Vertretung durch Bundeskammer der gewerblichen Wirtschaft
+  Immobilien Besitzer :  15% — Minimal betroffen durch Neuordnung der Vermögenssicherungs- und Verwaltungsagenden
+  Mieter              :   5% — Kaum direkte Auswirkungen, allenfalls indirekt durch allgemeine Verwaltungsreform
+  Frauen              :  10% — Nur indirekt betroffen als Teil der allgemeinen Bevölkerung bei Lebensmittelversorgung in der Übergangswirtschaft
+  Kriegsheimkehrer    :   5% — Keine spezifische Regelung in diesem Verwaltungsorganisationsgesetz
+  Kirche              :   0% — Keine Berührung durch dieses Gesetz zur Ministerienorganisation
+
+BGBl. 1950/31 | 1949-12-16 | Bundesgesetz über die Auflösung von Bundesministerien und die Neuordnung des Wirkungsbereiches einiger Bundesministerien
+  Kurzbeschreibung: Dieses Gesetz löst drei Bundesministerien (Volksernährung, Vermögenssicherung und Wirtschaftsplanung, Energiewirtschaft und Elektrifizierung) auf und verteilt deren Zuständigkeiten auf andere Ministerien neu. Es regelt die Verwaltung der Lebensmittelversorgung, verstaatlichter Betriebe und Vermögenssicherung während der Übergangswirtschaft.
+  Bauern              :  25% — Indirekt betroffen durch Neuordnung der Lebensmittelplanung und -bewirtschaftung, die beim Landwirtschaftsministerium angesiedelt wird.
+  Industriearbeiter   :  15% — Geringe indirekte Auswirkungen durch Neuorganisation der Verwaltung verstaatlichter Betriebe.
+  Angestellte         :  10% — Minimal betroffen durch allgemeine Verwaltungsreform ohne direkte Auswirkungen.
+  Beamte              :  65% — Stark betroffen durch Auflösung von drei Ministerien und Versetzung von Beamten in andere Ressorts.
+  Unternehmer         :  30% — Betroffen durch Neuordnung der Zuständigkeiten für Preisregelung, Außenhandel und verstaatlichte Betriebe.
+  Immobilien Besitzer :   5% — Kaum betroffen, nur durch allgemeine Vermögensverwaltungsaspekte.
+  Mieter              :   0% — Keine direkte oder indirekte Betroffenheit durch diese Verwaltungsreform.
+  Frauen              :   0% — Keine geschlechtsspezifischen Regelungen in diesem Organisationsgesetz.
+  Kriegsheimkehrer    :   0% — Keine spezifischen Regelungen für diese Gruppe in diesem Verwaltungsreformgesetz.
+  Kirche              :   0% — Keine Berührung kirchlicher Angelegenheiten durch diese Ministerienreform.
+
+BGBl. 1950/32 | 1950-02-02 | Verordnung des Bundesministeriums für Land- und Forstwirtschaft vom 10. Dezember 1949, betreffend die Erlassung einer Wahlordnung für die Tierärztekammern (Tierärztekammer-Wahlordnung)
+  Kurzbeschreibung: Diese Verordnung regelt das Wahlverfahren für die Organe der Tierärztekammern in Österreich, insbesondere die Wahl der Vorstandsmitglieder der Landeskammern. Sie legt Wahlkreise, Wahlkommissionen, Wahlverfahren und technische Abläufe fest.
+  Bauern              :  15% — Bauern sind als Nutzer tierärztlicher Dienstleistungen indirekt betroffen, da die Kammern die Standesvertretung der Tierärzte organisieren.
+  Industriearbeiter   :   0% — Industriearbeiter haben keinen direkten oder indirekten Bezug zur Organisation der Tierärztekammern.
+  Angestellte         :   0% — Angestellte außerhalb des tierärztlichen Bereichs werden durch diese Standesorganisation nicht berührt.
+  Beamte              :   5% — Beamte sind nur insofern tangiert, als dass Landesregierungen und Landeshauptmänner administrative Aufgaben bei der Wahlorganisation übernehmen.
+  Unternehmer         :   5% — Unternehmer mit Tierhaltung haben einen minimalen indirekten Bezug über die Organisation der tierärztlichen Standesvertretung.
+  Immobilien Besitzer :   0% — Immobilienbesitzer werden durch die Tierärztekammer-Wahlordnung nicht berührt.
+  Mieter              :   0% — Mieter haben keinerlei Bezug zur Organisation der Tierärztekammern.
+  Frauen              :   0% — Die Verordnung enthält keine geschlechtsspezifischen Regelungen und betrifft Frauen nicht gesondert.
+  Kriegsheimkehrer    :   0% — Kriegsheimkehrer werden durch diese berufsständische Wahlordnung nicht spezifisch berührt.
+  Kirche              :   0% — Die Kirche hat keinen Bezug zur Organisation der Tierärztekammern.
+
+BGBl. 1950/33 | 1950-02-04 | Bundesgesetz: Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Dieses Gesetz verlängert die Gültigkeit des Aufbauzuschlages zur Biersteuer bis Ende 1950, verlängert das Lebensmittelbewirtschaftungsgesetz bis Juni 1950 und liquidiert die österreichischen Wirtschaftsverbände (Getreide-, Milch- und Viehwirtschaft). Außerdem wird das Finanzausgleichsgesetz 1950 erlassen.
+  Bauern              :  55% — Direkt betroffen durch Liquidation der landwirtschaftlichen Wirtschaftsverbände und Verlängerung der Lebensmittelbewirtschaftung, die ihre Verkaufsstrukturen regelt
+  Industriearbeiter   :  15% — Indirekt betroffen durch verlängerte Lebensmittelbewirtschaftung, die Versorgung und Preise beeinflusst
+  Angestellte         :  15% — Indirekt betroffen durch verlängerte Lebensmittelbewirtschaftung und eventuelle Preisstabilisierung
+  Beamte              :  35% — Moderate Betroffenheit durch Finanzausgleichsgesetz und neue Verwaltungsstrukturen nach Liquidation der Wirtschaftsverbände
+  Unternehmer         :  45% — Brauereien durch verlängerte Biersteuer betroffen, Lebensmittelwirtschaft durch Liquidation der Verbände und Bewirtschaftungsregelung
+  Immobilien Besitzer :  10% — Sehr geringer indirekter Einfluss durch Finanzausgleich zwischen Gebietskörperschaften
+  Mieter              :   5% — Kaum direkte Betroffenheit, allenfalls minimal durch Lebensmittelbewirtschaftung
+  Frauen              :  12% — Als Konsumentinnen indirekt von Lebensmittelbewirtschaftung betroffen
+  Kriegsheimkehrer    :  10% — Indirekt durch Lebensmittelversorgung betroffen, keine spezifischen Regelungen
+  Kirche              :   0% — Keine erkennbare Berührung durch diese steuer- und wirtschaftsrechtlichen Bestimmungen
+
+BGBl. 1950/34 | 1950-02-04 | Bundesgesetz: Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Dieses Gesetz verlängert den Aufbauzuschlag zur Biersteuer bis Ende 1950, regelt die Liquidation der Wirtschaftsverbände (Getreide-, Milch-, Viehwirtschaft) und novelliert das Lebensmittelbewirtschaftungsgesetz. Zudem werden durch das Finanzausgleichsgesetz 1950 die finanziellen Beziehungen zwischen Bund, Ländern und Gemeinden neu geregelt.
+  Bauern              :  55% — Direkt betroffen durch Liquidation der landwirtschaftlichen Wirtschaftsverbände und Neuorganisation der Milch-, Getreide- und Viehwirtschaftsverwaltung
+  Industriearbeiter   :  10% — Nur indirekt betroffen durch fortgesetzte Lebensmittelbewirtschaftung und höhere Biersteuer
+  Angestellte         :   8% — Minimaler indirekter Effekt durch Lebensmittelbewirtschaftung und Steuerlast auf Konsumgüter
+  Beamte              :  35% — Betroffen durch Reorganisation der Ministerialzuständigkeiten und neue Finanzausgleichsregelungen zwischen Gebietskörperschaften
+  Unternehmer         :  40% — Brauereien durch verlängerte Biersteuer, Lebensmittelwirtschaft durch Bewirtschaftungsregelungen und Liquidation der Verbände betroffen
+  Immobilien Besitzer :   5% — Nur marginal durch mögliche Auswirkungen des Finanzausgleichs auf kommunale Steuern betroffen
+  Mieter              :   5% — Kaum direkte Auswirkungen, allenfalls indirekt durch Lebensmittelbewirtschaftung
+  Frauen              :  12% — Als Hauptverantwortliche für Haushaltsbeschaffung indirekt durch Lebensmittelbewirtschaftung betroffen
+  Kriegsheimkehrer    :   8% — Nur allgemein durch Lebensmittelbewirtschaftung betroffen, keine spezifischen Regelungen
+  Kirche              :   0% — Keine erkennbaren Auswirkungen auf kirchliche Institutionen
+
+BGBl. 1950/35 | 1950-02-04 | Bundesgesetz: Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Dieses Sammelgesetz verlängert den Aufbauzuschlag zur Biersteuer bis Ende 1950, verlängert das Lebensmittelbewirtschaftungsgesetz bis Juni 1950 und regelt die Liquidation der drei österreichischen Wirtschaftsverbände (Getreide-, Milch- und Viehwirtschaftsverband) sowie ein neues Finanzausgleichsgesetz.
+  Bauern              :  65% — Direkt betroffen durch die Liquidation der Wirtschaftsverbände und Verlängerung der Lebensmittelbewirtschaftung, die ihre Produktion und Absatzwege regelt.
+  Industriearbeiter   :  15% — Indirekt betroffen durch verlängerte Lebensmittelbewirtschaftung, die Versorgung und Preise beeinflusst.
+  Angestellte         :  15% — Indirekt betroffen durch verlängerte Lebensmittelbewirtschaftung und Biersteuer.
+  Beamte              :  45% — Profitieren durch Finanzausgleichsgesetz und neue Verwaltungsstrukturen bei Liquidation der Wirtschaftsverbände mit Liquidatoren-Posten.
+  Unternehmer         :  50% — Brauereien durch Biersteuer-Verlängerung betroffen; Lebensmittelunternehmen durch Bewirtschaftung und Auflösung der Wirtschaftsverbände direkt tangiert.
+  Immobilien Besitzer :   5% — Allenfalls minimal durch Finanzausgleichsgesetz bei kommunalen Steuerregelungen berührt.
+  Mieter              :   5% — Keine direkte Betroffenheit durch diese Regelungen.
+  Frauen              :  10% — Als Konsumentinnen indirekt durch Lebensmittelbewirtschaftung betroffen.
+  Kriegsheimkehrer    :  10% — Als Konsumenten indirekt durch Lebensmittelbewirtschaftung betroffen.
+  Kirche              :   0% — Keine erkennbare Betroffenheit durch diese wirtschafts- und steuerpolitischen Regelungen.
+
+BGBl. 1950/36 | 1950-02-04 | Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Dieses Gesetz verlängert die Gültigkeit des Aufbauzuschlages zur Biersteuer bis Ende 1950, novelliert das Lebensmittelbewirtschaftungsgesetz mit Auslaufen bis Juni 1950 und ordnet die Liquidation der österreichischen Wirtschaftsverbände (Getreide-, Milch- und Viehwirtschaftsverbände) an.
+  Bauern              :  45% — Direkt betroffen durch Liquidation der landwirtschaftlichen Wirtschaftsverbände und auslaufende Lebensmittelbewirtschaftung, die ihre Produktion und Absatzmärkte beeinflussen.
+  Industriearbeiter   :  10% — Geringer indirekter Nutzen durch auslaufende Lebensmittelbewirtschaftung, die möglicherweise Versorgung und Preise beeinflusst.
+  Angestellte         :  10% — Geringer indirekter Nutzen durch auslaufende Lebensmittelbewirtschaftung und damit verbundene Marktliberalisierung.
+  Beamte              :  25% — Betroffen durch Umstrukturierungen in Ministerien und Liquidation öffentlicher Wirtschaftsverbände, was Zuständigkeiten und Arbeitsplätze berührt.
+  Unternehmer         :  40% — Brauereien direkt durch verlängerten Biersteuer-Aufbauzuschlag belastet, Lebensmittelunternehmer durch auslaufende Bewirtschaftung und Verbandsauflösung betroffen.
+  Immobilien Besitzer :   0% — Keine erkennbare Berührung durch dieses Gesetz.
+  Mieter              :   0% — Keine erkennbare Berührung durch dieses Gesetz.
+  Frauen              :   5% — Minimaler indirekter Nutzen durch auslaufende Lebensmittelbewirtschaftung als Konsumentinnen.
+  Kriegsheimkehrer    :   5% — Minimaler indirekter Nutzen durch auslaufende Bewirtschaftung und allmähliche Normalisierung der Wirtschaft.
+  Kirche              :   0% — Keine erkennbare Berührung durch dieses Gesetz.
+
+BGBl. 1950/37 | 1950-02-04 | Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Das Gesetz verlängert mehrere befristete Regelungen bis Ende 1950, betrifft primär die Biersteuer, die Lebensmittelbewirtschaftung und ordnet die Liquidation der landwirtschaftlichen Wirtschaftsverbände (Getreide-, Milch-, Viehwirtschaft). Außerdem enthält es das Finanzausgleichsgesetz 1950.
+  Bauern              :  65% — Direkt betroffen durch Liquidation der landwirtschaftlichen Wirtschaftsverbände und fortgesetzte Lebensmittelbewirtschaftung, die ihre Produktion und Vermarktung regeln
+  Industriearbeiter   :  15% — Indirekt betroffen durch fortgesetzte Lebensmittelbewirtschaftung, die Preise und Verfügbarkeit von Grundnahrungsmitteln beeinflusst
+  Angestellte         :  15% — Indirekt betroffen durch Lebensmittelbewirtschaftung und Biersteuer, die Lebenshaltungskosten beeinflussen
+  Beamte              :  45% — Direkt betroffen durch Finanzausgleichsgesetz, das ihre Finanzierung regelt, sowie durch Verwaltung der Liquidation und Bewirtschaftung
+  Unternehmer         :  40% — Betroffen durch Biersteuer-Verlängerung, Liquidation der Wirtschaftsverbände und fortgesetzte Bewirtschaftungsregeln im Lebensmittelbereich
+  Immobilien Besitzer :   0% — Keine erkennbare Berührung durch diese steuer- und bewirtschaftungsrechtlichen Regelungen
+  Mieter              :   0% — Keine direkte Berührung durch die Regelungen zu Steuern und landwirtschaftlicher Bewirtschaftung
+  Frauen              :  10% — Nur indirekt als Konsumentinnen durch Lebensmittelbewirtschaftung betroffen, keine geschlechtsspezifischen Regelungen
+  Kriegsheimkehrer    :  10% — Nur allgemein als Konsumenten durch Lebensmittelbewirtschaftung betroffen, keine spezifischen Regelungen
+  Kirche              :   0% — Keine erkennbare Berührung durch diese wirtschafts- und steuerpolitischen Regelungen
+
+BGBl. 1950/38 | 1950-02-04 | Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Das Gesetz verlängert die Gültigkeit des Aufbauzuschlages zur Biersteuer und der Ertragsbeteiligung der Länder bis Ende 1950, regelt die Lebensmittelbewirtschaftung bis Juni 1950 und ordnet die Liquidation der österreichischen Wirtschaftsverbände (Getreide-, Milch- und Viehwirtschaft) an.
+  Bauern              :  55% — Direkt betroffen durch die Liquidation der landwirtschaftlichen Wirtschaftsverbände und die fortgesetzte Lebensmittelbewirtschaftung, die ihre Produktions- und Vermarktungsstrukturen reguliert.
+  Industriearbeiter   :  10% — Nur indirekt betroffen durch die fortgesetzte Lebensmittelbewirtschaftung, die ihre Versorgungssituation beeinflusst.
+  Angestellte         :  10% — Nur indirekt betroffen durch die fortgesetzte Lebensmittelbewirtschaftung bei der Nahrungsmittelversorgung.
+  Beamte              :  25% — Betroffen durch neue Zuständigkeiten bei der Lebensmittelbewirtschaftung und als Liquidatoren der Wirtschaftsverbände, zudem durch Finanzausgleichsregelungen.
+  Unternehmer         :  35% — Brauereien direkt durch die verlängerte Biersteuer betroffen, Lebensmittelwirtschaft durch fortgesetzte Bewirtschaftung und Auflösung der Verbände.
+  Immobilien Besitzer :   5% — Allenfalls marginal durch Finanzausgleichsregelungen zwischen Bund und Ländern berührt.
+  Mieter              :   5% — Nur sehr indirekt durch Lebensmittelbewirtschaftung bei der Versorgung betroffen.
+  Frauen              :   8% — Indirekt als Konsumentinnen von der fortgesetzten Lebensmittelbewirtschaftung betroffen.
+  Kriegsheimkehrer    :   8% — Indirekt als Konsumenten von der fortgesetzten Lebensmittelbewirtschaftung betroffen.
+  Kirche              :   0% — Keine erkennbare Berührung durch dieses Gesetz.
+
+BGBl. 1950/39 | 1950-02-04 | Abänderung des Bundesgesetzes, betreffend Änderung des Aufbauzuschlages zur Biersteuer und die Ertragsbeteiligung der Länder und der Stadt Wien
+  Kurzbeschreibung: Dieses Gesetz verlängert bestehende Regelungen zur Biersteuer und Ertragsbeteiligung bis Ende 1950, novelliert das Lebensmittelbewirtschaftungsgesetz, ordnet die Liquidation von drei Wirtschaftsverbänden (Getreide-, Milch- und Viehwirtschaft) an und regelt den Finanzausgleich zwischen Bund und Ländern für 1950.
+  Bauern              :  55% — Die Liquidation der Wirtschaftsverbände und die Verlängerung der Lebensmittelbewirtschaftung betreffen direkt die landwirtschaftliche Produktion und Vermarktung.
+  Industriearbeiter   :  10% — Indirekte Auswirkungen durch Lebensmittelbewirtschaftung und mögliche Preiseffekte bei Grundnahrungsmitteln.
+  Angestellte         :  10% — Indirekte Auswirkungen durch Lebensmittelbewirtschaftung und mögliche Preiseffekte bei Grundnahrungsmitteln.
+  Beamte              :  35% — Der Finanzausgleich und die Verwaltungsumstrukturierung bei den Wirtschaftsverbänden betreffen direkt die öffentliche Verwaltung und Budgetverteilung.
+  Unternehmer         :  40% — Die Biersteuerregelung, Liquidation der Wirtschaftsverbände und Bewirtschaftungsvorschriften betreffen Brauereien, Lebensmittelhandel und landwirtschaftliche Betriebe direkt.
+  Immobilien Besitzer :   0% — Das Gesetz regelt keine immobilienrelevanten Fragen.
+  Mieter              :   0% — Das Gesetz regelt keine mietrechtlichen Fragen.
+  Frauen              :   5% — Nur allgemeine indirekte Auswirkungen durch Lebensmittelbewirtschaftung, keine geschlechtsspezifischen Regelungen.
+  Kriegsheimkehrer    :   5% — Nur allgemeine indirekte Auswirkungen durch Lebensmittelbewirtschaftung, keine spezifischen Regelungen.
+  Kirche              :   0% — Das Gesetz regelt keine kirchlichen oder religiösen Angelegenheiten.
+
+BGBl. 1950/40 | 1949-12-15 | Verordnung betreffend Maßnahmen zur Hintanhaltung der Weiterverbreitung der weißen Kückenruhr und des Geflügeltyphus
+  Kurzbeschreibung: Diese Verordnung regelt die Bekämpfung von Geflügelkrankheiten durch verpflichtende Blutuntersuchungen für Geflügelzüchter und -halter sowie für Brütereien. Sie legt Verfahren zur Identifizierung von Keimträgern, Desinfektionsmaßnahmen und Dokumentationspflichten fest.
+  Bauern              :  75% — Geflügelzüchter und -halter profitieren direkt durch Seuchenbekämpfung, die ihre Bestände schützt und ihnen ermöglicht, Bruteier an Brütereien zu verkaufen.
+  Industriearbeiter   :   0% — Diese Gruppe wird durch die veterinärmedizinische Verordnung nicht berührt.
+  Angestellte         :   5% — Allenfalls minimaler indirekter Nutzen durch stabilere Nahrungsmittelversorgung mit Geflügelprodukten.
+  Beamte              :  25% — Veterinärbeamte und Bezirksverwaltungsbehörden erhalten erweiterte Überwachungs- und Kontrollaufgaben, was ihre Bedeutung stärkt.
+  Unternehmer         :  60% — Brütereibetreiber profitieren erheblich durch klare Qualitätsstandards, die das Vertrauen in ihre Produkte stärken und Seuchenverluste minimieren.
+  Immobilien Besitzer :   0% — Diese Gruppe wird durch die Geflügelseuchenverordnung nicht berührt.
+  Mieter              :   0% — Diese Gruppe wird durch die Geflügelseuchenverordnung nicht berührt.
+  Frauen              :  15% — Da Frauen traditionell häufig in der Geflügelhaltung tätig waren, profitieren sie indirekt von gesünderen Beständen und stabileren Einkommensquellen.
+  Kriegsheimkehrer    :   0% — Diese Gruppe wird durch die veterinärmedizinische Verordnung nicht spezifisch berührt.
+  Kirche              :   0% — Diese Gruppe wird durch die Geflügelseuchenverordnung nicht berührt.
+
+BGBl. 1950/41 | 1950-02-10 | Verordnung des Bundesministeriums für Land- und Forstwirtschaft vom 15. Dezember 1949, betreffend Maßnahmen zur Hintanhaltung der Weiterverbreitung der weißen Kückenruhr und des Geflügeltyphus
+  Kurzbeschreibung: Diese Verordnung regelt veterinärmedizinische Maßnahmen zur Bekämpfung von Geflügelkrankheiten durch verpflichtende Blutuntersuchungen, Kennzeichnung und Desinfektion in Geflügelzuchtbetrieben und Brütereien. Sie legt fest, wann Bruteier abgegeben werden dürfen und wie Bestände zu überwachen sind.
+  Bauern              :  75% — Geflügelzüchter und -halter sind unmittelbar betroffen durch Untersuchungspflichten, Kennzeichnung und Hygienemaßnahmen, profitieren aber durch gesündere Bestände und Seuchenprävention.
+  Industriearbeiter   :   0% — Diese Gruppe wird durch die Verordnung zu Geflügelkrankheiten nicht berührt.
+  Angestellte         :   5% — Nur indirekt betroffen durch potenziell stabilere Versorgung mit Geflügelprodukten.
+  Beamte              :  15% — Veterinärbehörden und Bezirksverwaltungsbehörden erhalten neue Überwachungs- und Kontrollaufgaben.
+  Unternehmer         :  65% — Brütereien als gewerbliche Unternehmen unterliegen umfangreichen Auflagen, profitieren aber durch Qualitätssicherung und Vertrauensbildung bei Kunden.
+  Immobilien Besitzer :   0% — Diese Gruppe wird durch veterinärmedizinische Geflügelverordnungen nicht berührt.
+  Mieter              :   0% — Diese Gruppe wird durch die Verordnung nicht berührt.
+  Frauen              :  10% — Da Geflügelhaltung traditionell oft von Frauen im bäuerlichen Bereich betreut wurde, gibt es einen geringen indirekten Nutzen durch gesündere Bestände.
+  Kriegsheimkehrer    :   0% — Diese Gruppe wird durch die Verordnung nicht spezifisch berührt.
+  Kirche              :   0% — Diese Gruppe wird durch veterinärmedizinische Vorschriften nicht berührt.
+
+BGBl. 1950/42 | 1950-02-20 | Weltpostvertrag
+  Kurzbeschreibung: Österreich tritt dem 1947 in Paris unterzeichneten Weltpostvertrag und den dazugehörigen Übereinkommen bei, die den internationalen Postverkehr (Briefe, Pakete, Geldanweisungen, Zeitungen etc.) zwischen den Mitgliedsländern des Weltpostvereins regeln.
+  Bauern              :  10% — Geringer indirekter Nutzen durch verbesserte internationale Briefpost für Warenbestellungen und Kontakte.
+  Industriearbeiter   :   5% — Minimaler Nutzen, da internationale Post für diese Gruppe wenig relevant ist.
+  Angestellte         :  25% — Moderater Nutzen durch verbesserte internationale Geschäftskorrespondenz und private Auslandskontakte.
+  Beamte              :  40% — Direkter Nutzen für Verwaltungsbeamte und Postbeamte durch klare internationale Regelungen und Arbeitsabläufe.
+  Unternehmer         :  45% — Erheblicher Nutzen durch standardisierte, zuverlässige internationale Geschäftspost, Zahlungsverkehr und Warenversand.
+  Immobilien Besitzer :   5% — Kaum Berührung, allenfalls minimaler Nutzen bei internationalen Immobiliengeschäften.
+  Mieter              :   5% — Kaum direkte Relevanz für diese Gruppe.
+  Frauen              :  15% — Geringer Nutzen durch erleichterten Briefkontakt mit Verwandten im Ausland, besonders nach dem Krieg.
+  Kriegsheimkehrer    :  20% — Moderater Nutzen durch verbesserte Möglichkeiten, Kontakt mit im Ausland befindlichen Angehörigen aufzunehmen.
+  Kirche              :  25% — Moderater Nutzen durch erleichterte internationale Korrespondenz mit dem Vatikan und kirchlichen Organisationen weltweit.
+
+BGBl. 1950/43 | 1950-02-24 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948 und Verordnung zur Erlassung einer neuen Zeitungspostordnung
+  Kurzbeschreibung: Das Gesetz genehmigt den Bundesrechnungsabschluss für 1948 und erlässt eine neue Zeitungspostordnung, die den Postversand von Zeitungen, die Einhebung von Bezugsgeldern und den Postvertrieb regelt.
+  Bauern              :   5% — Nur minimaler indirekter Nutzen durch bessere Zeitungszustellung auf dem Land
+  Industriearbeiter   :   8% — Geringer indirekter Nutzen durch verbesserten Zugang zu Zeitungen als Informationsquelle
+  Angestellte         :  10% — Leichter indirekter Nutzen durch geregelten Zeitungsbezug und Information
+  Beamte              :  35% — Moderater Nutzen da Postbeamte direkte Anweisungen für ihre Arbeit erhalten und Verwaltungsabläufe klar geregelt werden
+  Unternehmer         :  65% — Starker direkter Nutzen für Zeitungsverleger und -herausgeber durch klare rechtliche Regelungen des Postversands und Vertriebsstrukturen
+  Immobilien Besitzer :   0% — Keine Berührung durch dieses Gesetz
+  Mieter              :   0% — Keine Berührung durch dieses Gesetz
+  Frauen              :   5% — Nur minimaler indirekter Nutzen durch verbesserte Zeitungszustellung als Gruppe ohne spezifische Betroffenheit
+  Kriegsheimkehrer    :   5% — Nur minimaler indirekter Nutzen durch besseren Informationszugang via Zeitungen
+  Kirche              :  25% — Geringer bis moderater Nutzen für kirchliche Zeitungen und Publikationen durch geregelte Vertriebswege
+

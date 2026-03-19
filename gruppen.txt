@@ -1,0 +1,14 @@
+# Gesellschaftliche Gruppen für die Analyse
+# Eine Gruppe pro Zeile — Zeilen mit # werden ignoriert
+# Passe diese Liste frei an deine Forschungsfrage an.
+
+Bauern
+Industriearbeiter
+Angestellte
+Beamte
+Unternehmer
+Immobilien Besitzer
+Mieter
+Frauen
+Kriegsheimkehrer
+Kirche
