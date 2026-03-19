@@ -361,7 +361,7 @@ def main():
     alle = sammle_datensaetze(von_jahr, bis_jahr)
     print(f"  → {len(alle)} Gesetze gefunden\n")
 
-    if not BERICHT.exists() or not bereits:
+    if not BERICHT.exists():
         initialisiere_bericht(gruppen, von_jahr, bis_jahr)
 
     zu_tun = [g for g in alle if g["bgbl_nr"].strip() not in bereits]

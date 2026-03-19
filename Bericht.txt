@@ -457,3 +457,224 @@ BGBl. 1950/43 | 1950-02-24 | Bundesgesetz über die Genehmigung des Bundesrechnu
   Kriegsheimkehrer    :   5% — Nur minimaler indirekter Nutzen durch besseren Informationszugang via Zeitungen
   Kirche              :  25% — Geringer bis moderater Nutzen für kirchliche Zeitungen und Publikationen durch geregelte Vertriebswege
 
+BGBl. 1950/44 | 1950-02-24 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948 und Verordnung über die Erlassung einer neuen Zeitungspostordnung
+  Kurzbeschreibung: Das Gesetz genehmigt den Bundesrechnungsabschluss für 1948 und erlässt eine neue Zeitungspostordnung, die den Postversand von Zeitungen, die Einhebung von Bezugsgeldern und den Postvertrieb im In- und Ausland regelt.
+  Bauern              :   5% — Nur minimaler indirekter Nutzen durch verbesserten Zugang zu Zeitungsinformationen
+  Industriearbeiter   :   5% — Nur minimaler indirekter Nutzen durch verbesserten Zugang zu Zeitungsinformationen
+  Angestellte         :   8% — Geringer indirekter Nutzen durch bessere Zeitungszustellung und Informationszugang
+  Beamte              :  35% — Direkte Betroffenheit durch Budgetabschluss und neue Verwaltungsregeln für Postbeamte im Zeitungsvertrieb
+  Unternehmer         :  65% — Hoher direkter Nutzen für Zeitungsverleger und -herausgeber durch klare, geregelte Rahmenbedingungen für Postversand und Vertrieb
+  Immobilien Besitzer :   0% — Keine erkennbare Berührung durch das Gesetz
+  Mieter              :   0% — Keine erkennbare Berührung durch das Gesetz
+  Frauen              :   5% — Nur minimaler indirekter Nutzen durch verbesserten Zugang zu Zeitungsinformationen
+  Kriegsheimkehrer    :   5% — Nur minimaler indirekter Nutzen durch verbesserten Zugang zu Zeitungsinformationen
+  Kirche              :  40% — Moderater direkter Nutzen für kirchliche Zeitungen und Publikationen durch geregelte Vertriebsbedingungen
+
+BGBl. 1950/45 | 1950-01-11 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948
+  Kurzbeschreibung: Dieses Gesetz genehmigt den Bundesrechnungsabschluss für das Verwaltungsjahr 1948 und enthält zusätzlich eine neue Zeitungspostordnung, die den postalischen Vertrieb von Zeitungen regelt.
+  Bauern              :   5% — Minimaler indirekter Nutzen durch verbesserten Zeitungsbezug in ländlichen Gebieten
+  Industriearbeiter   :   8% — Geringer indirekter Nutzen durch vereinfachten Zugang zu Zeitungsinformationen
+  Angestellte         :  10% — Leichter indirekter Nutzen durch besseren Zugang zu Fachzeitschriften und Informationen
+  Beamte              :  25% — Moderater Nutzen durch geregelte Verwaltungsabläufe im Postwesen und Rechnungsabschluss
+  Unternehmer         :  45% — Spürbarer Nutzen durch klare Regelungen für Zeitungsherausgeber und Verleger im Postverkehr
+  Immobilien Besitzer :   0% — Keine Berührung durch dieses Gesetz
+  Mieter              :   0% — Keine Berührung durch dieses Gesetz
+  Frauen              :   5% — Minimaler indirekter Nutzen durch verbesserten Zeitungszugang analog zur Gesamtbevölkerung
+  Kriegsheimkehrer    :   5% — Minimaler indirekter Nutzen durch verbesserten Informationszugang über Zeitungen
+  Kirche              :  15% — Geringer direkter Nutzen durch geregelte Verbreitung kirchlicher Zeitungen und Publikationen
+
+BGBl. 1950/46 | 1950-01-11 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948
+  Kurzbeschreibung: Dieses Gesetz genehmigt den Bundesrechnungsabschluss für das Verwaltungsjahr 1948. Zusätzlich enthält das Bundesgesetzblatt eine neue Zeitungspostordnung, die den Postversand und Vertrieb von Zeitungen regelt.
+  Bauern              :   0% — Weder der Rechnungsabschluss noch die Zeitungspostordnung betreffen die landwirtschaftliche Tätigkeit direkt.
+  Industriearbeiter   :   5% — Minimal indirekter Nutzen durch besseren Zugang zu Zeitungsinformationen über Postversand.
+  Angestellte         :   5% — Geringer indirekter Nutzen durch verbesserte Zeitungszustellung und -vertrieb.
+  Beamte              :  35% — Moderate Betroffenheit durch Genehmigung des Haushaltsabschlusses und neue Verwaltungsregeln für Postbeamte im Zeitungsverkehr.
+  Unternehmer         :  45% — Zeitungsverleger und -herausgeber profitieren direkt von klaren Regelungen zum Postversand und Vertrieb ihrer Produkte.
+  Immobilien Besitzer :   0% — Keine Berührung mit Immobilienbesitz oder -verwaltung.
+  Mieter              :   0% — Keine mietrechtlichen oder wohnungsbezogenen Regelungen enthalten.
+  Frauen              :   5% — Gleicher minimaler indirekter Nutzen wie alle Zeitungsleser durch geregelte Zustellung.
+  Kriegsheimkehrer    :   0% — Keine spezifischen Regelungen für Kriegsheimkehrer enthalten.
+  Kirche              :  20% — Mäßiger Nutzen für kirchliche Verlage und Herausgeber religiöser Zeitungen durch geregelte Postvertriebsstrukturen.
+
+BGBl. 1950/47 | 1950-02-24 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948 und Verordnung zur Erlassung einer neuen Zeitungspostordnung
+  Kurzbeschreibung: Das Gesetz genehmigt den Bundesrechnungsabschluss für 1948 und erlässt eine neue Zeitungspostordnung, die den Postversand, die Bezugsgeldeinhebung und den Vertrieb von Zeitungen im In- und Ausland regelt.
+  Bauern              :   5% — Nur indirekter Nutzen durch bessere Zustellung von Landwirtschaftszeitungen
+  Industriearbeiter   :   8% — Geringer indirekter Nutzen durch verbesserten Zugang zu Zeitungen über die Post
+  Angestellte         :  15% — Moderater indirekter Nutzen als Zeitungsleser durch geregelte Zustelldienste
+  Beamte              :  45% — Direkter Nutzen durch klare Regelungen für Postbeamte im Zeitungsdienst und Rechnungsabschluss
+  Unternehmer         :  65% — Starker direkter Nutzen für Zeitungsverleger und Herausgeber durch geregelte Vertriebswege und Bezugsgeldeinhebung
+  Immobilien Besitzer :   0% — Keine Berührung durch dieses Gesetz
+  Mieter              :   0% — Keine Berührung durch dieses Gesetz
+  Frauen              :   8% — Nur indirekter Nutzen als Zeitungsleserinnen durch geregelte Zustellung
+  Kriegsheimkehrer    :   5% — Minimaler indirekter Nutzen durch besseren Zugang zu Informationen via Zeitungen
+  Kirche              :  25% — Moderater Nutzen für kirchliche Presseorgane durch geregelte Vertriebsstrukturen
+
+BGBl. 1950/48 | 1950-01-11 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948
+  Kurzbeschreibung: Dieses Gesetz genehmigt den Bundesrechnungsabschluss für das Verwaltungsjahr 1948. Zusätzlich enthält das Bundesgesetzblatt eine neue Zeitungspostordnung, die den Postversand von Zeitungen und die Einhebung von Zeitungsbezugsgeldern regelt.
+  Bauern              :   0% — Weder der Rechnungsabschluss noch die Zeitungspostordnung betreffen landwirtschaftliche Interessen direkt.
+  Industriearbeiter   :   5% — Minimal indirekter Nutzen durch verbesserten Zugang zu Zeitungen als Informationsquelle.
+  Angestellte         :   5% — Geringer indirekter Nutzen durch geregelten Zeitungsversand und Informationszugang.
+  Beamte              :  15% — Moderater Nutzen durch klare administrative Regelungen für Postbeamte im Zeitungsverkehr.
+  Unternehmer         :  45% — Zeitungsverleger und Herausgeber profitieren direkt von klaren Regelungen für Postversand und Bezugsgeldeinhebung.
+  Immobilien Besitzer :   0% — Keine Berührung mit Immobilienthemen.
+  Mieter              :   0% — Keine Berührung mit Wohnungsthemen.
+  Frauen              :   5% — Geringer indirekter Nutzen durch verbesserten Zeitungszugang wie für die Gesamtbevölkerung.
+  Kriegsheimkehrer    :   5% — Geringer indirekter Nutzen durch Zugang zu Informationen via Zeitungen.
+  Kirche              :  20% — Kirchliche Publikationen und Zeitungen profitieren von geregeltem Postversand.
+
+BGBl. 1950/49 | 1950-01-11 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948
+  Kurzbeschreibung: Dieses Gesetz genehmigt den Bundesrechnungsabschluss für das Verwaltungsjahr 1948 und enthält zusätzlich Verordnungen zur Zeitungspostordnung, die den postalischen Vertrieb von Zeitungen regelt.
+  Bauern              :   5% — Indirekter Nutzen durch bessere Informationsverbreitung via Post, aber keine direkte Betroffenheit
+  Industriearbeiter   :  10% — Geringer Nutzen durch verbesserten Zugang zu Zeitungen über Postversand
+  Angestellte         :  15% — Moderater indirekter Nutzen durch geregelten Zeitungsbezug und Informationszugang
+  Beamte              :  40% — Direkt betroffen durch Rechnungsabschluss und Verwaltungsregelungen für den Postdienst
+  Unternehmer         :  45% — Zeitungsverleger und Postdienstleister profitieren stark von klaren Regelungen zum Zeitungsvertrieb
+  Immobilien Besitzer :   0% — Keine Berührung durch dieses Gesetz
+  Mieter              :   0% — Keine Berührung durch dieses Gesetz
+  Frauen              :  10% — Indirekter Nutzen durch verbesserten Informationszugang analog zur Gesamtbevölkerung
+  Kriegsheimkehrer    :   5% — Geringer indirekter Nutzen durch Informationszugang, aber keine spezifische Regelung
+  Kirche              :  20% — Kirchliche Publikationen profitieren von geregeltem Postversand ihrer Zeitungen und Periodika
+
+BGBl. 1950/50 | 1950-02-24 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948 und Verordnung über die Erlassung einer neuen Zeitungspostordnung
+  Kurzbeschreibung: Das Gesetz genehmigt den Bundesrechnungsabschluss für 1948 und erlässt eine neue Zeitungspostordnung, die den Postversand von Zeitungen, die Einhebung von Zeitungsbezugsgeldern und den Postvertrieb regelt.
+  Bauern              :   5% — —
+  Industriearbeiter   :   8% — —
+  Angestellte         :  10% — —
+  Beamte              :  45% — —
+  Unternehmer         :  65% — —
+  Immobilien Besitzer :   3% — —
+  Mieter              :   5% — —
+  Frauen              :   8% — —
+  Kriegsheimkehrer    :   7% — —
+  Kirche              :  35% — —
+
+BGBl. 1950/51 | 1950-01-11 | Bundesgesetz über die Genehmigung des Bundesrechnungsabschlusses für 1948
+  Kurzbeschreibung: Dieses Gesetz genehmigt den Bundesrechnungsabschluss für 1948 und erlässt eine neue Zeitungspostordnung, die den postalischen Versand, die Bezugsgeldeinhebung und den Vertrieb von Zeitungen regelt.
+  Bauern              :   5% — Nur indirekter Nutzen durch verbesserte Zustellung von Zeitungen und Fachpublikationen
+  Industriearbeiter   :   8% — Geringer Nutzen durch besseren Zugang zu Zeitungen und Informationen über postalischen Vertrieb
+  Angestellte         :  10% — Leicht erhöhter Nutzen durch regelmäßigeren Zeitungsbezug und Informationszugang
+  Beamte              :  45% — Direkt betroffen durch Verwaltung des Rechnungsabschlusses und Durchführung der neuen Zeitungspostordnung
+  Unternehmer         :  55% — Verleger und Zeitungsherausgeber profitieren stark von geregelten, standardisierten Vertriebswegen
+  Immobilien Besitzer :   0% — Keine erkennbare Berührung durch dieses Gesetz
+  Mieter              :   0% — Keine erkennbare Berührung durch dieses Gesetz
+  Frauen              :   8% — Nur allgemeiner indirekter Nutzen durch verbesserten Zeitungszugang wie für die Gesamtbevölkerung
+  Kriegsheimkehrer    :   5% — Nur marginaler allgemeiner Nutzen durch Informationszugang
+  Kirche              :  25% — Moderater Nutzen für kirchliche Publikationen durch geregelte Postzustellung und Bezugsgeldeinhebung
+
+BGBl. 1950/52 | 1950-03-08 | Verordnung zur Durchführung des Bundesgesetzes über die Schaffung eines Ehrenzeichens für eifrige und ersprießliche Tätigkeit auf dem Gebiete des Feuerwehr- und Rettungswesens
+  Kurzbeschreibung: Diese Verordnung regelt die Verleihung von Ehrenmedaillen für 25- bzw. 40-jährige freiwillige Tätigkeit im Feuerwehr- und Rettungswesen. Sie definiert Ausführung, Vergabekriterien und Ausschlussgründe der Auszeichnung.
+  Bauern              :  15% — Bauern sind häufig als Freiwillige in ländlichen Feuerwehren aktiv und können daher die Auszeichnung erhalten.
+  Industriearbeiter   :  20% — Industriearbeiter engagieren sich oft in Betriebsfeuerwehren oder Rettungsorganisationen und kommen für die Medaille in Betracht.
+  Angestellte         :  15% — Angestellte können als freiwillige Helfer im Rettungswesen tätig sein und profitieren von der Anerkennung.
+  Beamte              :  25% — Beamte sind überproportional in Rettungs- und Feuerwehrorganisationen vertreten und profitieren von der staatlichen Auszeichnung.
+  Unternehmer         :   5% — Nur marginale Berührung durch mögliches freiwilliges Engagement einzelner Unternehmer.
+  Immobilien Besitzer :   0% — Diese Gruppe wird durch die Verordnung nicht berührt.
+  Mieter              :   0% — Diese Gruppe wird durch die Verordnung nicht berührt.
+  Frauen              :  10% — Frauen waren 1950 in Feuerwehr und Rettungswesen unterrepräsentiert, können aber grundsätzlich ausgezeichnet werden.
+  Kriegsheimkehrer    :  30% — Die Anrechnung von Militärdienstzeiten auf die erforderlichen Dienstjahre begünstigt gezielt Kriegsheimkehrer bei der Erlangung der Medaille.
+  Kirche              :   0% — Diese Gruppe wird durch die Verordnung nicht berührt.
+
+BGBl. 1950/53 | 1950-03-08 | Verordnung zur Durchführung des Bundesgesetzes über die Schaffung eines Ehrenzeichens für eifrige und ersprießliche Tätigkeit auf dem Gebiete des Feuerwehr- und Rettungswesens
+  Kurzbeschreibung: Diese Verordnung regelt die Verleihung von Ehrenmedaillen (Bronze für 25 Jahre, versilbert für 40 Jahre) an Personen, die sich im Feuerwehr- oder Rettungswesen in Österreich verdient gemacht haben. Zusätzlich enthält sie Bestimmungen über die Anstellung von wissenschaftlichen Hilfskräften an Hochschulen.
+  Bauern              :  10% — Bauern können als Mitglieder freiwilliger Feuerwehren indirekt von der Auszeichnung profitieren, haben aber keinen direkten Vorteil.
+  Industriearbeiter   :  15% — Industriearbeiter können in Betriebsfeuerwehren oder Rettungsorganisationen tätig sein und so für die Auszeichnung in Frage kommen.
+  Angestellte         :  20% — Angestellte können ehrenamtlich im Rettungswesen tätig sein und nach 25/40 Jahren Dienst ausgezeichnet werden.
+  Beamte              :  75% — Beamte profitieren stark durch die Hochschulhilfskräfte-Regelung und als hauptberufliche Feuerwehrleute sowie durch ehrenamtliche Tätigkeiten mit staatlicher Anerkennung.
+  Unternehmer         :   5% — Unternehmer haben nur minimalen indirekten Nutzen durch gesellschaftliche Anerkennung von Feuerwehr- und Rettungssystemen.
+  Immobilien Besitzer :   0% — Das Gesetz regelt nur Ehrenzeichen und Hochschulpersonal, ohne Bezug zu Immobilienbesitz.
+  Mieter              :   0% — Keine relevanten Bestimmungen für Mieter enthalten.
+  Frauen              :  25% — Frauen können als Mitglieder von Rettungsorganisationen ausgezeichnet werden und als Hochschulhilfskräfte angestellt werden, wobei ihre Beteiligung 1950 noch begrenzt war.
+  Kriegsheimkehrer    :  30% — Militärische Dienstzeit wird nicht als Unterbrechung der Feuerwehr-/Rettungsdienstzeit angerechnet, was Kriegsheimkehrern bei der Auszeichnung zugutekommt.
+  Kirche              :   0% — Keine kirchenspezifischen Regelungen oder Bezüge enthalten.
+
+BGBl. 1950/54 | 1950-01-25 | Bundesgesetz über die Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947 sowie über den Gewerbesteuerausgleich zwischen Wohngemeinden und Betriebsgemeinden
+  Kurzbeschreibung: Das Gesetz regelt einerseits die Verkürzung der Ausbildungszeit für Richteramtsanwärter bis 1951 und etabliert andererseits einen finanziellen Ausgleichsmechanismus zwischen Gemeinden, in denen Arbeitnehmer wohnen, und jenen, in denen sie arbeiten und Gewerbesteuer anfällt.
+  Bauern              :   5% — Nur indirekt betroffen, falls sie in Wohngemeinden leben und Ausgleichszuschüsse deren Haushalt verbessern.
+  Industriearbeiter   :  25% — Als Pendler zwischen Wohn- und Betriebsgemeinden profitieren sie indirekt von besserer Finanzausstattung ihrer Wohngemeinden.
+  Angestellte         :  25% — Ähnlich wie Industriearbeiter profitieren pendelnde Angestellte indirekt von der verbesserten Finanzlage ihrer Wohngemeinden.
+  Beamte              :  45% — Richteramtsanwärter können ihre Ausbildungszeit verkürzen; Gemeindebeamte profitieren von klareren Ausgleichsregelungen.
+  Unternehmer         :  15% — Indirekt betroffen durch die Gewerbesteuerausgleichsregelungen zwischen Gemeinden, jedoch keine direkten Zahlungsverpflichtungen.
+  Immobilien Besitzer :   0% — Das Gesetz berührt weder Immobilienbesitz noch damit verbundene Rechte oder Pflichten.
+  Mieter              :   0% — Keine direkte oder indirekte Regelung zu Mietverhältnissen enthalten.
+  Frauen              :  10% — Profitieren gleichermaßen wie Männer als Arbeitnehmerinnen oder potenzielle Richteramtsanwärterinnen, jedoch keine spezifischen Regelungen.
+  Kriegsheimkehrer    :  20% — Die verkürzte Richterausbildung könnte besonders Kriegsheimkehrern beim Berufseinstieg helfen, jedoch nicht explizit geregelt.
+  Kirche              :   0% — Keine kirchenrelevanten Bestimmungen im Gesetz enthalten.
+
+BGBl. 1950/55 | 1950-01-25 | Bundesgesetz über eine Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947 sowie Bundesgesetz über den Gewerbesteuerausgleich zwischen Wohngemeinden und Betriebsgemeinden
+  Kurzbeschreibung: Das Gesetz regelt zwei Hauptthemen: Erstens die Verkürzung der Ausbildungszeit für Richteramtsanwärter bis Ende 1951. Zweitens den finanziellen Ausgleich zwischen Gemeinden, in denen Arbeitnehmer wohnen, und Gemeinden, in denen sie beschäftigt sind und die Gewerbesteuer zahlen.
+  Bauern              :   5% — Kaum betroffen, da Bauern selten als Pendler in gewerblichen Betrieben arbeiten
+  Industriearbeiter   :  45% — Profitieren indirekt, da ihre Wohngemeinden durch den Gewerbesteuerausgleich mehr Mittel für kommunale Infrastruktur erhalten
+  Angestellte         :  40% — Ähnlicher indirekter Nutzen wie Industriearbeiter durch bessere Finanzausstattung ihrer Wohngemeinden
+  Beamte              :  70% — Profitieren stark durch verkürzte Ausbildungszeit für Richteramtsanwärter und bessere Karrierechancen im Justizdienst
+  Unternehmer         :  15% — Indirekt betroffen durch Umverteilung von Gewerbesteuermitteln zwischen Gemeinden, aber keine direkte Mehrbelastung
+  Immobilien Besitzer :   0% — Das Gesetz berührt weder Immobilienbesitz noch Grundsteuer
+  Mieter              :   5% — Minimaler indirekter Nutzen durch möglicherweise verbesserte kommunale Dienstleistungen
+  Frauen              :  10% — Geringer Nutzen, da 1950 weniger Frauen als Pendlerinnen in Industriebetrieben beschäftigt waren
+  Kriegsheimkehrer    :  60% — Profitieren stark von verkürzter Richterausbildung, da viele Ausbildungszeiten unterbrochen waren und schneller Berufseinstieg ermöglicht wird
+  Kirche              :   0% — Keine Berührungspunkte mit Gerichtsorganisation oder Gewerbesteuerausgleich
+
+BGBl. 1950/56 | 1950-01-25 | Bundesgesetz über Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947 sowie Gewerbesteuerausgleich zwischen Wohngemeinden und Betriebsgemeinden
+  Kurzbeschreibung: Das Gesetz regelt einerseits die Verkürzung des Vorbereitungsdienstes für Richteramtsanwärter und andererseits den finanziellen Ausgleich zwischen Gemeinden, in denen Arbeitnehmer wohnen, und jenen, in denen sie arbeiten und Gewerbesteuer anfällt.
+  Bauern              :   0% — Das Gesetz betrifft weder die Justizausbildung noch den Gewerbesteuerausgleich für landwirtschaftliche Betriebe.
+  Industriearbeiter   :  25% — Profitieren indirekt, wenn ihre Wohngemeinden durch den Gewerbesteuerausgleich mehr Mittel für Infrastruktur erhalten.
+  Angestellte         :  25% — Profitieren indirekt wie Industriearbeiter durch bessere kommunale Finanzen ihrer Wohngemeinden bei Pendlersituationen.
+  Beamte              :  45% — Richteramtsanwärter profitieren direkt durch die mögliche Verkürzung des Vorbereitungsdienstes von 3 Jahren auf minimal 1,5 Jahre.
+  Unternehmer         :  15% — Betriebsgemeinden müssen Ausgleichszuschüsse zahlen, was die kommunalen Finanzen belastet, allerdings nur indirekte Auswirkungen auf Unternehmer.
+  Immobilien Besitzer :   0% — Das Gesetz regelt weder Immobilienfragen noch hat es direkte Auswirkungen auf Immobilienbesitz.
+  Mieter              :   0% — Wohnungsfragen werden nicht berührt, nur interkommunale Finanzausgleiche und Justizorganisation.
+  Frauen              :   5% — Keine geschlechtsspezifischen Regelungen; minimaler Nutzen falls weibliche Richteramtsanwärterinnen oder Pendlerinnen betroffen sind.
+  Kriegsheimkehrer    :  30% — Kriegsheimkehrer, die Richter werden wollen, profitieren von der beschleunigten Ausbildung zur schnelleren Berufsintegration.
+  Kirche              :   0% — Kirchliche Institutionen sind von Justizorganisation und kommunalem Gewerbesteuerausgleich nicht betroffen.
+
+BGBl. 1950/57 | 1950-01-25 | Bundesgesetz über eine Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947
+  Kurzbeschreibung: Dieses Gesetz ermöglicht die Abkürzung der Ausbildungszeit für Richteramtsanwärter mit sehr guter Leistung und regelt den Gewerbesteuerausgleich zwischen Wohngemeinden und Betriebsgemeinden für Pendler.
+  Bauern              :   5% — Kaum betroffen, da Bauern selten als Pendler in fremden Gemeinden arbeiten
+  Industriearbeiter   :  45% — Profitieren indirekt, da ihre Wohngemeinden durch Gewerbesteuerausgleich mehr Mittel für kommunale Infrastruktur erhalten
+  Angestellte         :  40% — Als Pendler profitieren sie indirekt von besserer kommunaler Infrastruktur in ihren Wohngemeinden durch den Steuerausgleich
+  Beamte              :  65% — Richteramtsanwärter profitieren direkt durch verkürzte Ausbildungszeit; andere Beamte eventuell als Pendler indirekt
+  Unternehmer         :  15% — Betriebsgemeinden müssen Ausgleichszuschüsse zahlen, was ihre Einnahmen aus Gewerbesteuer mindert
+  Immobilien Besitzer :   5% — Kaum direkte Auswirkungen auf diese Gruppe erkennbar
+  Mieter              :  10% — Minimale indirekte Vorteile durch bessere kommunale Versorgung in Wohngemeinden
+  Frauen              :  20% — Teilweise betroffen als Arbeitnehmerinnen und Pendlerinnen, profitieren von kommunalen Verbesserungen
+  Kriegsheimkehrer    :  30% — Verkürzte Richterausbildung könnte gezielt Kriegsheimkehrer betreffen, die schneller in den Beruf einsteigen wollen
+  Kirche              :   0% — Keine erkennbare Betroffenheit durch dieses Gesetz
+
+BGBl. 1950/58 | 1950-01-25 | 54. Bundesgesetz: Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947
+  Kurzbeschreibung: Das Gesetz ermöglicht die Verkürzung des Vorbereitungsdienstes für Richteramtsanwärter von zwei auf eineinhalb Jahre bei sehr guter Leistung und regelt den Gewerbesteuerausgleich zwischen Wohn- und Betriebsgemeinden für Pendlerströme.
+  Bauern              :   5% — Bauern sind kaum betroffen, außer wenn ihre Gemeinde Wohn- oder Betriebsgemeinde für Pendler ist.
+  Industriearbeiter   :  35% — Als Pendler profitieren sie indirekt, wenn ihre Wohngemeinden durch den Gewerbesteuerausgleich mehr Mittel für kommunale Infrastruktur erhalten.
+  Angestellte         :  35% — Pendelnde Angestellte profitieren indirekt durch bessere kommunale Versorgung ihrer Wohngemeinden durch den Gewerbesteuerausgleich.
+  Beamte              :  65% — Richteramtsanwärter profitieren direkt durch die Möglichkeit der Verkürzung des Vorbereitungsdienstes, was schnelleren Karriereeinstieg ermöglicht.
+  Unternehmer         :  15% — Unternehmer in Betriebsgemeinden werden indirekt durch Ausgleichszahlungen an Wohngemeinden belastet.
+  Immobilien Besitzer :   0% — Das Gesetz hat keinen direkten Bezug zu Immobilienbesitz oder -bewirtschaftung.
+  Mieter              :   0% — Mietverhältnisse werden durch dieses Gesetz nicht berührt.
+  Frauen              :   5% — Keine geschlechtsspezifischen Regelungen, nur marginale Betroffenheit als Teil anderer Gruppen.
+  Kriegsheimkehrer    :  40% — Kriegsheimkehrer als Richteramtsanwärter profitieren von der verkürzten Ausbildungszeit für schnelleren Berufseinstieg in der Nachkriegszeit.
+  Kirche              :   0% — Das Gesetz berührt kirchliche Interessen nicht.
+
+BGBl. 1950/59 | 1950-01-25 | Bundesgesetz über eine Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947
+  Kurzbeschreibung: Das Gesetz ermöglicht die Verkürzung der Ausbildungszeit für Richteramtsanwärter von zwei auf mindestens eineinhalb Jahre bis Ende 1951 und verlängert bestimmte Übergangsfristen in der Gerichtsverfassung. Zusätzlich regelt es den Gewerbesteuerausgleich zwischen Wohn- und Betriebsgemeinden für Pendler.
+  Bauern              :   5% — Kaum direkt betroffen, minimal indirekter Nutzen durch verbesserte Gerichtsorganisation
+  Industriearbeiter   :  25% — Indirekt begünstigt durch Gewerbesteuerausgleich, der Wohngemeinden von Pendlern finanzielle Zuschüsse von Betriebsgemeinden ermöglicht
+  Angestellte         :  25% — Profitieren als Arbeitnehmer-Pendler indirekt vom Gewerbesteuerausgleich zugunsten ihrer Wohngemeinden
+  Beamte              :  45% — Richteramtsanwärter können ihre Ausbildungszeit verkürzen und schneller ins Amt kommen, was Karriereweg beschleunigt
+  Unternehmer         :  10% — Betriebsgemeinden müssen Ausgleichszuschüsse zahlen, was ihre Gemeinden belastet, aber nur indirekter Effekt
+  Immobilien Besitzer :   0% — Keine direkte oder erkennbare indirekte Betroffenheit durch diese Regelungen
+  Mieter              :   0% — Keine direkte oder erkennbare indirekte Betroffenheit durch diese Regelungen
+  Frauen              :   5% — Nur insoweit betroffen, als sie als Arbeitnehmerinnen oder Richteramtsanwärterinnen von den Regelungen profitieren könnten
+  Kriegsheimkehrer    :  35% — Verkürzte Ausbildungszeit für Richteramtsanwärter erleichtert Wiedereinstieg in juristische Karrieren nach Kriegsunterbrechung
+  Kirche              :   0% — Keine erkennbare Betroffenheit durch Gerichtsorganisation oder Gewerbesteuerausgleich
+
+BGBl. 1950/60 | 1950-01-25 | Bundesgesetz über eine Änderung des Gerichtsorganisationsgesetzes 1945 und der Gerichtsverfassungsnovelle 1947 sowie Bundesgesetz über den Gewerbesteuerausgleich zwischen Wohngemeinden und Betriebsgemeinden
+  Kurzbeschreibung: Das Gesetz regelt einerseits die Verkürzung des Vorbereitungsdienstes für Richteramtsanwärter und andererseits einen finanziellen Ausgleichsmechanismus zwischen Gemeinden, in denen Arbeitnehmer wohnen, und solchen, in denen sie arbeiten und Gewerbesteuer anfällt.
+  Bauern              :   5% — Kaum Berührung, da Bauern meist am Wohnort arbeiten und nicht als Pendler in Gewerbesteuergemeinden tätig sind
+  Industriearbeiter   :  35% — Indirekter Nutzen durch bessere kommunale Infrastruktur in Wohngemeinden, die durch Gewerbesteuerausgleich finanziert wird
+  Angestellte         :  35% — Profitieren wie Industriearbeiter indirekt durch verbesserte kommunale Leistungen in Pendler-Wohngemeinden
+  Beamte              :  45% — Richteramtsanwärter profitieren direkt von verkürztem Vorbereitungsdienst; kommunale Beamte von besserer Finanzausstattung ihrer Gemeinden
+  Unternehmer         :  15% — Geringe indirekte Belastung, da Betriebsgemeinden Ausgleichszuschüsse zahlen müssen, was kommunale Spielräume einschränkt
+  Immobilien Besitzer :  10% — Minimaler indirekter Nutzen durch bessere kommunale Infrastruktur in Wohngemeinden
+  Mieter              :  10% — Minimaler indirekter Nutzen durch verbesserte kommunale Dienstleistungen in Wohngemeinden
+  Frauen              :   5% — Keine geschlechtsspezifische Regelung, nur allgemeine indirekte Effekte wie bei allen Einwohnern
+  Kriegsheimkehrer    :  25% — Richteramtsanwärter unter Kriegsheimkehrern profitieren von verkürztem Vorbereitungsdienst beim Wiedereinstieg
+  Kirche              :   0% — Keine Berührung durch diese Regelungen zur Gerichtsorganisation und zum Gewerbesteuerausgleich
+
