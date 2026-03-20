@@ -1,0 +1,980 @@
+1 von 19
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 10. Dezember 2004 Teil I
+137. Bundesgesetz: Strahlenschutz-EU-Anpassungsgesetz 2004
+(NR: GP XXII RV 620 AB 659 S. 82. BR: AB 7148 S. 715.)
+[CELEX-Nr.: 32003L0122, 31997L0043, 31996L0029, 31992L0003,
+31990L0641]
+137. Bundesgesetz, mit dem das Strahlenschutzgesetz sowie das Maß- und Eichgesetz
+geändert werden (Strahlenschutz-EU-Anpassungsgesetz 2004)
+Der Nationalrat hat beschlossen:
+Inhaltsverzeichnis
+Artikel Gegenstand
+1 Änderung des Strahlenschutzgesetzes
+2 Änderung des Maß- und Eichgesetzes
+Artikel 1
+Änderung des Strahlenschutzgesetzes
+Das Bundesgesetz vom 11. Juni 1969 über Maßnahmen zum Schutz des Lebens oder der Gesundheit
+von Menschen einschließlich ihrer Nachkommenschaft vor Schäden durch ionisierende Strahlen (Strah-
+lenschutzgesetz), BGBl. Nr. 227/1969, zuletzt geändert durch das Strahlenschutz-EU-
+Anpassungsgesetz 2002, BGBl. I Nr. 146, wird wie folgt geändert:
+1. Der Titel des Gesetzes lautet:
+„Bundesgesetz über Maßnahmen zum Schutz des Lebens oder der Gesundheit von
+Menschen einschließlich ihrer Nachkommenschaft vor Schäden durch ionisierende
+Strahlen (Strahlenschutzgesetz – StrSchG)“
+2. Dem Gesetz wird folgendes Inhaltsverzeichnis vorangestellt:
+„Inhaltsverzeichnis
+Paragraf Gegenstand / Bezeichnung
+I. TEIL
+Allgemeine Bestimmungen
+§ 1. Anwendungsbereich
+§ 2. Begriffsbestimmungen
+§ 3. Strahlenschutzrechtliche Verwaltungstätigkeiten nach anderen Rechtsvor-
+schriften
+§ 4. Einwirkungen ionisierender Strahlen auf den menschlichen Körper
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 2 von 19
+„Inhaltsverzeichnis
+Paragraf Gegenstand / Bezeichnung
+II. TEIL
+Bewilligungserfordernisse und Meldebestimmungen
+§ 5. Errichtung und Erprobung von Anlagen
+§ 6. Betrieb von Anlagen, die einer Errichtungsbewilligung bedürfen
+§ 7. Betrieb von Anlagen, die keiner Errichtungsbewilligung bedürfen
+§ 8. Änderung oder Erweiterung von Anlagen
+§ 9. Wechsel des Inhabers einer Anlage
+§ 10. Sonstiger Umgang mit Strahlenquellen
+§ 10a. Meldung der Ein-, Aus- und Durchfuhr radioaktiver Stoffe
+§ 11. Vorschreibung weiterer Auflagen
+§ 12. Erlöschen von Bewilligungen
+§ 13. Ausnahmen von der Bewilligungspflicht
+§ 13a. Freigabe
+§ 14. Verlust der Verlässlichkeit
+§ 15. Anwesenheitspflicht
+§ 16. Wechsel in der Person des Strahlenschutzbeauftragten
+§§ 17. und 18. Überwachung von Strahlenbetrieben; Untersagung des Betriebes und Maß-
+nahmen bei unmittelbar drohender Gefahr
+§§ 19. und 20. Zulassung von Bauarten
+§ 20a. Bauartzulassung bei Medizinprodukten
+§ 20b. Änderung und Widerruf einer Bauartzulassung
+§ 21. Antragsteller hinsichtlich Bauartzulassung
+§ 22. Bauartschein
+§ 23. Verkehr mit radioaktiven Stoffen; Ein-, Aus- und Durchfuhr
+§ 24. Aufzeichnungspflichten
+§ 25. Meldepflicht
+§ 26. Verlust und Fund radioaktiver Stoffe
+§ 26a. Vorsätzlicher rechtswidriger Umgang mit radioaktiven Stoffen
+§ 26b. Besondere Regelungen für den Umgang mit Strahlenquellen im militäri-
+schen Bereich
+III. Teil
+Schutzbestimmungen
+§§ 27. bis 29. Allgemeine Strahlenschutzvorschriften
+Gesundheitliche Eignung beruflich strahlenexponierter Personen;
+ärztliche und physikalische Kontrolle
+§§ 30. bis 33. Ärztliche Untersuchungen
+§ 34. Physikalische Kontrolle; Anforderungen an Dosismessstellen
+§ 34a. Anerkennung der Gleichwertigkeit ausländischer akkreditierter Stellen
+§ 35. Ermächtigte Ärzte
+Zentrale Strahlenschutzregister
+§ 35a. Zentrales Dosisregister
+§ 35b. Zentrales Strahlenquellen-Register
+§ 35c. Zentrales Bewilligungsregister
+§ 35d. Zentrales Störfallregister
+§ 35e. Festlegungen hinsichtlich der Zentralen Register
+§ 35f. Strahlenschutzpass
+§ 36. Besondere Strahlenschutzvorschriften
+§ 36a. Strahlenschutzkommission
+IIIa. TEIL
+Radioaktive Abfälle
+§ 36b. Grundzüge für die Beseitigung von radioaktiven Abfällen
+§ 36c. Maßnahmen zur Beseitigung von radioaktiven Abfällen
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 3 von 19
+„Inhaltsverzeichnis
+Paragraf Gegenstand / Bezeichnung
+IIIb. TEIL
+Schutz vor natürlichen Strahlenquellen bei Arbeiten
+§ 36d. Dosisbegrenzung
+§ 36e. Dosisminimierung
+§ 36f. Anforderungen bei Arbeiten unter Einwirkung terrestrischer Strahlung
+Schutz der Bevölkerung bei natürlich vorkommenden radioaktiven Stoffen
+§ 36g. Überwachungsbedürftige Rückstände
+§ 36h. Entlassung von Rückständen aus der Überwachung
+§ 36i. Entfernen von radioaktiven Verunreinigungen von Grundstücken
+§ 36j. Überwachung sonstiger Materialien
+§ 36k. Schutz des fliegenden Personals vor Exposition durch kosmische Strahlung
+IV. TEIL
+Interventionen; behördliche Überwachung des Radioaktivitätsgehaltes in Umwelt und Waren
+sowie Abschätzung der Bevölkerungsdosen
+§ 36l. Anwendungsbereich für und Durchführung von Interventionen
+§ 37. Behördliche Überwachung auf großräumige radioaktive Kontaminationen
+und Ermittlung des Radioaktivitätsgehaltes
+§ 38. Interventionsmaßnahmen bei radioaktiver Kontamination bzw. einer sons-
+tigen radiologischen Notstandssituation
+§ 38a. Behördliche Nachschau und Überprüfungen
+IVa. TEIL
+Schutz der Bevölkerung vor natürlichen radioaktiven Stoffen
+§ 38b. Erhöhte Radonkonzentration in Wohnräumen
+V. TEIL
+§ 39. Strafbestimmungen, Beschlagnahme, Verfall
+VI. TEIL
+Übergangs- und Schlussbestimmungen
+§ 40. Übergangsbestimmungen
+§ 41. Zuständigkeiten
+§ 41a. Verordnungen
+§ 42. In-Kraft-Treten
+§ 43. Vollziehung“
+3. § 1 Abs. 1 Z 1 lautet:
+„1. den Besitz von Strahleneinrichtungen und den Umgang mit Strahlenquellen,“
+4. § 1 Abs. 1 Z 4 lautet:
+„4. die behördliche Überwachung der Radioaktivität in der Umwelt und die behördliche Ermittlung
+und Erfassung von radiologischen Notstandssituationen sowie die Erlassung der notwendigen
+Schutz- und Sicherungsmaßnahmen für radiologische Notstandssituationen oder für Fälle andau-
+ernder Exposition aufgrund der Folgen einer radiologischen Notstandssituation oder der Aus-
+übung einer vergangenen oder früheren Tätigkeit oder Arbeit,“
+5. Nach § 1 Abs. 1 Z 4 wird folgende Z 5 eingefügt:
+„5. die behördliche Überwachung von Lebensmitteln einschließlich Nahrungsergänzungsmitteln,
+Zusatzstoffen, kosmetischen Mitteln und Gebrauchsgegenständen im Sinne des Lebensmittelge-
+setzes – LMG 1975, BGBl. Nr. 86/1975, sowie von sonstigen Konsumgütern, Rohstoffen und zur
+Wiederverwertung vorgesehenen Materialien auf einen allfälligen Gehalt an radioaktiven Stof-
+fen,“
+Die bisherige Z 5 erhält die Bezeichnung „6.“.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 4 von 19
+6. In § 1 Abs. 1 Z 6, § 13 Abs. 1, § 17 Abs. 2, § 25 Abs. 5, § 36 Abs. 1, § 36b Abs. 1, § 36c Abs. 1 und 2
+sowie § 38 Abs. 1 wird jeweils die Wortfolge „Stand von Wissenschaft und Technik“ durch „Stand der
+Technik“ ersetzt.
+7. Nach § 1 Abs. 4 werden folgende Abs. 5 und 6 angefügt:
+„(5) Durch dieses Bundesgesetz werden folgende Richtlinien in österreichisches Recht umgesetzt:
+1. Richtlinie 2003/122/EURATOM des Rates vom 22. Dezember 2003 zur Kontrolle hoch radioak-
+tiver umschlossener Strahlenquellen und herrenloser Strahlenquellen, ABl. Nr. L 346/57 vom
+31. 12. 2003, CELEX-Nr. 32003L0122;
+2. Richtlinie 97/43/EURATOM des Rates vom 30. Juni 1997 über den Gesundheitsschutz von Per-
+sonen gegen die Gefahren ionisierender Strahlung bei medizinischer Exposition und zur Aufhe-
+bung der Richtlinie 84/466/EURATOM, ABl. Nr. L 180/22 vom 9. 7. 1997, CELEX-
+Nr. 31997L0043;
+3. Richtlinie 96/29/EURATOM des Rates vom 13. Mai 1996 zur Festlegung der grundlegenden
+Sicherheitsnormen für den Schutz der Gesundheit der Arbeitskräfte und der Bevölkerung gegen
+die Gefahren durch ionisierende Strahlungen, ABl. Nr. L159/1 vom 29. 6. 1996, CELEX-
+Nr. 31996L0029;
+4. Richtlinie 92/3/EURATOM des Rates vom 3. Februar 1992 zur Überwachung und Kontrolle der
+Verbringungen radioaktiver Abfälle von einem Mitgliedstaat in einen anderen, in die Gemein-
+schaft und aus der Gemeinschaft, ABl. Nr. L 35/24 vom 12. 2. 1992, CELEX-Nr. 31992L0003;
+5. Richtlinie 90/641/EURATOM des Rates vom 4. Dezember 1990 über den Schutz externer Ar-
+beitskräfte, die einer Gefährdung durch ionisierende Strahlungen beim Einsatz im Kontrollbe-
+reich ausgesetzt sind, ABl. Nr. L 349/21 vom 13. 12. 1990, CELEX-Nr. 31990L0641.
+(6) Darüber hinaus werden die zuständigen Behörden und der Strafrahmen gemäß Art. 4 der Verord-
+nung (EURATOM) Nr. 1493/93 des Rates vom 8. Juni 1993 über die Verbringung radioaktiver Stoffe
+zwischen den Mitgliedstaaten, ABl. Nr. L 148/1 vom 19. 6. 1993, CELEX-Nr. 31993R1493, bestimmt.“
+8. § 2 lautet:
+„§ 2. Für dieses Bundesgesetz gelten folgende Begriffsbestimmungen:
+(1) „Arbeiten mit Strahlenquellen“ sind Handlungen, die, ohne ein Umgang gemäß Abs. 45 zu sein,
+bei natürlich vorkommender Radioaktivität die Exposition oder Kontamination erhöhen können und zwar
+insbesondere
+1. im Zusammenhang mit der Aufsuchung, Gewinnung, Erzeugung, Lagerung, Bearbeitung, Verar-
+beitung und sonstigen Verwendung von Materialien,
+2. soweit sie mit Materialien erfolgen, die bei betrieblichen Abläufen anfallen, soweit diese Hand-
+lungen nicht bereits unter Z 1 fallen,
+3. im Zusammenhang mit der Verwertung oder Beseitigung von Materialien, die durch Handlungen
+nach Z 1 oder 2 anfallen,
+4. durch dabei einwirkende natürliche terrestrische Strahlenquellen, insbesondere von 222Radon und
+Radonzerfallsprodukten, soweit diese Handlungen nicht bereits unter Z 1 bis 3 fallen und nicht
+zu einem unter Z 1 genannten Zweck erfolgen, oder
+5. im Zusammenhang mit der Berufsausübung des fliegenden Personals in Flugzeugen.
+Nicht als Arbeiten im Sinne dieses Gesetzes gelten die landwirtschaftliche, forstwirtschaftliche oder bau-
+technische Bearbeitung der Erdoberfläche, soweit diese Handlungen nicht zum Zwecke der Entfernung
+von Verunreinigungen gemäß § 36i erfolgen.
+(2) „Beruflich strahlenexponierte Personen“ sind
+1. hinsichtlich eines von diesem Bundesgesetz erfassten Umganges gemäß Abs. 45 Arbeitskräfte
+(Selbständige, Arbeitnehmer oder Personen in Ausbildung), die einer Exposition ausgesetzt sind,
+bei denen die für Einzelpersonen der Bevölkerung durch Verordnung festgelegten Dosisgrenz-
+werte überschritten werden können. Diese beruflich strahlenexponierten Personen gehören den
+Kategorien A oder B an, wobei solche der Kategorie A einer solchen Exposition ausgesetzt wer-
+den dürfen, so dass eine ärztliche und physikalische Kontrolle erforderlich ist;
+2. hinsichtlich einer von diesem Bundesgesetz erfassten Arbeit gemäß Abs. 1 diejenige Person, für
+die die Abschätzung nach § 36f Abs. 3 ergeben hat, dass die Exposition im Kalenderjahr jene
+Dosisgrenzwerte übersteigen kann, die die Zuordnung einer beruflich strahlenexponierten Person
+gemäß Z 1 zur Kategorie A bewirkt oder für die die Ermittlung nach § 36g Abs. 1 ergeben hat,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 5 von 19
+dass die Exposition im Kalenderjahr jene Dosisgrenzwerte übersteigen kann, die die Zuordnung
+einer beruflich strahlenexponierten Person gemäß Z 1 zur Kategorie B bewirkt.
+(3) „Beseitigung“ ist die Einlagerung von radioaktiven Abfällen in einem End- oder Langzeitlager
+oder an einem bestimmten Ort ohne die Absicht einer Rückholung; sie umfasst auch die genehmigte di-
+rekte Abgabe von Abfällen mit anschließender Verbreitung in die Umwelt.
+(4) „Bewilligungsinhaber“ ist jene natürliche oder juristische Person, Personengesellschaft des Han-
+delsrechts oder Erwerbsgesellschaft, die eine strahlenschutzrechtliche Bewilligung gemäß den §§ 6, 7
+oder 10 des Strahlenschutzgesetzes erhalten hat, jene natürliche oder juristische Person, Personengesell-
+schaft des Handelsrechts oder Erwerbsgesellschaft, der eine Bauartzulassung gemäß § 19 oder § 20 des
+Strahlenschutzgesetzes erteilt wurde, sowie jene natürliche oder juristische Person, Personengesellschaft
+des Handelsrechts oder Erwerbsgesellschaft, die als Verwender einer zugelassenen Bauart gemäß § 19
+oder § 20 des Strahlenschutzgesetzes nach österreichischem Recht hinsichtlich der Einhaltung der strah-
+lenschutzrechtlichen Vorschriften verantwortlich ist.
+(5) „Dosisgrenzwerte“ sind maximale Bezugswerte für die Dosen, die aus der Exposition beruflich
+strahlenexponierter Personen sowie von Einzelpersonen der Bevölkerung durch ionisierende Strahlung im
+Sinne dieses Bundesgesetzes herrühren.
+(6) „Dosisbeschränkung“ ist eine Beschränkung der voraussichtlichen Dosen für Einzelpersonen, die
+aus bestimmten natürlichen oder künstlichen Strahlenquellen resultieren können und die im Planungssta-
+dium im Zusammenhang mit der Optimierung des Strahlenschutzes angewendet wird.
+(7) „Einzelpersonen der Bevölkerung“ sind Personen, die einer Exposition ausgesetzt sind oder aus-
+gesetzt sein können, nicht jedoch
+1. beruflich strahlenexponierte Personen,
+2. Personen, die sich einer ärztlichen Untersuchung oder Behandlung unterziehen,
+3. Personen, die wissentlich und willentlich, jedoch nicht im Rahmen ihrer Berufsausübung, bei der
+Unterstützung und Pflege von Patienten, die sich einer medizinischen Untersuchung oder Be-
+handlung unterziehen, helfen, oder
+4. freiwillige Probanden eines medizinischen Forschungsprojektes.
+(8) „Ermächtigter Arzt“ ist ein für die ärztliche Überwachung von beruflich strahlenexponierten Per-
+sonen verantwortlicher Arzt, dessen Qualifikation in dieser Hinsicht von der zuständigen Behörde aner-
+kannt ist.
+(9) „Ermächtigte arbeitsmedizinische Dienste“ sind Dienste bzw. Stellen, denen die Zuständigkeit
+für die Feststellung der gesundheitlichen Eignung beruflich strahlenexponierter Personen und deren ärzt-
+liche Überwachung zugewiesen werden kann und deren Qualifikation in dieser Hinsicht von der zustän-
+digen Behörde anerkannt ist.
+(10) „Ermächtigte Dosismessstelle“ ist eine für das Kalibrieren sowie für das Ablesen und Auswer-
+ten der von individuellen Überwachungsgeräten registrierten Werte bzw. für die Messung der Radioakti-
+vität im menschlichen Körper oder in biologischen Proben oder für die Bewertung von Dosen behördlich
+zugelassene oder akkreditierte Stelle.
+(11) „Exposition“ ist jede Einwirkung ionisierender Strahlen auf den menschlichen Körper, soweit
+sie für das Leben oder die Gesundheit von Menschen einschließlich ihrer Nachkommenschaft von Bedeu-
+tung ist.
+(12) „Externe Arbeitskräfte“ sind beruflich strahlenexponierte Personen der Kategorie A, die Arbei-
+ten in Kontrollbereichen durchführen und nicht dem Personal des Bewilligungsinhabers zuzurechnen
+sind.
+(13) „Externe Unternehmen“ sind natürliche Personen, juristische Personen, Personengesellschaften
+des Handelsrechts oder Erwerbsgesellschaften, mit Ausnahme des Bewilligungsinhabers und seines Per-
+sonals, die mit der Durchführung gleich welcher Arbeit im Kontrollbereich betraut sind.
+(14) „Fliegendes Personal“ sind alle Personen, die in Unternehmen mit Genehmigung oder Erlaubnis
+zur Durchführung von Flügen ausschließlich oder überwiegend an Bord von Luftfahrzeugen während des
+Fluges tätig sind und in einem Arbeitsvertrags- bzw. Dienstverhältnis oder Eigentümer- bzw. Miteigen-
+tümerverhältnis zum Unternehmen stehen (wie z.B. tätige Inhaber und tätige Mitinhaber, mithelfende
+Familienangehörige, Angestellte, Arbeiter und Auszubildende).
+(15) „Freigabe“ ist ein Verwaltungsakt, der die Entlassung radioaktiver Stoffe sowie kontaminierter
+beweglicher Gegenstände, Gebäude, Bodenflächen, Anlagen oder Anlagenteile aus der strahlenschutz-
+rechtlichen Überwachung regelt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 6 von 19
+(16) „Freigabewerte“ sind von den zuständigen nationalen Behörden festgelegte Werte, ausgedrückt
+als Aktivitätskonzentrationen bzw. Gesamtaktivität, bis zu deren Erreichen radioaktive Stoffe oder radio-
+aktive Stoffe enthaltendes Material aus einem melde- oder bewilligungspflichtigen Umgang mit radioak-
+tiven Stoffen den Bestimmungen dieses Gesetzes nicht unterliegen.
+(17) „Fund radioaktiver Stoffe” ist das Auffinden von herrenlosen radioaktiven Stoffen.
+(18) „Gesundheitliche Beeinträchtigung“ ist das abgeschätzte Risiko einer Verkürzung oder qualita-
+tiven Verschlechterung des Lebens in einer Bevölkerungsgruppe aufgrund einer Exposition. Hierzu zäh-
+len Beeinträchtigungen infolge von somatischen Auswirkungen, Krebs und schwerwiegenden genetischen
+Störungen.
+(19) „Herrenlose radioaktive Stoffe“ sind radioaktive Stoffe, deren Besitz aufgrund ihrer Aktivität
+zum Zeitpunkt ihrer Entdeckung zumindest einer Meldepflicht unterliegt und die einer behördlichen Kon-
+trolle nicht unterliegen, entweder weil sie nie einer solchen Kontrolle unterstellt waren oder weil sie auf-
+gegeben wurden, verloren gegangen sind oder verlegt, entwendet oder ohne eine ordnungsgemäße Be-
+nachrichtigung der zuständigen Behörde oder ohne Unterrichtung des Empfängers an einen neuen Besit-
+zer weitergegeben wurden. Nicht unter diese Definition fallen jene Stoffe, die sich insbesondere in zur
+Wiederverwertung vorgesehenen Materialien befinden, die Gegenstand eines Kaufvertrages zwischen
+natürlichen oder juristischen Personen oder Personengesellschaften des Handelsrechts oder Erwerbsge-
+sellschaften sind, welche aus dem Handel mit zur Wiederverwertung vorgesehenen Materialien einen
+wirtschaftlichen Nutzen ziehen.
+(20) „Inkorporation“ ist die Aufnahme von Radionukliden aus der äußeren Umgebung durch den
+Organismus.
+(21) „Interventionen“ sind Maßnahmen zur Verhütung oder Reduzierung einer Exposition von Ein-
+zelpersonen durch Strahlenquellen, die nicht unter die Bestimmungen des Abs. 45 fallen, oder durch
+Strahlenquellen, die außer Kontrolle sind, wobei auf Strahlenquellen, Übertragungspfade oder einzelne
+Personen eingewirkt wird.
+(22) „Ionisierende Strahlung“ ist der Transfer von Energie in Form von Teilchen oder elektromagne-
+tischen Wellen mit einer Wellenlänge von 100 Nanometer oder weniger oder einer Frequenz von 3x1015
+Hertz oder mehr, die direkt oder indirekt Ionen erzeugen können.
+(23) „Konsumgüter“ sind Produkte, die zum unmittelbaren Ver- und Gebrauch durch den Endver-
+braucher bestimmt sind.
+(24) „Kontrollbereich“ ist derjenige Teil eines Strahlenbereiches, der aus Gründen des Schutzes ge-
+gen ionisierende Strahlung und zur Verhinderung der Ausbreitung einer radioaktiven Kontamination
+besonderen Vorschriften unterliegt und dessen Zugang geregelt ist.
+(25) „Laborgestütztes Umweltüberwachungssystem“ ist ein aus Messeinrichtungen und Datenerfas-
+sungseinrichtungen bestehendes System zur Bestimmung der Radioaktivität in der Umwelt, insbesondere
+in Luft, in Niederschlägen, im Grundwasser, in oberirdischen Gewässern, in Abwässern, im Klärschlamm
+und im Boden sowie zur Ermittlung der Radioaktivität insbesondere in Futtermitteln, in land- und forst-
+wirtschaftlichen Urprodukten, Lebensmitteln einschließlich Nahrungsergänzungsmitteln, Zusatzstoffen,
+kosmetischen Mitteln und Gebrauchsgegenständen im Sinne des Lebensmittelgesetzes – LMG 1975,
+BGBl. Nr. 86/1975, sowie von sonstigen Konsumgütern, in Düngemitteln, in Rohstoffen und in zur Wie-
+derverwertung vorgesehenen Materialien.
+(26) „Medizinphysiker“ ist ein Experte für die auf medizinische Expositionen angewandte Strahlen-
+physik oder Strahlentechnologie, dessen Ausbildung und Fachkenntnis von der zuständigen Behörde
+anerkannt ist und der gegebenenfalls bei der Patientendosimetrie, der Entwicklung und Anwendung kom-
+plexer Verfahren und Ausrüstungen, der Optimierung, der Qualitätssicherung einschließlich Qualitätskon-
+trolle sowie in sonstigen Fragen des Strahlenschutzes bei medizinischen Expositionen tätig wird oder
+berät.
+(27) „Notfallexposition“ ist die Exposition von freiwilligen Einzelpersonen, die erforderliche So-
+fortmaßnahmen durchführen, um in Gefahr befindlichen Einzelpersonen Hilfe zu leisten, um die Exposi-
+tion einer großen Zahl von Personen zu verhindern oder zu verringern oder um eine wertvolle Anlage
+oder wertvolle Sachgüter vor der Zerstörung zu bewahren, wobei die für beruflich strahlenexponierte
+Personen festgelegten Dosisgrenzwerte überschritten werden könnten.
+(28) „Potentielle Exposition“ ist eine Exposition, die mit einer abschätzbaren Wahrscheinlichkeit,
+jedoch nicht mit Sicherheit eintreten wird.
+(29) „Qualifizierte Sachverständige“ sind Personen, die über die erforderliche Sachkenntnis und
+Ausbildung auf dem Gebiete des Strahlenschutzes verfügen und deren Fähigkeit von der Behörde aner-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 7 von 19
+kannt ist, um physikalische, technische oder radiochemische Untersuchungen zur Ermittlung von Strah-
+lendosen sowie Beratungen hinsichtlich des wirksamen Schutzes von Personen und des ordnungsgemäßen
+Betriebes von Schutzeinrichtungen durchführen zu können. Als qualifizierte Sachverständige gelten ins-
+besondere für das in Betracht kommende Fachgebiet akkreditierte Stellen oder staatlich autorisierte An-
+stalten, sowie Ziviltechniker oder sonstige Sachverständige des in Betracht kommenden Fachgebietes.
+(30) „Qualitätskontrolle“ ist im Rahmen der Qualitätssicherung die Gesamtheit der Maßnahmen
+(Planung, Koordination, Ausführung), die der Aufrechterhaltung oder Verbesserung der Qualität dienen
+sollen. Sie umfasst die Überwachung, Bewertung und anforderungsgerechte Aufrechterhaltung aller er-
+forderlichen Leistungsdaten für Ausrüstung, die definiert, gemessen und kontrolliert werden können.
+(31) „Qualitätssicherung“ ist die Summe aller planmäßigen und systematischen Maßnahmen, die
+notwendig sind, um zu garantieren, dass Anlagen, Systeme, Komponenten oder Verfahren im Einklang
+mit den geltenden Normen zufrieden stellend arbeiten.
+(32) „Radioaktive Abfälle“ sind Materialien, die radioaktive Stoffe enthalten oder hierdurch konta-
+miniert sind und für die kein Verwendungszweck vorgesehen ist.
+(33) „Radioaktive Kontamination“ ist die Verunreinigung von Materialien, Oberflächen, der Umwelt
+oder einer Person durch radioaktive Stoffe, die vom Standpunkt des Strahlenschutzes nicht außer Acht
+gelassen werden kann.
+(34) „Radioaktive Stoffe“ sind Stoffe, die ein oder mehrere Radionuklide enthalten, sofern deren Ak-
+tivität oder Konzentration nach dem Stand der Technik im Zusammenhang mit dem Strahlenschutz nicht
+außer Acht gelassen werden kann. Gegenstände, die radioaktive Stoffe enthalten oder an deren Oberflä-
+che sich solche Stoffe befinden, stehen radioaktiven Stoffen gleich.
+(35) „Radiologische Notstandssituation“ ist eine Situation, die Dringlichkeitsmaßnahmen zum
+Schutz von Arbeitskräften, Einzelpersonen der Bevölkerung, Teilen der Bevölkerung oder der gesamten
+Bevölkerung erfordert.
+(36) „Stand der Technik“ ist der auf den einschlägigen wissenschaftlichen Erkenntnissen beruhende
+Entwicklungsstand fortschrittlicher technologischer Verfahren, Einrichtungen und Betriebsweisen, deren
+Funktionstüchtigkeit erprobt und erwiesen ist. Bei der Bestimmung des Standes der Technik sind insbe-
+sondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen.
+(37) „Strahlenbereich“ ist ein Bereich, in dem Personen einer Exposition ausgesetzt sein können,
+welche die nach wissenschaftlichen Erkenntnissen zum Schutz des Lebens oder der Gesundheit von Men-
+schen einschließlich ihrer Nachkommenschaft allgemein zulässigen Werte übersteigt. Er kann in Kon-
+trollbereich und Überwachungsbereich gegliedert sein.
+(38) „Strahlenbetriebe“ sind Einrichtungen natürlicher oder juristischer Personen oder Personenge-
+sellschaften des Handelsrechts, die Inhaber einer strahlenschutzrechtlichen Bewilligung gemäß §§ 5, 6, 7
+oder 10 sind, oder in denen gemäß §§ 19 oder 20 bauartzugelassene Geräte verwendet werden.
+(39) „Strahleneinrichtungen“ sind Strahlenquellen, die keine radioaktiven Stoffe enthalten.
+(40) „Strahlenfrühwarnsystem“ ist ein flächendeckendes automatisches Messsystem, bestehend aus
+Ortsdosisleistungsmesseinrichtungen, ergänzt durch Aktivitätsmesseinrichtungen, die, vorzugsweise
+situiert in der Nähe der Staatsgrenzen, zur Erfassung der bodennahen Ortsdosisleistung oder der boden-
+nahen Aktivitätskonzentration in der Luft dienen, wobei die im Strahlenfrühwarnsystem erhobenen
+Messwerte von den Messanlagen gespeichert werden und von einer Zentrale in regelmäßigen Zeitabstän-
+den abgefragt oder von den Messanlagen an die Zentrale automatisch übermittelt werden.
+(41) „Strahlenquellen“ sind Geräte, radioaktive Stoffe oder Anlagen, die imstande sind, ionisierende
+Strahlung auszusenden oder radioaktive Stoffe freizusetzen. Dabei bezeichnet der Begriff „natürliche
+Strahlenquellen“ Quellen ionisierender Strahlung natürlichen terrestrischen oder kosmischen Ursprungs,
+der Begriff „künstliche Strahlenquellen“ andere als natürliche Strahlenquellen.
+(42) „Strahlenschutz“ ist der Schutz des Lebens oder der Gesundheit von Menschen einschließlich
+ihrer Nachkommenschaft vor Schäden durch ionisierende Strahlen.
+(43) „Strahlenschutzbeauftragter“ ist eine für die Erfordernisse ihres Tätigkeitsbereiches qualifizierte
+Person, deren Ausbildung und Fachkenntnis von der zuständigen Behörde anerkannt ist und die mit der
+Wahrnehmung des Strahlenschutzes vom Bewilligungsinhaber oder dessen vertretungsbefugtem Organ
+betraut ist. Diese Person muss die erforderliche Verlässlichkeit besitzen und für die in Betracht kommen-
+de Tätigkeit körperlich und geistig geeignet sein.
+(44) „Überwachungsbereich“ ist derjenige Teil eines Strahlenbereiches, der aus Gründen des Schut-
+zes gegen ionisierende Strahlung einer angemessenen Überwachung unterliegt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 8 von 19
+(45) „Umgang mit Strahlenquellen“ ist
+1. der Betrieb von Strahleneinrichtungen,
+2. die Gewinnung, die Erzeugung, die Lagerung, die Beförderung, die Abgabe, der Bezug, die Be-
+arbeitung, der Besitz, die Ein-, Aus- und Durchfuhr, die Verwendung und die Beseitigung von
+künstlichen radioaktiven Stoffen oder von natürlichen radioaktiven Stoffen, die aufgrund ihrer
+Radioaktivität, Spaltbarkeit oder Bruteigenschaft verwendet werden, sowie jede sonstige Tätig-
+keit mit diesen Stoffen, die eine im Zusammenhang mit dem Strahlenschutz nicht außer Acht zu
+lassende Exposition von Einzelpersonen bewirken kann.
+Von diesem Begriff nicht erfasst sind Notfallexpositionen.
+(46) „Unfallbedingte Exposition“ ist die Exposition von Einzelpersonen infolge eines Unfalls. Von
+diesem Begriff nicht erfasst sind Notfallexpositionen.
+(47) „Verbringung radioaktiver Abfälle“ sind die Vorgänge zur Beförderung radioaktiver Abfälle
+vom Ausgangs- zum Bestimmungsort einschließlich Be- und Entladung.
+(48) „Vorsätzlicher rechtswidriger Umgang mit radioaktiven Stoffen“ ist die Gewinnung, die
+Erzeugung, die Lagerung, die Beförderung, die Abgabe, der Bezug, die Bearbeitung, der Besitz, die Ein-,
+Aus- und Durchfuhr, die Verwendung und die Beseitigung von künstlichen radioaktiven Stoffen oder von
+natürlichen radioaktiven Stoffen, die aufgrund ihrer Radioaktivität, Spaltbarkeit oder Bruteigenschaft
+verwendet werden, sowie jede sonstige Tätigkeit mit diesen Stoffen, die eine im Zusammenhang mit dem
+Strahlenschutz nicht außer Acht zu lassende Exposition von Einzelpersonen bewirken kann, unter
+vorsätzlicher Umgehung der Bewilligungsvorschriften.“
+9. § 4 Abs. 4 lautet:
+„(4) Nicht zulässig sind
+1. der Zusatz von radioaktiven Stoffen bei der Herstellung von Lebensmitteln einschließlich Nah-
+rungsergänzungsmitteln, Zusatzstoffen, kosmetischen Mitteln und Gebrauchsgegenständen im
+Sinne des Lebensmittelgesetzes – LMG 1975, BGBl. Nr. 86/1975, sowie
+2. das In-Verkehr-Bringen in Österreich, die Einfuhr oder Ausfuhr von Waren gemäß Z 1.“
+10. Im § 5 Abs. 2 Z 2 wird die Wortfolge „oder eine Personengesellschaft des Handelsrechts“ gestrichen.
+11. Im § 5 wird dem Abs. 5 folgender Satz angefügt:
+„Die vorläufige Sicherheitsanalyse hat eine ausführliche Beschreibung jener Maßnahmen zu enthalten,
+die die Strahlenquellen vor dem Zugriff Unbefugter sichern.“
+12. Die Überschrift von § 6 lautet „Betrieb von Anlagen, die einer Errichtungsbewilligung bedürfen“.
+13. § 6 Abs. 3 Z 2 lit. a bis d lauten:
+„a) erforderlichenfalls weitere Personen, die nachweislich hinreichende Kenntnisse im Strahlen-
+schutz besitzen, mit dessen Wahrnehmung zu betrauen sind,
+b) erforderlichenfalls die notwendige Anzahl von Medizinphysikern zur Verfügung stehen muss,
+c) eintretende radiologische Notstandssituationen unverzüglich der zuständigen Behörde zu mel-
+den und Abschätzungen der Umstände und Folgen entsprechend dem Verlauf der radiologi-
+schen Notstandssituation zu übermitteln sind,
+d) der Bewilligungswerber alle geeigneten Maßnahmen zur Verringerung der Folgen einer radio-
+logischen Notstandssituation zu ergreifen hat.“
+14. Im § 6 Abs. 5 wird nach dem ersten Satz folgender Satz eingefügt:
+„Die endgültige Sicherheitsanalyse hat eine ausführliche Beschreibung jener Maßnahmen zu enthalten,
+die die Strahlenquellen vor dem Zugriff Unbefugter sichern.“
+15. Im § 6 Abs. 5 und § 7 Abs. 5 wird jeweils das Wort „Umfang“ durch „Umfangs“ ersetzt.
+16. Dem § 6 wird folgender Abs. 8 angefügt:
+„(8) Für diagnostische Röntgeneinrichtungen hat die zuständige Behörde innerhalb von drei Mona-
+ten nach Einlangen des Antrags auf Erteilung einer Betriebsbewilligung und der erforderlichen Unterla-
+gen einen Bescheid zu erlassen.“
+17. Der § 7 erhält die Überschrift: „Betrieb von Anlagen, die keiner Errichtungsbewilligung bedürfen“.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 9 von 19
+18. Im § 7 Abs. 2 Z 3 wird die Wortfolge „oder eine Personengesellschaft des Handelsrechts“ gestrichen.
+19. Im § 7 Abs. 3 Z 2 wird nach lit. a folgende lit. b eingefügt:
+„b) erforderlichenfalls die notwendige Anzahl von Medizinphysikern zur Verfügung stehen
+muss,“
+Die bisherigen lit. b und c erhalten die Bezeichnungen „c“ und „d“.
+20. Im § 7 Abs. 5 wird nach dem ersten Satz folgender Satz eingefügt:
+„Die Sicherheitsanalyse hat eine ausführliche Beschreibung jener Maßnahmen zu enthalten, die die Strah-
+lenquellen vor dem Zugriff Unbefugter sichern.“
+21. Dem § 7 wird folgender Abs. 8 angefügt:
+„(8) Die zuständige Behörde hat innerhalb von drei Monaten nach Einlangen des Antrags auf Ertei-
+lung einer Betriebsbewilligung und der erforderlichen Unterlagen einen Bescheid zu erlassen.“
+22. § 8 lautet:
+„§ 8. (1) Auf jede Änderung oder Erweiterung einer Anlage für den Umgang mit Strahlenquellen,
+die geeignet ist, eine zusätzliche Gefährdung des Lebens oder der Gesundheit von Menschen einschließ-
+lich ihrer Nachkommenschaft durch ionisierende Strahlen herbeizuführen, finden die §§ 5 bis 7 sinnge-
+mäß Anwendung.
+(2) Die zuständige Behörde hat für diagnostische Röntgenanlagen sowie für gemäß § 7 bewilligte
+Anlagen innerhalb von drei Monaten nach Einlangen des Antrags auf Bewilligung der Änderung oder
+Erweiterung von Anlagen und der erforderlichen Unterlagen einen Bescheid zu erlassen.“
+23. Im § 10 Abs. 2 Z 3 wird die Wortfolge „oder eine Personengesellschaft des Handelsrechts“ gestrichen.
+24. Im § 10 Abs. 4 Z 1 wird das Wort „Bewilligung“ durch „Umgangsbewilligung“ ersetzt.
+25. Im § 10 Abs. 4 Z 2 wird nach lit. a folgende lit. b eingefügt:
+„b) erforderlichenfalls die notwendige Anzahl von Medizinphysikern zur Verfügung stehen
+muss,“
+Die bisherigen lit. b und c erhalten die Bezeichnungen „c“ und „d“.
+26. § 10 Abs. 5 lautet:
+„(5) Dem Antrag auf Erteilung einer Umgangsbewilligung sind die erforderlichen Unterlagen, insbe-
+sondere eine genaue Darstellung des beabsichtigten Umgangs und dessen Umfangs unter Anschluss einer
+Sicherheitsanalyse, einer Störfallanalyse und einer Notfallplanung in mindestens dreifacher Ausfertigung
+beizuschließen. Die Sicherheitsanalyse hat eine ausführliche Beschreibung jener Maßnahmen zu enthal-
+ten, die die Strahlenquellen vor dem Zugriff Unbefugter sichern. In dem Antrag um Erteilung der Bewil-
+ligung ist der Name des Strahlenschutzbeauftragten bekannt zu geben.“
+27. Im § 10 wird nach dem Abs. 7 folgender Abs. 8 eingefügt:
+„(8) Die zuständige Behörde hat innerhalb von drei Monaten nach Einlangen des Antrags auf Ertei-
+lung einer Betriebsbewilligung und der erforderlichen Unterlagen einen Bescheid zu erlassen.“
+Die bisherigen Abs. 8 und 9 erhalten die Bezeichnungen „(9)“ und „(10)“.
+28. Dem nunmehrigen § 10 Abs. 10 wird folgender Satz angefügt:
+„Eine von der für den Standort des Bewilligungswerbers zuständigen Behörde erteilte Bewilligung von
+Tätigkeiten externer Arbeitskräfte gilt im Rahmen des erteilten Bewilligungsumfanges für das gesamte
+Bundesgebiet.“
+29. Nach § 10 wird folgender § 10a samt Überschrift eingefügt:
+„Meldung der Ein-, Aus- und Durchfuhr radioaktiver Stoffe
+§ 10a. (1) Wer radioaktive Stoffe ein- oder auszuführen bzw. durch das Bundesgebiet durchzuführen
+beabsichtigt, hat dies dem Zentralen Strahlenquellen-Register beim Bundesminister für Land- und Forst-
+wirtschaft, Umwelt und Wasserwirtschaft zu melden.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 10 von 19
+(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat durch Ver-
+ordnung festzulegen, wann, in welcher Form, mit welchem Inhalt und in welchem Umfang diese Meldun-
+gen zu erfolgen haben.
+(3) Die Meldung ersetzt nicht die Pflicht zur Einholung einer Bewilligung zum Umgang mit radioak-
+tiven Stoffen gemäß §§ 5, 6, 7 oder 10, bzw. eine allfällige Bauartzulassung gemäß §§ 19 oder 20.“
+30. Der bisherige § 11 erhält die Absatzbezeichnung „(1)“. Danach werden folgende Abs. 2 bis 4 ange-
+fügt:
+„(2) Ergibt sich bei der Verwendung von gemäß §§ 19 und 20 bauartzugelassenen Geräten, dass
+trotz Erfüllung der Bedingungen und Einhaltung der Auflagen der Strahlenschutz nicht hinreichend ge-
+währleistet ist, ist von der für den Standort des Verwenders zuständigen Strahlenschutzbehörde die Zulas-
+sungsbehörde zu verständigen. Sofern grundsätzliche Mängel des Strahlenschutzes festgestellt wurden,
+ein Widerruf der Bauartzulassung gemäß § 20b jedoch nicht erforderlich ist, hat die Zulassungsbehörde
+die nachträgliche Vorschreibung weiterer Auflagen für die Verwendung dem In-Verkehr-Bringer vorzu-
+schreiben. Wurden standortbezogene Mängel des Strahlenschutzes festgestellt, hat die für den Standort
+des Verwenders zuständige Strahlenschutzbehörde dem Verwender weitere Auflagen für die Verwendung
+vorzuschreiben.
+(3) Der In-Verkehr-Bringer bauartzugelassener Geräte gemäß §§ 19 oder 20, dem nachträglich wei-
+tere Auflagen für die Verwendung vorgeschrieben wurden, hat die Verwender mittels Ergänzung zum
+Bauartschein über die nachträgliche Vorschreibung von Auflagen zu informieren. Hinsichtlich der Ergän-
+zung des Bauartscheines sind die Bestimmungen des § 22 sinngemäß anzuwenden; insbesondere ist fest-
+zustellen, dass nachträgliche Auflagen für die Verwendung von der Zulassungsbehörde vorgeschrieben
+wurden, und darauf hinzuweisen, dass die Verwender verpflichtet sind, diese nachträglich vorgeschriebe-
+nen Auflagen einzuhalten.
+(4) Die Verwender von bauartzugelassenen Geräten gemäß §§ 19 oder 20 sind verpflichtet, die ge-
+mäß Abs. 2 nachträglich vorgeschriebenen Auflagen bei der Verwendung einzuhalten.“
+31. § 17 Abs. 1 lautet:
+„(1) Der gemäß §§ 6 oder 7 bewilligte Betrieb oder der gemäß § 10 bewilligte Umgang mit Strah-
+lenquellen ist von der Bewilligungsbehörde mindestens einmal in zwei Jahren zu überprüfen. Die Ver-
+wendung von gemäß §§ 19 und 20 bauartzugelassenen Geräten ist von der für den Standort des Verwen-
+ders zuständigen Strahlenschutzbehörde mindestens einmal in zwei Jahren zu überprüfen. Wenn es aus
+Gründen des Strahlenschutzes erforderlich ist, insbesondere bei Forschungsreaktoren, Anlagen für die
+Behandlung, Konditionierung, Zwischenlagerung und Beseitigung radioaktiver Abfälle, hoch radioakti-
+ven Strahlenquellen, Teilchenbeschleunigern, Hochdosisgammabestrahlungseinrichtungen und nuklear-
+medizinischen Einrichtungen für die Therapie, sind solche Überprüfungen mindestens einmal jährlich von
+der Bewilligungsbehörde durchzuführen.“
+32. Im § 17 Abs. 2 wird die Wortfolge „im Verordnungswege“ durch „durch Verordnung“ ersetzt.
+33. Im § 17 Abs. 3 wird die Wortfolge „hochaktiven radioaktive Strahlenquellen, Teilchenbeschleuniger,
+Hochdosisgammabestrahlungseinrichtungen und größere nuklearmedizinische Einrichtungen“ durch „um
+Anlagen für die Behandlung, Konditionierung, Zwischenlagerung und Beseitigung radioaktiver Abfälle,
+um hoch radioaktive Strahlenquellen, um Teilchenbeschleuniger, um Hochdosisgamma-
+bestrahlungseinrichtungen oder um nuklearmedizinische Einrichtungen für die Therapie“ ersetzt.
+34. § 18 Abs. 1 erster Satz lautet:
+„In Fällen unmittelbar drohender Gefahr, bedingt durch den Umgang mit Strahlenquellen, hat die Behör-
+de alle geeigneten Maßnahmen zu veranlassen, um diese Gefahr abzuwenden.“
+35. Im § 19 Abs. 2 Z 1 wird die Wortfolge „oder eine Personengesellschaft des Handelsrechts“ gestrichen.
+36. Im § 19 wird dem Abs. 3 folgender Satz angefügt:
+„Die Sicherheitsanalyse hat auch eine ausführliche Beschreibung jener Maßnahmen zu enthalten, die die
+Strahlenquellen vor dem Zugriff Unbefugter sichern.“
+37. Im § 20 Abs. 2 Z 1 wird die Wortfolge „oder eine Personengesellschaft des Handelsrechts“ gestrichen.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 11 von 19
+38. Im § 20 wird dem Abs. 3 folgender Satz angefügt:
+„Die Sicherheitsanalyse hat auch eine ausführliche Beschreibung jener Maßnahmen zu enthalten, die die
+Strahlenquellen vor dem Zugriff Unbefugter sichern.“
+38a. Im § 23 Abs. 3 und im § 36a Abs. 3 wird jeweils die Wortfolge „soziale Sicherheit und Generationen“
+durch „Gesundheit und Frauen“ ersetzt.
+39. Im § 24 Abs. 1 und 2 wird jeweils die Wortfolge „mindestens 10 Jahre“ durch „mindestens sieben
+Jahre“ ersetzt.
+40. Dem § 25 wird folgender Abs. 6 angefügt:
+„(6) Der Behörde ist der Besitz von oder die Verfügungsgewalt über Strahleneinrichtungen zu mel-
+den, sofern keine Bewilligung zum Betrieb dieser Einrichtungen gemäß §§ 6, 7, 10, 19 oder 20 vorliegt.
+Diese Bestimmung ist nicht anzuwenden auf jene natürlichen oder juristischen Personen, Personengesell-
+schaften des Handelsrechts oder Erwerbsgesellschaften, die im Rahmen einer gewerberechtlichen Ge-
+nehmigung Strahleneinrichtungen in Verkehr bringen oder warten und für diese Tätigkeit eine Bewilli-
+gung gemäß §§ 6, 7 oder 10 besitzen.“
+41. Der § 26 lautet:
+„§ 26. (1) Der Verlust von radioaktiven Stoffen, deren Besitz zumindest eine Meldepflicht gemäß
+§ 25 nach sich zieht, oder der Fund von herrenlosen radioaktiven Stoffen ist unverzüglich dem nächsten
+Sicherheitsorgan anzuzeigen. Im Falle eines Fundes von herrenlosen radioaktiven Stoffen ist nach Durch-
+führung der erforderlichen Sicherungsmaßnahmen die zuständige Strahlenschutzbehörde zu informieren.
+Diese hat herrenlose radioaktive Stoffe zu beschlagnahmen und entweder eine Wiederverwertung oder
+eine Entsorgung als radioaktiven Abfall zu veranlassen. Die anfallenden Kosten können von einem etwa-
+igen Besitzer im Regressweg eingefordert werden. Über die näheren Umstände des Auffindens herrenlo-
+ser radioaktiver Stoffe sind Aufzeichnungen zu führen. Eine Kopie dieser Aufzeichnungen ist dem Zent-
+ralen Strahlenquellen-Register zu übermitteln.
+(2) Die Bestimmungen des Abs. 1 gelten nicht für den örtlichen Betriebsbereich von Betrieben, die
+einer Bewilligungspflicht gemäß §§ 6, 7 oder 10 unterliegen, sofern es sich um den Verlust oder Fund
+radioaktiver Stoffe handelt, auf deren Umgang sich die behördliche Bewilligung erstreckt. In diesem Fall
+sind der Strahlenschutzbeauftragte und die Behörde unverzüglich zu verständigen.
+(3) Radioaktive Stoffe oder radioaktiv kontaminierte Stoffe in zur Wiederverwertung vorgesehenen
+Materialien sind vom Eigentümer oder vom Käufer auf dessen Kosten vom nichtkontaminierten Material
+auszusondern, ordnungsgemäß zu verpacken, zu kennzeichnen und an den Absender zurückzusenden,
+wenn für diese radioaktiven Stoffe oder radioaktiv kontaminierten Stoffe keine Einfuhrgenehmigung
+vorliegt, ansonsten als radioaktiver Abfall zu entsorgen. Eigentümer und Käufer haften für alle Verbind-
+lichkeiten aus der ordnungsgemäßen Rücksendung zur ungeteilten Hand.
+(4) Sind die gemäß Abs. 3 Verpflichteten nicht feststellbar oder können diese zur Rücksendung oder
+Entsorgung aus rechtlichen oder sonstigen Gründen nicht herangezogen werden, sind die radioaktiven
+Stoffe oder radioaktiv kontaminierten Stoffe nach Abs. 3 zunächst von den örtlich zuständigen Behörden
+ordnungsgemäß als radioaktiver Abfall entsorgen zu lassen. Die anfallenden Kosten können von den
+gemäß Abs. 3 Verpflichteten im Regressweg eingefordert werden. Dazu kann das jeweilige Transportmit-
+tel zur Sicherstellung herangezogen werden.
+(5) Um eine frühzeitige Erfassung von radioaktiven Stoffen und radioaktiv kontaminierten Stoffen
+insbesondere in zur Wiederverwertung oder zur Beseitigung (Deponierung oder Verbrennung) vorgese-
+henen Materialien sicherzustellen und Schutzmaßnahmen wirksam einleiten zu können, kann der Bun-
+desminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft durch Verordnung festlegen, in
+welchen Betrieben zur Wiederverwertung oder zur Beseitigung (Deponierung oder Verbrennung) und
+unter welchen Voraussetzungen dort messtechnische Einrichtungen zur Eingangs- und Ausgangskontrolle
+verwendet werden müssen und in welchem Ausmaß das betroffene Personal zu schulen ist, um radioakti-
+ve Stoffe oder radioaktiv kontaminierte Stoffe zu erkennen und die notwendigen Maßnahmen ergreifen zu
+können. Weiters kann er festlegen, auf welchem Weg und in welchem Umfang Meldungen über erfasste
+radioaktive Stoffe und radioaktiv kontaminierte Stoffe an das Zentrale Strahlenquellen-Register zu über-
+mitteln sind.
+(6) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat durch Ver-
+ordnung Maßnahmen und gegebenenfalls die Durchführung von Kampagnen zur frühzeitigen Entde-
+ckung, Sicherung und Entsorgung von herrenlosen radioaktiven Stoffen auch aus vergangenen Tätigkei-
+ten anzuordnen. Der Bundesminister bedient sich zur Vorbereitung und Durchführung dieser Maßnahmen
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 12 von 19
+und Kampagnen jener ausgegliederten Einheiten des Bundes, bei denen er die Gesellschafterrechte wahr-
+nimmt, wobei er auch sonstige nach ihrem Aufgabenbereich geeignete Institutionen zur Unterstützung
+heranzieht.
+(7) Kampagnen gemäß Abs. 6 können die finanzielle Beteiligung der Mitgliedstaaten der Europäi-
+schen Gemeinschaft an den Kosten für die Suche der herrenlosen radioaktiven Stoffe, deren Sicherung
+und deren Entsorgung sowie die Überprüfung alter Aufzeichnungen von Behörden wie Zollstellen und
+Besitzern wie Forschungsinstituten, Materialprüfstellen und Krankenhäusern einschließen.
+(8) Unbeschadet einschlägiger Anforderungen an die Vertraulichkeit und einschlägiger
+einzelstaatlicher Rechtsvorschriften hat der Bundesminister für Land- und Forstwirtschaft, Umwelt und
+Wasserwirtschaft im Zusammenhang mit dem Verlust, der Beseitigung, dem Diebstahl und der
+Entdeckung von Strahlenquellen und den entsprechenden Folgemaßnahmen oder Untersuchungen mit den
+Behörden anderer betroffener Mitgliedstaaten oder Behörden von betroffenen Drittländern sowie mit den
+zuständigen internationalen Organisationen unverzüglich Informationen auszutauschen und mit ihnen
+zusammenzuarbeiten. Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft
+hat nach Maßgabe der Möglichkeiten anzustreben, dass mit benachbarten Staaten mit EU-Außengrenzen
+geeignete Maßnahmen zur Erfassung herrenloser radioaktiver Stoffe sowie radioaktiver Stoffe und
+radioaktiv kontaminierter Stoffe in zur Wiederverwertung vorgesehenen Materialien festgelegt werden.“
+42. Nach § 26 wird folgender § 26a samt Überschrift eingefügt:
+„Vorsätzlicher rechtswidriger Umgang mit radioaktiven Stoffen
+§ 26a. (1) Der vorsätzliche rechtswidrige Umgang mit radioaktiven Stoffen unter Umgehung der
+Bewilligungsvorschriften stellt einen Verwaltungsstraftatbestand dar, der gemäß § 39 Abs. 1 zu ahnden
+ist, sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Hand-
+lung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist.
+(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat durch Ver-
+ordnung festzulegen, wie, in welchem Ausmaß und wo Kontrollen zur Erfassung eines nach Abs. 1 vor-
+sätzlichen rechtswidrigen Umgangs mit radioaktiven Stoffen durchzuführen sind. Er legt weiters durch
+Verordnung fest, ab welchen Aktivitäten eine Gesundheitsgefährdung anzunehmen ist und auf welchem
+Weg und in welchem Umfang Meldungen über erfasste radioaktive Stoffe und radioaktiv kontaminierte
+Stoffe an das Zentrale Strahlenquellen-Register zu übermitteln sind.
+(3) Die Bestimmungen des Sicherheitskontrollgesetzes 1991, BGBl. Nr. 415/1992, sowie die Befug-
+nisse der Sicherheits- und Justizbehörden werden durch die Festlegungen in den Abs. 1 und 2 nicht be-
+rührt.“
+43. Der bisherige § 26a erhält die Bezeichnung „§ 26b“.
+44. Im § 34 Abs. 1 wird der Verweis „Abs. 3“ durch „Abs. 5“ ersetzt.
+45. Im § 34 werden nach Abs. 2 folgende Abs. 3 und 4 eingefügt:
+„(3) Bei unfallbedingten Strahlenexpositionen sind nach Maßgabe aller verfügbaren Informationen
+die betreffenden Dosen und ihre Verteilung im Körper zu ermitteln.
+(4) Bei Notfallexpositionen ist die individuelle Überwachung oder die Ermittlung der Einzeldosen
+entsprechend den Umständen und Möglichkeiten durchzuführen.“
+Die bisherigen Abs. 3 bis 6 erhalten die Bezeichnungen „(5)“ bis „(8)“.
+46. Nach § 34 wird folgender § 34a samt Überschrift einfügt:
+„Anerkennung der Gleichwertigkeit ausländischer akkreditierter Stellen
+§ 34a. (1) Akkreditierte Stellen, die in einem anderen Mitgliedsstaat der Europäischen Union oder
+des EWR akkreditiert wurden und in Belangen des Strahlenschutzgesetzes und der darauf gegründeten
+Verordnungen in Österreich tätig werden, sind dann als gleichwertig anzusehen, wenn diese
+Gleichwertigkeit aufgrund multilateraler oder bilateraler Vereinbarungen festgestellt wurde. Sie haben im
+Rahmen dieser Tätigkeiten die sie betreffenden Verpflichtungen aus dem Strahlenschutzgesetz und den
+darauf gegründeten Verordnungen einzuhalten.“
+47. Der bisherige § 35a erhält die Absatzbezeichnung „(1)“.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 13 von 19
+48. Im § 35a Abs. 1 lautet der 4. Satz:
+„Soweit es für Zwecke der ärztlichen Untersuchung vor der Einstellung und der Überwachung der Expo-
+sition der beruflich strahlenexponierten Person erforderlich ist, können alle sachdienlichen Informationen
+über die bisher von ihr erhaltenen Dosen innerhalb der Europäischen Gemeinschaft zwischen den zustän-
+digen Behörden oder den ermächtigten Ärzten oder den ermächtigten arbeitsmedizinischen Diensten oder
+den ermächtigten Krankenanstalten oder den qualifizierten Sachverständigen oder den zugelassenen Do-
+sismessstellen im Wege des Zentralen Dosisregisters ausgetauscht werden.“
+49. Dem § 35a werden folgende Abs. 2 bis 5 angefügt:
+„(2) Das Zentrale Dosisregister übernimmt die Aufgabe der Datenbereitstellung und Datensicherung
+der gemessenen oder gegebenenfalls geschätzten Expositionswerte und der individuellen Dosen der be-
+ruflich strahlenexponierten Personen einschließlich allfälliger unfallbedingter Strahlen- sowie Notfallex-
+positionen.
+(3) Für die Errichtung und Führung des Dosisregisters und die Datenbereitstellung haben die zur
+Überwachung von beruflich strahlenexponierten Personen der Kategorie A verpflichteten Bewilligungs-
+inhaber oder sonstige Verpflichtete eine Gebühr nach Maßgabe einer Gebührenverordnung, die vom
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu erlassen ist, zu entrich-
+ten. Diese Gebührenverordnung hat die Höhe der Gebühr entsprechend den im Durchschnitt hierbei auf-
+laufenden Kosten, insbesondere für die Errichtung und die Führung des Dosisregisters, die Datensiche-
+rung, die Datenbereitstellung für die Bewilligungsinhaber, die zuständigen Behörden und die Sozialversi-
+cherungsträger in kostendeckenden Tarifen zu enthalten.
+(4) Die Gebühren sind zweckgebunden für die Vollziehung dieses Bundesgesetzes für den Bundes-
+minister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft von den Dosismessstellen zu ver-
+einnahmen.
+(5) Der zur Überwachung von beruflich strahlenexponierten Personen der Kategorie A verpflichtete
+Bewilligungsinhaber hat der Dosismessstelle, die im Auftrag des Bewilligungsinhabers die physikalische
+Kontrolle gemäß § 34 durchführt, sowie der Stelle, die im Auftrag des Bewilligungsinhabers die ärztliche
+Kontrolle gemäß §§ 30 bis 33 durchführt, alle Daten bekannt zu geben, die erforderlich sind, um die
+Bestimmungen dieses Bundesgesetzes bzw. der darauf gegründeten Verordnungen einhalten zu können.“
+50. Der bisherige § 35b erhält die Absatzbezeichnung „(1)“; danach werden folgende Abs. 2 und 3 ange-
+fügt:
+„(2) Radioaktive Stoffe und radioaktiv kontaminierte Stoffe gemäß § 26 und radioaktive Stoffe aus
+dem vorsätzlichen rechtswidrigen Umgang gemäß § 26a sind im Zentralen Strahlenquellen-Register ge-
+sondert zu erfassen.
+(3) Das Zentrale Strahlenquellen-Register informiert die Behörden der Ursprungsländer über aufge-
+fundene radioaktive Stoffe und radioaktiv kontaminierte Stoffe gemäß § 26 sowie über radioaktive Stoffe
+aus dem vorsätzlichen rechtswidrigen Umgang gemäß § 26a. Sofern europäische oder internationale dies-
+bezügliche Register bestehen, sind die Informationen auch mit diesen auszutauschen.“
+51. Im § 35e werden nach den Worten „der zu übermittelnden Daten,“ die Worte „die Aufgaben der Zent-
+ralen Register, insbesondere die Pflichten zur Information lokaler Behörden,“ eingefügt.
+52. § 35f Abs. 5 lautet:
+„(5) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft kann durch
+Verordnung weitergehende Bestimmungen über die Inhalte, die Art und die Form des Strahlenpasses
+festlegen. Ausstellung, Registrierung und Evidenzhaltung der Strahlenschutzpässe erfolgt durch den Bun-
+desminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Wege der Zentralen Strah-
+lenschutzregister.“
+53. Dem § 35f werden folgende Abs. 6 bis 8 angefügt:
+„(6) Für die Ausstellung, Registrierung und Evidenzhaltung der Strahlenschutzpässe haben die Ar-
+beitgeber der externen Arbeitskräfte oder bei Selbständigen diese selbst eine Gebühr nach Maßgabe einer
+Gebührenverordnung, die vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirt-
+schaft zu erlassen ist, zu entrichten.
+(7) Die Gebührenverordnung hat die Höhe der Gebühr entsprechend den im Durchschnitt hierbei
+auflaufenden Kosten, insbesondere für die Ausstellung, Registrierung und Evidenzhaltung der Strahlen-
+schutzpässe, in kostendeckenden Tarifen zu enthalten.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 14 von 19
+(8) Die Gebühren sind zweckgebunden für die Vollziehung dieses Bundesgesetzes für den Bundes-
+minister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft von der Betriebsführung der Zent-
+ralen Register zu vereinnahmen.“
+54. Im § 36 Abs. 1 Z 5 wird der Verweis „§ 1 Abs. 1 Z 5“ durch „§ 1 Abs. 1 Z 6“ ersetzt.
+55. Im § 36 Abs. 1 Z 10 wird die Wortfolge „zumindest umfassen muss“ durch „zumindest umfassen
+müssen“ ersetzt.
+56. Im § 36 Abs. 1 Z 10 wird das Wort „Abhilfemaßnahmen“ durch das Wort „Sicherheitsmaßnahmen“
+ersetzt.
+57. Im § 36 Abs. 3 werden die Worte „hochaktiven radioaktiven Strahlenquellen“ durch die Worte „hoch
+radioaktiven Strahlenquellen“ ersetzt.
+58. Im § 36b Abs. 3 wird die Wortfolge „mindestens 10 Jahre“ durch „mindestens sieben Jahre“ ersetzt.
+59. In §§ 36d und 36f Abs. 1 und 2 wird jeweils der Begriff „Radon-222“ durch „222Radon“ ersetzt.
+60. Im § 36f Abs. 2 wird das Wort „Körperdosis“ durch die Wortfolge „effektiven Dosis und der Organ-
+dosen“ ersetzt.
+61. Im § 36f Abs. 8 wird die Wortfolge „der Bundesminister für soziale Sicherheit und Generationen“
+durch die Wortfolge „die Behörde“ ersetzt.
+62. § 36k Abs. 2 lautet:
+„(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft legt im Ein-
+vernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie und dem Bundesminister
+für Landesverteidigung durch Verordnung fest, welche Schutzmaßnahmen zu ergreifen sind, die Grund-
+züge, nach welchen Verfahren die Exposition des fliegenden Personals zu ermitteln ist, ob und unter
+welchen Voraussetzungen ärztliche Untersuchungen durchzuführen sind und wie und in welcher Form die
+Meldungen über die ermittelte Exposition an das Zentrale Dosisregister weiterzuleiten sind.“
+63. Dem § 36k werden folgende Abs. 3 und 4 angefügt:
+„(3) Die Ermittlung der Exposition des fliegenden Personals gemäß Abs. 1 Z 1 hat durch für die Do-
+sisermittlung des fliegenden Personals akkreditierte Stellen oder durch vom Bundesminister für Land-
+und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem Bundesminister für Ver-
+kehr, Innovation und Technologie und dem Bundesminister für Landesverteidigung zugelassenen Stellen
+zu erfolgen. Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat im
+Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie und allenfalls dem
+Bundesminister für Landesverteidigung durch Verordnung die Kriterien für diese Zulassung festzulegen.
+(4) Dem Ansuchen um Zulassung zur Durchführung der Expositionsermittlung des fliegenden Per-
+sonals ist ein umfassender Nachweis über das Vorhandensein der notwendigen personellen und techni-
+schen Ausstattung der ansuchenden Stelle anzuschließen.“
+64. Die Überschrift des IV. Teiles lautet „Interventionen; behördliche Überwachung des Radioaktivitäts-
+gehaltes in Umwelt und Waren sowie Abschätzung der Bevölkerungsdosen“.
+65. Im § 36l Abs. 2 Z 3 entfällt der erste Satz.
+66. § 36l Abs. 3 lautet:
+„(3) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat durch
+Verordnung insbesondere festzulegen:
+1. angemessene Interventionsschwellen,
+2. Inhalt und Umfang gesamtstaatlicher und örtlicher Interventionspläne,
+3. Art und Weise der Überprüfung dieser Interventionspläne,
+4. Form, Inhalt und Umfang von Übungen zur Überprüfung der Interventionspläne,
+5. Meldepflichten,
+6. Mindestanforderungen für besondere Interventionsteams für technische, medizinische und ge-
+sundheitliche Interventionen,
+7. Mindestanforderungen für die Schulung der Interventionsteams gemäß Z 6,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 15 von 19
+8. Regelungen für berufsbedingte Notfallexpositionen im Zusammenhang mit Interventionen,
+9. Regelungen über eine physikalische und ärztliche Kontrolle von Personen, die im Zusammen-
+hang mit Interventionen tätig werden, sowie damit verbundene Melde- und Nachweispflichten,
+10. wer in welchem Umfang Notfallsituationen zu bewerten und deren Folgen sowie die Wirksam-
+keit der veranlassten Interventionen aufzuzeichnen hat,
+11. Art und Umfang der Information militärischer Dienststellen für den Fall einer Assistenzleistung
+des Bundesheeres gemäß § 2 Abs. 1 des Wehrgesetzes 2001, BGBl. I Nr. 146/2001, soweit diese
+für Maßnahmen zum Schutz des Lebens und der Gesundheit von Menschen durch Gefahren vor
+ionisierender Strahlung im Rahmen großräumiger radioaktiver Kontaminationen erforderlich sind
+und diese dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zur
+Verfügung stehen.“
+67. Die Überschrift des § 37 lautet: „Behördliche Überwachung auf großräumige radioaktive Kontamina-
+tionen und Ermittlung des Radioaktivitätsgehaltes“.
+68. § 37 Abs. 1 lautet:
+„(1) Dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft obliegt die
+behördliche Überwachung auf großräumige radioaktive Kontaminationen in der Umwelt, insbesondere in
+Luft, in Niederschlägen, im Grundwasser, in oberirdischen Gewässern, in Abwässern, im Klärschlamm
+und im Boden. Weiters obliegt ihm die Ermittlung der Radioaktivität in Futtermitteln, in land- und forst-
+wirtschaftlichen Urprodukten, in Düngemitteln, in Rohstoffen, in Werkstoffen und in zur Wiederverwer-
+tung vorgesehenen Materialien und in Konsumgütern, die nicht dem Lebensmittelgesetz 1975 unterliegen.
+Dem Bundesminister für Gesundheit und Frauen obliegt die Ermittlung der Radioaktivität in Lebensmit-
+teln einschließlich Nahrungsergänzungsmitteln, Zusatzstoffen, kosmetischen Mitteln und Gebrauchsge-
+genständen im Sinne des Lebensmittelgesetzes – LMG 1975, BGBl. Nr. 86/1975. Diese Überwachungs-
+oder Überprüfungsmaßnahmen haben sich an den Erfordernissen des Strahlenschutzes unter Bedacht-
+nahme auf den jeweiligen Stand der Technik zu orientieren.
+Nach Maßgabe der Erfordernisse einer großräumigen Überwachung auf radioaktive Kontaminationen hat
+der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft ein Strahlenfrühwarn-
+system im Sinne des § 2 Abs. 41 einzurichten und zu betreiben. Daneben ist ein laborgestütztes Umwelt-
+überwachungssystem zu betreiben, in dem ergänzende Messungen anhand von Probenziehungen durchzu-
+führen sind. Sowohl flächendeckende routinemäßige als auch schwerpunktmäßige anlassbezogene Unter-
+suchungen sind durchzuführen. Dafür sind jene ausgegliederten Einheiten des Bundes heranzuziehen, bei
+denen der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft oder der Bun-
+desminister für Gesundheit und Frauen die Gesellschafterrechte wahrnehmen. Sonstige nach ihrem Auf-
+gabenbereich geeignete Institutionen sowie die Zentralanstalt für Meteorologie und Geodynamik haben
+die obengenannten Stellen bei der Probenbeschaffung zu unterstützen. Im Fall einer großräumigen radio-
+aktiven Kontamination zieht der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirt-
+schaft auch sonstige nach ihrem Aufgabenbereich geeignete Institutionen zur Unterstützung heran.
+Messeinrichtungen, die im Strahlenfrühwarnsystem oder im laborgestützten Umweltüberwachungssystem
+betrieben werden, sind vor ihrer Inbetriebnahme und in regelmäßig wiederkehrenden Zeitabständen ent-
+sprechend dem Stand der Technik zu kalibrieren. Für die Kalibrierung der Messeinrichtungen des Strah-
+lenfrühwarnsystems sowie des laborgestützten Umweltüberwachungssystems bedient sich der Bundesmi-
+nister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft akkreditierter Stellen oder des Bun-
+desamtes für Eich- und Vermessungswesen. Beim Betrieb von Strahlenfrühwarnsystem und laborgestütz-
+tem Umweltüberwachungssystem sind dem Stand der Technik entsprechende Maßnahmen der Qualitäts-
+sicherung und Qualitätskontrolle zu beachten. Das laborgestützte Umweltüberwachungssystem ist dar-
+über hinaus in entsprechende Ringversuche einzubinden.“
+69. § 37 Abs. 5 lautet:
+„(5) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat
+1. die im Rahmen der behördlichen Überwachung auf großräumige radioaktive Kontaminationen
+und des Radioaktivitätsgehaltes in Umwelt und Waren erhobenen Messdaten in einer zentralen
+Datenbank zu erfassen,
+2. Vorsorge zu treffen, dass die Messdaten den Ländern zugänglich sind und an einer von dem
+jeweiligen Bundesland zu bestimmenden Stelle die entsprechenden technischen Voraussetzungen
+geschaffen werden,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 16 von 19
+3. unter Mitwirkung des Bundesministers für Gesundheit und Frauen die erhobenen Daten hinsicht-
+lich eines möglichen Strahlenrisikos zu bewerten und insbesondere im Fall einer großräumigen
+radioaktiven Kontamination diese Bewertung den in Betracht kommenden Stellen mitzuteilen,
+4. aufgrund der Bewertung der Umweltüberwachung sowie der Ergebnisse der Entscheidungshilfe-
+systeme Empfehlungen für Schutz- und Sicherungsmaßnahmen zu erstellen und den zuständigen
+Behörden zur Kenntnis zu bringen,
+5. unter Mitwirkung des Bundesministers für Gesundheit und Frauen in regelmäßigen Abständen
+einen Bericht über die Abschätzung der Exposition der Bevölkerung in ihrer Gesamtheit sowie
+für Bezugsbevölkerungsgruppen unter Berücksichtigung der effektiven Übertragungswege der
+radioaktiven Stoffe zu erstellen und der Bevölkerung zugänglich zu machen,
+6. darüber hinaus die Bevölkerung in angemessener Weise über die im Bundesgebiet erhobenen
+Messdaten und die daraus abgeleiteten Bewertungen und Maßnahmenempfehlungen zu informie-
+ren, wobei Umfang und Form der Information durch Verordnung festzulegen sind.“
+70. Nach § 38a wird folgender IVa.Teil samt Überschrift eingefügt:
+„IVa. TEIL
+Schutz der Bevölkerung vor natürlichen radioaktiven Stoffen
+Erhöhte Radonkonzentration in Wohnräumen
+§ 38b. (1) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft sam-
+melt alle verfügbaren Daten über die Radongaskonzentrationen in Wohnräumen, die aufgrund von reprä-
+sentativen Messungen für das gesamte Bundesgebiet bisher ermittelt wurden.
+(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft erfasst die ge-
+sammelten Daten in einer zentralen Datenbank. Aus diesen Daten wird Kartenmaterial über Gebiete mit
+erhöhter Radongaskonzentration erstellt und der Öffentlichkeit zur Information zugänglich gemacht.
+Weiters werden aus diesen Daten Empfehlungen für die Bevölkerung zur Reduzierung der Exposition
+durch erhöhte Radonkonzentration in Wohnräumen erstellt.
+(3) Zu sämtlichen Informationen gemäß Abs. 2 ermöglicht der Bundesminister für Land- und Forst-
+wirtschaft, Umwelt und Wasserwirtschaft den Ländern einen geeigneten elektronischen Zugang.
+(4) Für die Erfassung der gesammelten Daten und deren allfällige Verdichtung sowie zur Informati-
+on der Bevölkerung über die im Bundesgebiet gesammelten Daten und die daraus abgeleiteten Bewertun-
+gen und Maßnahmenempfehlungen bedient sich der Bundesminister für Land- und Forstwirtschaft, Um-
+welt und Wasserwirtschaft jener ausgegliederten Einheiten des Bundes, bei denen er die Gesellschafter-
+rechte wahrnimmt, wobei er auch sonstige nach ihrem Aufgabenbereich geeignete Institutionen zur Un-
+terstützung heranzieht.
+(5) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft kann hinsicht-
+lich einer angemessenen Information der Bevölkerung deren Umfang und Form durch Verordnung festle-
+gen.“
+71. Im § 39 wird vor dem bisherigen Abs. 1 folgender neuer Abs. 1 eingefügt:
+„(1) Sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren
+Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist,
+begeht eine Verwaltungsübertretung und ist mit einer Geldstrafe von 10 000 Euro bis zu 50 000 Euro zu
+bestrafen, wer vorsätzlich rechtswidrig mit radioaktiven Stoffen umgeht und somit den Tatbestand des
+§ 26a erfüllt. Der Versuch ist strafbar.“
+Die bisherigen Abs. 1 bis 7 erhalten die Bezeichnungen „(2)“ bis „(8)“.
+72. Der letzte Satz im nunmehrigen § 39 Abs. 2 lautet:
+„Wer die Tatbestände der Z 2 bis 7 dadurch verwirklicht, dass er mit hoch radioaktiven Strahlenquellen
+umgeht, ist mit einer Geldstrafe von mindestens 15 000 Euro zu bestrafen, wer den Tatbestand der Z 4
+dadurch verwirklicht, dass er radioaktiv kontaminierte oder durch Beschuss mit Neutronen, Protonen oder
+anderen Teilchen radioaktiv gemachte Waren in Verkehr bringt, ist mit einer Geldstrafe von mindestens
+7 500 Euro zu bestrafen.“
+73. Im nunmehrigen § 39 Abs. 3 Z 3 werden die Worte „§§ 5 Abs. 3, 6 Abs. 3, 7 Abs. 3, 8 oder 10 Abs. 4“
+durch die Worte „§§ 5 Abs. 3, 6 Abs. 3, 7 Abs. 3, 8 Abs. 1 oder 10 Abs. 4“ ersetzt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 17 von 19
+74. Im nunmehrigen § 39 Abs. 3 Z 6 wird der Verweis „§ 10 Abs. 8“ durch „§ 10 Abs. 9“ ersetzt.
+75. Im nunmehrigen § 39 Abs. 3 Z 20 werden die Worte „hochaktiver radioaktiver Strahlenquellen“ durch
+die Worte „hoch radioaktiver Strahlenquellen“ ersetzt.
+76. Im nunmehrigen § 39 Abs. 3 wird nach der Z 28 folgende Z 29 eingefügt:
+„29. den Bestimmungen des § 34 Abs. 1 bis 4 zuwiderhandelt,“;
+Die bisherigen Z 29 bis 31 erhalten die Bezeichnungen „30.“ bis „32.“.
+77. Im nunmehrigen § 39 Abs. 4 Z 4 wird der Verweis „§ 25 Abs. 2“ durch „§ 25 Abs. 2 oder 6“ ersetzt.
+78. Im nunmehrigen § 39 Abs. 4 Z 7 wird der Punkt nach dem Wort „zuwiderhandelt“ durch einen Bei-
+strich ersetzt.
+79. Dem nunmehrigen § 39 Abs. 4 wird folgende Z 8 angefügt:
+„8. der Verpflichtung gemäß § 40 Abs. 4 zuwiderhandelt.“
+80. Der § 39 Abs. 5 lautet:
+„(5) Sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren
+Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht ist,
+begeht eine Verwaltungsübertretung und ist mit einer Geldstrafe bis zu 750 Euro zu bestrafen, wer
+1. die Meldepflicht gemäß § 10a Abs. 1 nicht erfüllt,
+2. die Meldepflicht gemäß § 25 Abs. 1 nicht erfüllt,
+3. es entgegen den Bestimmungen des § 25 Abs. 3 unterlässt, externe Arbeitskräfte zu melden,
+4. es entgegen den Bestimmungen des § 26 Abs. 1 oder 2 unterlässt, den Verlust oder Fund von
+radioaktiven Stoffen zu melden, soferne es sich nicht um den Verlust von hoch radioaktiven
+Strahlenquellen handelt,
+5. entgegen den Bestimmungen des § 27 Abs. 2 Kennzeichnungen für radioaktive Stoffe oder deren
+Behältnisse missbräuchlich verwendet,
+6. der Verpflichtung des § 32 Abs. 5 zuwiderhandelt,
+7. der Verpflichtung des § 35a Abs. 5 zuwiderhandelt,
+8. der Verpflichtung des § 35d zuwiderhandelt,
+9. der Verpflichtung des § 35f Abs. 2 zuwiderhandelt,
+10. der Verpflichtung des § 36g Abs. 4 zuwiderhandelt,
+11. der Verpflichtung des § 36i Abs. 2 zuwiderhandelt,
+12. wer Vorschriften dieses Bundesgesetzes oder aufgrund dieses Bundesgesetzes erlassenen Vor-
+schriften zuwiderhandelt, die zu seinem Schutz erlassen worden sind.“
+81. Im nunmehrigen § 39 Abs. 7 und 8 wird jeweils der Verweis „Abs. 5“ durch „Abs. 6“ ersetzt.
+82. Im § 40 Abs. 2 wird der Verweis „§ 34 Abs. 3“ durch „§ 34 Abs. 5“ ersetzt.
+83. Dem § 40 werden folgende Abs. 3 und 4 angefügt:
+„(3) Die Verpflichtung zur Beibringung der vorläufigen Sicherheitsanalyse, endgültigen Sicherheits-
+analyse, Sicherheitsanalyse, Störfallanalyse oder Notfallplanung gemäß §§ 5 Abs. 5, 6 Abs. 5, 7 Abs. 5,
+10 Abs. 5, 19 Abs. 3 oder 20 Abs. 3 wird bis zum 1. Juli 2005 ausgesetzt.
+(4) Wer am 30. Juni 2005 Inhaber einer rechtskräftigen Bewilligung gemäß §§ 5, 6, 7 oder 10 oder
+einer Bauartzulassung gemäß §§ 19 oder 20 ist, hat die Sicherheitsanalysen, Störfallanalysen und Notfall-
+planungen gemäß §§ 5 Abs. 5, 6 Abs. 5, 7 Abs. 5, 10 Abs. 5, 19 Abs. 3 oder 20 Abs. 3 bis zum
+31. Dezember 2008 bei der zuständigen Behörde nachzureichen.“
+84. § 41 samt Überschrift lautet:
+„Zuständigkeiten
+§ 41. (1) Zur Vollziehung der Teile I bis III dieses Bundesgesetzes, der auf Grund desselben erlasse-
+nen Verordnungen und des auf dem Gebiete des Strahlenschutzrechtes unmittelbar anwendbaren Rechtes
+der Europäischen Gemeinschaft ist in erster Instanz zuständig:
+1. Der Bundesminister hinsichtlich
+a) der Kernreaktoren,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 18 von 19
+b) des Umganges mit radioaktiven Stoffen, soweit es sich um die Herstellung von Kernbrennstof-
+fen, die Aufbereitung bestrahlter Kernbrennstoffe oder die Verbringung radioaktiver Abfälle
+sowie um Anlagen für die Behandlung, Konditionierung, Zwischenlagerung und Beseitigung
+radioaktiver Abfälle handelt,
+c) der Teilchenbeschleuniger, sofern sie nicht im Rahmen gewerblicher Betriebsanlagen betrie-
+ben werden,
+d) der Zulassung von Bauarten (§§ 19, 20 und 20b),
+e) der Ermächtigungen nach § 35,
+f) der Angelegenheiten des Strahlenschutzpasses (§ 35f),
+g) der Angelegenheiten der Zentralen Register,
+h) des internationalen Datenaustausches und des Informationsaustausches mit ausländischen
+Stellen in Fällen großräumiger Kontamination,
+i) der zentralen Registrierung der Ein-, Aus- und Durchfuhr radioaktiver Stoffe,
+j) der Verbringung radioaktiver Stoffe als Kontaktbehörde gemäß Art. 8 der Verordnung
+(EURATOM) Nr. 1493/93 des Rates vom 8. Juni 1993.
+k) der Berichte an die EU-Kommission,
+l) der Angelegenheiten der Strahlenschutzkommission,
+m) der Anerkennung von Ausbildungsstellen für Strahlenschutzbeauftragte und Medizinphysiker
+und
+n) der besonderen Regelungen für den Umgang mit Strahlenquellen im militärischen Bereich
+(§ 26b).
+2. unbeschadet der Z 1
+a) für Betriebe, die dem Mineralrohstoffgesetz, BGBl. I Nr. 38/1999, unterliegen, die gemäß dem
+Mineralrohstoffgesetz zuständigen Behörden,
+b) auf den Gebieten des Eisenbahn-, Luft- und Schiffsverkehrs die nach den für diese Gebiete
+maßgeblichen Rechtsvorschriften in erster Instanz zuständigen Behörden,
+3. in allen übrigen Fällen die Bezirksverwaltungsbehörden.
+(2) Sind für Teile einer Anlage mehrere Behörden in erster Instanz zuständig, so ist für die gesamte
+Anlage die jeweils oberste Behörde in erster Instanz zuständig.
+(3) Über Berufungen gegen Entscheidungen gemäß Abs. 1 Z 2 entscheidet die nach den dort genann-
+ten Verwaltungsvorschriften zuständige Rechtsmittelbehörde. Über Berufungen gegen Entscheidungen
+gemäß Abs. 1 Z 3 entscheidet der Unabhängige Verwaltungssenat.
+(4) Zuständiger Bundesminister im Sinne des Abs. 1 Z 1 ist
+1. der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, soweit nicht
+die nachstehenden Z 2 bis 4 zur Anwendung gelangen,
+2. der Bundesminister für Bildung, Wissenschaft und Kultur für die Kernanlagen und Teilchenbe-
+schleuniger im Bereich der Universitäten und der Forschungsinstitute der österreichischen Aka-
+demie der Wissenschaften im Einvernehmen mit dem Bundesminister für Land- und Forstwirt-
+schaft, Umwelt und Wasserwirtschaft,
+3. der Bundesminister für Gesundheit und Frauen für die Teilchenbeschleuniger im medizinischen
+Bereich, die Bauartzulassungen von Geräten, die zur Anwendung in der Medizin bestimmt sind,
+die Ermächtigungen gemäß § 35 und die Anerkennung der Ausbildung von Medizinphysikern,
+4. der Bundesminister für Landesverteidigung im Einvernehmen mit dem Bundesminister für Land-
+und Forstwirtschaft, Umwelt und Wasserwirtschaft hinsichtlich der besonderen Regelungen für
+den Umgang mit Strahlenquellen im militärischen Bereich (§ 26b).
+(5) Zur Vollziehung des V. Teiles dieses Bundesgesetzes ist in erster Instanz die Bezirksverwal-
+tungsbehörde zuständig, sofern es sich aber um Betriebe handelt, die dem Mineralrohstoffgesetz, BGBl. I
+Nr. 38/1999, unterliegen, die gemäß dem Mineralrohstoffgesetz zuständige Behörde.
+(6) Die Aufgaben und Befugnisse der zur Wahrnehmung des Arbeitnehmerschutzes berufenen Be-
+hörden werden durch dieses Bundesgesetz nicht berührt.
+(7) Die Aufgaben und Befugnisse der Behörden nach den Bestimmungen des Wasserrechtes, Forst-
+rechtes und des Pflanzenschutzes sowie auf dem Gebiete der Elektrizitätswirtschaft werden durch dieses
+Bundesgesetz nicht berührt.“
+85. Der bisherige § 42a erhält die Bezeichnung „§ 41a“.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 10. Dezember 2004 – Nr. 137 19 von 19
+86. Dem § 42 wird folgender Abs. 4 angefügt:
+„(4) § 1 Abs. 1, 5 und 6, § 2, § 4 Abs. 4, § 5 Abs. 2 und 5, die Überschrift vor § 6, § 6 Abs. 3, 5 und
+8, die Überschrift vor § 7, § 7 Abs. 2, 3, 5 und 8, § 8, § 10 Abs. 2, 4, 5, 8, 9 und 10, § 10a, § 11, § 13
+Abs. 1, § 17 Abs 1 bis 3, § 18 Abs. 1, § 19 Abs. 2 und 3, § 20 Abs. 2 und 3, § 24, § 25 Abs. 5 und 6, § 26,
+§ 26a samt Überschrift, § 26b, § 34, § 34a samt Überschrift, § 35a, § 35b, § 35e, § 35f Abs. 5 bis 8, § 36
+Abs. 1 und 3, § 36b Abs. 1 und 3, § 36c Abs. 1 und 2, § 36d, § 36f Abs. 1, 2 und 8, § 36k Abs. 2 bis 4, die
+Überschrift vor § 36l, § 36l Abs. 2 und 3, die Überschrift vor § 37, § 37 Abs. 1 und 5, § 38 Abs. 1, der
+IVa. Teil samt Überschrift, § 39, § 40 Abs. 2 bis 4, § 41 samt Überschrift, § 41a, § 42 Abs. 4, § 43 Abs. 2,
+3 und 6 in der Fassung des Strahlenschutz-EU-Anpassungsgesetzes 2004, BGBl. I Nr. 137/2004, treten
+mit der Kundmachung in Kraft; gleichzeitig tritt § 42a außer Kraft. Die zum In-Kraft-Tretens-Zeitpunkt
+anhängigen Verfahren sind nach der vorher geltenden Rechtslage weiterzuführen.“
+87. Im § 43 Abs. 2 werden die Worte „Bundesminister für soziale Sicherheit und Generationen“ durch die
+Worte „Bundesminister für Gesundheit und Frauen“ ersetzt.
+88. Im § 43 Abs. 3 wird der Verweis „§ 26a“ durch „§ 26b“ ersetzt.
+89. Im § 43 Abs. 6 Z 3 wird der Verweis „§ 36k Abs. 2“ durch „§ 36k Abs. 2 und 3“ ersetzt.
+Artikel 2
+Änderung des Maß- und Eichgesetzes
+Das Maß- und Eichgesetz, BGBl. Nr. 152/1950, zuletzt geändert durch das Bundesgesetz BGBl. I
+Nr. 146/2002, wird wie folgt geändert:
+1. § 8 Abs. 1 Z 11 und 12 lautet:
+„11. Dosimeter für Photonenstrahlung, die im Strahlenschutz verwendet werden (Strahlenschutzdosi-
+meter), sofern es sich nicht um Meßanlagen des Strahlenfrühwarnsystems im Sinne des § 37
+Abs. 1 StrSchG handelt oder sie nicht der meßtechnischen Kontrolle gemäß § 12b unterliegen,
+12. Meßgeräte zur Bestimmung der Aktivität von Radionukliden, sofern es sich nicht um Meßanla-
+gen des Strahlenfrühwarnsystems im Sinne des § 37 Abs. 1 StrSchG handelt.“
+2. Dem § 71 wird folgender Abs. 3 angefügt:
+„(3) Der § 8 Abs. 1 Z 11 und 12 in der Fassung des Strahlenschutz-EU-Anpassungsgesetzes 2004,
+BGBl. I Nr. 137/2004, tritt mit der Kundmachung in Kraft.“
+Fischer
+Schüssel
+www.ris.bka.gv.at

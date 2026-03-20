@@ -1,0 +1,454 @@
+1 von 10
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 30. Dezember 2004 Teil I
+161. Bundesgesetz: Rechnungslegungsänderungsgesetz 2004 - ReLÄG 2004
+(NR: GP XXII RV 677 AB 739 S. 90. BR: AB 7165 S. 717.)
+[CELEX-Nr.: 32003L0051, 32003L0038]
+161. Bundesgesetz, mit dem das Handelsgesetzbuch, das Bankwesengesetz, das
+Versicherungsaufsichtsgesetz, das Wertpapieraufsichtsgesetz, das Pensionskassengesetz,
+das Betriebliche Mitarbeitervorsorgegesetz und das Nationalbankgesetz 1984 an die IAS -
+Verordnung angepasst und die Modernisierungs- sowie die Schwellenwertrichtlinie
+umgesetzt und das Firmenbuchgesetz, das Aktiengesetz sowie das GmbH-Gesetz geändert
+werden (Rechnungslegungsänderungsgesetz 2004 - ReLÄG 2004)
+Der Nationalrat hat beschlossen:
+Artikel I
+Änderung des Handelsgesetzbuchs
+Das Handelsgesetzbuch, DRGBl. 1897 S 219, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 14/2004, wird wie folgt geändert:
+1. § 27 Abs. 2 HGB lautet:
+„(2) Die unbeschränkte Haftung tritt nicht ein, wenn die Fortführung des Unternehmens innerhalb
+von drei Monaten nach Einantwortung eingestellt oder die Haftung in sinngemäßer Anwendung des § 25
+Abs. 2 ausgeschlossen wird. Ist der Erbe nicht eigenberechtigt und ist für ihn kein gesetzlicher Vertreter
+bestellt, so endet diese Frist nicht vor dem Ablauf von drei Monaten seit der Bestellung eines gesetzlichen
+Vertreters oder seit dem Eintritt der unbeschränkten Handlungsfähigkeit des Erben.“
+1a. § 221 wird wie folgt geändert:
+a) In Abs. 1 Z 1 wird der Betrag „3,125“ durch den Betrag „3,65“ und in Z 2 der Betrag „6,250“ durch
+den Betrag „7,3“ ersetzt.
+b) In Abs. 2 Z 1 wird der Betrag „12,5“ durch den Betrag „14,6“ und in Z 2 der Betrag „25“ durch den
+Betrag „29,2“ ersetzt.
+c) Abs. 3 lautet:
+„(3) Große Kapitalgesellschaften sind solche, die mindestens zwei der drei in Abs. 2 bezeichneten
+Merkmale überschreiten. Eine Kapitalgesellschaft gilt stets als groß, wenn Aktien oder andere von ihr
+ausgegebene Wertpapiere an einem geregelten Markt im Sinne des § 2 Z 37 BWG oder an einem
+anerkannten, für das Publikum offenen, ordnungsgemäß funktionierenden Wertpapiermarkt in einem
+Vollmitgliedstaat der OECD zum Handel zugelassen sind.“
+d) Abs. 7 lautet:
+„(7) Der Bundesminister für Justiz wird ermächtigt, in Umsetzung von Rechtsvorschriften der
+Europäischen Union durch Verordnung an Stelle der in Abs. 1 und 2 angeführten Merkmale andere
+Zahlen festzusetzen.“
+2. In § 228 Abs. 3 letzter Satz wird der Ausdruck „§§ 248 oder 249“ durch den Ausdruck „§ 249“ ersetzt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 2 von 10
+3. § 231 Abs. 2 Z 6 lit. c lautet:
+„c) Aufwendungen für Abfertigungen und Leistungen an betriebliche Mitarbeitervorsorgekassen,“
+4. In § 237 Z 12 wird der Punkt durch einen Strichpunkt ersetzt. Folgende Z 13 wird angefügt:
+„13. die im Posten § 231 Abs. 2 Z 6 lit. c enthaltenen Aufwendungen für Abfertigungen oder ein
+Hinweis, dass der Posten nur mehr aus Leistungen an betriebliche Mitarbeitervorsorgekassen
+besteht.“
+5. § 243 lautet:
+„§ 243. (1) Im Lagebericht sind der Geschäftsverlauf, einschließlich des Geschäftsergebnisses, und
+die Lage des Unternehmens so darzustellen, dass ein möglichst getreues Bild der Vermögens-, Finanz-
+und Ertragslage vermittelt wird, und die wesentlichen Risiken und Ungewissheiten, denen das
+Unternehmen ausgesetzt ist, zu beschreiben.
+(2) Der Lagebericht hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der
+Geschäftstätigkeit angemessene Analyse des Geschäftsverlaufs, einschließlich des Geschäftsergebnisses,
+und der Lage des Unternehmens zu enthalten. Abhängig von der Größe des Unternehmens und von der
+Komplexität des Geschäftsbetriebs hat die Analyse auf die für die jeweilige Geschäftstätigkeit
+wichtigsten finanziellen Leistungsindikatoren einzugehen und sie unter Bezugnahme auf die im
+Jahresabschluss ausgewiesenen Beträge und Angaben zu erläutern.
+(3) Der Lagebericht hat auch einzugehen auf
+1. Vorgänge von besonderer Bedeutung, die nach dem Schluss des Geschäftsjahrs eingetreten sind;
+2. die voraussichtliche Entwicklung des Unternehmens;
+3. den Bereich Forschung und Entwicklung;
+4. bestehende Zweigniederlassungen der Gesellschaft;
+5. die Verwendung von Finanzinstrumenten, sofern dies für die Beurteilung der Vermögens-,
+Finanz- und Ertragslage von Bedeutung ist; diesfalls sind anzugeben
+a) die Risikomanagementziele und -methoden, einschließlich der Methoden zur Absicherung
+aller wichtigen Arten geplanter Transaktionen, die im Rahmen der Bilanzierung von
+Sicherungsgeschäften angewandt werden, und
+b) bestehende Preisänderungs-, Ausfall-, Liquiditäts- und Cashflow-Risiken.
+(4) Kleine Gesellschaften mit beschränkter Haftung (§ 221 Abs. 1) brauchen den Lagebericht nicht
+aufzustellen.
+(5) Für große Kapitalgesellschaften umfasst die Analyse nach Abs. 2 letzter Satz auch die
+wichtigsten nichtfinanziellen Leistungsindikatoren, einschließlich Informationen über Umwelt- und
+Arbeitnehmerbelange. Abs. 3 bleibt unberührt.“
+6. Dem § 245 wird folgender Abs. 5 angefügt:
+„(5) Die Befreiung nach Abs. 1 darf nicht in Anspruch genommen werden, wenn von dem zu
+befreienden Tochterunternehmen Aktien oder andere von ihm ausgegebene Wertpapiere an einem
+geregelten Markt im Sinne des § 2 Z 37 BWG oder an einem anerkannten, für das Publikum offenen,
+ordnungsgemäß funktionierenden Wertpapiermarkt in einem Vollmitgliedstaat der OECD zum Handel
+zugelassen sind.“
+7. § 245a lautet:
+„Konzernabschlüsse nach international anerkannten Rechnungslegungsgrundsätzen
+§ 245a. (1) Ein Mutterunternehmen, das nach Art. 4 der Verordnung (EG) Nr. 1606/2002 betreffend
+die Anwendung internationaler Rechnungslegungsstandards, Abl. Nr. L 243 vom 11.9.2002 S.1, dazu
+verpflichtet ist, den Konzernabschluss nach den internationalen Rechnungslegungsstandards aufzustellen,
+die nach Art. 3 der Verordnung übernommen wurden, hat dabei die §§ 193 Abs. 4 zweiter Halbsatz und
+194 sowie von den Vorschriften des zweiten bis neunten Titels die §§ 247 Abs. 3, 265 Abs. 2 bis 4, 266
+Z 4, 5 und 7 und 267 anzuwenden.
+(2) Ein Mutterunternehmen, das nicht unter Abs. 1 fällt, kann den Konzernabschluss nach den
+Rechnungslegungsvorschriften in Abs. 1 aufstellen.
+(3) Ein Mutterunternehmen, das einen Konzernabschluss nach den in Abs. 1 bezeichneten
+Rechnungslegungsstandards aufstellt, hat bei der Offenlegung ausdrücklich darauf hinzuweisen, dass es
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 3 von 10
+sich um einen nach den in Abs. 1 bezeichneten Rechnungslegungsstandards aufgestellten
+Konzernabschluss und Konzernlagebericht handelt.“
+8. § 246 wird wie folgt geändert:
+a) in Abs. 1 Z 1 lit. a) wird der Betrag „15“ durch den Betrag „17,52“ und in lit. b) der Betrag „30“ durch
+den Betrag „35,04“ ersetzt.
+b) in Abs. 1 Z 2 lit. a) wird der Betrag „12,5“ durch den Betrag „14,6“ und in lit. b) der Betrag „25“
+durch den Betrag „29,2“ ersetzt.
+c) Abs. 3 lautet:
+„(3) Abs. 1 ist nicht anzuwenden, wenn am Abschlussstichtag Aktien oder andere von dem
+Mutterunternehmen oder einem in den Konzernabschluss des Mutterunternehmens einbezogenen
+Tochterunternehmen ausgegebene Wertpapiere an einem geregelten Markt im Sinne des § 2 Z 37 BWG
+oder an einem anerkannten, für das Publikum offenen, ordnungsgemäß funktionierenden
+Wertpapiermarkt in einem Vollmitgliedstaat der OECD zum Handel zugelassen sind.“
+9. In § 247 Abs. 1 und § 265 Abs. 2 Z 1 wird der Ausdruck „gemäß den §§ 248 ff.“ durch den Ausdruck
+„gemäß § 249“ ersetzt.
+10. § 248 entfällt.
+11. § 250 Abs. 1 lautet:
+„(1) Der Konzernabschluss besteht aus der Konzernbilanz, der Konzern-Gewinn- und
+Verlustrechnung, dem Konzernanhang, der Konzernkapitalflussrechnung und einer Darstellung der
+Komponenten des Eigenkapitals und ihrer Entwicklung. Er kann um die Segmentberichterstattung
+erweitert werden.“
+12. § 260 Abs. 3 entfällt.
+13. § 267 lautet:
+„§ 267. (1) Im Konzernlagebericht sind der Geschäftsverlauf, einschließlich des
+Geschäftsergebnisses, und die Lage des Konzerns so darzustellen, dass ein möglichst getreues Bild der
+Vermögens-, Finanz- und Ertragslage vermittelt wird, und die wesentlichen Risiken und Ungewissheiten,
+denen der Konzern ausgesetzt ist, zu beschreiben.
+(2) Der Konzernlagebericht hat eine ausgewogene und umfassende, dem Umfang und der
+Komplexität der Geschäftstätigkeit angemessene Analyse des Geschäftsverlaufs, einschließlich des
+Geschäftsergebnisses, und der Lage des Konzerns zu enthalten. Abhängig von der Größe des Konzerns
+und von der Komplexität des Geschäftsbetriebs der einbezogenen Unternehmen hat die Analyse auf die
+für die jeweilige Geschäftstätigkeit wichtigsten finanziellen und nichtfinanziellen Leistungsindikatoren,
+einschließlich Informationen über Umwelt- und Arbeitnehmerbelange, einzugehen und sie unter
+Bezugnahme auf die im Konzernabschluss ausgewiesenen Beträge und Angaben zu erläutern.
+(3) Der Konzernlagebericht hat auch einzugehen auf
+1. Vorgänge von besonderer Bedeutung, die nach dem Schluss des Konzerngeschäftsjahrs
+eingetreten sind;
+2. die voraussichtliche Entwicklung des Konzerns;
+3. den Bereich Forschung und Entwicklung des Konzerns;
+4. die Verwendung von Finanzinstrumenten, sofern dies für die Beurteilung der Vermögens-,
+Finanz- und Ertragslage von Bedeutung ist; diesfalls sind anzugeben
+a) die Risikomanagementziele und -methoden, einschließlich der Methoden zur Absicherung
+aller wichtigen Arten geplanter Transaktionen, die im Rahmen der Bilanzierung von
+Sicherungsgeschäften angewandt werden, und
+b) bestehende Preisänderungs-, Ausfall-, Liquiditäts- und Cashflow-Risiken.
+(4) § 251 Abs. 3 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend
+anzuwenden.“
+14. § 274 lautet:
+„§ 274. (1) Der Abschlussprüfer hat das Ergebnis seiner Prüfung in einem Bestätigungsvermerk zum
+Jahresabschluss oder Konzernabschluss zusammenzufassen. Der Bestätigungsvermerk umfasst
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 4 von 10
+1. eine Einleitung, die zumindest angibt, welcher Jahresabschluss beziehungsweise
+Konzernabschluss Gegenstand der gesetzlichen Abschlussprüfung ist und nach welchen
+Rechnungslegungsgrundsätzen er aufgestellt wurde,
+2. eine Beschreibung der Art und des Umfanges der gesetzlichen Abschlussprüfung, die zumindest
+Angaben über die Prüfungsgrundsätze enthält, nach denen die Prüfung durchgeführt wurde,
+sowie
+3. ein Prüfungsurteil, das zweifelsfrei ergibt, ob
+a) ein uneingeschränkter Bestätigungsvermerk erteilt,
+b) ein eingeschränkter Bestätigungsvermerk erteilt,
+c) der Bestätigungsvermerk auf Grund von Einwendungen versagt oder
+d) der Bestätigungsvermerk deshalb versagt wird, weil der Abschlussprüfer nicht in der Lage ist,
+ein Prüfungsurteil abzugeben.
+(2) In einem uneingeschränkten Bestätigungsvermerk (Abs. 1 Z 3 lit. a) hat der Abschlussprüfer zu
+erklären, dass die von ihm nach § 269 durchgeführte Prüfung zu keinen Einwendungen geführt hat und
+dass der geprüfte Jahres- oder Konzernabschluss auf Grund der bei der Prüfung gewonnenen Erkenntnisse
+des Abschlussprüfers den gesetzlichen Vorschriften entspricht und unter Beachtung der Grundsätze
+ordnungsmäßiger Buchführung oder sonstiger maßgeblicher Rechnungslegungsgrundsätze ein möglichst
+getreues Bild der Vermögens-, Finanz- und Ertragslage des Unternehmens oder des Konzerns vermittelt.
+Der uneingeschränkte Bestätigungsvermerk ist in geeigneter Weise zu ergänzen, wenn zusätzliche
+Bemerkungen erforderlich erscheinen, um einen falschen Eindruck über den Inhalt der Prüfung und die
+Tragweite des Bestätigungsvermerks zu vermeiden.
+(3) Sind Einwendungen zu erheben, so hat der Abschlussprüfer seine Erklärung nach Abs. 2 erster
+Satz einzuschränken (Abs. 1 Z 3 lit. b) oder den Bestätigungsvermerk zu versagen (Abs. 1 Z 3 lit. c). Die
+Versagung ist in einen Vermerk, der nicht als Bestätigungsvermerk zu bezeichnen ist, aufzunehmen. Die
+Einschränkung oder Versagung ist zu begründen. Ein eingeschränkter Bestätigungsvermerk darf nur
+erteilt werden, wenn der geprüfte Abschluss unter Beachtung der vom Abschlussprüfer vorgenommenen,
+in ihrer Tragweite erkennbaren Einschränkung ein im Wesentlichen getreues Bild der Vermögens-,
+Finanz- und Ertragslage vermittelt.
+(4) Der Bestätigungsvermerk ist auch dann zu versagen, wenn der Abschlussprüfer nach
+Ausschöpfung aller angemessenen Möglichkeiten zur Klärung des Sachverhalts nicht in der Lage ist, ein
+Prüfungsurteil abzugeben (Abs. 1 Z 3 lit. d).
+(5) Der Bestätigungsvermerk enthält auch ein Urteil, ob der Lagebericht oder der
+Konzernlagebericht nach dem Urteil des Abschlussprüfers mit dem Jahresabschluss oder mit dem
+Konzernabschluss in Einklang steht.
+(6) Der Abschlussprüfer hat den Bestätigungsvermerk oder den Vermerk über seine Versagung unter
+Angabe von Ort und Tag zu unterzeichnen. Der Bestätigungsvermerk oder der Vermerk über seine
+Versagung ist auch in den Prüfungsbericht aufzunehmen.“
+15. Dem § 906 werden folgende Abs. 11 und 12 angefügt:
+„(11) Die §§ 221 Abs. 1 bis 3 und 7, 228 Abs. 3, 243, 245 Abs. 5, 245a, 246 Abs. 1 und 3,
+247 Abs. 1, 250 Abs. 1, 265 Abs. 2 Z 1, 267 und 274 in der Fassung des Bundesgesetzes BGBl. I Nr.
+161/2004 treten mit 1. Jänner 2005 in Kraft. Sie sind für Geschäftsjahre anzuwenden, die nach dem
+31. Dezember 2004 beginnen. Für den Eintritt der Rechtsfolgen der §§ 221 Abs. 1 und 2, sowie 246
+Abs. 1 sind die geänderten Größenmerkmale auch für Beobachtungszeiträume nach §§ 221 Abs. 4 und
+246 Abs. 2 anzuwenden, die vor diesem Zeitpunkt liegen. Die §§ 248 und 260 Abs. 3 treten mit 1. Jänner
+2005 außer Kraft.
+(12) Art. 4 der Verordnung (EG) Nr. 1606/2002 betreffend die Anwendung internationaler
+Rechnungslegungsstandards, Abl. Nr. L 243 vom 11.9.2002 S.1, muss von Unternehmen, von denen
+lediglich Schuldtitel zum Handel an einem geregelten Markt im Sinne des § 2 Z 37 BWG zugelassen
+sind, erst für Geschäftsjahre angewendet werden, die nach dem 31. Dezember 2006 beginnen. Dasselbe
+gilt für Unternehmen, deren Wertpapiere zum öffentlichen Handel in einem Nichtmitgliedstaat der EU
+zugelassen sind und die zu diesem Zweck seit einem Geschäftsjahr, das vor dem 11. September 2002
+begonnen hat, international anerkannte Rechnungslegungsstandards anwenden. In diesen Fällen ist § 245a
+HGB in der Fassung des Bundesgesetzes BGBl. I Nr. 49/1999 weiterhin anwendbar.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 5 von 10
+Artikel II
+Änderung des Bankwesengesetzes
+Das Bankwesengesetz, BGBl. Nr. 532/1993, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 70/2004, wird wie folgt geändert:
+1. In § 43 Abs. 1 entfällt der Ausdruck „248,“.
+2. In § 44 Abs. 1 wird jeweils der Ausdruck „§ 59a Abs. 1“ durch den Ausdruck „§ 59a“ ersetzt.
+3. § 59a lautet:
+„§ 59a. Ein übergeordnetes Kreditinstitut, das einen Konzernabschluss nach international
+anerkannten Rechnungslegungsgrundsätzen gemäß § 245a Abs. 1 oder 2 HGB aufstellt, hat die
+Anforderungen des § 245a Abs. 1 und 3 HGB zu erfüllen sowie die Angaben gemäß § 64 Abs. 1 Z 1 bis
+15 und Abs. 2 in den Konzernanhang aufzunehmen.“
+4. § 65 Abs. 1 lautet:
+„(1) Die Kreditinstitute haben den Jahresabschluss und den Konzernabschluss nach §§ 59 und 59a
+unverzüglich nach der Feststellung im Amtsblatt zur Wiener Zeitung oder in einem allgemein erhältlichen
+Bekanntmachungsblatt zu veröffentlichen. Der Jahresabschluss, der Lagebericht sowie der
+Konzernabschluss und der Konzernlagebericht gemäß §§ 59 und 59a sind bis zum Ende des dritten dem
+Geschäftsjahr folgenden Kalenderjahres am Sitz des Kreditinstitutes für jedermann zur Einsichtnahme
+bereitzuhalten.“
+5. In § 103 werden folgende Z 28c und 28d eingefügt:
+„28c. Die §§ 43 Abs. 1, 44 Abs. 1, 59a und 65 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I
+Nr. 161/2004 sind erstmals für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2004
+beginnen.
+28d. § 59a in der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 muss von übergeordneten
+Kreditinstuten, von denen lediglich Schuldtitel zum Handel an einem geregelten Markt im Sinne
+des § 2 Z 37 BWG zugelassen sind oder deren Wertpapiere zum öffentlichen Handel in einem
+Nichtmitgliedstaat zugelassen sind und die zu diesem Zweck seit einem Geschäftsjahr, das vor
+dem 11. September 2002 begonnen hat, international anerkannte Standards anwenden, erst für
+Geschäftsjahre angewandt werden, die nach dem 31. Dezember 2006 beginnen. In diesem Fall ist
+§ 59a in der Fassung des Bundesgesetzes BGBl. I Nr. 97/2001 weiterhin anwendbar.“
+6. Dem § 107 wird folgender Abs. 44 angefügt:
+„(44) Die §§ 43 Abs. 1, 44 Abs. 1, 59a und 65 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I
+Nr. 161/2004 treten mit 1. Jänner 2005 in Kraft.“
+7. Pos. II. 8. a) ff) der Anlage 2 zu Artikel I § 43, Teil 2 lautet:
+„ff) Aufwendungen für Abfertigungen und Leistungen an betriebliche
+Mitarbeitervorsorgekassen“
+Artikel III
+Änderung des Versicherungsaufsichtsgesetzes
+Das Versicherungsaufsichtsgesetz, BGBl. Nr. 569/1978, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 70/2004, wird wie folgt geändert:
+1. § 23 Abs. 5 lautet:
+„(5) Der Treuhänder hat der FMA über alle Wahrnehmungen, die geeignet sind, Bedenken
+hinsichtlich der Erfüllung des Deckungserfordernisses oder der Einhaltung der Vorschriften über die
+Anlage des Deckungsstockvermögens hervorzurufen, unverzüglich zu berichten. Der Treuhänder hat der
+FMA nach Ablauf eines Kalenderquartals binnen sechs Wochen einen schriftlichen Bericht über die
+Tätigkeit im abgelaufenen Quartal (Quartalsbericht) zu erstatten und zu übermitteln. Ferner hat er jährlich
+innerhalb von drei Monaten nach Ende des Geschäftsjahres einen schriftlichen Bericht über seine
+Tätigkeit (Jahresbericht) zu erstatten. Der Treuhänder hat alle Berichte an die FMA außer den
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 6 von 10
+Quartalsberichten auch dem Vorstand und dem Aufsichtsrat oder der Geschäftsleitung einer
+ausländischen Zweigniederlassung zur Kenntnis zu bringen.“
+2. § 80a lautet:
+„§ 80a. (1) In den Konzernabschluss sind nur Unternehmen einzubeziehen, die
+Versicherungsunternehmen oder Unternehmen sind, die Tätigkeiten in direkter Verlängerung der
+Versicherungstätigkeit oder Hilfstätigkeiten zu dieser ausüben. § 246 HGB in der jeweils geltenden
+Fassung ist nicht anzuwenden.
+(2) Mutterunternehmen von Versicherungsunternehmen trifft unbeschadet der Rechtsform die
+Verpflichtung zur Aufstellung eines konsolidierten Abschlusses, wenn der einzige oder überwiegende
+Unternehmenszweck darin besteht, Beteiligungen zu erwerben oder zu verwalten, sofern es sich bei den
+konsolidierungspflichtigen Unternehmen ausschließlich oder überwiegend um
+Versicherungsunternehmen handelt.
+(3) Auf Tochterunternehmen, die gemäß Abs. 1 nicht in den Konzernabschluss einbezogen werden,
+sind die Bestimmungen des § 263 Abs. 1 HGB in der jeweils geltenden Fassung anzuwenden.“
+3. § 80b lautet:
+„§ 80b. (1) Ein Versicherungsunternehmen oder Mutterunternehmen von
+Versicherungsunternehmen, das einen Konzernabschluss und Konzernlagebericht nach international
+anerkannten Rechnungslegungsgrundsätzen gemäß § 245a Abs. 1 oder 2 HGB in der jeweils geltenden
+Fassung aufstellt, hat die Anforderungen des § 245a Abs. 1 und 3 HGB zu erfüllen sowie die Angaben
+gemäß § 81n Abs. 1, Abs. 2 Z 1 bis 4, Z 7 bis 19 und Abs. 6 sowie § 81o Abs. 4a, 6 und 7 in den
+Konzernanhang aufzunehmen.
+(2) Unbeschadet des § 245a Abs. 3 HGB in der jeweils geltenden Fassung ist bei der Offenlegung
+auch ausdrücklich darauf hinzuweisen, dass es sich nicht um einen nach den Vorschriften dieses
+Bundesgesetzes aufgestellten Konzernabschluss und Konzernlagebericht handelt.“
+4. In § 81a Abs. 3 wird der Ausdruck „§§ 274 Abs. 3 und 4 erster Satz“ durch den Ausdruck „§§ 274
+Abs. 3 und 6 erster Satz“ ersetzt.
+5. § 81n Abs. 2 Z 12 lit. b lautet:
+„b) Aufwendungen für Abfertigungen und Leistungen an betriebliche Mitarbeitervorsorgekassen;“
+5a. § 81p Abs. 2 lautet:
+„(2) § 267 Abs. 4 HGB in der jeweils geltenden Fassung ist nicht anzuwenden.“
+6. § 82 Abs. 7, 8, 8a und 9 lautet:
+„(7) An den Beratungen des Aufsichtsrats oder des Verwaltungsrats über den Jahresabschluss hat der
+Abschlussprüfer als sachverständige Auskunftsperson teilzunehmen.
+(8) Hält es die FMA für erforderlich, dass die Prüfung ergänzt wird, so haben der Vorstand oder die
+geschäftsführenden Direktoren auf Verlangen der FMA die Ergänzung der Prüfung zu veranlassen.
+(8a) Abweichend von § 275 Abs. 2 HGB beschränkt sich die Ersatzpflicht bei
+Versicherungsunternehmen mit einer Bilanzsumme bis zu einer Milliarde Euro auf 2 Millionen Euro, bei
+Versicherungsunternehmen mit einer Bilanzsumme bis zu 5 Milliarden Euro auf 3 Millionen Euro, bei
+Versicherungsunternehmen mit einer Bilanzsumme bis zu 15 Milliarden Euro auf 4 Millionen Euro und
+bei Versicherungsunternehmen mit einer Bilanzsumme von mehr als 15 Milliarden Euro auf
+6 Millionen Euro. Bei grober Fahrlässigkeit beträgt die Ersatzpflicht höchstens das Fünffache der
+vorgenannten Beträge. Bei Vorsatz ist die Ersatzpflicht unbegrenzt. Die Prämie für den
+Versicherungsvertrag gemäß Abs. 1 Z 2 ist spätestens drei Wochen nach der Benennung als
+Abschlussprüfer zur Gänze zu bezahlen; der Abschlussprüfer hat das Bestehen der Versicherung sowie
+die Bezahlung der Prämie der FMA binnen vier Wochen nach der Benennung nachzuweisen.
+(9) Bei Meinungsverschiedenheiten zwischen Abschlussprüfer und Vorstand oder den
+geschäftsführenden Direktoren über die Auslegung der für die Rechnungslegung von
+Versicherungsunternehmen geltenden besonderen Vorschriften im Fünften Hauptstück sowie über die
+Beurteilung, ob ein Versicherungsunternehmen tatsächlich einen beherrschenden Einfluss auf ein anderes
+Unternehmen ausübt, entscheidet auf Antrag des Abschlussprüfers oder des Vorstands oder der
+geschäftsführenden Direktoren die FMA.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 7 von 10
+7. § 84 Abs. 1 erster Satz lautet:
+„Der Jahresabschluss einschließlich des gesamten Anhangs sowie der Lagebericht haben spätestens sechs
+Monate nach Ende des Geschäftsjahres bis zum Ende des dritten dem Geschäftsjahr folgenden
+Kalenderjahres am Sitz des inländischen Versicherungsunternehmens sowie in allen Betriebsstätten zur
+Einsichtnahme aufzuliegen.“
+8. § 84 Abs. 7 zweiter Satz lautet:
+„Zu veröffentlichen sind die Angaben gemäß § 245a Abs. 1 HGB in der jeweils geltenden Fassung und
+§ 80b Abs. 1 sowie diejenigen Angaben, die den in Abs. 1 angeführten entsprechen.“
+8a. § 86h Abs. 5 lautet:
+„(5) Die Ermittlung der bereinigten Eigenmittelausstattung kann abweichend von Abs. 1 auch auf
+der Grundlage eines gemäß § 80b erstellten konsolidierten Abschlusses erfolgen. Die FMA kann durch
+Verordnung nähere Angaben zum Konzernabschluss gemäß § 80b für Zwecke der Ermittlung der
+bereinigten Eigenmittelausstattung vorschreiben.“
+9. § 86i Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 70/2004 erhält die Absatzbezeichnung
+„(9)“.
+10. § 86n erhält folgende Überschrift:
+„Leitung von Versicherungs-Holdinggesellschaften“
+11. Dem § 119h werden folgende Abs. 17, 18 und 19 angefügt:
+„(17) § 23 Abs. 5, § 80a, § 80b, § 81a Abs. 3, § 81n Abs. 2, § 81p Abs. 2, § 84 Abs. 1 und 7, § 86h
+Abs 5, § 86i Abs. 8 sowie § 86n in der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 treten mit
+1. Jänner 2005 in Kraft. Sie sind auf Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2004
+beginnen.
+(18) § 82 Abs. 7, 8, 8a und 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 tritt mit
+8. Oktober 2004 in Kraft.
+(19) Verordnungen auf Grund der in Abs. 17 angeführten Bestimmungen dürfen bereits vom Tag der
+Kundmachung des Bundesgesetzes, BGBl. I Nr. 161/2004 an erlassen werden. Sie dürfen frühestens mit
+1. Jänner 2005 in Kraft treten.“
+14. Dem § 129h wird folgender Abs. 5 angefügt:
+„(5) § 80b in der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 muss von
+Versicherungsunternehmen, von denen lediglich Schuldtitel zum Handel an einem geregelten Markt im
+Sinne des Art. 1 Abs. 13 der Richtlinie 93/22/EG (ABl. Nr. L 141 vom 11. Juni 1993, S 27) zugelassen
+sind oder deren Wertpapiere zum öffentlichen Handel in einem Nichtmitgliedstaat zugelassen sind und
+die zu diesem Zweck seit einem Geschäftsjahr, das vor dem 11. September 2002 begonnen hat,
+international anerkannte Standards anwenden, erst für Geschäftsjahre angewendet werden, die nach dem
+31. Dezember 2006 beginnen. In diesem Fall ist § 80b in der Fassung des Bundesgesetzes BGBl. I Nr.
+97/2001 weiterhin anwendbar.“
+Artikel IV
+Änderung des Wertpapieraufsichtsgesetzes
+Das Wertpapieraufsichtsgesetz, BGBl. Nr. 753/1996, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 70/2004, wird wie folgt geändert:
+§ 23 Abs. 1 und 2 lautet:
+„(1) Wertpapierdienstleistungsunternehmen haben ihren Jahresabschluss gemäß der Gliederung in
+Anlage 2 zu § 43 BWG und ihren Konzernabschluss so rechtzeitig zu erstellen, dass die Frist des Abs. 2
+eingehalten werden kann; die §§ 43, 45 bis 59a, 64 und 65 Abs. 1 und 2 BWG sind anzuwenden.
+(2) Die gemäß Abs. 1 erstellten und gemäß Abs. 3 geprüften Jahresabschlüsse, die
+Konzernabschlüsse und die gemäß Abs. 4 erstellten Prüfberichte sind längstens innerhalb von sechs
+Monaten nach Abschluss des Geschäftsjahres der FMA vorzulegen. Die FMA kann die Vorlage der Daten
+der Jahresabschlüsse und der Konzernabschlüsse nach §§ 59 und 59a BWG auch mittels elektronischer
+Übermittlung oder elektronischer Datenträger in standardisierter Form verlangen.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 8 von 10
+Artikel V
+Änderung des Pensionskassengesetzes
+Das Pensionskassengesetz, BGBl. Nr. 281/1990, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 70/2004, wird wie folgt geändert:
+Pos. II. 2.a) dritter Anstrich der Anlage 1 zu Artikel I, § 30 Formblatt B – Gewinn und Verlustrechnung
+der Pensionskasse, lautet:
+„- Aufwendungen für Abfertigungen und Leistungen an betriebliche Mitarbeitervorsorgekassen“
+Artikel VI
+Änderung des Betrieblichen Mitarbeitervorsorgegesetzes
+Das Betriebliche Mitarbeitervorsorgegesetz, BGBl. I Nr. 100/2002, zuletzt geändert durch das
+Bundesgesetz BGBl. I Nr. 135/2003, wird wie folgt geändert:
+Pos. B. 2.a) dritter Anstrich der Anlage 1 zu § 40 Formblatt B – Gewinn und Verlustrechnung der
+Mitarbeitervorsorgekasse, lautet:
+„- Aufwendungen für Abfertigungen und Leistungen an betriebliche Mitarbeitervorsorgekassen“
+Artikel VII
+Änderung des Nationalbankgesetzes 1984
+Das Nationalbankgesetz, BGBl. Nr. 50/1984, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 55/2002, wird wie folgt geändert:
+1. In § 68 Abs. 3 wird der Ausdruck „§ 243 Abs. 1 und 2“ durch den Ausdruck „§ 243 Abs. 1 bis 3“ sowie
+der Ausdruck „Abs. 2 Z 2“ durch den Ausdruck „Abs. 2 letzter Satz und Abs. 3 Z 2 und Z 5“ ersetzt.
+2. Dem § 89 wird folgender Abs. 5 angefügt:
+„(5) § 68 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 tritt mit 1. Jänner 2005 in
+Kraft.“
+Artikel VIII
+Hinweis auf Umsetzung
+§ 1. Durch dieses Bundesgesetz werden Art. 5 lit. b) und Art. 9 der Verordnung (EG) Nr. 1606/2002
+betreffend die Anwendung internationaler Rechnungslegungsstandards („IAS-Verordnung“),
+Abl. Nr. L 243 vom 11.9.2002 S.1, die Richtlinie 2003/51/EG zur Änderung der Richtlinien
+78/660/EWG, 83/349/EWG, 86/635/EWG und 91/674/EWG über den Jahresabschluss und den
+konsolidierten Abschluss von Gesellschaften bestimmter Rechtsformen, von Banken und anderen
+Finanzinstituten sowie von Versicherungsunternehmen („Modernisierungsrichtlinie“), ABl. Nr. L 178 S.
+16 vom 17.7.2003, sowie die Richtlinie 2003/38/EG zur Änderung der Richtlinie 78/660/EWG über den
+Jahresabschluss von Gesellschaften bestimmter Rechtsformen hinsichtlich der in Euro ausgedrückten
+Beträge („Schwellenwertrichtlinie“), ABl. Nr. L 120 S. 22 vom 15.5.2003, umgesetzt.
+Artikel IX
+Änderungen des Firmenbuchgesetzes
+Das Firmenbuchgesetz, BGBl. Nr. 10/1991, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 67/2004, wird wie folgt geändert:
+1. Nach § 3 Z 4 wird folgende Z 4a eingefügt:
+„4a. der Umstand, dass eine für Zustellungen maßgebliche Geschäftsanschrift
+unbekannt ist;“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 9 von 10
+2. Nach § 3 Z 14 wird folgende Z 14a eingefügt:
+„14a. die Zurückweisung des Antrags auf Eröffnung des Konkurses gemäß § 63 KO;“
+3. § 10 wird folgender Abs. 4 angefügt:
+„(4) Das Gericht hat die Eintragung nach § 3 Z 14a auf Antrag oder von Amts wegen zu löschen,
+wenn glaubhaft gemacht wird, dass die Voraussetzungen für die Zurückweisung nach § 63 KO nicht
+gegeben waren oder nicht mehr gegeben sind.“
+4. Dem § 16 Abs. 1 wird folgender Satz angefügt:
+„Eine Anmeldung zum Firmenbuch ist in der Regel schriftlich einzubringen; nur unter
+berücksichtigungswürdigen Umständen kann eine Anmeldung zu Protokoll erklärt werden.“
+5. Dem § 18 wird folgender Satz angefügt:
+„Die §§ 8 Abs. 2 und 15 des Außerstreitgesetzes sind nicht anzuwenden.“
+6. § 20 Abs. 1 lautet:
+„(1) Der Beschluss des Gerichts über die Eintragung hat auch deren Wortlaut zu enthalten. Eine
+Begründung kann auch dann unterbleiben, wenn keine der nach § 18 zu verständigenden Personen der
+Eintragung Einwendungen entgegengesetzt hat. Der Beschluss ist sofort zu vollziehen, außer es wird im
+Beschluss der Vollzug erst nach Rechtskraft ausdrücklich angeordnet.“
+7. § 21 Abs. 2 erhält die Absatzbezeichnung „(5)“. Folgende Absätze (2) bis (4) werden eingefügt:
+„(2) Für Parteien, denen der Beschluss über die Eintragung nicht nach Abs. 1 zuzustellen ist, treten
+die Folgen der Zustellung mit der öffentlichen Bekanntmachung ein.
+(3) Misslingt eine Zustellung an der für Zustellungen maßgeblichen Geschäftsanschrift (§ 3 Z 4),
+weil dort keine Abgabestelle besteht und eine andere nicht festgestellt werden kann, so ist zunächst die
+Zustellung an den dem Gericht bekannten Privatanschriften des Kaufmanns bzw. der Mitglieder des
+vertretungsbefugten Organs der sonstigen Rechtsträger und eines Prokuristen zu versuchen. Bleibt dies
+gleichfalls erfolglos, so kann diese Zustellung wie alle weiteren Zustellungen durch Aufnahme in die
+Ediktsdatei (im Sinn des § 25 Zustellgesetz) erfolgen; hierauf ist in der öffentlichen Bekanntmachung
+hinzuweisen. Die Zustellung gilt als bewirkt, wenn zwei Wochen seit Aufnahme in die Ediktsdatei
+verstrichen sind. Das Gericht hat den Umstand, dass eine für Zustellungen maßgebliche
+Geschäftsanschrift unbekannt ist, von Amts wegen in das Firmenbuch einzutragen (§ 3 Z 4a).
+(4) Bekanntmachungen nach Abs. 3 sind ein Jahr lang abfragbar zu halten.“
+8. Vor § 41 wird anstelle der bisherigen folgende neue Überschrift eingefügt:
+„Zustellungen an Gesellschaften ohne gesetzlichen Vertreter“
+9. § 41 Abs. 1 entfällt; im bisherigen Abs. 2 entfällt die Absatzbezeichnung und wird im ersten Satz nach
+der Wendung „Aufnahme in die Ediktsdatei“ der Klammerausdruck „(im Sinn des § 25 Zustellgesetz)“
+eingefügt.
+10. Im Art. XXIV wird nach Abs. 1b folgender Abs. 1c eingefügt:
+„(1c) § 3 Z 4a und Z 14a, § 10 Abs. 4, § 16 Abs. 1, § 18, § 20 Abs. 1, § 21 Abs. 2 bis 5 und § 41 in
+der Fassung des Bundesgesetzes BGBl. I Nr. 161/2004 treten mit 1. Jänner 2005 in Kraft.“
+Artikel X
+Änderungen des Gesetzes über Gesellschaften mit beschränkter Haftung
+Das Gesetz über Gesellschaften mit beschränkter Haftung, RGBl. Nr. 58/1906, zuletzt geändert
+durch das Bundesgesetz BGBl. I Nr. 98/2001, wird wie folgt geändert:
+Dem § 15a wird folgender Abs. 3 angefügt:
+„(3) Der Beschluss über die Bestellung des Geschäftsführers ist mit dessen Zustimmung sowie,
+sofern im Beschluss nichts anderes angeordnet ist, mit Zustellung an den Geschäftsführer wirksam.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. Dezember 2004 – Nr. 161 10 von 10
+Artikel XI
+Änderungen des Aktiengesetzes
+Das Aktiengesetz 1965, BGBl. Nr. 98/1965, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 67/2004, wird wie folgt geändert:
+Der bisherige Text des § 76 enthält die Absatzbezeichnung „(1)“. Folgender Abs. 2 wird angefügt:
+„(2) Der Beschluss über die Bestellung des Vorstandsmitglieds ist mit dessen Zustimmung sowie,
+sofern im Beschluss nichts anderes angeordnet ist, mit Zustellung an das Vorstandsmitglied wirksam.“
+Fischer
+Schüssel
+www.ris.bka.gv.at

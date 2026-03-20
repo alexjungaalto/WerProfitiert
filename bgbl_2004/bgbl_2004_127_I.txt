@@ -1,0 +1,977 @@
+1 von 18
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 16. November 2004 Teil I
+127. Bundesgesetz: Änderung des Börsegesetzes und des Wertpapieraufsichtsgesetzes
+(NR: GP XXII RV 546 AB 647 S. 78. BR: AB 7138 S. 714.)
+[CELEX-Nr.: 32003L0006, 32003L0124, 32003L0125, 32004L0072]
+127. Bundesgesetz, mit dem das Börsegesetz und das Wertpapieraufsichtsgesetz geändert
+werden
+Der Nationalrat hat beschlossen:
+Artikel I
+Änderung des Börsegesetzes
+Das Börsegesetz, BGBl. Nr. 555/1989, zuletzt geändert durch BGBl. I Nr. 70/2004, wird wie folgt
+geändert:
+1. In § 26 Abs. 1 entfällt die Wortgruppe „und 6“.
+2. § 48 Abs. 1 Z 2 lautet:
+„2. gegen eine Verpflichtung gemäß § 48d Abs. 1 bis 6, 9 oder 10, erster Satz, oder gemäß § 48f
+oder gegen eine Verpflichtung gemäß einer auf Grund von § 48d Abs. 11 oder § 48f Abs. 10
+erlassenen Verordnung der FMA verstößt, oder einen Beschuldigten entgegen einem gemäß
+§ 48q Abs. 3 verhängten Berufsverbot beschäftigt,“
+3. § 48b erhält die Paragrafenbezeichnung „§ 48s.“.
+4. § 48c erhält die Paragrafenbezeichnung „§ 48t.“.
+5. Die Überschrift vor § 48a und § 48a lauten:
+„Marktmissbrauch
+§ 48a. (1) Für Zwecke der §§ 48a bis 48r gelten folgende Begriffsbestimmungen:
+1. „Insider-Information“ ist eine öffentlich nicht bekannte, genaue Information, die direkt oder
+indirekt einen oder mehrere Emittenten von Finanzinstrumenten oder ein oder mehrere
+Finanzinstrumente betrifft und die, wenn sie öffentlich bekannt würde, geeignet wäre, den Kurs
+dieser Finanzinstrumente oder den Kurs sich darauf beziehender derivativer Finanzinstrumente
+erheblich zu beeinflussen, weil sie ein verständiger Anleger wahrscheinlich als Teil der
+Grundlage seiner Anlageentscheidungen nutzen würde.
+a) Eine Information gilt dann als genau, wenn sie eine Reihe von bereits vorhandenen oder
+solchen Tatsachen und Ereignissen erfasst, bei denen man mit hinreichender
+Wahrscheinlichkeit davon ausgehen kann, dass sie in Zukunft eintreten werden, und darüber
+hinaus bestimmt genug ist, dass sie einen Schluss auf die mögliche Auswirkung dieser
+Tatsachen oder Ereignisse auf die Kurse von Finanzinstrumenten oder damit verbundenen
+derivativen Finanzinstrumenten zulässt.
+b) In Bezug auf Warenderivate ist „Insider-Information“ eine öffentlich nicht bekannte, genaue
+Information, die direkt oder indirekt ein solches Derivat oder mehrere solche Derivate betrifft
+und von der Teilnehmer an Märkten, auf denen solche Derivate gehandelt werden, erwarten
+würden, dass sie diese Information in Übereinstimmung mit der zulässigen Marktpraxis an den
+betreffenden Märkten erhalten würden. Das sind Informationen, die direkt oder indirekt ein
+solches Derivat oder mehrere solche Derivate betreffen und den Teilnehmern auf solchen
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 2 von 18
+Märkten regelmäßig zur Verfügung gestellt werden oder in Anwendung von Rechts- und
+Verwaltungsvorschriften, Handelsregeln, Verträgen oder Regeln, die auf dem Markt, auf dem
+die Warenderivate gehandelt werden, bzw. auf der jeweils zugrunde liegenden Warenbörse
+üblich sind, öffentlich bekannt gegeben werden müssen. In Bezug auf Warenderivate werden
+die nach diesem Bundesgesetz sonst der FMA zugewiesenen Zuständigkeiten vom
+Bundesministerium für Wirtschaft und Arbeit wahrgenommen, die §§ 48i bis 48p sind jedoch
+nicht anzuwenden.
+c) Für Personen, die mit der Ausführung von Aufträgen betreffend Finanzinstrumente beauftragt
+sind, bedeutet „Insider-Information“ auch eine Information nach lit. a oder b, die von einem
+Kunden mitgeteilt wurde und sich auf die noch nicht erledigten Aufträge des Kunden bezieht.
+2. „Marktmanipulation“ sind
+a) Geschäfte oder Kauf- bzw. Verkaufsaufträge, die
+aa) falsche oder irreführende Signale für das Angebot von Finanzinstrumenten, die Nachfrage
+danach oder ihren Kurs geben oder geben könnten, oder
+ab) den Kurs eines oder mehrerer Finanzinstrumente durch eine Person oder mehrere, in
+Absprache handelnde Personen in der Weise beeinflussen, dass ein anormales oder
+künstliches Kursniveau erzielt wird,
+es sei denn, dass die Person, welche die Geschäfte abgeschlossen oder die Aufträge erteilt hat,
+legitime Gründe dafür hatte und dass diese Geschäfte oder Aufträge nicht gegen die zulässige
+Marktpraxis auf dem betreffenden geregelten Markt verstoßen.
+Bei der Beurteilung der Geschäfte oder Kauf- bzw. Verkaufsaufträge gemäß lit. a als
+Marktmanipulation sind unbeschadet der Fälle von Marktmanipulation gemäß Abs. 2
+insbesondere folgende Umstände – die als solche nicht unbedingt als Marktmanipulation
+anzusehen sind – zu berücksichtigen:
+– der Umfang, in dem erteilte Geschäftsaufträge oder abgewickelte Geschäfte einen
+bedeutenden Teil des Tagesvolumens der Transaktionen mit dem entsprechenden
+Finanzinstrument auf dem jeweiligen geregelten Markt ausmachen, vor allem dann, wenn
+diese Tätigkeiten zu einer erheblichen Veränderung des Kurses dieses Finanzinstruments
+führen;
+– der Umfang, in dem erteilte Geschäftsaufträge oder abgewickelte Geschäfte, die von
+Personen mit einer bedeutenden Kauf- oder Verkaufsposition in einem Finanzinstrument
+getätigt wurden, zu einer erheblichen Veränderung des Kurses dieses Finanzinstruments
+bzw. eines sich darauf beziehenden derivativen Finanzinstruments oder aber des
+Basisvermögenswertes führen, die zum Handel auf einem geregelten Markt zugelassen
+sind;
+– ob abgewickelte Geschäfte zu keiner Veränderung in der Identität des wirtschaftlichen
+Eigentümers eines zum Handel auf einem geregelten Markt zugelassenen
+Finanzinstruments führen;
+– der Umfang, in dem erteilte Geschäftsaufträge oder abgewickelte Geschäfte
+Umkehrungen von Positionen innerhalb eines kurzen Zeitraums beinhalten und einen
+beträchtlichen Teil des Tagesvolumens der Geschäfte mit dem entsprechenden
+Finanzinstrument auf dem betreffenden geregelten Markt ausmachen, sowie mit einer
+erheblichen Veränderung des Kurses eines zum Handel auf einem geregelten Markt
+zugelassenen Finanzinstruments in Verbindung gebracht werden könnten;
+– der Umfang, in dem erteilte Geschäftsaufträge oder abgewickelte Geschäfte innerhalb
+einer kurzen Zeitspanne des Börsentages konzentriert werden und zu einer
+Kursveränderung führen, die in der Folge wieder umgekehrt wird;
+– der Umfang, in dem erteilte Geschäftsaufträge die besten bekannt gemachten Kurse für
+Angebot und Nachfrage eines auf einem geregelten Markt zugelassenen
+Finanzinstruments verändern oder genereller die Aufmachung des Orderbuchs verändern,
+das den Marktteilnehmern zur Verfügung steht, und vor ihrer eigentlichen Abwicklung
+annulliert werden könnten;
+– der Umfang, in dem Geschäftsaufträge genau oder ungefähr zu einem bestimmten
+Zeitpunkt erteilt oder Geschäfte zu diesem Zeitpunkt abgewickelt werden, an dem die
+Referenzkurse, die Abrechnungskurse und die Bewertungen berechnet werden, und dies
+zu Kursveränderungen führt, die sich auf eben diese Kurse und Bewertungen auswirken.
+b) Geschäfte oder Kauf- bzw. Verkaufsaufträge unter Vorspiegelung falscher Tatsachen oder
+unter Verwendung sonstiger Täuschungshandlungen.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 3 von 18
+Bei der Beurteilung der Geschäfte oder Kauf- bzw. Verkaufsaufträge gemäß lit. b als
+Marktmanipulation sind unbeschadet der Fälle von Marktmanipulation gemäß Abs. 2
+insbesondere folgende Umstände – die als solche nicht unbedingt als Marktmanipulation
+anzusehen sind – zu berücksichtigen:
+– ob von bestimmten Personen erteilte Geschäftsaufträge oder abgewickelte Geschäfte
+vorab oder im Nachhinein von der Verbreitung falscher oder irreführender Informationen
+durch dieselben oder in enger Beziehung zu ihnen stehenden Personen begleitet wurden;
+– ob Geschäftsaufträge von Personen erteilt bzw. Geschäfte von diesen abgewickelt werden,
+bevor oder nachdem diese Personen oder in enger Beziehung zu ihnen stehenden Personen
+Analysen oder Anlageempfehlungen erstellt oder weitergegeben haben, die unrichtig oder
+verzerrt sind oder ganz offensichtlich von materiellen Interessen beeinflusst wurden.
+c) Verbreitung von Informationen über die Medien einschließlich Internet oder auf anderem
+Wege, die falsche oder irreführende Signale in Bezug auf Finanzinstrumente geben oder geben
+könnten, unter anderem durch Verbreitung von Gerüchten sowie falscher oder irreführender
+Nachrichten, wenn die Person, die diese Informationen verbreitet hat, wusste oder hätte wissen
+müssen, dass sie falsch oder irreführend waren. Bei Medienmitarbeitern, die in Ausübung
+ihres Berufs handeln, ist eine solche Verbreitung von Informationen unbeschadet des § 48q
+Abs. 1 und 2 unter Berücksichtigung der für ihren Berufsstand geltenden Regeln zu beurteilen,
+es sei denn, dass diese Personen aus der Verbreitung der betreffenden Informationen direkt
+oder indirekt einen Nutzen ziehen oder Gewinne schöpfen.
+3. „Finanzinstrumente“ sind
+a) Wertpapiere im Sinne der Richtlinie 93/22/EWG,
+b) Anteile an Organismen für gemeinsame Anlagen in Wertpapieren,
+c) Geldmarktinstrumente,
+d) Finanzterminkontrakte (Futures) einschließlich gleichwertiger bar abgerechneter Instrumente,
+e) Zinsausgleichsvereinbarungen (Forward Rate Agreement),
+f) Zins- und Devisenswaps sowie Swaps auf Aktien oder Aktienindexbasis (Equity-Swaps),
+g) Kauf- und Verkaufsoptionen auf alle unter lit. a bis f fallenden Instrumente einschließlich
+gleichwertiger bar abgerechneter Instrumente; dazu gehören insbesondere Devisen- und
+Zinsoptionen,
+h) Warenderivate,
+i) alle sonstigen Instrumente, die zum Handel auf einem geregelten Markt in einem Mitgliedstaat
+zugelassen sind oder für die ein Antrag auf Zulassung zum Handel auf einem solchen Markt
+gestellt wurde.
+4. „Geregelter Markt“ ist ein Markt im Sinne des Art. 1 Z 13 der Richtlinie 93/22/EWG und der
+ungeregelte dritte Markt gemäß § 69. Für am ungeregelten dritten Markt zugelassene
+Verkehrsgegenstände sind jedoch §§ 48d und 48f nicht anwendbar.
+5. „Zulässige Marktpraxis“ sind Gepflogenheiten, die auf einem oder mehreren Finanzmärkten nach
+vernünftigem Ermessen erwartet werden und von der FMA durch Verordnung gemäß Abs. 3
+anerkannt werden.
+6. „Person“ ist eine natürliche oder eine juristische Person.
+7. „Zuständige Behörde“ ist die gemäß Art. 11 der Richtlinie 2003/6/EG von den Mitgliedstaaten
+benannte zuständige Stelle.
+8. Eine „Person, die bei einem Emittenten Führungsaufgaben wahrnimmt” ist eine Person,
+a) die einem Verwaltungs-, Leitungs- oder Aufsichtsorgan des Emittenten angehört, oder
+b) die als geschäftsführende Führungskraft zwar keinem der unter lit. a genannten Organe
+angehört, aber regelmäßig Zugang zu Insider-Informationen mit direktem oder indirektem
+Bezug zum Emittenten hat und befugt ist, unternehmerische Entscheidungen über zukünftige
+Entwicklungen und Geschäftsperspektiven dieses Emittenten zu treffen.
+9. Eine „Person, die in enger Beziehung zu einer Person steht, die bei einem Emittenten von
+Finanzinstrumenten Führungsaufgaben wahrnimmt” ist
+a) der Ehegatte der Person, die diese Führungsaufgaben wahrnimmt, oder ein sonstiger
+Lebensgefährte, der nach einzelstaatlichem Recht einem Ehegatten gleichgestellt ist,
+b) ein nach einzelstaatlichem Recht unterhaltsberechtigtes Kind der Person, die diese
+Führungsaufgaben wahrnimmt,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 4 von 18
+c) ein sonstiges Familienmitglied der Person, die diese Führungsaufgaben wahrnimmt, das vor
+dem betreffenden Geschäft für die Dauer von mindestens einem Jahr mit diesem in einem
+Haushalt gelebt hat,
+d) eine juristische Person, treuhänderisch tätige Einrichtung oder Personengesellschaft, deren
+Führungsaufgaben durch eine Person nach Z 8 oder nach den lit. a bis c wahrgenommen
+werden, die direkt oder indirekt von einer solchen Person kontrolliert wird, die zugunsten
+einer solchen Person gegründet wurde oder deren wirtschaftliche Interessen weitgehend denen
+einer solchen Person entsprechen.
+10. „Personen, die beruflich Geschäfte mit Finanzinstrumenten tätigen“, sind insbesondere
+Wertpapierfirmen und Kreditinstitute.
+11. Eine „Wertpapierfirma“ ist eine juristische Person im Sinne von Art. 1 Z 2 der Richtlinie
+93/22/EWG.
+12. Ein „Kreditinstitut“ ist ein Unternehmen im Sinne von Art. 1 Z 1 der Richtlinie 2000/12/EG.
+(2) Als „Marktmanipulation“ im Sinne des Abs. 1 Z 2 gelten insbesondere:
+1. Sicherung einer marktbeherrschenden Stellung in Bezug auf das Angebot eines
+Finanzinstruments oder die Nachfrage danach durch eine Person oder mehrere in Absprache
+handelnde Personen mit der Folge einer direkten oder indirekten Festsetzung des Ankaufs- oder
+Verkaufspreises oder anderer unlauterer Handelsbedingungen;
+2. Kauf oder Verkauf von Finanzinstrumenten bei Börsenschluss mit der Folge, dass Anleger, die
+auf Grund des Schlusskurses tätig werden, irregeführt werden;
+3. Ausnutzung eines gelegentlichen oder regelmäßigen Zugangs zu den traditionellen oder
+elektronischen Medien durch Abgabe einer Stellungnahme zu einem Finanzinstrument (oder
+indirekt zu dem Emittenten dieses Finanzinstruments), wobei zuvor Positionen bei diesem
+Finanzinstrument eingegangen wurden und anschließend Nutzen aus den Auswirkungen der
+Stellungnahme auf den Kurs dieses Finanzinstruments gezogen wird, ohne dass der
+Öffentlichkeit gleichzeitig dieser Interessenkonflikt auf ordnungsgemäße und effiziente Weise
+mitgeteilt wird.
+(3) Ob eine „zulässige Marktpraxis“ gemäß Abs. 1 Z 5 vorliegt, kann die FMA durch Verordnung
+festlegen.
+1. Sie hat hiebei unbeschadet ihrer Zusammenarbeit mit anderen Behörden insbesondere zu
+berücksichtigen:
+a) wie transparent die betreffende Marktpraxis für den Markt insgesamt ist,
+b) ob sie das Funktionieren der Marktkräfte und das freie Zusammenspiel von Angebot und
+Nachfrage gewährleistet; unter der Analyse insbesondere der Auswirkungen der betreffenden
+Marktpraxis auf die wichtigsten Marktparameter, wie die vor der Einführung der betreffenden
+Marktpraxis herrschenden besonderen Marktbedingungen, den gewichteten Durchschnittskurs
+eines Handelstages oder die tägliche Schlussnotierung,
+c) in welchem Maße sich die betreffende Marktpraxis auf die Marktliquidität und -effizienz
+auswirkt,
+d) inwieweit die betreffende Marktpraxis dem Handelsmechanismus des betreffenden Marktes
+Rechnung trägt und den Marktteilnehmern erlaubt, angemessen und rechtzeitig auf die durch
+die Marktpraxis entstehende neue Marktsituation zu reagieren,
+e) welches Risiko die betreffende Marktpraxis für die Marktintegrität anderer, direkt oder
+indirekt verbundener, geregelter oder nichtgeregelter Märkte für dieses Finanzinstrument
+innerhalb der Gemeinschaft darstellt,
+f) zu welchem Ergebnis die zuständigen Behörden bzw. anderen in Art. 12 Abs. 1 der Richtlinie
+2003/6/EG genannten Behörden bei ihren Ermittlungen zu der betreffenden Marktpraxis
+kamen, insbesondere ob sie eine Verletzung der Marktmissbrauchsbestimmungen oder der
+geltenden Verhaltensregeln auf dem betreffenden Markt oder auf anderen direkt oder indirekt
+verbundenen Märkten in der Gemeinschaft festgestellt haben,
+g) welche Strukturmerkmale der betreffende Markt aufweist, zB ob es sich um einen geregelten
+Markt handelt oder nicht, welche Finanzinstrumente gehandelt werden, welche
+Marktteilnehmer vertreten sind und welcher Anteil am Handel auf Privatanleger entfällt.
+Marktpraktiken, insbesondere neue oder sich entwickelnde Marktpraktiken dürfen nicht deshalb
+als unzulässig festgelegt werden, weil diese zuvor noch nicht ausdrücklich als zulässig festgelegt
+wurden.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 5 von 18
+Die FMA hat die als zulässig festgelegten Marktpraktiken regelmäßig auf ihre weitere
+Zulässigkeit zu überprüfen und dabei insbesondere wesentliche Änderungen im Handelsumfeld
+des betreffenden Marktes, wie geänderte Handelsregeln oder Infrastruktur des Marktes, zu
+berücksichtigen.
+2. Vor Erlassung einer Verordnung gemäß diesem Absatz und unbeschadet des § 48q Abs. 2 hat die
+FMA die Börseunternehmen sowie die Interessenvertretungen der Emittenten,
+Finanzdienstleistungserbringer und Verbraucher und allfällige andere Marktbetreiber zu
+konsultieren. Im Rahmen dieses Konsultationsverfahrens hat die FMA auch zuständige Behörden
+anderer Mitgliedstaaten zu konsultieren, insbesondere wenn vergleichbare Märkte (mit ähnlichen
+Strukturen, Geschäftsvolumen, Transaktionen) existieren. Vor einer Änderung oder Aufhebung
+einer solchen Verordnung ist dasselbe Konsultationsverfahren durchzuführen.
+3. In der Verordnung hat eine angemessene Beschreibung der Marktpraxis zu erfolgen und sind die
+Faktoren anzuführen, die bei der Entscheidung über die Zulässigkeit der betreffenden
+Marktpraxis berücksichtigt wurden, insbesondere wenn die Zulässigkeit ein und derselben
+Marktpraxis auf verschiedenen Märkten unterschiedlich bewertet wurde.
+4. Die Verordnung ist gleichzeitig mit ihrer Erlassung auch dem Ausschuss der europäischen
+Wertpapierregulierungsbehörden zu übermitteln.“
+6. Nach § 48a werden folgende §§ 48b bis 48r eingefügt:
+„Missbrauch einer Insiderinformation
+§ 48b. (1) Wer als Insider eine Insider-Information mit dem Vorsatz ausnützt, sich oder einem
+Dritten einen Vermögensvorteil zu verschaffen, indem er
+1. davon betroffene Finanzinstrumente kauft, verkauft oder einem Dritten zum Kauf oder Verkauf
+anbietet, empfiehlt oder
+2. diese Information, ohne dazu verhalten zu sein, einem Dritten zugänglich macht,
+ist vom Gericht mit Freiheitsstrafe bis zu drei Jahren, wenn durch die Tat ein 50 000 Euro übersteigender
+Vermögensvorteil verschafft wird, jedoch mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu
+bestrafen.
+(2) Wer, ohne Insider zu sein, eine Insider-Information, die ihm mitgeteilt wurde oder sonst bekannt
+geworden ist, auf die im Abs. 1 bezeichnete Weise mit dem Vorsatz ausnützt, sich oder einem Dritten
+einen Vermögensvorteil zu verschaffen, ist vom Gericht mit Freiheitsstrafe bis zu einem Jahr oder mit
+Geldstrafe bis zu 360 Tagessätzen, wenn durch die Tat ein 50 000 Euro übersteigender Vermögensvorteil
+verschafft wird, jedoch mit Freiheitsstrafe bis zu 3 Jahren zu bestrafen.
+(3) Wer sonst als Insider oder ohne Insider zu sein eine Information in Kenntnis oder grob
+fahrlässiger Unkenntnis davon, dass es sich um eine Insider-Information handelt, auf die im Abs. 1
+bezeichnete Weise, jedoch ohne den Vorsatz, sich oder einem Dritten einen Vermögensvorteil zu
+verschaffen, verwendet, ist vom Gericht mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis
+zu 360 Tagessätzen zu bestrafen.
+(4) Insider ist, wer als Mitglied eines Verwaltungs-, Leitungs- oder Aufsichtsorganes des Emittenten
+oder sonst auf Grund seines Berufes, seiner Beschäftigung, seiner Aufgaben oder seiner Beteiligung am
+Kapital des Emittenten zu einer Insider-Information Zugang hat. Ebenso ist Insider, wer sich die
+Information durch die Begehung strafbarer Handlungen verschafft hat. Handelt es sich dabei um eine
+juristische Person, so sind jene natürlichen Personen Insider, die am Beschluss, das Geschäft für
+Rechnung der juristischen Person zu tätigen, beteiligt sind.
+Marktmanipulation
+§ 48c. Wer Marktmanipulation betreibt, begeht, sofern die Tat nicht den Tatbestand einer in die
+Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet, eine Verwaltungsübertretung und ist von
+der FMA mit einer Geldstrafe bis zu 35 000 Euro zu bestrafen. Das VStG ist anzuwenden. Der Versuch
+ist strafbar. Ein erzielter Vermögensvorteil ist von der FMA als verfallen zu erklären.
+§ 48d. (1) Die Emittenten von Finanzinstrumenten haben Insider-Informationen, die sie unmittelbar
+betreffen, unverzüglich der Öffentlichkeit bekannt zu geben. Das Eintreten einer Reihe von Umständen
+oder eines Ereignisses – obgleich noch nicht formell festgestellt – ist von den Emittenten unverzüglich
+bekannt zu geben. Alle erheblichen Veränderungen im Hinblick auf eine bereits offengelegte Insider-
+Information sind unverzüglich nach dem Eintreten dieser Veränderungen bekanntzugeben. Dies hat auf
+demselben Wege zu erfolgen wie die Bekanntgabe der ursprünglichen Information. Die Veröffentlichung
+einer Insider-Information an das Publikum hat so zeitgleich wie möglich für alle Anlegerkategorien in
+den Mitgliedstaaten, in denen diese Emittenten die Zulassung ihrer Finanzinstrumente zum Handel auf
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 6 von 18
+einem geregelten Markt beantragt oder bereits erhalten haben, zu erfolgen. Die Emittenten haben alle
+Insider-Informationen, die sie der Öffentlichkeit bekannt geben müssen, während eines angemessenen
+Zeitraums auf ihrer Internet-Seite anzuzeigen.
+(2) Ein Emittent kann die Bekanntgabe von Insider-Informationen gemäß Abs. 1 erster Satz
+aufschieben, wenn diese Bekanntgabe seinen berechtigten Interessen schaden könnte, sofern diese
+Unterlassung nicht geeignet ist, die Öffentlichkeit irrezuführen, und der Emittent in der Lage ist, die
+Vertraulichkeit der Information zu gewährleisten.
+1. Berechtigte Interessen liegen insbesondere vor bei:
+a) laufenden Verhandlungen oder damit verbundenen Umständen, wenn das Ergebnis oder der
+normale Ablauf dieser Verhandlungen von der Veröffentlichung wahrscheinlich beeinträchtigt
+werden würden. Insbesondere wenn die finanzielle Überlebensfähigkeit des Emittenten stark
+und unmittelbar gefährdet ist – auch wenn er noch nicht unter das geltende Insolvenzrecht fällt
+– kann die Bekanntgabe von Informationen für einen befristeten Zeitraum verzögert werden,
+sollte eine derartige Bekanntgabe die Interessen der vorhandenen und potentiellen Aktionäre
+ernsthaft gefährden, indem der Abschluss spezifischer Verhandlungen vereitelt werden würde,
+die eigentlich zur Gewährleistung einer langfristigen finanziellen Erholung des Emittenten
+gedacht sind;
+b) einer vom Geschäftsführungsorgan eines Emittenten getroffenen Entscheidung oder bei
+abgeschlossenen Verträgen, wenn diese Maßnahmen der Zustimmung durch ein anderes
+Organ des Emittenten bedürfen, sofern die Struktur eines solchen Emittenten die Trennung
+zwischen diesen Organen vorsieht und eine Bekanntgabe der Informationen vor der
+Zustimmung zusammen mit der gleichzeitigen Ankündigung, dass diese Zustimmung noch
+aussteht, die korrekte Bewertung der Informationen durch das Publikum gefährden würde.
+2. Die Emittenten haben, um die Vertraulichkeit von Insider-Informationen zu gewährleisten, den
+Zugang zu diesen Informationen zu kontrollieren. Insbesondere haben sie
+a) wirksame Vorkehrungen zu treffen, um zu verhindern, dass andere Personen als solche, deren
+Zugang zu Insider-Informationen für die Wahrnehmung ihrer Aufgaben innerhalb des
+emittierenden Instituts unerlässlich ist, Zugang zu diesen Informationen erlangen;
+b) die erforderlichen Maßnahmen zu ergreifen, um zu gewährleisten, dass jede Person, die
+Zugang zu derlei Informationen hat, die sich daraus ergebenden rechtlichen Pflichten
+anerkennt und sich der Sanktionen bewußt ist, die bei einer missbräuchlichen Verwendung
+bzw. einer nicht ordnungsgemäßen Verbreitung derartiger Informationen verhängt werden;
+c) die erforderlichen Maßnahmen zu ergreifen, die eine unmittelbare Bekanntgabe der
+Informationen für den Fall gestatten, dass der Emittent nicht in der Lage war, die
+Vertraulichkeit der entsprechenden Insider-Informationen unbeschadet des Abs. 3 zweiter Satz
+zu gewährleisten.
+Der Emittent hat die FMA unverzüglich von der Entscheidung, die Bekanntgabe der Insider-
+Informationen aufzuschieben, zu unterrichten.
+(3) Die Emittenten oder die in ihrem Auftrag oder für ihre Rechnung handelnden Personen, die
+Insider-Informationen im normalen Rahmen der Ausübung ihrer Arbeit oder ihres Berufes oder der
+Erfüllung ihrer Aufgaben an einen Dritten weitergeben, haben diese Informationen der Öffentlichkeit
+vollständig und tatsächlich bekannt zu geben und zwar zeitgleich bei absichtlicher Weitergabe der
+Informationen und unverzüglich im Fall einer nicht absichtlichen Weitergabe. Diese Verpflichtung gilt
+nicht, wenn die Person, an die die Information weitergegeben wird, zur Verschwiegenheit verpflichtet ist,
+unabhängig davon, ob sich diese Verpflichtung aus Rechts- oder Verwaltungsvorschriften, einer Satzung
+oder einem Vertrag ergibt. Die Emittenten oder die in ihrem Auftrag oder für ihre Rechnung handelnden
+Personen haben ein Verzeichnis der Personen zu führen, die für sie auf Grundlage eines Arbeitsvertrags
+oder anderweitig tätig sind und regelmäßig oder anlassbezogen Zugang zu Insider-Informationen haben.
+Die Emittenten oder die in ihrem Auftrag oder für ihre Rechnung handelnden Personen müssen dieses
+Verzeichnis regelmäßig aktualisieren und der FMA auf Anfrage übermitteln. Die Insider-Verzeichnisse
+sind nach ihrer Erstellung oder gegebenenfalls nach ihrer letzten Aktualisierung mindestens fünf Jahre
+lang aufzubewahren. Die zur Erstellung von Insider-Verzeichnissen verpflichteten Personen haben
+sicherzustellen, dass jede Person, die Zugang zu Insider-Informationen hat, die aus den Rechts- und
+Verwaltungsvorschriften erwachsenden Pflichten schriftlich anerkennt und schriftlich erklärt, sich der
+Sanktionen bewusst zu sein, die bei einer missbräuchlichen Verwendung oder einer nicht
+ordnungsgemäßen Verbreitung derartiger Informationen verhängt werden.
+1. Das Insider-Verzeichnis hat folgende Angaben zu enthalten:
+a) die Personalien all derjenigen, die Zugang zu Insider-Informationen haben,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 7 von 18
+b) den Grund für die Erfassung dieser Personen im Verzeichnis,
+c) das Erstell- und Aktualisierungsdatum des Insider-Verzeichnisses.
+2. Die Insider-Verzeichnisse haben unverzüglich aktualisiert zu werden, wenn
+a) sich der Grund für die Erfassung bereits erfasster Personen ändert,
+b) neue Personen zum Verzeichnis hinzugefügt werden müssen,
+c) im Verzeichnis erfasste Personen keinen Zugang zu Insider-Informationen mehr haben; in
+diesem Fall ist anzugeben, ab welchem Zeitpunkt dies gilt.
+(4) Personen, die bei einem Emittenten von Finanzinstrumenten mit Sitz im Inland
+Führungsaufgaben wahrnehmen, sowie gegebenenfalls in enger Beziehung zu ihnen stehende Personen
+haben der FMA alle von ihnen getätigten Geschäfte auf eigene Rechnung mit zum Handel auf geregelten
+Märkten zugelassenen Aktien und aktienähnlichen Wertpapieren des Emittenten oder mit sich darauf
+beziehenden Derivaten oder mit ihm verbundener Unternehmen (§ 228 Abs. 3 HGB) zu melden. Ebenso
+haben die genannten Personen diese Informationen unverzüglich zu veröffentlichen. Dem Sitz im Inland
+gemäß diesem Absatz ist gleichzuhalten, wenn der Emittent, der seinen Sitz außerhalb des EWR hat, im
+Inland jährlich ein Dokument nach Art. 10 der Richtlinie 2003/71/EG vorlegen muss. Die
+Veröffentlichungen gemäß dieser Bestimmung können mit deren Einverständnis auch im Wege der FMA
+erfolgen.
+1. Die Meldung hat zu enthalten:
+a) Name der Person, die bei einem Emittenten von Finanzinstrumenten Führungsaufgaben
+wahrnimmt, oder Name der Person, die zu einer solchen Person in enger Beziehung steht,
+b) Grund für die Meldepflicht,
+c) Bezeichnung des betreffenden Emittenten,
+d) Beschreibung des Finanzinstruments,
+e) Art des Geschäfts (zB An- oder Verkauf),
+f) Abschlussdatum und Ort, an dem das Geschäft getätigt wurde,
+g) Preis und Geschäftsvolumen.
+2. Die Meldung an die FMA hat innerhalb von fünf Arbeitstagen nach dem Tag des Abschlusses zu
+erfolgen, kann jedoch aufgeschoben werden, bis die Gesamt-Abschlusssumme der Geschäfte
+gemäß diesem Absatz den Betrag von 5 000 Euro erreicht. Falls dieser Betrag am Ende des
+Kalenderjahres nicht erreicht wird, kann die Meldung unterbleiben. Bei der Ermittlung der
+Gesamt-Abschlusssumme sind die gemäß diesem Absatz getätigten Geschäfte der im ersten Satz
+genannten Personen mit Führungsaufgaben und aller Personen, die zu ihnen in enger Beziehung
+stehen, zusammenzurechnen.
+(5) Die Personen, die Analysen von Finanzinstrumenten oder von Emittenten von
+Finanzinstrumenten oder sonstige für Informationsverbreitungskanäle oder die Öffentlichkeit bestimmte
+Informationen mit Empfehlungen oder Anregungen zu Anlagestrategien erstellen oder weitergeben,
+haben dafür Sorge zu tragen, dass die Information sachgerecht dargeboten wird, und etwaige Interessen
+oder Interessenkonflikte im Zusammenhang mit den Finanzinstrumenten, auf die sich die Information
+bezieht, offen gelegt werden.
+(6) Die Börseunternehmen haben strukturelle Vorkehrungen zur Vorbeugung gegen und zur
+Aufdeckung von Marktmanipulationspraktiken zu treffen.
+(7) Die FMA kann zwecks Einhaltung der Abs. 1 bis 5 alle erforderlichen Maßnahmen ergreifen, um
+sicherzustellen, dass die Öffentlichkeit ordnungsgemäß informiert wird.
+(8) Öffentliche Stellen, die Statistiken verbreiten, welche die Finanzmärkte erheblich beeinflussen
+könnten, haben dies auf sachgerechte und transparente Weise zu tun.
+(9) Die Personen, die beruflich Geschäfte mit Finanzinstrumenten tätigen, haben unverzüglich der
+FMA zu melden, wenn sie auf Grund der ihnen zur Kenntnis gelangten Fakten und Informationen den
+begründeten Verdacht haben, dass eine Transaktion ein Insider-Geschäft oder eine Marktmanipulation
+darstellen könnte. Die genannten Personen haben jeweils von Fall zu Fall zu entscheiden, ob bei einer
+Transaktion ein begründeter Verdacht für das Vorliegen eines Insider-Geschäfts oder einer
+Marktmanipulation gemäß § 48a besteht. Diese Meldepflicht besteht unbeschadet des § 48e Abs. 5 für die
+genannten Personen, die in Österreich ihren Sitz oder eine Zweigniederlassung haben. Gegebenfalls
+meldet die FMA ihr gemeldete verdächtige Geschäfte unverzüglich den für die betreffenden geregelten
+Märkte zuständigen Behörden weiter. Die meldepflichtigen Personen haben der FMA folgende Angaben
+zu übermitteln:
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 8 von 18
+1. Beschreibung der Geschäfte einschließlich der Art des Auftrags (zB Limitauftrag, Bestens-
+Auftrag oder sonstige Auftragsmerkmale) und Art des Handels (zB Blocktrade),
+2. Gründe für den Verdacht auf Marktmissbrauch,
+3. Angaben zum Zweck der Identifizierung der Personen, in deren Auftrag die Geschäfte ausgeführt
+wurden, sowie sonstiger an diesen Geschäften beteiligter Personen,
+4. Funktion, in der die der Meldepflicht unterliegende Person handelt (zB in eigenem Namen oder
+im Auftrag Dritter),
+5. sonstige Angaben, die für die Prüfung der verdächtigen Transaktionen von Belang sein können.
+Sollten diese Angaben zum Zeitpunkt der Meldung nicht verfügbar sein, so sind zumindest die Gründe
+anzugeben, die die Meldung erstattende Person zu der Vermutung veranlassen, es könne sich bei den
+Geschäften um Insider-Geschäfte oder um eine Marktmanipulation handeln. Die übrigen Angaben sind
+der FMA mitzuteilen, sobald sie vorliegen. Die Meldung kann auf postalischem oder elektronischem
+Wege, per Telefax oder telefonisch erfolgen, wobei im Falle einer telefonischen Mitteilung auf Verlangen
+der FMA eine schriftliche Bestätigung nachzureichen ist.
+(10) Die Personen, die nach Abs. 9 eine Meldung bei der FMA erstatten, dürfen niemand anderen,
+insbesondere nicht die Personen, in deren Auftrag die Transaktionen ausgeführt wurden oder mit diesen
+Personen in Beziehung stehende Personen, über die erfolgte Meldung unterrichten. Ein
+Schadenersatzanspruch aus dem Umstand des Unterbleibens dieses Unterrichtens besteht nicht, soferne in
+gutem Glauben gehandelt wurde. Fahrlässigkeit schadet dem guten Glauben nicht. Die FMA darf
+niemand anderen, insbesondere nicht den Personen, in deren Auftrag die Transaktionen ausgeführt
+wurden, den Namen der Person, die diese Transaktionen gemeldet hat, mitteilen, wenn es der meldenden
+Person schaden würde oder könnte. Eine nach Abs. 9 erfolgende Meldung bei der FMA gilt nicht als
+Verletzung etwaiger vertraglich oder durch Rechts- oder Verwaltungsvorschriften geregelter
+Bekanntmachungsbeschränkungen und entbindet die Person, die die Meldung erstattet hat, von der
+Haftung für Schadenersatz, sofern sie in gutem Glauben gehandelt hat. Fahrlässigkeit schadet dem guten
+Glauben nicht.
+(11) Die FMA ist ermächtigt, durch Verordnung die Form, den Inhalt und die Art der Übermittlung
+der gemäß den Abs. 1 bis 5 und 9 vorgesehenen
+Meldungen/Bekanntgaben/Unterrichtungen/Offenlegungen festzusetzen; dabei ist auf berechtigte
+Interessen der Emittenten und der Anleger sowie auf internationale Standards entwickelter Kapitalmärkte
+Bedacht zu nehmen. Hinsichtlich der Art der Übermittlung können im Interesse der raschen
+Informationsübermittlung, unter Berücksichtigung des jeweiligen Standes der Technik durch die FMA
+bestimmte Kommunikationstechniken vorgeschrieben werden.
+§ 48e. (1) §§ 48a bis 48d gelten nicht für Geschäfte, die aus geld- oder wechselkurspolitischen
+Gründen oder im Rahmen der Verwaltung der öffentlichen Schulden von einem Mitgliedstaat, einem
+Bundesland, dem Europäischen System der Zentralbanken, einer nationalen Zentralbank oder einer
+anderen amtlich beauftragten Stelle oder einer für deren Rechnung handelnden Einrichtung getätigt
+werden.
+(2) §§ 48a bis 48d gelten für jedes Finanzinstrument, das zum Handel auf einem geregelten Markt in
+mindestens einem Mitgliedstaat zugelassen ist oder für das ein entsprechender Antrag auf Zulassung zum
+Handel auf einem solchen Markt gestellt wurde, unabhängig davon, ob das Geschäft selbst tatsächlich auf
+diesem Markt getätigt wird oder nicht.
+(3) § 48b gilt auch für jedes Finanzinstrument, das nicht zum Handel auf einem geregelten Markt in
+einem Mitgliedstaat zugelassen ist, dessen Wert jedoch von einem Finanzinstrument im Sinne von Abs. 2
+abhängt.
+(4) § 48d Abs. 1 bis 3 gilt nicht für Emittenten, die für ihre Finanzinstrumente keine Zulassung zum
+Handel auf einem geregelten Markt in einem Mitgliedstaat beantragt oder erhalten haben.
+(5) Die in den §§ 48a bis 48d geregelten Verbote und Gebote sind auf Handlungen anzuwenden, die
+1. in Österreich oder im Ausland vorgenommen werden und Finanzinstrumente betreffen, die zum
+Handel auf einem in Österreich belegenen oder betriebenen geregelten Markt zugelassen sind
+oder für die ein entsprechender Antrag auf Zulassung zum Handel auf einem solchen Markt
+gestellt wurde;
+2. in Österreich begangen werden und Finanzinstrumente betreffen, die zum Handel auf einem
+geregelten Markt in einem Mitgliedstaat zugelassen sind oder für die ein entsprechender Antrag
+auf Zulassung zum Handel auf einem solchen Markt gestellt wurde.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 9 von 18
+(6) §§ 48b und 48c gelten nicht für den Handel mit eigenen Aktien (Erwerb und Veräußerung) im
+Rahmen von Rückkaufprogrammen und die Kursstabilisierungsmaßnahmen für ein Finanzinstrument,
+wenn derartige Transaktionen im Einklang mit der Verordnung (EG) Nr. 2273/2003 der Kommission
+vom 22. Dezember 2003 erfolgen.
+§ 48f. (1) Für die Zwecke dieser Bestimmung gelten folgende Begriffsbestimmungen:
+1. „Wertpapierhaus“ ist jede Person im Sinne von Art. 1 Z 2 der Richtlinie 93/22/EWG;
+2. „Kreditinstitut“ ist jede juristische Person im Sinne von Art. 1 Z 1 der Richtlinie 2000/12/EG;
+3. „Empfehlung“ ist eine Analyse oder sonstige für Informationsverbreitungskanäle oder die
+Öffentlichkeit bestimmte explizite oder implizite Information mit Empfehlungen oder
+Anregungen zu Anlagestrategien in Bezug auf ein oder mehrere Finanzinstrumente oder
+Emittenten von Finanzinstrumenten, einschließlich einer aktuellen oder künftigen Beurteilung
+des Wertes oder des Kurses solcher Instrumente;
+4. „Analyse oder sonstige Information mit Empfehlungen oder Anregungen zu Anlagestrategien“ ist
+a) eine von einem unabhängigen Analysten, einem Wertpapierhaus, einem Kreditinstitut, einer
+sonstigen Person, deren Haupttätigkeit in der Erstellung von Empfehlungen besteht, oder einer
+bei den genannten Einrichtungen im Rahmen eines Arbeitsvertrags oder Ähnliches tätigen
+natürlichen Person erstellte Information, die direkt oder indirekt eine bestimmte
+Anlageempfehlung zu einem Finanzinstrument oder einem Emittenten von
+Finanzinstrumenten darstellt,
+b) eine von anderen als den in lit. a genannten Personen erstellte Information, die direkt eine
+bestimmte Anlageentscheidung zu einem Finanzinstrument empfiehlt;
+5. „relevante Person“ ist eine natürliche oder juristische Person, die bei der Ausübung ihres Berufs
+oder im Rahmen ihrer Geschäftstätigkeit Empfehlungen erstellt oder weitergibt;
+6. „Emittent“ ist der Emittent eines Finanzinstruments, auf das sich die Empfehlung direkt oder
+indirekt bezieht;
+7. „Informationsverbreitungskanal“ ist ein Kanal, durch den die Information der Öffentlichkeit
+tatsächlich oder wahrscheinlich zugänglich gemacht wird; „wahrscheinlich der Öffentlichkeit
+zugänglich gemachte Information“ ist eine Information, die für eine große Anzahl von Personen
+zugänglich ist;
+8. „angemessene Regelung“ ist jede Regelung – einschließlich der Selbstkontrolle –, die die
+Mitgliedstaaten gemäß der Richtlinie 2003/6/EG treffen.
+(2) Wer eine Empfehlung ausspricht, hat
+1. klar und unmissverständlich die Identität der Person anzugeben, die die Empfehlung abgegeben
+hat, insbesondere Name und Berufsbezeichnung der Person, die die Empfehlung erstellt hat und
+Name der juristischen Person, die für die Erstellung der Empfehlung verantwortlich ist;
+2. soferne es sich bei der relevanten Person um ein Wertpapierhaus oder ein Kreditinstitut handelt,
+die Identität der jeweils zuständigen Behörde anzugeben;
+3. soferne es sich bei der relevanten Person weder um ein Wertpapierhaus noch um ein
+Kreditinstitut handelt, jedoch Selbstkontrollnormen oder Berufs- bzw. Standesregeln auf die
+Person Anwendung finden, auf die genannten Normen oder Regeln hinzuweisen;
+4. soferne es um nichtschriftliche Empfehlungen handelt, anzugeben, wo die Angaben gemäß Z 1
+bis 3 aufzufinden sind, wobei diese Angaben unmittelbar und leicht für die Öffentlichkeit
+zugänglich sein müssen, zB im Wege der Internetadresse der relevanten Person;
+Die Z 1 bis 3 finden keine Anwendung auf Medienmitarbeiter, die einer gleichwertigen angemessenen
+Regelung – einschließlich einer gleichwertigen angemessenen Selbstkontrolle – in den jeweiligen
+Mitgliedstaaten unterliegen, sofern die genannten Regelungen eine ähnliche Wirkung haben, wie die in
+diesem Absatz.
+(3) In einer Empfehlung ist sicherzustellen, dass
+1. Tatsachen deutlich von Auslegungen, Schätzungen, Stellungnahmen und anderen Arten nicht
+sachbezogener Informationen unterschieden werden;
+2. alle Quellen zuverlässig sind bzw. bei Zweifeln an der Zuverlässigkeit der Quelle klar darauf
+hingewiesen wird;
+3. alle Prognosen, Vorhersagen und angestrebten Kursziele klar als solche gekennzeichnet werden
+und dass auf die bei ihrer Erstellung oder Verwendung zugrunde gelegten wesentlichen
+Annahmen hingewiesen wird;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 10 von 18
+4. sofern es sich um eine nichtschriftliche Empfehlung handelt, für die Empfehlungsempfänger
+ebenfalls die in den Z 1 bis 3 angeführten Umstände klar und leicht erkennbar sind.
+Die relevanten Personen haben über Verlangen der FMA jede Empfehlung als vernünftig zu
+substantiieren. Dieser Absatz findet keine Anwendung auf Medienmitarbeiter, die einer gleichwertigen
+angemessenen Regelung – einschließlich einer gleichwertigen angemessenen Selbstkontrolle – in den
+jeweiligen Mitgliedstaaten unterliegen, sofern die genannte Regelung ähnliche Wirkungen hat, wie die in
+diesem Absatz.
+(4) Handelt es sich bei der relevanten Person um einen unabhängigen Analysten, ein
+Wertpapierhaus, ein Kreditinstitut, eine verbundene juristische Person oder sonstige relevante Personen,
+deren Haupttätigkeit in der Erstellung von Empfehlungen besteht, oder um eine bei den genannten Stellen
+im Rahmen eines Arbeitsvertrags oder Ähnliches tätige natürliche Person, so hat die genannte Person
+weiters sicherzustellen, dass in der Empfehlung
+1. auf alle wesentlichen Quellen, einschließlich die relevanten Emittenten, verwiesen wird sowie
+darauf, ob die Empfehlung gegenüber dem fraglichen Emittenten offen gelegt und nach dieser
+Offenlegung vor ihrer Weitergabe geändert wurde;
+2. alle Bewertungsgrundlagen oder Methoden zur Bewertung eines Finanzinstruments oder des
+Emittenten eines Finanzinstruments oder zur Festsetzung eines angestrebten Kursziels für ein
+Finanzinstrument ausreichend zusammengefasst werden;
+3. die Bedeutung der erstellten Empfehlung (zB „Erwerb“, „Veräußerung“ oder „Halten“), die
+möglicherweise auch den zeitlichen Rahmen der Anlage, auf die sich die Empfehlung bezieht,
+umfasst, ausreichend erläutert und vor etwaigen Risiken angemessen gewarnt wird,
+einschließlich einer Empfindlichkeitsanalyse der zu Grunde gelegten Annahmen;
+4. Bezug genommen wird auf die gegebenenfalls vorgesehene Häufigkeit einer Aktualisierung der
+Empfehlung und auf etwaige Änderungen der zuvor angekündigten Zielsetzung;
+5. der Zeitpunkt, zu dem die Empfehlung zum ersten Mal veröffentlicht wurde, klar und
+unmissverständlich angegeben wird, sowie das jeweilige Datum und der Zeitpunkt der genannten
+Kurse von Finanzinstrumenten;
+6. wenn sich die Empfehlung von derjenigen, die in den zwölf Monaten unmittelbar vor ihrer
+Veröffentlichung für dasselbe Finanzinstrument oder denselben Emittenten erstellt wurde,
+unterscheidet, auf den Zeitpunkt der früheren Empfehlung klar und unmissverständlich
+hingewiesen wird.
+Führt die Einhaltung der in Z 1 bis 3 genannten Vorschriften dazu, dass die auf Grund dessen geforderten
+Informationen im Vergleich zur Länge der abgegebenen Empfehlung unverhältnismäßig sind, reicht es
+aus, dass in der Empfehlung selbst klar und unmissverständlich auf den Ort verwiesen wird, an dem die
+geforderten Informationen unmittelbar und einfach für die Öffentlichkeit zugänglich sind, zB eine direkte
+Internetverbindung zu der genannten Information bei der entsprechenden Adresse der relevanten Person,
+vorausgesetzt die verwendete Methode oder Bewertungsgrundlage wurde nicht geändert. Gleiches gilt im
+Falle nichtschriftlicher Empfehlungen.
+(5) Die relevanten Personen haben in der Empfehlung alle Beziehungen und Umstände offen legen,
+bei denen damit gerechnet werden kann, dass sie die Objektivität der Empfehlung beeinträchtigen,
+insbesondere, wenn relevante Personen ein nennenswertes finanzielles Interesse an einem oder mehreren
+Finanzinstrumenten, die Gegenstand der Empfehlung sind, haben oder ein erheblicher Interessenkonflikt
+im Zusammenhang mit einem Emittenten, auf den sich die Empfehlung bezieht, besteht. Handelt es sich
+bei der relevanten Person um eine juristische Person, so gilt dies auch für alle juristischen oder
+natürlichen Personen, die für die genannte juristische Person im Rahmen eines Arbeitsvertrags oder
+Ähnliches tätig sind und die an der Erstellung der Empfehlung beteiligt waren. Handelt es sich bei der
+relevanten Person um eine juristische Person, so umfassen die gemäß diesem Absatz offen zu legenden
+Informationen insbesondere:
+1. alle Interessen oder Interessenkonflikte der relevanten Person oder ihrer verbundenen
+Unternehmen, die für die an der Erstellung der Empfehlung beteiligten Personen zugänglich sind
+oder bei denen damit gerechnet werden kann, dass sie zugänglich sind;
+2. alle Interessen oder Interessenkonflikte der relevanten Person oder mit ihr verbundener
+juristischer Personen, die den Personen, die an der Erstellung der Empfehlung zwar nicht
+beteiligt waren, jedoch vor der Weitergabe der Empfehlung an Kunden und die Öffentlichkeit
+Zugang zu der Empfehlung hatten oder hätten haben können, bekannt sind.
+Führt die Einhaltung der in diesem Absatz genannten Vorschriften dazu, dass die auf Grund dessen
+geforderten Offenlegungen im Vergleich zur Länge der abgegebenen Empfehlung unverhältnismäßig
+sind, reicht es aus, dass in der Empfehlung selbst klar und unmissverständlich auf den Ort verwiesen
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 11 von 18
+wird, an dem diese Offenlegungen von der Öffentlichkeit unmittelbar und leicht eingesehen werden
+können, zB eine direkte Internetverbindung zu der Offenlegung bei der entsprechenden Adresse der
+relevanten Person. Gleiches gilt im Falle nichtschriftlicher Empfehlungen. Dieser Absatz findet keine
+Anwendung auf Medienmitarbeiter, die einer gleichwertigen angemessenen Regelung – einschließlich
+einer gleichwertigen angemessenen Selbstkontrolle – in den jeweiligen Mitgliedstaaten unterliegen,
+sofern die genannte Regelung ähnliche Wirkungen hat, wie die in diesem Absatz.
+(6) Wird die Empfehlung von einem unabhängigen Analysten, einem Wertpapierhaus, einem
+Kreditinstitut, einer verbundenen juristischen Person oder einer sonstigen relevanten Person, deren
+Haupttätigkeit in der Erstellung von Empfehlungen besteht, erstellt, so ist von den genannten Personen
+zusätzlich zu den in Abs. 5 genannten Verpflichtungen sicherzustellen, dass die nachfolgenden, ihre
+Interessen und Interessenkonflikte betreffenden Informationen klar und unmissverständlich in der
+Empfehlung offen gelegt werden:
+1. wesentliche Beteiligungen, die zwischen der relevanten Person oder einer verbundenen
+juristischen Person einerseits und dem Emittenten andererseits bestehen. Diese wesentlichen
+Beteiligungen umfassen mindestens folgende Fälle:
+a) wenn Anteile von über 5% des gesamten emittierten Aktienkapitals an dem Emittenten von
+der relevanten Person oder einer verbundenen juristischen Person gehalten werden oder
+b) wenn Anteile von über 5% des gesamten emittierten Aktienkapitals an der relevanten Person
+oder einer verbundenen juristischen Person von dem Emittenten gehalten werden;
+2. sonstige nennenswerte finanzielle Interessen, die die relevante Person oder eine verbundene
+juristische Person in Bezug auf den Emittenten hat;
+3. gegebenenfalls eine Stellungnahme dazu, ob die relevante Person oder eine mit ihr verbundene
+juristische Person ein Marktmacher oder Liquiditätsspender in den Finanzinstrumenten des
+Emittenten ist;
+4. gegebenenfalls eine Aussage darüber, ob die relevante Person oder eine mit ihr verbundene
+juristische Person in den vorangegangenen zwölf Monaten bei der öffentlichen Emission von
+Finanzinstrumenten des Emittenten federführend oder mitführend war;
+5. gegebenenfalls eine Stellungnahme zu der Frage, ob die relevante Person oder eine mit ihr
+verbundene juristische Person mit dem Emittenten eine sonstige Vereinbarung über die
+Erbringung von Investment-Banking-Dienstleistungen getroffen hat, vorausgesetzt, dies hat nicht
+die Offenlegung vertraulicher Geschäftsinformationen zur Folge und die Vereinbarung war in
+den vorangegangenen zwölf Monaten in Kraft oder im gleichen Zeitraum erfolgte eine
+Entschädigung auf ihrer Grundlage;
+6. gegebenenfalls eine Aussage dazu, ob die relevante Person oder eine mit ihr verbundene
+juristische Person mit dem Emittenten eine Vereinbarung über die Erstellung von
+Anlageempfehlungen getroffen hat.
+Tatsächliche organisatorische oder verwaltungstechnische Vereinbarungen innerhalb des
+Wertpapierhauses oder des Kreditinstituts sind zur Verhinderung oder Vermeidung von
+Interessenkonflikten im Zusammenhang mit den Empfehlungen, einschließlich Informationsschranken, in
+der Empfehlung generell offen zu legen. Die Vorschriften gemäß Abs. 5 zweiter Satz für die im Rahmen
+eines Arbeitsvertrags oder Ähnliches für ein Wertpapierhaus oder ein Kreditinstitut tätigen natürlichen
+oder juristischen Personen umfasst insbesondere die Offenlegung der Frage, ob die Vergütung dieser
+Personen an Investment-Banking-Geschäfte des Wertpapierhauses oder des Kreditinstituts oder
+verbundener juristischer Personen gebunden ist. Sofern die natürlichen Personen die Anteile an dem
+Emittenten vor ihrer öffentlichen Emission erhalten oder erwerben, sind in der Empfehlung außerdem der
+Erwerbspreis und das Datum des Erwerbs offen zu legen. Wertpapierhäuser und Kreditinstitute haben
+vierteljährlich den Anteil aller Empfehlungen offen zu legen, die auf „Erwerb“, „Halten“, „Veräußern“
+oder ähnlich lauten, sowie den Anteil der Emittenten, die den genannten Kategorien entsprechen, für die
+das Wertpapierhaus oder das Kreditinstitut in den vorangegangenen zwölf Monaten wesentliche
+Investment-Banking-Dienstleistungen erbracht hat. Führt die Einhaltung der in diesem Absatz genannten
+Vorschriften dazu, dass die auf Grund dessen geforderten Offenlegungen im Vergleich zur Länge der
+abgegebenen Empfehlung unverhältnismäßig sind, reicht es aus, in der Empfehlung selbst klar und
+unmissverständlich auf den Ort zu verweisen, an dem diese Offenlegung unmittelbar und leicht für die
+Öffentlichkeit zugänglich ist, zB eine direkte Internetverbindung zu der Offenlegung bei der
+entsprechenden Adresse des Wertpapierhauses oder des Kreditinstituts. Gleiches gilt im Falle
+nichtschriftlicher Empfehlungen.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 12 von 18
+(7) Wird die von einem Dritten erstellte Empfehlung durch eine relevante Person unter deren
+Verantwortung weitergegeben, so hat die relevante Person ihre Identität klar und unmissverständlich in
+der Empfehlung anzugeben.
+(8) Wird in für die Öffentlichkeit bestimmten Informationen die von einem Dritten erstellte
+Empfehlung wesentlich verändert weitergegeben, so hat derjenige, der die Empfehlung ausspricht, zu
+gewährleisten, dass diese Informationen einen eindeutigen Hinweis auf die im Einzelnen vorgenommenen
+Änderungen enthalten. Sofern die wesentliche Änderung in einer gegensätzlichen Empfehlung besteht
+(zB eine Empfehlung zum „Erwerb“ wird in „Halten“ oder „Veräußerung“ bzw. umgekehrt geändert),
+gelten die Abs. 2 bis 5 auch für die Person, die die Empfehlung weitergibt, sinngemäß. Außerdem haben
+relevante juristische Personen, die selbst oder über natürliche Personen eine wesentlich veränderte
+Empfehlung weitergeben, förmliche, schriftliche Richtlinien aufzustellen, so dass die Empfänger der
+wesentlich veränderten Empfehlung an die Stelle verwiesen werden können, an der sie Zugang zur
+Identität des Erstellers der Empfehlung, zur Empfehlung selbst und zur Offenlegung der Interessen des
+Erstellers oder von Interessenkonflikten erhalten können, sofern diese Angaben öffentlich zugänglich
+sind. Die Sätze 1 und 2 finden keine Anwendung auf Presseberichte über von Dritten erstellte
+Empfehlungen, wenn diese Empfehlungen nicht wesentlich geändert wurden. Bei der Weitergabe der
+Zusammenfassung einer von einem Dritten erstellten Empfehlung haben die die Zusammenfassung
+weitergebenden relevanten Personen sicherzustellen, dass es sich um eine klare und nicht irreführende
+Zusammenfassung handelt, in der auf das Ausgangsdokument sowie auf den Ort verwiesen wird, an dem
+die mit dem Ausgangsdokument verbundenen Offenlegungen unmittelbar und leicht für die Öffentlichkeit
+zugänglich sind, sofern diese Angaben der Öffentlichkeit zur Verfügung stehen.
+(9) Für den Fall, dass die relevante Person ein Wertpapierhaus, ein Kreditinstitut oder eine von
+diesen im Rahmen eines Arbeitsvertrags oder Ähnliches beschäftigte natürliche Person ist, die
+Empfehlungen Dritter weitergibt, gilt:
+1. Die Bezeichnung der für das Wertpapierhaus oder das Kreditinstitut zuständigen Behörde wird
+klar und unmissverständlich angegeben.
+2. Hat der Ersteller der Empfehlung diese nicht bereits durch einen Informationsverbreitungskanal
+weitergegeben, so gelten die in Abs. 6 für die Ersteller vorgesehenen Vorschriften auch für
+diejenigen, die die Empfehlung weitergeben.
+3. Nimmt das Wertpapierhaus oder das Kreditinstitut eine wesentliche Änderung an der
+Empfehlung vor, so sind die für die Ersteller gemäß Abs. 2 bis 6 genannten Vorschriften
+einzuhalten.
+(10) Die FMA ist ermächtigt, durch Verordnung die Form und den Inhalt der gemäß dieser
+Bestimmung vorgesehenen Angaben festzusetzen; dabei ist auf berechtigte Interessen der Emittenten und
+der Anleger sowie auf internationale Standards entwickelter Kapitalmärkte Bedacht zu nehmen.
+Sonderbestimmungen für das Strafverfahren wegen Missbrauchs einer Insider-Information
+§ 48g. (1) Soweit im Folgenden nicht etwas anderes angeordnet wird, gelten für das Strafverfahren
+wegen Missbrauchs einer Insider-Information die Bestimmungen der Strafprozessordnung 1975, BGBl.
+Nr. 631 (StPO).
+(2) Die besonderen Vorschriften für das Strafverfahren wegen Missbrauchs einer Insider-
+Information gelten auch für das Verfahren wegen einer Tat, die zugleich den Tatbestand des Missbrauchs
+einer Insider-Information und den einer gerichtlich strafbaren Handlung anderer Art erfüllt.
+§ 48h. Das Strafverfahren wegen Missbrauchs einer Insider-Information obliegt dem Landesgericht
+für Strafsachen Wien. Im Fall des § 48b Abs. 1 2. Fall obliegt die Hauptverhandlung und Urteilsfällung
+dem Schöffengericht.
+§ 48i. (1) Staatsanwaltschaft und Gericht haben grundsätzlich die FMA mit Ermittlungen im
+Rahmen ihrer Befugnisse nach § 48q zur Aufklärung des Verdachts des Missbrauchs einer Insider-
+Information zu beauftragen. Sie sind aber auch berechtigt, Sicherheitsbehörden und deren Organe zu
+beauftragen, wenn dies aufgrund der durchzuführenden Ermittlungen, insbesondere im Hinblick auf deren
+Art oder Umfang, zweckmäßig erscheint. Dies ist insbesondere dann anzunehmen, wenn es sich um die
+Durchführung von Beschlagnahmen, Festnahmen oder Durchsuchungen handelt. Gleiches gilt, wenn der
+Sachverhalt auch den Tatbestand einer anderen mit gerichtlicher Strafe bedrohten Handlung erfüllen
+könnte.
+(2) Sobald eine bestimmte Person des Missbrauchs einer Insider-Information verdächtig ist, hat die
+FMA Anzeige an die Staatsanwaltschaft Wien zu erstatten. Ermittlungen zur unmittelbaren Feststellung
+des Sachverhalts und zur Aufklärung des Verdachts hat sie – unbeschadet der Wahrnehmung ihrer
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 13 von 18
+Befugnisse nach § 48q – nur soweit durchzuführen, als sie damit durch Staatsanwaltschaft oder Gericht
+beauftragt wird.
+(3) Die FMA hat das Bundeskriminalamt (§ 6 Abs. 1 des Sicherheitspolizeigesetzes, BGBl.
+Nr. 566/1991) ohne unnötigen Aufschub über den Verdacht des Missbrauchs einer Insider-Information
+und die von ihr durchgeführten Ermittlungen zu verständigen und ihm Gelegenheit zu geben, sich von
+deren Ergebnissen Kenntnis zu verschaffen. Wurden Sicherheitsbehörden und deren Organe mit
+Ermittlungen beauftragt, so ist der FMA Gelegenheit zur Teilnahme an den Ermittlungen zu geben. Sind
+jedoch bei Gefahr im Verzug unaufschiebbare Amtshandlungen durchzuführen, so ist die FMA ohne
+unnötigen Aufschub von den Ermittlungen der Sicherheitsbehörden und Sicherheitsorgane zu
+verständigen und ihr Gelegenheit zu geben, sich von deren Ergebnissen Kenntnis zu verschaffen.
+(4) Im Übrigen gelten für das Verfahren bei den Amtshandlungen der FMA die Bestimmungen über
+das verwaltungsbehördliche Strafverfahren, sofern sich aus den Bestimmungen der StPO nichts anderes
+ergibt.
+§ 48j. (1) Aufträge der Staatsanwaltschaft oder des Gerichts um Ermittlungen hat die FMA mit
+größtmöglicher Beschleunigung zu erledigen, über entgegenstehende Hindernisse hat sie
+Staatsanwaltschaft oder Gericht unverzüglich zu verständigen.
+(2) Die FMA hat Staatsanwaltschaft und Gericht jederzeit Akteneinsicht zu gewähren und die
+erforderlichen Auskünfte zu erteilen.
+§ 48k. (1) Der FMA kommt im Strafverfahren wegen Missbrauchs einer Insider-Information die
+Stellung eines Privatbeteiligten zu.
+(2) Als Ankläger an Stelle der Staatsanwaltschaft und als Privatbeteiligter hat die FMA außer den
+Rechten, die einem Verletzten sonst zukommen, noch folgende Rechte:
+1. Sie kann im gleichen Umfang wie die Staatsanwaltschaft gerichtliche Entscheidungen bekämpfen
+und die Wiederaufnahme des Strafverfahrens verlangen,
+2. ihre Nichtigkeitsbeschwerde bedarf nicht der Unterschrift eines Verteidigers,
+3. die Anberaumung von Haftverhandlungen (§§ 181 und 182 StPO) und von mündlichen
+Verhandlungen im Rechtsmittelverfahren ist ihr mitzuteilen,
+4. ihre Vertreter können bei Haftverhandlungen und bei mündlichen Verhandlungen im
+Rechtsmittelverfahren das Wort ergreifen und Anträge stellen.
+(3) Die Vermutung des Rücktrittes von der Verfolgung (§ 46 Abs. 3 StPO) ist gegenüber der FMA
+als Ankläger ausgeschlossen.
+§ 48l. Der FMA sind gerichtliche Erledigungen und andere Schriftstücke, die ihr nach den
+Bestimmungen dieses Bundesgesetzes mitzuteilen sind, grundsätzlich ohne Zustellnachweis zuzustellen.
+Die Ladung zur Hauptverhandlung, gerichtliche Erledigungen und andere Schriftstücke, gegen die der
+FMA ein Rechtsmittel oder ein Rechtsbehelf zusteht, sind ihr mit Zustellnachweis (§§ 13 bis 20 des
+Zustellgesetzes) zuzustellen oder durch Telefax oder im elektronischen Rechtsverkehr (§ 89a GOG) zu
+übermitteln.
+§ 48m. Legt die Staatsanwaltschaft die Anzeige wegen des Verdachts des Missbrauchs einer Insider-
+Information zurück oder tritt sie von einer weiteren Verfolgung des Missbrauchs einer Insider-
+Information zurück, so hat die Staatsanwaltschaft die Gründe hiefür nach Maßgabe des § 48a StPO der
+FMA sogleich mitzuteilen.
+§ 48n. Vor einer Mitteilung nach den §§ 90c Abs. 4, 90d Abs. 4 oder 90f Abs. 3 StPO hat die
+Staatsanwaltschaft oder das Gericht der FMA Gelegenheit zur Stellungnahme einzuräumen.
+§ 48o. Jeder Strafantrag und jede Anklageschrift wegen des Missbrauchs einer Insider-Information
+ist auch der FMA zuzustellen; die Staatsanwaltschaft hat dem Gericht auch eine Ausfertigung des
+Strafantrages bzw. der Anklageschrift für die FMA zu überreichen.
+§ 48p. (1) Zu den Kosten des Strafverfahrens gehören auch die Auslagen, die der FMA als
+Privatbeteiligter oder Anklägerin an Stelle der Staatsanwaltschaft erwachsen; sie fallen nicht unter die
+Pauschalkosten.
+(2) Die Kosten, die der FMA im Dienste der Strafjustiz erwachsen, sind bei der Bestimmung des
+Pauschalkostenbeitrages zu berücksichtigen, soweit sie nicht nach § 381 Abs. 1 Z 3, 4 oder 5 StPO
+besonders zu ersetzen sind.
+(3) Der FMA werden nur Barauslagen und außerdem die Kosten erstattet, die der Finanzprokuratur
+nach § 5 des Prokuraturgesetzes, StGBl. Nr. 172/1945, gebühren.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 14 von 18
+Überwachungsbefugnisse der FMA
+§ 48q. (1) Unbeschadet der Zuständigkeit der Gerichte und Strafverfolgungsbehörden hat die FMA
+die Einhaltung der §§ 48a bis 48f zu überwachen. Für diese Zwecke ist sie berechtigt:
+1. Unterlagen aller Art einzusehen und Kopien von ihnen zu erhalten,
+2. von jedermann Auskünfte anzufordern, auch von Personen, die an der Übermittlung von
+Aufträgen oder an der Ausführung der betreffenden Handlungen nacheinander beteiligt sind,
+sowie von deren Auftraggebern, und, falls notwendig, eine Person vorzuladen und zu vernehmen,
+3. Ermittlungen vor Ort durchzuführen,
+4. bereits zum Akt genommene Ergebnisse der Überwachung einer Telekommunikation (§§ 149a
+Abs. 1 Z 2 und 149m StPO) einzusehen und Kopien von ihnen zu erhalten (§ 149c Abs. 3 letzter
+Satz).
+(2) Die FMA hat bei ihrer Dienststelle ein Büro für Zwecke der Konsultation der Marktteilnehmer
+bei etwaigen Änderungen der nationalen Rechtsvorschriften einzurichten.
+(3) Die FMA kann im Zusammenhang mit der Bekämpfung von Marktmanipulation und
+Insiderhandel das Börseunternehmen beauftragen, den Handel mit den betreffenden Finanzinstrumenten
+auszusetzen. In einem Verfahren nach § 48c kann die FMA für die Dauer des Verfahrens ein Verbot der
+Ausübung einer Berufstätigkeit des Beschuldigten verhängen, soferne der Beschuldigte dringend
+tatverdächtig ist, diese Berufstätigkeit mit dem vom Verfahren betroffenen Delikt in Zusammenhang steht
+und, wenn die Gefahr besteht, der Beschuldigte könnte sonst die Tat wiederholen.
+(4) Die FMA kann Amtshandlungen, die wegen Verstößen gegen die §§ 48a bis 48f gesetzt wurden,
+nach Maßgabe der Z 1 bis 3 beauskunften oder öffentlich bekannt geben.
+1. Im Falle einer Amtshandlung in einem laufenden Verfahren hat die FMA die Nennung der
+Betroffenen zu unterlassen, es sei denn, diese sind bereits öffentlich bekannt, oder die FMA hat
+in Medien publizierte falsche Informationen richtig zu stellen, oder es ist Gefahr im Verzug.
+2. Im Falle der Verhängung einer Sanktion kann die FMA die Namen der Personen oder
+Unternehmen, gegen die die Sanktion verhängt wurde, die Namen der Unternehmen, für die
+Personen verantwortlich sind, gegen die eine Sanktion verhängt wurde, sowie die verhängte
+Sanktion beauskunften oder veröffentlichen. Als Sanktionen im Sinne dieser Bestimmung gelten
+alle von der FMA nach Abschluss eines Verfahrens mit Bescheid gesetzten Rechtsakte.
+3. Die FMA hat von der Erteilung einer Auskunft über Amtshandlungen oder einer diesbezüglichen
+Veröffentlichung abzusehen, wenn
+a) die Erteilung der Auskunft oder die Veröffentlichung die Stabilität der Finanzmärkte erheblich
+gefährden würde oder
+b) die Erteilung der Auskunft oder die Veröffentlichung zu einem unverhältnismäßigen Schaden
+bei einem von der Auskunft oder der Veröffentlichung betroffenen Beteiligten führen würde
+oder
+c) durch die Erteilung der Auskunft die Durchführung eines Verfahrens oder Maßnahmen, die im
+öffentlichen Interesse liegen, vereitelt, erschwert, verzögert oder gefährdet werden könnten.
+(5) Nach anderen Bundesgesetzen bestehende Vorschriften über das Berufsgeheimnis bleiben von
+den Bestimmungen dieses Bundesgesetzes unberührt.
+§ 48r. (1) Die FMA hat mit den zuständigen Behörden der anderen Mitgliedstaaten
+zusammenzuarbeiten, wenn dies zur Erfüllung der Aufgaben der zuständigen Behörden gemäß den
+Richtlinien 2003/6/EG, 2003/124/EG, 2003/125/EG und 2004/72/EG, gemäß der Verordnung (EG) Nr.
+2273/2003 oder gemäß §§ 48a bis 48q erforderlich ist. Die FMA hat den zuständigen Behörden der
+anderen Mitgliedstaaten Amtshilfe zu leisten und kann ihrerseits Amtshilfe in Anspruch nehmen. Die
+FMA und die zuständigen Behörden der anderen Mitgliedstaaten tauschen Informationen aus und arbeiten
+bei Ermittlungen zusammen.
+(2) Die FMA hat den zuständigen Behörden der anderen Mitgliedstaaten auf deren Ersuchen
+unverzüglich alle Informationen zu übermitteln, die zu dem in Abs. 1 genannten Zweck notwendig sind.
+Sofern erforderlich, hat die FMA, an die sich das Auskunftsbegehren richtet, die erforderlichen
+Maßnahmen zu ergreifen, um die angeforderten Informationen zu erlangen. Ist die FMA nicht in der
+Lage, die angeforderte Information unverzüglich zu liefern, so hat sie der ersuchenden zuständigen
+Behörde die Gründe hierfür mitzuteilen. Auf die gleiche Weise über deren Ersuchen an die FMA von den
+zuständigen Behörden anderer Mitgliedstaaten übermittelte Informationen unterliegen dem
+Amtsgeheimnis. Die FMA kann die Übermittlung der angeforderten Informationen ablehnen,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 15 von 18
+1. wenn die Weitergabe der Informationen die Souveränität, die Sicherheit oder die öffentliche
+Ordnung beeinträchtigen könnte,
+2. wenn auf Grund derselben Tat und gegen dieselben Personen bereits ein Verfahren vor einem
+österreichischen Gericht anhängig ist oder
+3. wenn gegen die genannten Personen auf Grund derselben Tat bereits ein rechtskräftiges Urteil
+eines österreichischen Gerichts ergangen ist.
+In diesem Fall hat sie dies der ersuchenden zuständigen Behörde mitzuteilen und ihr möglichst genaue
+Informationen über das betreffende Verfahren oder Urteil zu übermitteln.
+Die FMA ist ihrerseits berechtigt, bei den zuständigen Behörden der anderen Mitgliedstaaten Auskünfte
+zur Erfüllung ihrer Aufgaben gemäß Abs. 1 einzuholen. Die FMA kann, wenn ihrem Auskunftsersuchen
+nicht innerhalb angemessener Frist Folge geleistet wird oder das abgelehnt wurde, dies dem Ausschuss
+der europäischen Wertpapierregulierungsbehörden melden.
+Unbeschadet ihrer Verpflichtungen im Rahmen von Strafverfahren darf die FMA die nach Abs. 1
+erhaltenen Informationen ausschließlich in Erfüllung ihrer Aufgabe im Rahmen dieses Bundesgesetzes
+sowie in mit der Erfüllung dieser Aufgabe verbundenen Verwaltungs- und Gerichtsverfahren verwenden.
+Gibt jedoch die zuständige Behörde, die eine Information übermittelt hat, ihre Zustimmung, so darf die
+FMA sie zu anderen Zwecken verwenden oder den zuständigen Behörden anderer Staaten übermitteln,
+soferne dies nach innerstaatlichen Vorschriften, insbesondere nach §§ 1, 6 und 12f DSG 2000 in Betracht
+kommt.
+(3) Ist die FMA überzeugt, dass Verstöße gegen die Richtlinie 2003/6/EG im Hoheitsgebiet eines
+anderen Mitgliedstaats erfolgen oder erfolgt sind oder dass Finanzinstrumente, die auf einem geregelten
+Markt in einem anderen Mitgliedstaat gehandelt werden, durch Handlungen betroffen sind, so hat sie dies
+der zuständigen Behörde des anderen Mitgliedstaats so konkret wie möglich mitzuteilen. Sollte die FMA
+ihrerseits eine derartige Mitteilung erhalten, hat sie hierauf die erforderlichen Maßnahmen zu setzen. Sie
+hat die mitteilende zuständige Behörde über die Ergebnisse und soweit möglich über wichtige
+Zwischenergebnisse zu unterrichten. Die Befugnisse der zuständigen Behörde, von der die Information
+stammt, bleiben von diesem Absatz unberührt. Die gemäß Art. 10 der Richtlinie 2003/6/EG örtlich
+zuständigen Behörden konsultieren einander zu den beabsichtigten Folgemaßnahmen.
+(4) Die FMA kann die zuständige Behörde eines anderen Mitgliedstaats ersuchen, in dessen
+Hoheitsgebiet Ermittlungen durchzuführen. Ebenso hat sie solchen Ersuchen der zuständigen Behörden
+anderer Mitgliedstaaten zu entsprechen. Ferner kann die FMA die zuständigen Behörden der anderen
+Mitgliedstaaten darum ersuchen, dass es ihrem eigenen Personal gestattet wird, das Personal der
+zuständigen Behörde des anderen Mitgliedstaats bei den Ermittlungen zu begleiten. Ebenso hat sie
+solchen Ersuchen der zuständigen Behörden anderer Mitgliedstaaten zu entsprechen. Die Ermittlungen
+unterliegen dabei voll und ganz der Kontrolle des Mitgliedstaats, in dessen Hoheitsgebiet sie stattfinden.
+Die FMA kann es ablehnen, einem Ermittlungsersuchen gemäß diesem Absatz nachzukommen oder
+einem Ersuchen der zuständigen Behörde eines anderen Mitgliedstaats gemäß diesem Absatz
+stattzugeben, das eigene Personal durch Personal jener Behörde begleiten zu lassen, wenn derartige
+Ermittlungen die Souveränität, die Sicherheit oder die öffentliche Ordnung beeinträchtigen könnten oder
+wenn auf Grund derselben Tat und gegen dieselben Personen bereits ein Verfahren vor einem
+österreichischen Gericht anhängig ist oder wenn gegen die betreffenden Personen auf Grund derselben
+Tat bereits ein rechtskräftiges Urteil eines österreichischen Gerichts ergangen ist. In diesem Fall hat sie
+dies der ersuchenden zuständigen Behörde entsprechend mitzuteilen und ihr möglichst genaue
+Informationen über das betreffende Verfahren oder Urteil zu übermitteln. Unbeschadet des Art. 226 des
+Vertrags kann die FMA, deren Ersuchen um Einleitung von Ermittlungen oder Erteilung der Erlaubnis,
+dass ihre Bediensteten die Bediensteten der zuständigen Behörde des anderen Mitgliedstaats begleiten
+dürfen, nicht innerhalb angemessener Frist Folge geleistet wird oder das abgelehnt wurde, dies dem
+Ausschuss der europäischen Wertpapierregulierungsbehörden melden.“
+7. In § 64 Abs. 1 wird nach dem Wort „Wertpapieren“ die Wortgruppe „sowie von
+Emissionsprogrammen, in deren Rahmen Schuldverschreibungen emittiert werden,“ eingefügt.
+8. In § 66 Abs. 1 wird nach der Wortgruppe „Die Voraussetzungen für die Zulassung von Wertpapieren“
+die Wortgruppe „und Emissionsprogrammen“ eingefügt.
+9. Nach § 66 Abs. 6 wird folgender Abs. 7 angefügt:
+„(7) Schuldverschreibungen, die im Rahmen eines zum amtlichen Handel zugelassenen
+Emissionsprogramms innerhalb von 12 Monaten ab Veröffentlichung des Prospekts ausgegeben werden,
+bedürfen keiner gesonderten Zulassung. Die amtliche Notierung erfolgt, soferne die Voraussetzungen des
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 16 von 18
+§ 66 Abs. 1 Z 2 und 4 bis 9 gegeben sind und nachdem der Antragsteller dem Börseunternehmen die
+Anleihebedingungen übermittelt hat. Die Anleihebedingungen sind gemäß § 78 zu veröffentlichen.“
+10. § 67 Abs. 1 lautet:
+„(1) Das Börseunternehmen kann Verkehrsgegenstände sowie Emissionsprogramme, in deren
+Rahmen Schuldverschreibungen emittiert werden, zum Geregelten Freiverkehr zulassen.“
+11. Nach § 68 Abs. 3 wird folgender Abs. 4 angefügt:
+„(4) Schuldverschreibungen, die im Rahmen eines zum geregelten Freiverkehr zugelassenen
+Emissionsprogramms innerhalb von 12 Monaten ab Veröffentlichung des Prospekts ausgegeben werden,
+bedürfen keiner gesonderten Zulassung. Die Notierung im geregelten Freiverkehr erfolgt, soferne die
+Voraussetzungen des § 68 Abs. 1 Z 2 und 4 bis 9 gegeben sind und nachdem der Antragsteller dem
+Börseunternehmen die Anleihebedingungen übermittelt hat. Die Anleihebedingungen sind gemäß § 78 zu
+veröffentlichen.“
+12. § Die Überschrift vor § 69 lautet:
+„Ungeregelter dritter Markt“
+13. In § 69 Abs. 1 wird nach dem Wort „Verkehrsgegenstände“ die Wortgruppe „sowie
+Emissionsprogramme, in deren Rahmen Schuldverschreibungen emittiert werden,“ eingefügt.
+14. Nach § 69 Abs.1 Z 3 wird folgende Z 4 angefügt:
+„4. Schuldverschreibungen, die im Rahmen eines zum dritten Markt zugelassenen
+Emissionsprogramms ausgegeben werden, bedürfen keiner gesonderten Zulassung. Die
+Notierung im dritten Markt erfolgt, sofern der Antragsteller dem Börseunternehmen die
+Anleihebedingungen übermittelt hat.“
+15. In § 72 Abs. 1 wird nach dem Wort „Wertpapieres“ die Wortgruppe „bzw. eines
+Emissionsprogramms“ eingefügt.
+16. Dem § 72 Abs. 2 zweiter Satz wird folgender dritter Satz angefügt:
+„Bei einem Antrag auf Zulassung eines Emissionsprogramms muss sich der Gesamtbetrag auf das im
+Prospekt vorgesehene maximale Emissionsvolumen sämtlicher potentieller Schuldverschreibungen
+beziehen. Sind seit der Veröffentlichung des Prospekts mehr als 12 Monate vergangen oder überschreitet
+die Emission von Schuldverschreibungen den beantragten Gesamtbetrag des Programms, muss ein neuer
+Antrag gestellt werden.“
+17. In § 75a Abs. 2 wird nach dem Wort „Wertpapiere“ die Wortgruppe „bzw. für dasselbe
+Emissionsprogramm“ eingefügt.
+18. In § 75a Abs. 5 wird nach dem Wort „Wertpapier“ die Wortgruppe „bzw. für ein
+Emissionsprogramm“ eingefügt.
+19. § 82 Abs. 6 entfällt.
+20. In § 82 Abs. 7 und 8 wird jeweils der Ausdruck „Abs. 6“ durch den Ausdruck „§ 48d“ ersetzt.
+21. § 91a entfällt.
+22. Nach § 96a Abs. 2 wird folgender Abs. 3 angefügt:
+„(3) Bei Verwaltungsübertretungen gemäß den §§ 48 und 48c gilt anstelle der Verjährungsfrist
+gemäß § 31 Abs. 2 VStG von sechs Monaten eine Verjährungsfrist von 18 Monaten.“
+23. In § 101 Z 1 wird die Zahl „48a“ durch die Zahl „48b“ ersetzt.
+24. In § 101 Z 2 wird nach der Zahl „31“ die Wortgruppe „und § 48a Abs. 1 Z 1 lit. b“ eingefügt.
+25. Nach § 101d wird folgender § 101e samt Überschrift eingefügt:
+„Sprachliche Gleichbehandlung
+§ 101e. Soweit in diesem Bundesgesetz personenbezogene Bezeichnungen nur in männlicher Form
+angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung auf
+bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 17 von 18
+26. Nach § 102 Abs. 19 wird folgender Abs. 20 angefügt:
+„(20) § 26 Abs. 1, § 48 Abs. 1 Z 2 und die §§ 48a bis 48t, § 64 Abs. 1, § 66 Abs. 1 und 7, § 67
+Abs. 1, § 68 Abs. 4, die Überschrift vor § 69, § 69 Abs. 1, § 72 Abs. 1 und 2, § 75a Abs. 2 und 5, § 82
+Abs. 7 und 8, § 96a Abs. 3, § 101 Z 1 und 2 und § 101e in der Fassung des Bundesgesetzes BGBl. I
+Nr. 127/2004 treten mit 1. Jänner 2005 in Kraft. § 82 Abs. 6 und § 91a treten mit Ablauf des
+31. Dezember 2004 außer Kraft.“
+Artikel II
+Änderung des Wertpapieraufsichtsgesetzes
+Das Wertpapieraufsichtsgesetz, BGBl. Nr. 753/1996, zuletzt geändert durch BGBl. I Nr. 70/2004,
+wird wie folgt geändert:
+1. § 2 Abs. 1 Z 4 entfällt.
+2. § 2 Abs. 2 entfällt.
+3. § 10 Abs. 1 Z 3 bis 5 lauten:
+„3. im Wege des freien Dienstleistungsverkehrs gemäß §§ 9 ff. BWG im Inland tätige Kreditinstitute
+und Wertpapierfirmen und Lokale Firmen mit Sitz in Mitgliedstaaten, soweit diese Unternehmen
+Mitglied einer Wertpapierbörse im Sinne des Börsegesetzes sind, aber je nur hinsichtlich jener
+Instrumente, die zum Handel an einer österreichischen Börse zugelassen sind, und über die in
+Österreich Geschäfte abgeschlossen wurden,
+4. die Oesterreichische Nationalbank und
+5. anerkannte Wertpapierfirmen mit Sitz in einem Drittland (§ 15 Abs. 1 Z 3 BörseG) und
+Unternehmen mit Sitz in einem Drittland (§ 15 Abs. 1 Z 4 BörseG), die Mitglied einer
+Wertpapierbörse im Sinne des Börsegesetzes sind, sowie an einer Wertpapierbörse im Sinne des
+Börsegesetzes tätige Mitglieder einer Kooperationsbörse (§ 15 Abs. 5 BörseG), aber je nur
+hinsichtlich jener Instrumente, die zum Handel an einer österreichischen Börse zugelassen sind
+und über die in Österreich Geschäfte abgeschlossen wurden.“
+4. § 10 Abs. 2 lautet:
+„(2) Meldepflichtige Instrumente sind:
+1. Wertpapiere im Sinne der Richtlinie 93/22/EWG,
+2. Anteile an Organismen für gemeinsame Anlagen in Wertpapieren,
+3. Geldmarktinstrumente,
+4. Finanzterminkontrakte (Futures) einschließlich gleichwertiger bar abgerechneter Instrumente,
+5. Zinsausgleichsvereinbarungen (Forward Rate Agreement),
+6. Zins- und Devisenswaps sowie Swaps auf Aktien oder Aktienindexbasis (Equity-swaps),
+7. Kauf- und Verkaufsoptionen auf alle unter Z 1 bis 6 fallenden Instrumente einschließlich
+gleichwertiger bar abgerechneter Instrumente; dazu gehören insbesondere Devisen- und
+Zinsoptionen,
+8. alle sonstigen Instrumente,
+die zum Handel an einer österreichischen Börse oder zum Handel an einem geregelten Markt im Sinne
+des Art. 1 Z 13 der Richtlinie 93/22/EWG in einem Mitgliedstaat zugelassen sind oder für die ein Antrag
+auf Zulassung zum Handel auf einem der vorgenannten Märkte gestellt wurde, unabhängig davon, ob
+dieses Geschäft in einem geregelten Markt abgeschlossen oder abgewickelt wurde, sofern es sich um den
+An- oder Verkauf oder um ein unechtes Pensionsgeschäft handelt. Meldepflichtige Instrumente im Sinne
+dieser Bestimmung sind auch solche Instrumente, die nicht zum Handel an einem österreichischen Markt
+oder an einem geregelten Markt im Sinne des Art. 1 Z 13 der Richtlinie 93/22/EWG in einem
+Mitgliedstaat zugelassen sind, wenn ihr Wert von einer Aktie oder von einem aktienähnlichen Wertpapier
+abhängt, sofern diese Aktie oder dieses aktienähnliche Wertpapier entweder zum Handel an einer
+österreichischen Börse zugelassen ist oder für diese Aktie oder dieses aktienähnliche Wertpapier ein
+Antrag auf Zulassung zum Handel an einer österreichischen Börse gestellt wurde, oder wenn ihr Wert von
+einem Derivat auf eine solche Aktie oder ein solches aktienähnliches Wertpapier abhängt.“
+5. In § 10 Abs. 5 wird jeweils nach dem Wort „Immobilien-Investmentfondsgesetzes“ die Wortgruppe
+„, Mitarbeitervorsorgekassen gemäß § 18 des betrieblichen Mitarbeitervorsorgegesetzes“ eingefügt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 16. November 2004 – Nr. 127 18 von 18
+6. In § 14 Z 2 wird der Strichpunkt am Ende durch einen Punkt ersetzt und § 14 Z 3 entfällt. Im letzten
+Satz des § 14 wird die Wortgruppe „Die Verbote gemäß Z 2 und 3 gelten“ durch die Wortgruppe „Das
+Verbot gemäß Z 2 gilt“ ersetzt.
+7. In § 25 Abs. 1 wird der Beistrich nach dem Wort „Handel“ durch das Wort „und“ ersetzt und die
+Wortgruppe „und der dritte Markt“ entfällt.
+8. In § 27 Abs. 3 wird nach der Wortgruppe „Verhaltensregeln des § 14 Z 2“ die Wortgruppe „und 3“
+gestrichen.
+9. Nach § 33 wird folgender § 33a samt Überschrift eingefügt:
+„Sprachliche Gleichbehandlung
+§ 33a. Soweit in diesem Bundesgesetz personenbezogene Bezeichnungen nur in männlicher Form
+angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung auf
+bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden.“
+10. Nach § 34 Abs. 14 wird folgender Abs. 15 angefügt:
+„(15) § 10 Abs. 1, 2 und 5, § 14 Z 2, § 25 Abs. 1, § 27 Abs. 3 und § 33a in der Fassung des
+Bundesgesetzes BGBl. I Nr. 127/2004 treten mit 1. Jänner 2005 in Kraft. § 2 Abs. 1 Z 4, § 2 Abs. 2 und
+§ 14 Z 3 treten mit Ablauf des 31. Dezember 2004 außer Kraft. § 10 Abs. 2 zweiter Satz in der Fassung
+des Bundesgesetzes BGBl. I Nr. 127/2004 tritt am 1. Jänner 2006 in Kraft.“
+Fischer
+Schüssel
+www.ris.bka.gv.at

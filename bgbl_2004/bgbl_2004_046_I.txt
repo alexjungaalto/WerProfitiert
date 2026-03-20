@@ -1,0 +1,776 @@
+1 von 16
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 30. April 2004 Teil I
+46. Bundesgesetz: Emissionszertifikategesetz – EZG
+(NR: GP XXII RV 400 AB 417 S. 55. BR: 7001 AB 7004 S. 707.)
+[CELEX-Nr.: 32003L0087]
+46. Bundesgesetz über ein System für den Handel mit Treibhausgasemissionszertifikaten
+(Emissionszertifikategesetz – EZG)
+Der Nationalrat hat beschlossen:
+1. Abschnitt
+Allgemeine Bestimmungen
+Ziel
+§ 1. (1) Ziel dieses Bundesgesetzes ist die Schaffung eines Systems für den Handel mit Treibhaus-
+gasemissionszertifikaten, um auf kosteneffiziente und wirtschaftlich effiziente Weise auf eine Verringe-
+rung von Treibhausgasemissionen hinzuwirken.
+(2) Zur Erreichung des Kyoto-Ziels sind gemäß bestehenden Programmen zur Klimaschutzpolitik
+Maßnahmen zur Verringerung der Emissionen von Treibhausgasen in allen Sektoren notwendig. Der
+Fortschritt bei der Umsetzung dieser Maßnahmen und die damit erzielten Emissionsreduktionen sind vom
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft erstmals bis 30. Juni 2005
+unter Berücksichtigung der wirtschaftlichen Entwicklung, insbesondere des Wirtschaftsstandortes, zu
+evaluieren. Sollten die bis dahin gesetzten Maßnahmen zur Erreichung des Kyoto-Ziels nicht ausreichend
+sein, so hat die Bundesregierung ein Programm mit weiteren Maßnahmensetzungen zu erstellen. Der
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft führt die Koordination
+durch. Die Schwerpunkte der neuen Maßnahmensetzungen sind dabei in jenen Bereichen und Sektoren
+vorzunehmen, in denen einerseits die stärksten Abweichungen vom Kyoto-Zielerreichungspfad festzustel-
+len sind und andererseits die geringsten volkswirtschaftlichen Kosten für die Emissionsvermeidung zu
+erwarten sind, einschließlich der forcierten Verwendung finanzieller Instrumente, wie z.B. der Ankauf
+von Reduktionseinheiten im Wege der Kyoto-Mechanismen.
+Geltungsbereich
+§ 2. (1) Dieses Bundesgesetz gilt für Anlagen, in denen in Anhang 1 oder in einer Verordnung ge-
+mäß Abs. 2 genannte Tätigkeiten durchgeführt werden, bei denen die in Anhang 1 oder in einer Verord-
+nung gemäß Abs. 2 für diese Tätigkeit angegebenen Treibhausgase emittiert werden.
+(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat, sofern
+dies auf Grund von Änderungen der Richtlinie 2003/87/EG über ein System für den Handel mit Treib-
+hausgasemissionszertifikaten in der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates,
+ABl. Nr. L 275 vom 25.10.2003 S.32, erforderlich ist, über Anhang 1 hinaus weitere Tätigkeiten und
+Treibhausgase mit Verordnung im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit in
+den Geltungsbereich dieses Bundesgesetzes einzubeziehen. Der Bundesminister für Land- und Forstwirt-
+schaft, Umwelt und Wasserwirtschaft kann unter Bedachtnahme auf die Rechtslage in den Mitgliedstaa-
+ten der Europäischen Union im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit über
+Anhang 1 hinaus weitere Tätigkeiten und Treibhausgase in den Geltungsbereich dieses Bundesgesetzes
+einbeziehen.
+(3) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft kann auf An-
+trag des Inhabers einer Anlage
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 2 von 16
+1. ab 1.1.2005 Anlagen, in denen in Anhang 1 angeführte Tätigkeiten durchgeführt werden, die aber
+höchstens 50% unterhalb der in Anhang 1 angegebenen Schwellenwerte liegen, und
+2. ab 1.1.2008 über Anhang 1 oder eine Verordnung gemäß Abs. 2 hinaus weitere Anlagen, auch
+hinsichtlich anderer Treibhausgase,
+in den Zuteilungsplan gemäß § 11 einbeziehen. Der Bundesminister für Land- und Forstwirtschaft, Um-
+welt und Wasserwirtschaft hat dazu die Billigung der Europäischen Kommission gemäß Art 24 Abs. 1
+iVm Art. 23 Abs. 2 der Richtlinie 2003/87/EG einzuholen. Die Aufnahme gilt jeweils für die folgende
+Periode gemäß § 11 Abs. 1. Der Antrag ist spätestens einen Monat vor dem in § 13 Abs. 3 genannten
+Termin an den Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu richten.
+Eine Abweisung des Antrags hat mit Bescheid zu erfolgen.
+(4) Anlagen oder Anlagenteile, für die in der Verordnung gemäß § 13 Abs. 4 und 5 eine Zuteilung
+von Emissionszertifikaten erfolgt ist, verbleiben für die laufende Periode gemäß § 11 Abs. 1 im Gel-
+tungsbereich dieses Bundesgesetzes, auch wenn der in Anhang 1 vorgesehene Schwellenwert für die
+Tätigkeit während der Periode unterschritten wird.
+(5) Anlagen oder Anlagenteile, wenn und soweit sie für Zwecke der Forschung, Entwicklung, Prü-
+fung und Erprobung neuer Produkte und Verfahren genutzt werden, fallen nicht unter dieses Bundesge-
+setz.
+(6) Feuerungsanlagen, die gemäß der anlagenrechtlichen Genehmigung fossile Brennstoffe nur als
+Stützfeuerung (An- und Abfahrbrenner) einsetzen, fallen nur dann unter dieses Bundesgesetz, wenn sie
+im Verbund mit fossil gefeuerten Kesseln betrieben werden.
+(7) Auf Verlangen des Inhabers einer Anlage hat der Bundesminister für Land- und Forstwirtschaft,
+Umwelt und Wasserwirtschaft innerhalb von acht Wochen mit Bescheid festzustellen, ob und inwieweit
+diese Anlage diesem Bundesgesetz unterliegt.
+Begriffsbestimmungen
+§ 3. Im Sinne dieses Gesetzes bezeichnet der Ausdruck
+1. „Emissionszertifikat“ das Zertifikat, das zur Emission von einer Tonne Kohlenstoffdioxidäquiva-
+lent in einer bestimmten Periode berechtigt;
+2. „Emissionen“ die Freisetzung von Treibhausgasen in die Atmosphäre aus Quellen in einer Anla-
+ge;
+3. „Treibhausgase“ die Gase Kohlenstoffdioxid (CO ), Methan (CH ), Distickstoffoxid (N O), teil-
+2 4 2
+halogenierte Fluorkohlenwasserstoffe (H-FKW), Perfluorierte Kohlenwasserstoffe (P-FKW),
+Schwefelhexafluorid (SF );
+6
+4. „Anlage“ eine ortsfeste technische Einheit, in der eine oder mehrere der in Anhang 1 oder in
+einer Verordnung gemäß § 2 Abs. 2 genannten Tätigkeiten sowie andere unmittelbar damit ver-
+bundene Tätigkeiten durchgeführt werden, die mit den an diesem Standort durchgeführten Tätig-
+keiten in einem technischen Zusammenhang stehen und die Auswirkungen auf die Emissionen
+und die Umweltverschmutzung haben können;
+5. „Neuer Marktteilnehmer“ eine Anlage, in der eine oder mehrere der in Anhang 1 oder in einer
+Verordnung gemäß § 2 Abs. 2 genannten Tätigkeiten durchgeführt werden und der nach dem in
+§ 11 Abs. 7 genannten Zeitpunkt eine anlagenrechtliche Genehmigung erteilt wurde;
+6. „Tonne Kohlenstoffdioxidäquivalent“ eine metrische Tonne Kohlenstoffdioxid (CO ) oder eine
+2
+Menge eines anderen Treibhausgases gemäß Z 3 mit einem äquivalenten Treibhauspotenzial.
+2. Abschnitt
+Genehmigungen
+Genehmigungen zur Emission von Treibhausgasen
+§ 4. (1) Anlagen, in denen in Anhang 1 oder in einer Verordnung gemäß § 2 Abs. 2 genannte Tätig-
+keiten durchgeführt werden, bei denen die in Anhang 1 oder in dieser Verordnung für diese Tätigkeiten
+spezifizierten Emissionen entstehen, und Anlagen, die gemäß § 2 Abs. 3 in den Zuteilungsplan aufge-
+nommen werden, dürfen ab dem 1. Jänner 2005 nur betrieben werden, wenn von der zuständigen Behörde
+(§ 26) nach den folgenden Bestimmungen eine Genehmigung erteilt wurde.
+(2) Die Genehmigung ist zu erteilen, wenn der Inhaber der Anlage nachweist, dass er für die betref-
+fende Anlage in der Lage ist, die Emissionen von Treibhausgasen gemäß § 7 zu überwachen und darüber
+gemäß § 8 Bericht zu erstatten. Eine Genehmigung kann sich auf eine oder mehrere vom selben Inhaber
+am selben Standort betriebene Anlagen beziehen.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 3 von 16
+(3) Genehmigungen zur Emission von Treibhausgasen haben insbesondere folgende Angaben und
+Auflagen zu enthalten:
+1. Name und Anschrift des Inhabers,
+2. Beschreibung der Tätigkeiten und Emissionen der Anlage,
+3. Überwachungsauflagen, in denen jedenfalls Überwachungsmethode und -häufigkeit festgelegt
+sind,
+4. Auflagen für die Berichterstattung und
+5. eine Verpflichtung zur Abgabe von Emissionszertifikaten in Höhe der nach § 9 geprüften Ge-
+samtemissionen der Anlage für jedes Kalenderjahr ab 2005 binnen vier Monaten nach Ablauf
+dieses Kalenderjahres.
+(4) Der Genehmigungsbescheid ist von der Behörde in elektronischer Form an das Bundesministeri-
+um für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu übermitteln.
+(5) Die Genehmigung zur Emission von Treibhausgasen berührt nicht die Geltung der anlagenrecht-
+lichen Vorschriften und Genehmigungen, insbesondere vorgeschriebene Emissionsgrenzwerte für andere,
+nicht in Anhang 1 oder in einer Verordnung gemäß § 2 Abs. 2 genannten Luftschadstoffe, ausgenommen
+in den Fällen des § 23.
+(6) Die Genehmigung zur Emission von Treibhausgasen gilt, solange die anlagenrechtliche Geneh-
+migung aufrecht ist. Wenn die anlagenrechtliche Genehmigung vor der ersten oder während einer Zutei-
+lungsperiode gemäß § 11 Abs. 1 erlischt, so erlischt auch die Genehmigung zur Emission von Treibhaus-
+gasen. Die Genehmigung zur Emission von Treibhausgasen erlischt auch, wenn die Anlage stillgelegt
+wird, die anlagenrechtliche Genehmigung aber weiter besteht. Einer Stilllegung ist es gleichzuhalten,
+wenn eine Anlage, für die im Zuteilungsplan gemäß § 11 eine Zuteilung von Emissionszertifikaten erfolgt
+ist, trotz gültigen Genehmigungsbescheids nicht in Betrieb genommen wird. Eine Anlage gilt nicht als
+stillgelegt, wenn der Inhaber nachweisen kann, dass der Emissionsrückgang durch Klimaschutzmaßnah-
+men, wie den Umstieg auf Biomasse, oder auf einen temporären Produktionsausfall zurückzuführen ist.
+Ein Wechsel in der Person des Inhabers ist der Behörde zu melden, berührt jedoch die Genehmigung
+nicht.
+Genehmigungsverfahren
+§ 5. (1) Anträge auf Erteilung von Genehmigungen zur Emission von Treibhausgasen haben jeden-
+falls folgende Angaben zu enthalten:
+1. Bezeichnung der Anlage und der dort durchgeführten Tätigkeiten und verwendeten Technolo-
+gien,
+2. Rohmaterialien und Hilfsstoffe, deren Verwendung wahrscheinlich mit Emissionen von in An-
+hang 1 oder in einer Verordnung gemäß § 2 Abs. 2 aufgeführten Gasen verbunden ist,
+3. Quellen der Emissionen von in Anhang 1 aufgeführten Gasen aus der Anlage; eine Quantifizie-
+rung der Emissionen ist nicht erforderlich,
+4. geplante Maßnahmen zur Überwachung und Berichterstattung betreffend Emissionen im Ein-
+klang mit der Verordnung gemäß §§ 7 und 8 sowie Begründung für die vorgeschlagenen Maß-
+nahmen.
+(2) Bedient sich der Inhaber der Anlage für die technisch/operativen Angelegenheiten im Zusam-
+menhang mit der Vollziehung dieses Bundesgesetzes eines Bevollmächtigten, ist dieser der Behörde
+namhaft zu machen.
+(3) Dem Antrag ist eine höchstens fünf Seiten umfassende Zusammenfassung der in Abs. 1 genann-
+ten Punkte beizufügen.
+(4) Inhaber von Anlagen gemäß Anhang 1 und § 2 Abs. 3 Z 1, die bei In-Kraft-Treten dieses Bun-
+desgesetzes über eine erstinstanzliche anlagenrechtliche Genehmigung verfügen, haben die Genehmigung
+zur Emission von Treibhausgasen bis spätestens 31. Juli 2004 bei der zuständigen Behörde (§ 26) zu
+beantragen.
+(5) Die Behörde hat innerhalb von vier Monaten ab der Einreichung des Antrags oder, falls die vor-
+gelegten Unterlagen unzureichend sind, ab Vorliegen der vollständigen Antragsunterlagen zu entschei-
+den. Ergeht trotz rechtzeitiger Beantragung bis 31. Dezember 2004 kein Bescheid, darf die Anlage bis zur
+Erteilung der Genehmigung unter Anwendung der im Antrag vorgesehenen Überwachungsmaßnahmen
+weiter betrieben werden.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 4 von 16
+(6) Die Genehmigung zur Emission von Treibhausgasen für nach dem In-Kraft-Treten dieses Bun-
+desgesetzes in Betrieb genommene oder zu nehmende Anlagen oder Anlagenänderungen gemäß § 6 kann
+gemeinsam mit der nach den einschlägigen Verwaltungsvorschriften erforderlichen anlagenrechtlichen
+Genehmigung für die Errichtung oder den Betrieb der Anlage beantragt werden. Die für diese anlagen-
+rechtliche Genehmigung zuständige Behörde hat das Verfahren zur Erteilung von Genehmigungen zur
+Emission von Treibhausgasen gemäß diesem Bundesgesetz in diesem Fall gemeinsam mit dem anlagen-
+rechtlichen Genehmigungsverfahren durchzuführen.
+Anlagenänderungen
+§ 6. Der Inhaber einer gemäß § 4 genehmigten Anlage hat der Behörde alle geplanten Änderungen
+der Art oder Funktionsweise der Anlage sowie eine Erweiterung der Anlage anzuzeigen, die eine Aktuali-
+sierung der Genehmigung zur Emission von Treibhausgasen erfordern könnten. In diesem Fall hat die
+Behörde diese Meldung zur Kenntnis zu nehmen und erforderlichenfalls den Genehmigungsbescheid
+entsprechend zu ändern.
+3. Abschnitt
+Überprüfung von Treibhausgasemissionen
+Überwachung von Treibhausgasemissionen
+§ 7. (1) Jeder Inhaber einer gemäß § 4 genehmigten Anlage hat die Emissionen von Treibhausgasen
+gemäß den Bestimmungen dieses Bundesgesetzes, der dazu ergangenen Verordnungen, der Leitlinien der
+Europäischen Kommission gemäß Artikel 14 der Richtlinie 2003/87/EG, soweit sie direkt anwendbar
+sind, sowie dem jeweiligen Genehmigungsbescheid zu überwachen.
+(2) Die Überwachung hat den in Anhang 2 dieses Bundesgesetzes festgelegten Grundsätzen zu ent-
+sprechen. Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat mit Ver-
+ordnung nähere Vorschriften für die Überwachung auf Grund der in Anhang 2 festgelegten Grundsätze
+und unter Beachtung der gemäß Artikel 14 Abs. 1 der Richtlinie 2003/87/EG beschlossenen Leitlinien der
+Europäischen Kommission festzulegen.
+Emissionsmeldungen
+§ 8. (1) Jeder Inhaber einer gemäß § 4 genehmigten Anlage hat dem Bundesminister für Land- und
+Forstwirtschaft, Umwelt und Wasserwirtschaft die Emissionsmeldung für diese Anlage für jedes Kalen-
+derjahr binnen drei Monaten nach Ende dieses Jahres elektronisch zu übermitteln. Diese Meldung hat
+erstmals spätestens am 31. März 2006 für das Jahr 2005 zu erfolgen. Dabei sind die in Anhang 2 festge-
+legten Grundsätze und die Vorschriften der Verordnung gemäß Abs. 2 anzuwenden. Der Meldung ist eine
+Zusammenfassung in englischer Sprache anzuschließen.
+(2) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat mit Ver-
+ordnung nähere Vorschriften für die Meldung auf Grund der in Anhang 2 festgelegten Grundsätze und
+unter Beachtung der gemäß Artikel 14 Abs. 1 der Richtlinie 2003/87/EG beschlossenen Leitlinien der
+Europäischen Kommission festzulegen.
+(3) Erstattet ein Inhaber keine Meldung gemäß Abs. 1 oder § 12, hat der Bundesminister für Land-
+und Forstwirtschaft, Umwelt und Wasserwirtschaft eine Überprüfung der Anlage auf der Grundlage der
+verfügbaren Unterlagen hinsichtlich der Treibhausgasemissionen, die der Inhaber nach diesem Bundesge-
+setz zu melden verpflichtet ist, vorzunehmen. Er kann sich dazu des Umweltbundesamtes bedienen. Die
+Emissionen von Treibhausgasen für das Kalenderjahr, für das die Meldung nicht erstattet wurde, sind auf
+Grund dieser Überprüfung vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirt-
+schaft mit Bescheid festzulegen. Die Kosten der Überprüfung sind dem Inhaber mit Bescheid vorzu-
+schreiben.
+Prüfung
+§ 9. (1) Jeder Inhaber einer gemäß § 4 genehmigten Anlage ist verpflichtet, gemeinsam mit der Mel-
+dung gemäß § 8 eine Bescheinigung einer unabhängigen Prüfeinrichtung gemäß § 10 über die erfolgte
+Prüfung der Emissionen vorzulegen. Bei der Prüfung sind die in Anhang 3 festgelegten Grundsätze so-
+wie allfällige in einer Verordnung des Bundesministers für Land- und Forstwirtschaft, Umwelt und Was-
+serwirtschaft enthaltene Bestimmungen über die Anwendung der Grundsätze einzuhalten.
+(2) Der Inhaber hat den Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirt-
+schaft jeweils vor Beginn der Periode und bei einem Wechsel der Prüfeinrichtung gemäß § 11 Abs. 1 zu
+unterrichten, welche unabhängige Prüfeinrichtung mit der Prüfung der Meldung beauftragt wurde. Der
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft kann dem Inhaber mit Be-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 5 von 16
+scheid auftragen, eine andere Prüfeinrichtung zu wählen, wenn zB durch Stichprobenüberprüfungen be-
+gründete Zweifel an der Unabhängigkeit der Einrichtung vom Inhaber bestehen.
+(3) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat die Emis-
+sionsmeldung gemäß § 8 als ausreichend geprüft anzuerkennen, wenn eine entsprechende Bestätigung
+einer unabhängigen Prüfeinrichtung gemäß § 10 darüber vorliegt und keine begründeten Zweifel darüber
+vorliegen, dass zu den Gesamtemissionen falsche Angaben gemacht wurden. Können Zweifel nicht bin-
+nen zwei Wochen ausgeräumt werden, kann der Bundesminister für Land- und Forstwirtschaft, Umwelt
+und Wasserwirtschaft eine besondere Überprüfung der Emissionsmeldung, des Prüfberichtes und der
+zugrunde liegenden Unterlagen der Anlage hinsichtlich der Treibhausgasemissionen durchführen und auf
+Grund dieser Überprüfung die Emissionen von Treibhausgasen der Anlage für das Kalenderjahr, für das
+die Emissionen gemeldet wurden, mit Bescheid festsetzen. Er kann sich zu dieser Überprüfung des Um-
+weltbundesamtes bedienen. Die Kosten der Überprüfung sind vom Inhaber zu tragen, wenn die Überprü-
+fung ergibt, dass die Meldung des Inhabers unrichtig war.
+(4) Ein Inhaber, dessen Emissionsmeldung bis zum 31. März jeden Jahres in Bezug auf das Vorjahr
+von der unabhängigen Prüfeinrichtung nicht gemäß Anhang 3 und einer Verordnung gemäß Abs. 1 als
+zufrieden stellend bewertet oder vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Was-
+serwirtschaft bis 30. April jeden Jahres gemäß Abs. 3 nicht als ausreichend anerkannt wurde, ist nicht
+berechtigt, Emissionszertifikate zu übertragen, bis eine Meldung dieses Inhabers als zufrieden stellend
+bewertet wurde. Nach dem 31. März jeden Jahres führt die Registerstelle Übertragungen von Emissions-
+zertifikaten nur durch, wenn ein positiver Prüfbericht vorliegt.
+(5) Der Inhaber hat auf Verlangen des Bundesministers für Land- und Forstwirtschaft, Umwelt und
+Wasserwirtschaft weitere Informationen zur Verfügung zu stellen, die im Rahmen einer Überprüfung der
+Nationalen Treibhausgasinventur gemäß den relevanten Beschlüssen der Vertragsparteienkonferenz des
+Klimarahmenübereinkommens vom internationalen Überprüfungsteam eingefordert werden, um die Kon-
+sistenz der Emissionsberichte mit der Nationalen Treibhausgasinventur sicherzustellen. Diese Informatio-
+nen sind unter Wahrung der Geheimhaltungsinteressen der Inhaber zu behandeln.
+Unabhängige Prüfeinrichtungen
+§ 10. Unabhängige Prüfeinrichtungen bedürfen der Zulassung durch den Bundesminister für Land-
+und Forstwirtschaft, Umwelt und Wasserwirtschaft. Voraussetzung für die Zulassung ist der Nachweis
+der erforderlichen Fachkunde. Dieser Nachweis umfasst die theoretischen Kenntnisse und die beruflichen
+Erfahrungen, über die der Antragsteller verfügt. Die näheren Anforderungen für den Nachweis der Fach-
+kunde kann der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einver-
+nehmen mit dem Bundesminister für Wirtschaft und Arbeit mit Verordnung festlegen. Über Anträge auf
+Zulassung ist innerhalb von 8 Wochen zu entscheiden.
+4. Abschnitt
+Zuteilung von Emissionszertifikaten
+Nationaler Zuteilungsplan
+§ 11. (1) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat im
+Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit und dem Bundesminister für Finanzen
+in objektiver und transparenter Weise gemäß den in Abs. 2 bis 5 angeführten Kriterien für die Periode
+2005 bis 2007 und ab 2008 jeweils für eine Periode von fünf Jahren einen nationalen Plan aufzustellen,
+aus dem die Gesamtmenge der Emissionszertifikate für die Periode, das Verhältnis dieser Gesamtmenge
+zu den Emissionen aller anderen Sektoren und die Zuteilung der Emissionszertifikate an die Inhaber be-
+zogen auf die Anlagen, in denen eine Tätigkeit gemäß Anhang 1 oder einer Verordnung gemäß § 2 Abs. 2
+ausgeübt wird oder die gemäß § 2 Abs. 3 in den Zuteilungsplan einbezogen werden, hervorgeht.
+(2) Für die Erstellung des Zuteilungsplans gelten folgende Kriterien:
+1. Die Mengen der Emissionszertifikate, die zugeteilt werden sollen, müssen mit dem Potenzial,
+auch dem technischen Potenzial, der unter dieses Bundesgesetz fallenden Tätigkeiten gemäß An-
+hang 1 zur Emissionsverringerung in Einklang stehen. Die Zuteilung berücksichtigt die erwarte-
+ten Trendwerte der Produktion, Energieintensität und Kohlenstoffdioxidintensität der Tätigkeit
+(Business as usual). Dabei sollen bei der Zuteilung von Emissionszertifikaten die durchschnittli-
+chen spezifischen Treibhausgasemissionen des Brennstoffs, die Energieeffizienz und die in die-
+sen Tätigkeitsbereichen erreichbaren Fortschritte zugrunde gelegt werden. Aus im Rahmen des
+Informationsaustausches nach Artikel 16 Abs. 2 der Richtlinie 96/61/EG des Rates über die inte-
+grierte Vermeidung und Verminderung von Umweltverschmutzung, ABl. Nr. L 257 vom
+10. Oktober 1996 S. 26ff, erstellten BVT-Referenzdokumenten (BREFs) resultierende Bench-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 6 von 16
+marks oder, falls für die betreffende Aktivität keine solchen Dokumente existieren, andere objek-
+tive und transparente Vergleichsmaßstäbe sollen verwendet werden. Die Zuteilung berücksich-
+tigt, dass prozessbedingte Emissionen nicht in gleichem Ausmaß beeinflussbar sind wie energie-
+bedingte Emissionen, und wendet daher für prozessbedingte Emissionen eine andere Bere-
+chungsmethode für die Zuteilung an als für energiebedingte Emissionen. Emissionen von Treib-
+hausgasen, die durch die Durchführung von freiwilligen Umweltschutzmaßnahmen entstehen,
+sind wie prozessbedingte Emissionen zu behandeln.
+2. Die Zuteilung berücksichtigt die klimapolitische Bedeutung von effizienter Kraft-Wärme-
+Kopplung und effizienter Fernwärmeerzeugung und deren in der Klimapolitik vorgesehenen
+Ausbau. Weiters können andere emissionsfreie oder besonders emissionsarme Technologien,
+einschließlich energieeffizienter Technologien, berücksichtigt werden.
+3. Die Zuteilung muss mit den übrigen rechtlichen und politischen Instrumenten der Gemeinschaft
+und Österreichs in Einklang stehen. Eine als Ergebnis von neuen rechtlichen Anforderungen un-
+vermeidbare signifikante Änderung der Emissionen soll berücksichtigt werden.
+4. Die Zuteilung darf Unternehmen oder Sektoren nicht in einer Weise unterschiedlich behandeln,
+dass bestimmte Unternehmen oder Tätigkeiten ungerechtfertigt, insbesondere unter Berücksich-
+tigung der Anforderungen aus Artikel 87 und 88 des Vertrags über die Europäische Union, be-
+vorzugt werden.
+5. Die Mengen der Emissionszertifikate, die den Sektoren Industrie und Energiebereitstellung zuge-
+teilt werden, müssen mit der nationalen Klimapolitik vereinbar sein. Die Sicherheit der Versor-
+gung mit elektrischer Energie soll mitberücksichtigt werden.
+6. Die Menge der Emissionszertifikate, die in der jeweiligen Periode zugeteilt werden, hat mit der
+in der Entscheidung vom 25. April 2002 über die Ratifikation des Kyoto-Protokolls durch die
+Gemeinschaft, ABl. Nr. L 130/1 vom 15. Mai 2002, und im Kyoto-Protokoll enthaltenen Ver-
+pflichtung Österreichs zur Verringerung seiner Treibhausgasmissionen in der Periode 2008 bis
+2012 gegenüber 1990 in Einklang zu stehen. Dabei müssen der Anteil der Gesamtemissionen,
+dem diese Emissionszertifikate im Vergleich zu Emissionen aus Quellen entsprechen, die nicht
+unter diese Richtlinie fallen, sowie die nationalen energie- und klimapolitischen Maßnahmen be-
+rücksichtigt werden. Die Menge der zuzuteilenden Emissionszertifikate darf nicht höher sein als
+der wahrscheinliche Bedarf bei strikter Anwendung der Kriterien.
+7. Die tatsächlichen und die erwarteten Fortschritte bei der Erbringung des Beitrags Österreichs zu
+den Verpflichtungen der Gemeinschaft sind gemäß der Entscheidung 93/389/EWG über ein
+System zur Beobachtung von CO und anderen Treibhausgasen in der Gemeinschaft, ABl.
+2
+Nr. L 167 vom 9.7.1993 S. 31, zu bewerten und sicherzustellen, dass die Menge der
+Emissionszertifikate, die im jeweiligen nationalen Zuteilungsplan zugeteilt werden sollen, mit
+dieser Bewertung vereinbar ist.
+(3) Für die Festlegung der Gesamtzahl sind die Kriterien in Abs. 2 Z 1, 3, 4, 5, 6 und 7 heranzuzie-
+hen. Bei der Zuteilung auf Tätigkeitsebene sind die Kriterien in Abs. 2 Z 1, 2, 3 und 4 heranzuziehen, bei
+der Zuteilung auf Anlagenebene die Kriterien in Abs. 2 Z 1 und 2.
+(4) Der nationale Zuteilungsplan hat eine Reserve für Anlagen, die nach dem in Abs. 7 genannten
+Termin anlagenrechtlich genehmigt werden, zu enthalten. Mindestens 1% der Gesamtmenge ist als Re-
+serve vorzusehen. Eine Zuteilung aus der Reserve erfolgt auf Antrag des Anlageninhabers mit Bescheid
+des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft. Der Zuteilungsplan
+hat nähere Regelungen über die Vergabe dieser Emissionszertifikate an neue Marktteilnehmer vorzuse-
+hen, wobei zu berücksichtigen ist, dass jene neuen Marktteilnehmer, die am Anfang der jeweiligen Perio-
+de eine Genehmigung gemäß §§ 4 oder 6 erhalten, einen größeren Bedarf an kostenlosen Emissionszerti-
+fikaten haben. Im Zuteilungsplan ist zumindest ein Stichtag vorzusehen, an dem die verbleibenden Zerti-
+fikate am Markt verwertet werden. Die Erlöse fließen dem österreichischen JI/CDM-Programm gemäß
+Umweltförderungsgesetz zu.
+(5) Der Plan kann Angaben darüber enthalten, wie dem Wettbewerb mit Ländern bzw. Anlagen au-
+ßerhalb der Europäischen Union Rechnung getragen wird.
+(6) Der nationale Zuteilungsplan hat eine Liste der unter dieses Bundesgesetz fallenden Anlagen un-
+ter Angabe der Anzahl der Emissionszertifikate zu enthalten, die für die einzelnen Anlagen zugeteilt
+werden.
+(7) Alle Anlagen gemäß Anhang 1 oder einer Verordnung gemäß § 2 Abs. 2 sowie Anlagen, die ge-
+mäß § 2 Abs. 3 in den Zuteilungsplan aufgenommen wurden, die spätestens eine Woche vor dem Termin
+für die Übermittlung des Zuteilungsplans an die Europäische Kommission gemäß § 13 Abs. 3 in erster
+Instanz anlagenrechtlich genehmigt wurden, sind im nationalen Zuteilungsplan zu berücksichtigen. Für
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 7 von 16
+die Zuteilung an Anlagen, für die keine oder unvollständige bzw. nicht ausreichende Emissionsmeldun-
+gen vorliegen, darunter fallen Anlagen, die während oder nach der jeweiligen Basisperiode in Betrieb
+genommen wurden, sind jedenfalls folgende Faktoren zu berücksichtigen:
+1. die genehmigte Kapazität der Anlage;
+2. die durchschnittliche Kapazitätsauslastung im Branchendurchschnitt;
+3. die zu erwartende Kapazitätsauslastung der Anlage in der Periode;
+4. die zu erwartenden Emissionen der Anlage unter der Annahme der Anwendung des Standes der
+Technik.
+Erster nationaler Zuteilungsplan
+§ 12. Bei der Erstellung des ersten nationalen Zuteilungsplans für die Jahre 2005 bis 2007 hat der
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft die von den Inhabern ge-
+meldeten und vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft auf
+Plausibilität geprüften Emissionen der Anlagen gemäß Anhang 1 oder § 2 Abs. 3 in der Periode 1998 bis
+2001 zu berücksichtigen. Falls solche Emissionsmeldungen nicht vorliegen, hat der Bundesminister für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft dem Anlageninhaber die Meldung mit Be-
+scheid aufzutragen. Falls die Basisperiode 1998 bis 2001 für die Anlage nicht repräsentativ ist, kann in
+begründeten Fällen eine abweichende Basisperiode herangezogen werden.
+Verfahren
+§ 13. (1) Der erste Entwurf des nationalen Zuteilungsplans für die Periode 2008 bis 2012 und die
+folgenden Fünfjahresperioden ist jedenfalls den Inhabern der betroffenen Anlagen sowie den in ihrem
+Wirkungsbereich berührten Bundesministerien vor der Veröffentlichung zur Kenntnis zu bringen. Den
+Inhabern ist Gelegenheit zur Stellungnahme binnen mindestens sechs Wochen zu geben.
+(2) Der unter Berücksichtigung der eingelangten Stellungnahmen gemäß Abs. 1 überarbeitete Ent-
+wurf des Plans ist der Öffentlichkeit einschließlich der in Abs. 1 genannten Stellen sowie der Interessen-
+vertretungen der Inhaber zugänglich zu machen. Die Öffentlichkeit kann binnen sechs Wochen dazu
+Stellung nehmen.
+(3) Für die Periode 2005 bis 2007 wird der Plan am 31. März 2004 veröffentlicht und der Europäi-
+schen Kommission übermittelt. Für die folgenden Perioden werden die gemäß Abs. 1 und 2 erstellten und
+überarbeiteten Pläne mindestens achtzehn Monate vor Beginn der betreffenden Periode veröffentlicht und
+der Europäischen Kommission und den übrigen Mitgliedstaaten übermittelt. Die Stellungnahmen der
+Öffentlichkeit sind angemessen zu berücksichtigen.
+(4) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat spätestens
+am 30. September 2004 im Einvernehmen mit dem Bundesminister für Wirtschaft und Arbeit auf der
+Grundlage des gemäß §§ 11 und 12 erstellten nationalen Zuteilungsplans mit Verordnung die Gesamtzahl
+der Emissionszertifikate, die für die Periode 2005 bis 2007 zugeteilt wird, sowie die Zuteilung dieser
+Emissionszertifikate auf die Tätigkeiten festzulegen. Die rechtsverbindliche Zuteilung hat dem an die
+Europäische Kommission gemäß Abs. 3 übermittelten Zuteilungsplan gemäß § 11 und allfälligen davon
+abweichenden Vorgaben der Europäischen Kommission zu entsprechen. Die Zuteilung an die Anlagen
+hat mit Bescheid des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu
+erfolgen.
+(5) Für die Periode 2008 bis 2012 und jede folgende Fünfjahresperiode hat der Bundesminister für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem Bundesminister für
+Wirtschaft und Arbeit spätestens 12 Monate vor Beginn der betreffenden Periode auf der Grundlage des
+gemäß § 11 erstellten nationalen Zuteilungsplans mit Verordnung die Gesamtzahl der Emissionszertifika-
+te, die für die jeweilige Periode zugeteilt wird, sowie die Zuteilung dieser Emissionszertifikate auf die
+Tätigkeiten festzulegen. Die rechtsverbindliche Zuteilung hat dem an die Europäische Kommission ge-
+mäß Abs. 3 übermittelten Zuteilungsplan gemäß § 11 und allfälligen davon abweichenden Vorgaben der
+Europäischen Kommission zu entsprechen. Die Zuteilung an die Anlagen hat mit Bescheid des Bundes-
+ministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu erfolgen.
+Zuteilungsmethode
+§ 14. (1) Für die Periode 2005 bis 2007 sind die Emissionszertifikate kostenlos zuzuteilen.
+(2) Soweit dies zur Förderung eines effizienten Marktes für Emissionszertifikate zweckmäßig ist,
+kann der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft ab dem mit
+1. Jänner 2008 in Geltung stehenden nationalen Zuteilungsplan einen in diesem Plan festzulegenden Pro-
+zentsatz der Emissionszertifikate festlegen, der versteigert wird. In dem für die Periode 2008 bis 2012
+geltenden Plan darf dieser Prozentsatz höchstens 10 v.H. betragen. Der Bundesminister für Land- und
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 8 von 16
+Forstwirtschaft, Umwelt und Wasserwirtschaft hat die Modalitäten für diese Versteigerung mit Verord-
+nung festzulegen.
+Höhere Gewalt
+§ 15. In Fällen höherer Gewalt, die zu einem signifikant erhöhten Ausstoß von Treibhausgasen bei
+Anlagen gemäß Anhang 1 oder § 2 Abs. 2 führen, insbesondere bei Naturkatastrophen, kriegerische Aus-
+einandersetzungen, Terrorakte, Sabotage und Vandalismus, hat der Bundesminister für Land- und Forst-
+wirtschaft, Umwelt und Wasserwirtschaft für die betroffenen Anlagen auf begründeten Antrag der Inha-
+ber zusätzliche, nicht übertragbare Emissionszertifikate zu vergeben, sofern die Europäische Kommission
+dem zustimmt.
+Anlagenpools
+§ 16. (1) Anlageninhaber, die dieselbe Tätigkeit unter einer Ziffer gemäß Anhang 1 oder gemäß ei-
+ner Verordnung gemäß § 2 Abs. 2 ausüben, können für die Periode 2005 bis 2007 und für die Periode
+2008 bis 2012 einem Anlagenpool beitreten. Die Errichtung eines Anlagenpools bedarf der Genehmigung
+des Bundesministers für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft. Die Genehmigung
+erfolgt mit Bescheid. Vor der Erlassung des Bescheids ist der Antrag der Europäischen Kommission zur
+Genehmigung vorzulegen.
+(2) Im Antrag, der spätestens 90 Tage vor Beginn der jeweiligen Periode beim Bundesminister für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft einzureichen ist, sind die Anlagen und die
+Periode anzugeben, für die der Pool gebildet werden soll, und der Nachweis zu erbringen, dass ein Treu-
+händer in der Lage sein wird, die in den Absätzen 3 und 4 genannten Verpflichtungen zu erfüllen. Im
+Antrag ist ein Treuhänder zu benennen.
+(3) Auf das Konto des Treuhänders wird abweichend von § 17 die Gesamtmenge der den im Pool
+zusammengefassten Anlagen zugeteilten Emissionszertifikate gebucht. Der Treuhänder ist abweichend
+von § 18 verantwortlich für die Abgabe von Emissionszertifikaten, die den Gesamtemissionen der Anla-
+gen im Pool entsprechen. Der Treuhänder darf keine weiteren Übertragungen durchführen, falls der Be-
+richt eines Inhabers im Rahmen der Prüfung gemäß § 9 als nicht zufrieden stellend bewertet oder vom
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft bis 30. April nicht als aus-
+reichend anerkannt wurde.
+(4) Abweichend von § 28 werden die Sanktionszahlungen für Verstöße gegen die Verpflichtungen
+zur Abgabe einer ausreichenden Anzahl von Emissionszertifikaten, um die Gesamtemissionen aus den
+Anlagen im Pool abzudecken, gegen den Treuhänder verhängt. Falls der Treuhänder die Sanktionszah-
+lungen nicht leistet, ist jeder Inhaber einer Anlage im Pool für die Emissionen seiner eigenen Anlage
+verantwortlich.
+(5) Der Ausschluss oder das Ausscheiden eines Anlageninhabers aus dem Pool ist nur mit Jahresen-
+de zulässig und ist dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft
+vom Treuhänder unverzüglich zu melden.
+5. Abschnitt
+Emissionszertifikate
+Vergabe von Emissionszertifikaten
+§ 17. (1) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat bis
+zum 28. Februar jeden Jahres ab 2005 die Buchung eines Teils der Gesamtmenge der Emissionszertifikate
+auf das Konto jeder Anlage, für die eine Genehmigung gemäß § 4 erteilt wurde, im Register zu veranlas-
+sen. Die Zahl der jährlich vergebenen Emissionszertifikate wird in der Verordnung gemäß § 13 Abs. 4
+und 5 festgelegt. Die Gesamtzahl der Emissionszertifikate, die ein Inhaber für die Periode erhält, ist dabei
+in so viele gleiche Teile zu teilen, wie es den Jahren der Periode entspricht.
+(2) Der Wechsel des Inhabers ist dem Bundesminister für Land- und Forstwirtschaft, Umwelt und
+Wasserwirtschaft anzuzeigen.
+(3) Inhaber von Anlagen erhalten die Emissionszertifikate solange zugewiesen, wie die Genehmi-
+gung gemäß §§ 4 oder 6 aufrecht ist. Emissionszertifikate, die aufgrund der Stilllegung einer Anlage
+gemäß § 4 Abs. 6 nicht mehr vergeben werden, sind der Reserve gemäß § 11 Abs. 4 zuzuführen. Emissi-
+onszertifikate, die auf das Konto der Anlage gebucht wurden, bevor der Bundesminister für Land- und
+Forstwirtschaft Kenntnis von der Stilllegung der Anlage erhält, sind vom Anlageninhaber zurückzugeben.
+Abweichend davon kann der Inhaber einer Anlage, die gemäß § 4 Abs. 6 als stillgelegt gilt, beantragen,
+dass die für die Anlage für die weiteren Jahre der jeweiligen Periode gemäß § 11 Abs. 1 zugeteilten Emis-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 9 von 16
+sionszertifikate zur höheren Auslastung anderer Anlagen des gleichen Inhabers verwendet werden können
+oder auf eine Anlage, die nach dem in § 11 Abs. 7 genannten Termin genehmigt wird, maximal im Aus-
+maß der entsprechenden Anlagenkapazität übertragen werden können, unter gleichzeitigem Verzicht auf
+die Zuteilung von Emissionszertifikaten aus der Reserve für neue Marktteilnehmer gemäß § 11 Abs. 4.
+Über einen entsprechenden Antrag auf Übertragung ist vom Bundesminister für Land- und Forstwirt-
+schaft, Umwelt und Wasserwirtschaft mit Bescheid abzusprechen. Im Fall der Genehmigung ist eine
+Zuteilung aus der Reserve für die neue Anlage auszuschließen. Wenn der Anlageninhaber nachweist, dass
+die stillgelegte Anlage durch eine neue Anlage ersetzt wird, die keine oder keine erheblichen Emissionen
+von Treibhausgasen verursacht und keine Genehmigung gemäß § 4 benötigt, kann der Bundesminister für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft mit Bescheid erkennen, dass die zugeteilten
+Emissionszertifikate dem Anlageninhaber für die weiteren Jahre der Periode weiterhin zugewiesen wer-
+den.
+(4) Wenn eine bis zu dem in § 11 Abs. 7 genannten Datum genehmigte Anlage nicht in dem Jahr vor
+oder während der Zuteilungsperiode in Betrieb genommen wird, den sie gegenüber dem Bundesminister
+für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Zuteilungsverfahren angegeben hat,
+werden die Zertifikate, die für dieses und die Jahre vor der tatsächlichen Inbetriebnahme zugeteilt wur-
+den, der Reserve gemäß § 11 Abs. 4 zugeführt.
+Abgabe der Emissionszertifikate
+§ 18. (1) Der Inhaber einer gemäß § 4 genehmigten Anlage ist verpflichtet, für die Anlage bis spätes-
+tens 30. April jeden Jahres ab 2006 dem Bundesminister für Land- und Forstwirtschaft, Umwelt und
+Wasserwirtschaft eine Anzahl von Emissionszertifikaten abzugeben, die den nach § 9 geprüften Gesam-
+temissionen der Anlage im vorhergehenden Kalenderjahr entspricht. Diese Emissionszertifikate sind
+anschließend zu löschen. Emissionszertifikate gemäß § 19 Abs. 1 können für die Erfüllung der Verpflich-
+tungen eines Inhabers genutzt werden.
+(2) Wer nach dem 1. Jänner 2005 eine Tätigkeit gemäß Anhang 1 oder gemäß einer Verordnung ge-
+mäß § 2 Abs. 2 ohne Genehmigung ausübt, hat spätestens an jenem 30. April, der auf die Erlassung eines
+Bescheids gemäß § 27 Abs. 1 Z 1 gegen den Inhaber folgt, für die Zeit, in der die Anlage ohne Genehmi-
+gung Treibhausgase emittiert hat, Emissionszertifikate für diese Emissionen an den Bundesminister für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft abzugeben.
+Übertragung und Löschung von Emissionszertifikaten
+§ 19. (1) Emissionszertifikate gemäß diesem Bundesgesetz, aus anderen Mitgliedstaaten der Europä-
+ischen Gemeinschaft sowie aus Drittländern, die im Anhang B des Kyoto-Protokolls angeführt sind, die
+das Kyoto-Protokoll ratifiziert haben und mit welchen ein Abkommen der Gemeinschaft für die gegensei-
+tige Anerkennung der Emissionszertifikate besteht, sind zwischen
+1. natürlichen und juristischen Personen innerhalb der Gemeinschaft,
+2. natürlichen und juristischen Personen innerhalb der Gemeinschaft und natürlichen und juristi-
+schen Personen in Drittländern, in denen diese Emissionszertifikate aufgrund eines Abkommens
+für die gegenseitige Anerkennung anerkannt werden,
+übertragbar. Für die Zwecke dieses Gesetzes ist eine Übertragung erst mit der Eintragung in das Register
+gemäß § 21 rechtswirksam. Die Eintragung in das Register darf nur erfolgen, wenn der Übertragende zur
+Übertragung der entsprechenden Anzahl von Emissionszertifikaten befugt ist und wenn der Eintragung
+nicht ein Einspruch des Zentralverwalters (Artikel 20 Abs. 3 der Richtlinie 2003/87/EG) entgegensteht.
+(2) Solange ein Inhaber mit der Abgabe der seinen Emissionen entsprechenden Menge an Emissi-
+onszertifikaten gemäß § 18 an den Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasser-
+wirtschaft in Verzug ist, ist er zur Übertragung von Emissionszertifikaten an Dritte nicht berechtigt.
+(3) Emissionszertifikate können auf Antrag des Inhabers vom Bundesminister für Land- und Forst-
+wirtschaft, Umwelt und Wasserwirtschaft jederzeit gelöscht werden.
+Gültigkeit der Emissionszertifikate
+§ 20. (1) Die Emissionszertifikate sind gültig für Emissionen während der in § 11 Abs. 1 genannten
+Periode, für die sie vergeben werden.
+(2) Vier Monate nach Beginn der ersten in § 11 Abs. 1 genannten Fünfjahresperiode hat der Bun-
+desminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft Emissionszertifikate, die nicht
+mehr gültig sind und nicht gemäß § 18 abgegeben und gelöscht oder gemäß § 19 Abs. 3 gelöscht wurden,
+zu löschen.
+(3) Vier Monate nach Beginn jeder folgenden in § 11 Abs. 1 genannten Fünfjahresperiode hat der
+Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft Emissionszertifikate, die
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 10 von 16
+nicht mehr gültig sind und nicht gemäß § 18 abgegeben und gelöscht oder gemäß § 19 Abs. 3 gelöscht
+wurden, zu löschen. Als Ersatz für diese Emissionszertifikate hat der Bundesminister für Land- und
+Forstwirtschaft, Umwelt und Wasserwirtschaft Emissionszertifikate für die laufende Periode an die Inha-
+ber zu vergeben.
+Register
+§ 21. (1) Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat ein
+Register zu führen, um die genaue Verbuchung von Vergabe, Besitz, Übertragung und Löschung von
+Emissionszertifikaten zu gewährleisten. Er beauftragt nach einem geeigneten Verfahren, das im Einver-
+nehmen mit dem Bundesminister für Wirtschaft und Arbeit und dem Bundesminister für Finanzen durch-
+geführt wird, mit Verordnung mit der technischen Durchführung eine Registerstelle, die auch die Funkti-
+on gemäß § 47 Umweltförderungsgesetz ausübt. Das Register ist entsprechend der Verordnung der Euro-
+päischen Kommission über ein standardisiertes und sicheres Registrierungssystem in Form standardisier-
+ter elektronischer Datenbanken mit gemeinsamen Datenelementen zur Verfolgung von Vergabe, Besitz,
+Übertragung und Löschung von Emissionszertifikaten, zur Gewährleistung des Zugangs der Öffentlich-
+keit und angemessener Vertraulichkeit und zur Sicherstellung, dass keine Übertragungen erfolgen, die mit
+den Verpflichtungen aus dem Kyoto-Protokoll unvereinbar sind, gemäß Art. 19 Abs. 3 der Richtlinie
+2003/87/EG zu führen. Nach Maßgabe dieser Verordnung der Europäischen Kommission kann der Bun-
+desminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft mit Verordnung nähere Best-
+immungen über die Führung des Registers erlassen.
+(2) Das Register ist nach Maßgabe dieses Bundesgesetzes und der Verordnung der Europäischen
+Kommission der Öffentlichkeit zugänglich zu machen und in getrennte Konten aufzugliedern, um die
+Emissionszertifikate der einzelnen Personen zu erfassen, an die und von denen Emissionszertifikate ver-
+geben oder übertragen werden.
+Rechtscharakter der Emissionszertifikate
+§ 22. Die Emissionszertifikate haben den Rechtscharakter einer Ware und können an Warenbörsen
+gehandelt werden.
+6. Abschnitt
+Schlussbestimmungen
+Emissionsgrenzwerte
+§ 23. (1) Die Behörde, die gemäß den anzuwendenden Verwaltungsvorschriften des Bundes für die
+Genehmigung von Anlagen zuständig ist, die gemäß der Richtlinie 96/61/EG über die integrierte Vermei-
+dung und Verminderung von Umweltverschmutzung genehmigungspflichtig sind, darf für in einer Ver-
+ordnung gemäß § 2 Abs. 2 dieses Bundesgesetzes genannte Anlagen keine Emissionsgrenzwerte für di-
+rekte Emissionen der in dieser Verordnung genannten Treibhausgase vorschreiben, es sei denn, dies ist
+erforderlich, um sicherzustellen, dass keine erhebliche lokale Umweltverschmutzung bewirkt wird.
+(2) Die Behörde hat für den Fall, dass bereits erteilte Genehmigungen für in Abs. 1 angeführte Anla-
+gen Emissionsgrenzwerte für direkte Emissionen der in einer Verordnung gemäß § 2 Abs. 2 genannten
+Treibhausgase enthalten, den Genehmigungsbescheid so abzuändern, dass diese Emissionsgrenzwerte
+künftig für diese Anlagen nicht mehr gelten, außer die Einhaltung dieser Emissionsgrenzwerte ist erfor-
+derlich, um erhebliche lokale Umweltverschmutzungen zu vermeiden.
+Zugang zu Informationen
+§ 24. Die Zuteilung von Emissionszertifikaten und die Meldungen der Inhaber gemäß § 8 dieses
+Bundesgesetzes gelten als Umweltdaten im Sinne des Umweltinformationsgesetzes, BGBl. Nr. 495/1993
+in der jeweils geltenden Fassung, bzw. als Umweltinformationen im Sinne der Richtlinie 2003/4/EG des
+Europäischen Parlaments und des Rates vom 28. Januar 2003 über den Zugang der Öffentlichkeit zu
+Umweltinformationen und zur Aufhebung der Richtlinie 90/313/EWG des Rates, ABl. Nr. L 41/26 vom
+14.2.2003.
+Berichterstattung an die Europäische Kommission
+§ 25. Der Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft hat der Eu-
+ropäischen Kommission jedes Jahr einen Bericht über die Anwendung der Richtlinie 2003/87/EG vorzu-
+legen. In diesem Bericht ist insbesondere auf die Regeln für die Zuteilung der Emissionszertifikate, das
+Funktionieren der Register, die Anwendung der Leitlinien für die Überwachung und Berichterstattung
+sowie die Prüfung und Fragen der Einhaltung der Richtlinie und gegebenenfalls der steuerlichen Behand-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 11 von 16
+lung von Emissionszertifikaten einzugehen. Der erste Bericht ist der Europäischen Kommission bis zum
+30. Juni 2005 zu übermitteln.
+Zuständige Behörde
+§ 26. Für die Zuständigkeit zur Erteilung der Genehmigung gemäß §§ 4 und 6 gilt folgendes:
+1. Soweit die für den Betrieb der betreffenden Anlage wesentlichste Genehmigung eine Genehmi-
+gung nach landesrechtlichen Vorschriften ist, wie insbesondere bei nicht der Gewerbeord-
+nung 1994 unterliegenden Stromerzeugungsanlagen, ist der Landeshauptmann zuständig. Dieser
+kann, soweit dies zweckmäßig ist oder dem Gleichklang der Behördenzuständigkeiten entspricht,
+allgemein oder im Einzelfall die Bezirksverwaltungsbehörde mit der Erteilung der Genehmigung
+betrauen.
+2. In allen anderen Fällen ist die nach den Verwaltungsvorschriften des Bundes für die Anlagenge-
+nehmigung zuständige Behörde zur Erteilung der Genehmigung zuständig.
+Strafbestimmungen
+§ 27. (1) Sofern die Tat nicht den Tatbestand einer mit gerichtlicher Strafe bedrohten Handlung bil-
+det, begeht eine Verwaltungsübertretung und ist zu bestrafen
+1. mit Geldstrafe bis 35 000 Euro, wer nach dem 1. Jänner 2005 eine Tätigkeit gemäß Anhang 1
+oder gemäß einer Verordnung gemäß § 2 ohne Genehmigung gemäß §§ 4 oder 6 ausübt;
+2. mit Geldstrafe bis 7 000 Euro, wer die Emissionen der Anlage nicht oder nicht fristgerecht mel-
+det (§ 8 und § 12) oder keinen Prüfbericht einer unabhängigen Prüfeinrichtung vorlegt (§ 9);
+3. mit Geldstrafe bis 5 000 Euro, wer eine Meldung gemäß § 6 nicht fristgerecht erstattet.
+(2) Die auf Grund dieses Bundesgesetzes verhängten Geldstrafen fließen dem österreichischen
+JI/CDM-Programm gemäß Umweltförderungsgesetz zu.
+Sanktionen
+§ 28. (1) Inhaber, die nicht bis zum 30. April der Jahre 2006, 2007 und 2008 eine ausreichende An-
+zahl von Emissionszertifikaten zur Abdeckung ihrer Emissionen im Vorjahr abgeben, haben eine Sankti-
+onszahlung von 40 Euro für jede Tonne Kohlenstoffdioxidäquivalent, für die der Inhaber keine Emissi-
+onszertifikate abgegeben hat, zu entrichten. Die Leistung dieser Sanktionszahlung entbindet den Inhaber
+nicht von der Verpflichtung, Emissionszertifikate in Höhe dieser Emissionsüberschreitung abzugeben,
+wenn er die Emissionszertifikate für das folgende Kalenderjahr abgibt.
+(2) Inhaber, die nicht bis zum 30. April der Jahre ab 2009 eine ausreichende Anzahl von Emissions-
+zertifikaten zur Abdeckung ihrer Emissionen im Vorjahr abgeben, haben eine Sanktionszahlung von
+100 Euro für jede Tonne Kohlenstoffdioxidäquivalent, für die der Inhaber keine Emissionszertifikate
+abgegeben hat, zu entrichten. Die Leistung dieser Sanktionszahlung entbindet den Inhaber nicht von der
+Verpflichtung, Emissionszertifikate in Höhe dieser Emissionsüberschreitung abzugeben, wenn er die
+Emissionszertifikate für das folgende Kalenderjahr abgibt.
+(3) Die Einhebung der Sanktionszahlungen obliegt dem Bundesminister für Land- und Forstwirt-
+schaft, Umwelt und Wasserwirtschaft, der sich dazu der Registerstelle bedient.
+(4) Die auf Grund dieses Bundesgesetzes eingehobenen Sanktionszahlungen fließen dem österreichi-
+schen JI/CDM-Programm gemäß Umweltförderungsgesetz zu.
+(5) Die Namen der Inhaber, die gegen die Verpflichtungen nach § 18 zur Abgabe einer ausreichen-
+den Anzahl von Emissionszertifikaten verstoßen, werden auf der Homepage des Bundesministeriums für
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft veröffentlicht.
+Vollziehung
+§ 29. (1) Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Land- und Forstwirt-
+schaft, Umwelt und Wasserwirtschaft betraut, soweit die folgenden Absätze nicht anderes bestimmen.
+(2) Mit der Vollziehung des § 2 Abs. 2, des § 10 vierter Satz und des § 13 Abs. 4 und 5 ist der Bun-
+desminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem
+Bundesminister für Wirtschaft und Arbeit betraut.
+(3) Mit der Vollziehung des § 11 und des § 21 Abs. 1 zweiter Satz ist der Bundesminister für Land-
+und Forstwirtschaft, Umwelt und Wasserwirtschaft im Einvernehmen mit dem Bundesminister für Wirt-
+schaft und Arbeit und dem Bundesminister für Finanzen betraut.
+(4) Mit der Vollziehung des § 1 Abs. 2 ist die Bundesregierung betraut.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 12 von 16
+(5) Mit der Vollziehung des § 23 und des § 26 Abs. 1 Z 2 ist der jeweils mit Vollziehung der dort
+genannten Verwaltungsvorschriften betraute Bundesminister betraut.
+Geschlechtsneutrale Funktionsbezeichnungen
+§ 30. Die in diesem Bundesgesetz verwendeten Funktionsbezeichnungen sind geschlechtsneutral zu
+verstehen.
+Bezugnahme auf Richtlinien
+§ 31. Durch dieses Bundesgesetz wird die Richtlinie 2003/87/EG des Europäischen Parlaments und
+des Rates über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft und
+zur Änderung der Richtlinie 96/61/EG, ABl. Nr. L 275 vom 25.10.2003 S.32, umgesetzt.
+Klestil
+Schüssel
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 13 von 16
+Anhang 1
+zu § 4 Abs. 1
+Kategorien von Tätigkeiten
+Die nachstehend angegebenen Schwellenwerte beziehen sich im Allgemeinen auf Produktionskapazitäten
+oder -leistungen. Führt ein Anlageninhaber mehrere Tätigkeiten, die in der folgenden Liste unter dersel-
+ben Ziffer angeführt sind, in einer Anlage oder an einem Standort durch, werden die Kapazitäten dieser
+Tätigkeiten addiert.
+Tätigkeiten Treibhausgase
+Energieumwandlung und -umformung Kohlenstoffdioxid
+1. Feuerungsanlagen mit einer genehmigten Brennstoffwärmeleistung von mehr als 20
+MW (ausgenommen Anlagen für die Verbrennung von gefährlichen Abfällen oder Sied-
+lungsabfällen)
+2. Mineralölraffinerien Kohlenstoffdioxid
+3. Anlagen zur Trockendestillation von Kohle (Kokereien) Kohlenstoffdioxid
+Eisenmetallerzeugung und -verarbeitung Kohlenstoffdioxid
+4. Anlagen zum Rösten oder Sintern von Erzen einschließlich sulfidischer Erze
+5. Anlagen zur Herstellung von Roheisen oder Stahl (Primär- oder Sekundärschmel- Kohlenstoffdioxid
+zung) einschließlich Stranggießen mit einer Schmelzkapazität von mehr als 2,5 Tonnen
+pro Stunde
+Mineralverarbeitende Industrie Kohlenstoffdioxid
+6. Anlagen zur Herstellung von Zementklinker in Drehrohröfen mit einer Produktions-
+kapazität von mehr als 500 Tonnen pro Tag oder von Kalk in Drehrohröfen mit einer
+Produktionskapazität von mehr als 50 Tonnen pro Tag oder in anderen Öfen mit einer
+Produktionskapazität von mehr als 50 Tonnen pro Tag
+7. Anlagen zur Herstellung von Glas, auch soweit es aus Altglas hergestellt wird, ein- Kohlenstoffdioxid
+schließlich Anlagen zur Herstellung von Glasfasern, mit einer Schmelzkapazität von
+mehr als 20 Tonnen pro Tag
+8. Anlagen zum Brennen keramischer Erzeugnisse, insbesondere von Dachziegeln, Zie- Kohlenstoffdioxid
+gelsteinen, feuerfesten Steinen, Fliesen, Steinzeug oder Porzellan, mit einer Produkti-
+onskapazität von mehr als 75 Tonnen pro Tag und/oder einer Ofenkapazität von über 4
+m³ und einer Besatzdichte von mehr als 300 kg/m³
+Sonstige Industriezweige Kohlenstoffdioxid
+9. Industrieanlagen zur Herstellung von Zellstoff aus Holz oder anderen Faserstoffen
+10. Industrieanlagen zur Herstellung von Papier, Pappe oder Karton mit einer Produkti- Kohlenstoffdioxid
+onskapazität von mehr als 20 Tonnen pro Tag
+Anhang 2
+zu §§ 7 und 8
+Grundsätze für die Überwachung und Berichterstattung
+1. Überwachung der Kohlenstoffdioxidemissionen
+Die Überwachung der Emissionen erfolgt entweder durch Berechnung oder auf der Grundlage von Mes-
+sungen.
+1.1. Berechnung
+Die Berechnung der Emissionen erfolgt nach folgender Formel:
+Tätigkeitsdaten x Emissionsfaktor x Oxidationsfaktor
+Die Überwachung der Tätigkeitsdaten (Brennstoffverbrauch, Produktionsrate usw.) erfolgt auf der Grund-
+lage von Daten über eingesetzte Brenn- oder Rohstoffe oder Messungen.
+Es werden etablierte Emissionsfaktoren verwendet. Für alle Brennstoffe können tätigkeitsspezifische
+Emissionsfaktoren verwendet werden. Für alle Brennstoffe außer nichtkommerziellen Brennstoffen
+(Brennstoffe aus Abfall wie Reifen und Gase aus industriellen Verfahren) können Standardfaktoren ver-
+wendet werden. Flözspezifische Standardwerte für Kohle und EU-spezifische oder erzeugerländerspezifi-
+sche Standardwerte für Erdgas sind noch weiter auszuarbeiten. Für Raffinerieerzeugnisse können IPCC-
+Standardwerte verwendet werden. Der Emissionsfaktor für Biomasse ist Null.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 14 von 16
+Wird beim Emissionsfaktor nicht berücksichtigt, dass ein Teil des Kohlenstoffs nicht oxidiert wird, so ist
+ein zusätzlicher Oxidationsfaktor zu verwenden. Wurden tätigkeitsspezifische Emissionsfaktoren berech-
+net, bei denen die Oxidation bereits berücksichtigt ist, so muss ein Oxidationsfaktor nicht verwendet
+werden.
+Es sind gemäß der Richtlinie 96/61/EG entwickelte Standardoxidationsfaktoren zu verwenden, es sei
+denn, der Inhaber kann nachweisen, dass tätigkeitsspezifische Faktoren genauer sind.
+Für jede Tätigkeit und Anlage sowie für jeden Brennstoff ist eine eigene Berechnung anzustellen.
+1.2. Messung
+Bei der Messung der Emissionen sind standardisierte oder etablierte Verfahren zu verwenden; die Mes-
+sung ist durch eine flankierende Emissionsberechnung zu bestätigen.
+Überwachung anderer Treibhausgasemissionen
+Zu verwenden sind standardisierte oder etablierte Verfahren, die von der Europäischen Kommission in
+Zusammenarbeit mit allen betroffenen Kreisen entwickelt und gemäß dem in Artikel 23 Absatz 2 der
+Richtlinie 2003/87/EG genannten Verfahren angenommen worden sind.
+2. Berichterstattung über die Emissionen
+Jeder Inhaber hat im Bericht für eine Anlage folgende Informationen zu liefern:
+A. Anlagedaten, einschließlich:
+Name der Anlage,
+Anschrift, einschließlich Postleitzahl und Land,
+Art und Anzahl der in der Anlage durchgeführten Tätigkeiten gemäß Anhang 1,
+Anschrift, Telefonnummer, Faxnummer und E-Mail-Adresse eines Ansprechpartners und
+Name des Besitzers der Anlage und etwaiger Mutterunternehmen.
+B. Für jede am Standort durchgeführte Tätigkeit gemäß Anhang 1, für die Emissionen berechnet
+werden:
+Tätigkeitsdaten,
+Emissionsfaktoren,
+Oxidationsfaktoren,
+Gesamtemissionen und
+Unsicherheitsfaktoren.
+C. Für jede am Standort durchgeführte Tätigkeit gemäß Anhang 1 oder einer Verordnung § 2
+Abs. 2, für die Emissionen gemessen werden:
+Gesamtemissionen,
+Angaben zur Zuverlässigkeit der Messverfahren und
+Unsicherheitsfaktoren.
+D. Für Emissionen aus der Verbrennung ist im Bericht außerdem der Oxidationsfaktor anzuge-
+ben, es sei denn, die Oxidation wurde bereits bei der Berechnung eines tätigkeitsspezifischen
+Emissionsfaktors einbezogen.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 15 von 16
+Anhang 3
+zu § 9
+Kriterien für die Prüfung der Emissionen
+Allgemeine Grundsätze
+1. Die Emissionen aus allen in Anhang 1 oder in einer Verordnung gemäß § 2 Abs. 2 aufgeführten
+Tätigkeiten und gemäß § 2 Abs. 3 einbezogenen Anlagen unterliegen einer Prüfung.
+2. Im Rahmen des Prüfungsverfahrens wird auf den Bericht gemäß § 8 und auf die Überwachung im
+Vorjahr eingegangen. Geprüft werden ferner die Zuverlässigkeit, Glaubwürdigkeit und Genauigkeit
+der Überwachungssysteme sowie die übermittelten Daten und Angaben zu den Emissionen, insbe-
+sondere:
+a) die übermittelten Tätigkeitsdaten und damit verbundenen Messungen und Berechnungen;
+b) Wahl und Anwendung der Emissionsfaktoren;
+c) die Berechnungen für die Bestimmung der Gesamtemissionen und
+d) bei Messungen die Angemessenheit der Wahl und Anwendung der Messverfahren.
+3. Die Validierung der Angaben zu den Emissionen ist nur möglich, wenn zuverlässige und glaubwür-
+dige Daten und Informationen eine Bestimmung der Emissionen mit einem hohen Zuverlässigkeits-
+grad gestatten. Ein hoher Zuverlässigkeitsgrad verlangt vom Inhaber den Nachweis, dass
+a) die übermittelten Daten schlüssig sind,
+b) die Erhebung der Daten in Einklang mit geltenden wissenschaftlichen Standards erfolgt ist und
+c) die einschlägigen Angaben über die Anlage vollständig und schlüssig sind.
+4. Die unabhängige Prüfeinrichtung erhält Zugang zu allen Standorten und zu allen Informationen, die
+mit dem Gegenstand der Prüfung im Zusammenhang stehen.
+5. Die unabhängige Prüfeinrichtung berücksichtigt, ob die Anlage im Rahmen des Gemeinschaftssys-
+tems für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) registriert ist.
+Methodik
+Strategische Analyse
+6. Die Prüfung basiert auf einer strategischen Analyse aller Tätigkeiten, die in der Anlage durchgeführt
+werden. Dazu benötigt die unabhängige Prüfeinrichtung einen Überblick über alle Tätigkeiten und
+ihre Bedeutung für die Emissionen.
+Prozessanalyse
+7. Die Prüfung der übermittelten Informationen erfolgt bei Bedarf am Standort der Anlage. Die unab-
+hängige Prüfeinrichtung führt Stichproben durch, um die Zuverlässigkeit der übermittelten Daten
+und Informationen zu ermitteln.
+Risikoanalyse
+8. Die unabhängige Prüfeinrichtung unterzieht alle Quellen von Emissionen in der Anlage einer Bewer-
+tung in Bezug auf die Zuverlässigkeit der Daten über jede Quelle, die zu den Gesamtemissionen der
+Anlage beiträgt.
+9. Anhand dieser Analyse ermittelt die unabhängige Prüfeinrichtung ausdrücklich die Quellen mit
+hohem Fehlerrisiko und andere Aspekte des Überwachungs- und Berichterstattungsverfahrens, die
+zu Fehlern bei der Bestimmung der Gesamtemissionen führen könnten. Hier sind insbesondere die
+Wahl der Emissionsfaktoren und die Berechnungen zur Bestimmung der Emissionen einzelner
+Emissionsquellen zu nennen. Besondere Aufmerksamkeit ist Quellen mit einem hohen Fehlerrisiko
+und den genannten anderen Aspekten des Überwachungsverfahrens zu widmen.
+10. Die unabhängige Prüfeinrichtung berücksichtigt etwaige effektive Verfahren zur Beherrschung der
+Risiken, die der Inhaber anwendet, um Unsicherheiten so gering wie möglich zu halten.
+Bericht
+11. Die unabhängige Prüfeinrichtung erstellt einen Bericht über die Validierung, in dem angegeben
+wird, ob der Bericht gemäß § 8 zufrieden stellend ist. In diesem Bericht sind alle für die durchge-
+führten Arbeiten relevanten Aspekte aufzuführen. Die Erklärung, dass der Bericht gemäß § 8 zufrie-
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 30. April 2004 – Nr. 46 16 von 16
+den stellend ist, kann abgegeben werden, wenn die unabhängige Prüfeinrichtung zu der Ansicht ge-
+langt, dass zu den Gesamtemissionen keine wesentlich falschen Angaben gemacht wurden.
+www.ris.bka.gv.at

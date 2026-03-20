@@ -1,0 +1,374 @@
+1 von 8
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 27. Februar 2004 Teil I
+9. Bundesgesetz: GWR-Gesetz und Änderung des Vermessungsgesetzes
+(NR: GP XXII IA 309/A AB 383 S. 46. BR: 6960 AB 6962 S. 705.)
+9. Bundesgesetz, mit dem ein Bundesgesetz über das Gebäude- und Wohnungsregister
+(GWR-Gesetz) geschaffen und das Vermessungsgesetz geändert wird
+Der Nationalrat hat beschlossen:
+Artikel 1
+Bundesgesetz über das Gebäude- und Wohnungsregister (GWR-Gesetz)
+Einrichtung und Führung des Gebäude- und Wohnungsregisters
+§ 1. (1) Die Bundesanstalt Statistik Österreich (Bundesanstalt) hat für Zwecke der Bundesstatistik,
+Forschung und Planung ein Gebäude- und Wohnungsregister einzurichten und zu führen.
+(2) Das Register ist so einzurichten, dass die in der Anlage angeführten Merkmale räumlich geglie-
+dert für Zwecke gemäß Abs. 1 ausgewertet werden können.
+Begriffsbestimmungen
+§ 2. Im Sinne dieses Bundesgesetzes bedeuten:
+1. Gebäude: Freistehende oder – bei zusammenhängender Bauweise – klar gegeneinander abge-
+grenzte Baulichkeiten, deren verbaute Fläche mindestens 20 m² beträgt;
+2. Wohnung: Baulich abgeschlossener, nach der Verkehrsauffassung selbständiger Teil eines Ge-
+bäudes, der nach seiner Art und Größe geeignet ist, der Befriedigung eines individuellen Wohn-
+bedürfnisses von Menschen zu dienen;
+3. Adresse: Bezeichnung einer Örtlichkeit eines Grundstückes (Anlage, Abschnitt A), eines Ge-
+bäudes (Anlage, Abschnitt B), einer Wohnung (Anlage, Abschnitt C).
+Inhalt des Gebäude- und Wohnungsregisters
+§ 3. Das Register hat folgende Registereinheiten zu enthalten:
+1. Adressen der Grundstücke (Anlage, Abschnitt A);
+2. Adressen der Gebäude (Anlage, Abschnitt B);
+3. Adressen der Wohnungen (Anlage, Abschnitt C);
+4. Beschreibungen der Gebäude (Anlage, Abschnitt D);
+5. Beschreibungen der Wohnungen (Anlage, Abschnitt E);
+6. Beschreibungen von Bauvorhaben (Anlage, Abschnitt F);
+7. Adressen von Nutzungseinheiten innerhalb von Gebäuden, die üblicherweise keinen Wohnbe-
+dürfnissen dienen;
+8. Adressen von Arbeitsstätten ohne Gebäude;
+9. Adressen von Bauwerken im Sinne des Vermessungsgesetzes, BGBl. Nr. 306/1968, und deren
+Beschreibungen.
+Art der Datenerhebung für das Gebäude- und Wohnungsregister
+§ 4. (1) Die Daten für das Register gemäß § 3 sind auf folgende Arten zu erheben:
+1. die Merkmale gemäß Anlage, Abschnitt A, B und C Z 1 durch Heranziehung der Daten des
+Adressregisters gemäß § 9a Vermessungsgesetz, BGBl. Nr. 306/1968;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 2 von 8
+2. die Merkmale gemäß Anlage, Abschnitt C Z 2, Abschnitt D Z 2 bis 7 und 10, Abschnitt E Z 1, 2
+und 6 und Abschnitt F durch Beschaffung von Verwaltungsdaten bei den Gemeinden und bei den
+Bezirkshauptmannschaften, soweit bei diesen in Wahrnehmung der gemäß Art. 118 Abs. 7 B-VG
+übertragenen Aufgaben der örtlichen Baupolizei derartige Daten angefallen sind;
+3. die Merkmale gemäß Anlage, Abschnitt D Z 11 und Abschnitt E Z 7 durch Heranziehung der
+Daten des Zentralen Melderegisters gemäß § 16 Meldegesetz 1991, BGBl. Nr. 9/1992;
+4. die Merkmale gemäß Anlage, Abschnitt D Z 1, 8 und 9 sowie Abschnitt E Z 3 bis 5 durch Her-
+anziehung von Daten aus anderen statistischen Erhebungen oder durch freiwillige Bekanntgabe
+der Daten durch die Gemeinde;
+5. die Merkmale zu den Registereinheiten gemäß § 3 Z 7 und 8 durch Heranziehung von Daten
+anderer statistischer Erhebungen und aus Registern gemäß § 25 Bundesstatistikgesetz 2000,
+BGBl. I Nr. 163/1999, oder durch freiwillige Bekanntgabe der Daten durch die Gemeinde;
+6. die Merkmale gemäß Anlage, Abschnitt D Z 12 sowie die Merkmale zu den Registereinheiten
+gemäß § 3 Z 9 durch Beschaffung von Verwaltungsdaten beim Bundesamt für Eich- und Ver-
+messungswesen.
+(2) Soweit Daten gemäß Abs. 1 Z 1 nicht im Adressregister zur Verfügung stehen, sind diese durch
+Beschaffung von Verwaltungsdaten bei den Gemeinden zu erheben.
+(3) Zur laufenden Ergänzung, Änderung und Berichtigung des Registers kann die Bundesanstalt Da-
+ten aus statistischen Erhebungen und aus Registern gemäß § 25 Bundesstatistikgesetz 2000, BGBl. I Nr.
+163/1999, sowie Daten heranziehen, die von den Gemeinden zu diesem Zweck bekannt gegeben worden
+sind.
+(4) Für Zwecke gemäß Abs. 3 hat der Bundesminister für Inneres der Bundesanstalt auf deren Ver-
+langen in regelmäßigen Abständen Meldedaten, ausgenommen Identitätsdaten, aus dem Zentralen Melde-
+register unentgeltlich zu übermitteln.
+Bereitstellung der Online-Applikation
+§ 5. Die Bundesanstalt hat den nach diesem Gesetz zur Übermittlung von Register- und Verwal-
+tungsdaten verpflichteten Stellen unentgeltlich eine geeignete Online-Applikation (Adress-GWR-Online)
+für die Übermittlung der Daten zur Verfügung zu stellen. Die Online-Applikation ist so zu gestalten, dass
+sie die Erfordernisse einer gemeinsamen Meldeschiene für das Adressregister gemäß § 44 Abs. 3 Ver-
+messungsgesetz, BGBl. Nr. 306/1968 und das Gebäude- und Wohnungsregister gemäß § 6 in umfassen-
+der und konsistenter Weise erfüllt.
+Pflichten der Inhaber von Register- und Verwaltungsdaten
+§ 6. (1) Über die gemäß § 5 bereit gestellte Online-Applikation sind der Bundesanstalt auf elektroni-
+schem Wege unentgeltlich zu übermitteln:
+1. laufend die Daten gemäß § 4 Abs. 1 Z 1 gemeinsam mit den mit Hilfe der Online-Applikation
+gemäß § 5 vom Adressregister vergebenen Adresscodes für Grundstücke und vergebenen
+Adressnummern für Gebäude;
+2. laufend von den Gemeinden und Bezirkshauptmannschaften die Daten gemäß § 4 Abs. 1 Z 2 und
+Abs. 2;
+3. in regelmäßigen Abständen, zumindest monatlich, vom Bundesminister für Inneres die Daten
+gemäß § 4 Abs. 1 Z 3 und Abs. 4;
+4. in regelmäßigen Abständen, zumindest monatlich, vom Bundesamt für Eich- und Vermessungs-
+wesen die Daten gemäß § 4 Abs. 1 Z 6.
+(2) Die freiwillige Datenübermittlung gemäß § 4 Abs. 1 Z 4 und Abs. 3 durch die Gemeinden hat
+ebenfalls über die Online-Applikation gemäß § 5 zu erfolgen.
+(3) Die Datenübermittlung durch den Bundesminister für Inneres gemäß Abs. 1 Z 3 und durch das
+Bundesamt für Eich- und Vermessungswesen gemäß Abs. 1 Z 4 kann je nach Zweckmäßigkeit auch auf
+anderem elektronischen Wege erfolgen.
+Zugriffsrechte zum Register
+§ 7. Die Bundesanstalt hat auf Verlangen den unentgeltlichen Online-Zugriff auf das Register zur
+Wahrnehmung der gesetzlich übertragenen Aufgaben einzuräumen:
+1. den jeweiligen Gemeinden auf alle Daten des Registers, die ihre Gemeinde betreffen;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 3 von 8
+2. den jeweiligen Bezirkshauptmannschaften auf Daten des Registers, soweit dies zur Wahrneh-
+mung der gemäß Art. 118 Abs. 7 B-VG übertragenen Aufgaben der örtlichen Baupolizei erfor-
+derlich ist;
+3. dem Zentralen Melderegister auf alle Daten des Registers gemäß Anlage, Abschnitt C.
+Anonymisierung von personenbezogenen Daten
+§ 8. Das Merkmal gemäß Anlage, Abschnitt F Z 4 ist unverzüglich nach Wegfall einer der Voraus-
+setzungen gemäß § 15 Abs. 1 Bundesstatistikgesetz 2000, BGBl. I Nr. 163/1999, zu löschen.
+Erstellung von Baustatistiken
+§ 9. (1) Die Bundesanstalt hat auf Grundlage der Daten des Registers, zumindest quartalsweise, eine
+Statistik über die Bautätigkeit zu erstellen und diese gemäß § 30 Bundesstatistikgesetz 2000, BGBl. I
+Nr. 163/1999, zu veröffentlichen.
+(2) Die Bundesanstalt hat den jeweiligen Gemeinden die ihren Bereich betreffenden Daten der
+Baustatistik unentgeltlich zur Verfügung zu stellen.
+Verweisungen auf andere Rechtsvorschriften
+§ 10. Soweit in diesem Bundesgesetz auf andere Bundesgesetze verwiesen wird, bezieht sich dieser
+Verweis auf die jeweils geltende Fassung.
+In-Kraft-Treten, Übergangsbestimmungen
+§ 11. (1) Dieses Bundesgesetz tritt mit 1. März 2004 in Kraft.
+(2) Die Bundesanstalt hat längstens bis 30. Juni 2004 das Register einzurichten und die Online-
+Applikation gemäß § 5 und den Online-Zugriff gemäß § 7 zur Verfügung zu stellen.
+(3) Die Erstbefüllung des Gebäude- und Wohnungsregisters hat zu erfolgen:
+1. mit den Daten des Verzeichnisses der Gebäudeadressen (Objektverzeichnisse) gemäß § 11
+Volkszählungsgesetz 1980, BGBl. Nr. 199,
+2. mit den Daten, die auf Grund der Verordnung des Bundesministers für Wirtschaft und Arbeit
+über statistische Erhebungen betreffend bestehende Gebäude und die darin befindlichen Woh-
+nungen und sonstigen Räumlichkeiten, BGBl. II Nr. 147/2001 (Gebäude- und Wohnungszählung
+2001) sowie die auf Grund der Verordnung des Bundesministers für Bauten und Technik über
+wohnbaustatistische Erhebungen, BGBl. Nr. 342/1979, in der Fassung BGBl. II Nr. 324/1998 er-
+hoben wurden,
+3. mit jenen Daten des Grenzkatasters gemäß § 9a Vermessungsgesetz, BGBl. Nr.
+306/1968, die der Anlage, Abschnitt A Z 5 bis 7 (mit Ausnahme der Postleitzahl),
+Abschnitt B Z 2 und 5 sowie Abschnitt D Z 12 entsprechen und
+4. mit den Daten der Wohnungseinheiten verknüpft mit deren Identifikationsnum-
+mer des Zentralen Melderegisters.
+(4) Bis zum 31. Mai 2004 hat
+1. das Bundesamt für Eich- und Vermessungswesen die Daten gemäß Abs. 3 Z 3 und
+2. der Bundesminister für Inneres die Daten gemäß Abs. 3 Z 4
+auf elektronischem Wege unentgeltlich der Bundesanstalt zu übermitteln.
+(5) Die Daten gemäß Anlage, Abschnitt F folgender Bauvorhaben sind bis 31. Mai 2005 der Bun-
+desanstalt online zu übermitteln:
+1. Bauvorhaben mit Wohnungen, die vom 1. Jänner 2003 bis zur Verfügbarkeit der Online-
+Applikation projektiert oder erstellt worden sind;
+2. Bauvorhaben ohne Wohnungen, die vom 16. Mai 2001 bis zur Verfügbarkeit der Online-
+Applikation projektiert oder erstellt worden sind.
+Vollziehung
+§ 12. Mit der Vollziehung dieses Gesetzes sind betraut:
+1. hinsichtlich des § 4 Abs. 4, des § 6 Abs. 1 Z 3 und des § 6 Abs. 3, soweit dieser sich auf den
+Bundesminister für Inneres bezieht, der Bundesminister für Inneres;
+2. im übrigen der Bundesminister für Wirtschaft und Arbeit.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 4 von 8
+Anlage
+A. Merkmale von Adressen der Grundstücke:
+1. Bezeichnung der politischen Gemeinde;
+2. Bezeichnung der Ortschaft;
+3. Bezeichnung der am Grundstück angrenzenden Straße (wenn vorhanden);
+4. die Orientierungsnummer (Hausnummer, Konskriptionsnummer u.a.);
+5. die Katastralgemeinde und die Grundstücksnummer(n) auf die sich die Adresse bezieht;
+6. die repräsentative Koordinate im System der Landesvermessung als räumliche Referenz der
+Adresse;
+7. Postleitzahl und sonstige Angaben zum leichteren Auffinden der Adresse wie Vulgo- und Hof-
+namen;
+8. Angabe, ob die Adresse für Wohnzwecke geeignet ist;
+9. weitere Adressen, die für das Grundstück vergeben wurden.
+B. Merkmale von Adressen der Gebäude:
+1. Merkmale der Adresse des Grundstückes, auf dem sich das Gebäude befindet;
+2. die repräsentative Koordinate im System der Landesvermessung als räumliche Referenz des
+Gebäudes;
+3. weitere Adressen, die für das Gebäude vergeben wurden;
+4. Angabe, ob die Gebäudeadresse für Wohnzwecke geeignet ist;
+5. Angabe über die Funktion des Gebäudes;
+6. Angaben der Gemeinde zu weiteren Nutzung des Gebäudes, wenn vorhanden;
+7. Bezeichnung des Gebäudes wie Haus, Stiege, Pavillon, Parzelle u. dgl.
+C. Merkmale von Adressen der Wohnungen:
+1. Merkmale der Adresse des Gebäudes, in dem sich die Wohnung befindet;
+2. die Tür- oder Top-Nummer oder ersatzweise eine sonstige nähere Lagebestimmung innerhalb des
+Gebäudes.
+D. Gebäudemerkmale:
+1. Koordinate als räumliche Repräsentanz des Gebäudes, wenn das Gebäude weder im Adressregis-
+ter noch im technischen Operat des Grenzkatasters (§ 9 Vermessungsgesetz,
+BGBl. Nr. 306/1968) enthalten ist;
+2. Fläche des Gebäudes nach den Feststellungen der Gemeinde;
+3. Gebäudekategorie;
+4. Gebäudeeigentümertyp;
+5. Bauperiode;
+6. Gebäudestatus;
+7. Geschossanzahl ohne Keller- und Dachgeschoss;
+8. Anschluss an Wasserleitungs- bzw. Kanalnetz und Gasnetz;
+9. Art der Beheizung und Energiekennzahl;
+10. die Gesamtnutzfläche des Gebäudes sowie die verschiedenen Zwecken dienenden Flächen im
+Gebäude in Quadratmetern;
+11. Anzahl der Hauptwohnsitze und der (weiteren) Wohnsitze;
+12. Koordinate als räumliche Repräsentanz des Gebäudes und Fläche des Gebäudes aus der Grund-
+stücksdatenbank, soweit das Gebäude nicht im Adressregister aber im technischen Operat des
+Grenzkatasters enthalten ist.
+E. Wohnungsmerkmale:
+1. Nutzfläche der Wohnung;
+2. Zahl der Wohnräume der Wohnung;
+3. Ausstattung der Wohnung;
+4. Art der Beheizung der Wohnung;
+5. Rechtsverhältnis an der Wohnung;
+6. Nutzungsart;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 5 von 8
+7. Anzahl der Hauptwohnsitze und der (weiteren) Wohnsitze.
+F. Merkmale von Bauvorhaben:
+1. Merkmale der Adresse des Grundstückes, Gebäudes und/oder der Wohnung, wo das Bauvorha-
+ben durchgeführt wird;
+2. Baubewilligungsdatum;
+3. Fertigstellungsdatum;
+4. Name und die Anschrift des Bauherrn;
+5. Rechtsnatur des Bauherrn;
+6. Baumaßnahme (Neu-, An- und Zubau);
+7. Daten gemäß Abschnitt D Z 1 bis 4, 7 und 10 sowie Abschnitt E Z 1, 2 und 6;
+8. Anzahl der projektierten Wohnungen im Gebäude;
+9. Fläche einer gleichzeitig errichteten, frei stehenden Privatgarage.
+Artikel 2
+Änderung des Vermessungsgesetzes
+Das Vermessungsgesetz (VermG), BGBl. Nr. 306/1968, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 136/2001, wird wie folgt geändert:
+1. § 8 lautet:
+„§ 8. Der nach Katastralgemeinden angelegte Grenzkataster ist bestimmt:
+1. zum verbindlichen Nachweis der Grenzen der Grundstücke,
+2. zur Ersichtlichmachung der Benützungsarten, Flächenausmaße und sonstigen Angaben zur leich-
+teren Kenntlichmachung der Grundstücke und
+3. zur Ersichtlichmachung der geocodierten (raumbezogenen) Adressen der Grundstücke und der
+darauf befindlichen Gebäude.“
+2. § 9 Abs. 1 lautet:
+„(1) Der Grenzkataster besteht aus dem technischen Operat (Abs. 2), dem Grundstücksverzeichnis
+(Abs. 3) und dem Adressregister (§ 9a). Er ist, soweit technisch möglich, automationsunterstützt zu füh-
+ren (Grundstücksdatenbank).“
+3. § 9 Abs. 4 lautet:
+„(4) Die näheren Vorschriften über den Umfang und die technische Ausstattung der Grundstücksda-
+tenbank hinsichtlich des technischen Operats und des Grundstücksverzeichnisses erlässt nach den Erfor-
+dernissen der Wirtschaftlichkeit und den technischen Gegebenheiten der Bundesminister für Wirtschaft
+und Arbeit im Einvernehmen mit dem Bundesminister für Justiz durch Verordnung. Hinsichtlich des
+Abs. 6 ist das Einvernehmen mit dem Bundeskanzler herzustellen.“
+4. § 9 wird folgender Abs. 6 angefügt:
+„(6) Im Grenzkataster sind die Zählsprengel entsprechend der Mitteilung der Bundesanstalt Statistik
+Österreich wiederzugeben.“
+5. Nach § 9 wird folgender § 9a eingefügt:
+„§ 9a. (1) Das Adressregister enthält alle geocodierten (raumbezogenen) Adressen von Grundstü-
+cken und Gebäuden, die von der örtlich zuständigen Gemeinde vergeben wurden.
+(2) Eine geocodierte Adresse enthält folgende Angaben:
+1. die Bezeichnung der Gemeinde,
+2. die Bezeichnung der Ortschaft,
+3. die Bezeichnung der angrenzenden Straße, wenn vorhanden,
+4. die Orientierungsnummer (Hausnummer, Konskriptionsnummer, ua.),
+5. die Katastralgemeinde und die Grundstücksnummer(n), auf die sich die Adresse bezieht,
+6. die repräsentative Koordinate im System der Landvermessung als räumliche Referenz der Adres-
+se,
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 6 von 8
+7. die Postleitzahl und etwaige sonstige Bezeichnungen zum leichteren Auffinden der Adresse, wie
+Vulgo- und Hofnamen,
+8. die Eignung für Wohnzwecke,
+9. von der Gemeinde allenfalls gemachte sonstige Angaben und
+10. den vom Adressregister vergebenen Adresscode.
+(3) Für jedes Gebäude, das sich an einer gemäß Abs. 2 erfassten Adresse befindet, sind im Adressre-
+gister weiters folgende Angaben einzutragen:
+1. die Adressdaten des Gebäudes in Form einer näheren, insbesondere nummerischen Bezeichnung
+betreffend das einzelne Haus, die Stiege, einen Pavillon ua.,
+2. die repräsentative Koordinate im System der Landesvermessung als räumliche Referenz des
+Gebäudes,
+3. allfällige weitere Adressen, die von der Gemeinde für dieses Gebäude vergeben wurden,
+4. allfällige Eigenschaft als Gebäude im Sinne des § 2 Z 1 GWR-Gesetz, BGBl. I Nr. 9/2004,
+5. die Funktion(en) des Gebäudes gemäß der Verordnung des Bundesministers für Wirtschaft und
+Arbeit nach Abs. 4,
+6. allenfalls die Nutzung des Gebäudes nach den Vorgaben der Gemeinde,
+7. von der Gemeinde allenfalls gemachte sonstige Angaben, soweit sie nicht unter Z 8 oder 9 fallen,
+8. die Eignung für Wohnzwecke,
+9. allenfalls weitere Angaben für das Meldewesen und
+10. die vom Adressregister für das Gebäude vergebene Adressnummer.
+(4) Die näheren Vorschriften über die technische Ausstattung des Adressregisters und über Inhalt
+und Struktur der Angaben erlässt unter Bedachtnahme auf das Ziel möglichster Vollständigkeit und Rich-
+tigkeit der erfassten Adressen und unter Berücksichtigung des Erfordernisses der Wirtschaftlichkeit und
+des jeweiligen Standes der Wissenschaft und Technik der Bundesminister für Wirtschaft und Arbeit durch
+Verordnung. Hiebei ist hinsichtlich des Abs. 3 Z 4 das Einvernehmen mit dem Bundeskanzler und hin-
+sichtlich des Abs. 2 Z 8 und Abs. 3 Z 8 und 9 das Einvernehmen mit dem Bundesminister für Inneres
+herzustellen.“
+6. § 10 lautet:
+„§ 10. (1) Im Grenzkataster sind für Grundstücke unter Verwendung der in den Z 1 bis 8 festgeleg-
+ten Bezeichnungen die Benützungsarten einzutragen:
+1. Bauflächen
+2. landwirtschaftlich genutzte Grundflächen
+3. Gärten
+4. Weingärten
+5. Alpen
+6. Wald
+7. Gewässer
+8. Sonstige
+(2) Der Bundesminister für Wirtschaft und Arbeit kann mit Verordnung Mindestflächen für auszu-
+weisende Benützungsarten festlegen sowie eine weitere Unterteilung und nähere Beschreibung der in
+Abs. 1 genannten Benützungsarten vornehmen. Maßgeblich sind hiefür der jeweilige Stand von Wissen-
+schaft und Technik sowie die Erfordernisse der Wirtschaftlichkeit und der Bedürfnisse von Verwaltung
+und Wirtschaft.“
+7. Dem § 13 werden folgende Abs. 4 und 5 angefügt:
+„(4) Ändert sich das Festpunktfeld durch Anpassung an einen übergeordneten Bezugsrahmen oder
+ergibt sich im Zuge der Arbeiten gemäß § 1 Z 1 eine Änderung in den Unterlagen für die Festpunkte, so
+ist dies keine Berichtigung im Sinne des Abs. 1. Die Koordinaten der Grenzpunkte sowie die Geocodie-
+rungen der Adressen werden in diesem Fall von Amts wegen mit Verordnung des Bundesamts für Eich-
+und Vermessungswesen geändert.
+(5) Die Verordnung nach Abs. 4 ist im „Amtsblatt für das Vermessungswesen” kundzumachen.
+Nach Inkrafttreten der Verordnung ist diese im Grundstücksverzeichnis anzumerken. Nach erfolgter Be-
+richtigung des Grenzkatasters ist die Anmerkung zu löschen.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 7 von 8
+8. § 14 Abs. 1 lautet:
+„(1) Die Daten des Grenzkatasters sind öffentlich mit Ausnahme der im § 9a Abs. 2 Z 8 und 9 und
+§ 9a Abs. 3 Z 6, 7 und 8 enthaltenen melderelevanten Angaben.“
+9. § 44 Abs. 3 lautet:
+„(3) Die Gemeinden haben dem Adressregister die in § 9a Abs. 2 Z 1 bis 8 und die in § 9a Abs. 3
+Z 1 bis 5 und 8 genannten Adressdaten zu melden; die in § 9a Abs. 2 Z 9 und in § 9a Abs. 3 Z 6, 7 und 9
+bezeichneten Angaben können von den Gemeinden zusätzlich gemacht werden. Die Meldung hat jeweils
+umgehend nach der Vergabe oder Änderung einer Adresse im Sinne des § 9a Abs. 1 zu erfolgen. Für die
+Meldung ist die gemäß § 5 GWR-Gesetz unentgeltlich zur Verfügung gestellte Adress-GWR-Online-
+Applikation, beziehungsweise die darin enthaltene Datenschnittstelle zu verwenden. Durch die Meldung
+sind alle bundesgesetzlichen Meldepflichten der Gemeinden, die die bloße Zurverfügungsstellung von
+authentischen Adressdaten im Sinne des § 9a betrifft, erfüllt.“
+10. § 46 lautet:
+„§ 46. Den Finanzämtern sind Auszüge aus dem Grundstücksverzeichnis im Wege der automations-
+unterstützten Datenverarbeitung zu übermitteln. Diese Auszüge sind vor Übermittlung mit den wirtschaft-
+lichen Einheiten des Grundbesitzes im Sinne des Bewertungsgesetzes 1955, BGBl. Nr. 148/1955, in der
+jeweils geltenden Fassung, zu verknüpfen, soweit diese von den Finanzämtern bekannt gegeben werden.“
+11. Der erste Satz des § 47 Abs. 1 lautet:
+„Für die Ausstellung der in Abs. 2 Z 1 und 2 angeführten Auszüge und für Amtshandlungen nach Abs. 2
+Z 3 sind besondere Verwaltungsabgaben zu entrichten, die vom Bundesminister für Wirtschaft und Arbeit
+entsprechend dem dadurch entstehenden Aufwand in Bauschbeträgen durch Verordnung festzusetzen
+sind.“
+12. Nach § 47 wird folgender § 47a eingefügt:
+„§ 47a. (1) Jedermann kann kostenlos aus dem Adressregister die in § 9a Abs. 2 Z 1 bis 4, 6, 7 und
+10 und § 9a Abs. 3 Z 1 bis 3, 5 und 10 genannten Daten einer einzelnen Adresse abfragen. Die Aufzeich-
+nung von Abfrageergebnissen zum Zweck der kommerziellen Verwertung, insbesondere durch Weiterga-
+be an Dritte, ist unzulässig.
+(2) Abfragen und Auszüge aus dem Adressregister, die über Abs. 1, erster Satz, hinausgehen, sowie
+die unmittelbare Einsicht in das technische Operat oder das Grundstücksverzeichnis gemäß § 14 Abs. 4
+und 6 unterliegen einem Kostenersatz. Der Kostenersatz ist durch den Bundesminister für Wirtschaft und
+Arbeit im Einvernehmen mit dem Bundesminister für Finanzen mit Verordnung entsprechend dem ge-
+meinen Wert gemäß § 305 ABGB in Form von Bauschbeträgen festzulegen. Der Gemeindebund und der
+Städtebund sind vor Erlassung der Verordnung anzuhören.
+(3) Keine Kostenersatzpflicht für Abfragen und Auszüge aus dem Adressregister nach Abs. 2 besteht
+- sofern damit nicht die Weitergabe an Dritte für kommerzielle Zwecke verbunden ist - für Abfragen
+durch
+1. Behörden, soweit die Abfrage zur Wahrnehmung einer der Behörde gesetzlich übertragenen
+Aufgabe erforderlich ist,
+2. die Bundesanstalt Statistik Österreich für statistische Zwecke und
+3. Feuerwehren und Rettungsdienste für Aufgaben des Krisenmanagements und des Einsatz- und
+Rettungswesens.
+(4) Die auf Grund des Kostenersatzes nach Abs. 2 für Abfragen und Auszüge aus dem Adressregis-
+ter erzielten Einnahmen sind nach Abzug des laufenden Aufwandes des Bundes für den Betrieb des
+Adressregisters den Gemeinden anteilsmäßig nach Anzahl der im Adressregister zum 31. Dezember jeden
+Jahres enthaltenen Adressen als Abgeltung ihres Aufwandes jährlich im nachhinein zu überweisen.“
+13. Dem § 57 wird folgender Abs. 5 angefügt:
+„(5) § 8, § 9 Abs. 1, 4 und 6, die §§ 9a und 10, § 13 Abs. 4 und 5, § 14 Abs. 1, § 44 Abs. 3, § 46,
+§ 47 Abs. 1 erster Satz, 47a Abs. 2 und 4, in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2004, treten
+am 1. März 2004 in Kraft. Zugleich tritt der Anhang in der zu diesem Zeitpunkt geltenden Fassung außer
+Kraft. § 47a Abs. 1 und 3, in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2004, tritt am 1. Jänner 2005
+in Kraft. § 47a Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2004 tritt am 31. Dezember 2007
+außer Kraft. Der Bundesminister für Wirtschaft und Arbeit ist ermächtigt, von dem der Kundmachung des
+Bundesgesetzes BGBl. I Nr. 9/2004 folgenden Tag an alle erforderlichen Maßnahmen zu treffen, damit
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 9 8 von 8
+der Zugang zum Adressregister gemäß § 47a gegeben ist. Dies umfasst auch die Erlassung der Verord-
+nung gemäß § 47a Abs. 2.“
+14. Der § 59 Abs. 1 lautet:
+„(1) Mit der Vollziehung dieses Bundesgesetzes mit Ausnahme der §§ 12 Abs. 3, 25 Abs. 4, 49, 50,
+53 bis 56 und 58 ist der Bundesminister für Wirtschaft und Arbeit, hinsichtlich des § 9a Abs. 3 Z 4 und
+des § 44 Abs. 3 im Einvernehmen mit dem Bundeskanzler, hinsichtlich des § 1 Z 10 und des § 9a Abs. 2
+Z 8 und Abs. 3 Z 8 und 9 im Einvernehmen mit dem Bundesminister für Inneres, hinsichtlich der §§ 46
+bis 48 im Einvernehmen mit dem Bundesminister für Finanzen, hinsichtlich der §§ 5 Abs. 1, 3 und 4, 7, 9
+Abs. 6 und 7, 39, 43 Abs. 3, 44 Abs. 2, 45, 47 Abs. 3 und 52 im Einvernehmen mit dem Bundesminister
+für Justiz und hinsichtlich der §§ 14 und 48 Abs. 1 im Einvernehmen mit dem Bundesminister für Lan-
+desverteidigung betraut.“
+Klestil
+Schüssel
+www.ris.bka.gv.at

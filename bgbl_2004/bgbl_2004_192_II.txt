@@ -1,0 +1,35 @@
+1 von 1
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 4. Mai 2004 Teil II
+192. Verordnung: Elektronische Übermittlung von Umsatz-, Einkommen- und
+Körperschaftsteuererklärungen
+192. Verordnung des Bundesministers für Finanzen über die elektronische Übermittlung
+von Umsatz-, Einkommen- und Körperschaftsteuererklärungen
+Auf Grund von § 21 Abs. 1 und 4 UStG 1994, Art. 21 Abs. 10 UStG 1994, § 42 Abs. 1 EStG 1988,
+§ 24 Abs. 3 Z 1 KStG 1988 wird verordnet:
+§ 1. Die elektronische Übermittlung der Umsatzsteuervoranmeldung, der Zusammenfassenden Mel-
+dung, sowie der Einkommen-, Körperschaft- und Umsatzsteuererklärung hat nach der FinanzOnli-
+ne-Verordnung 2002 im Verfahren FinanzOnline (https://finanzonline.bmf.gv.at) zu erfolgen.
+§ 2. Dem Steuerpflichtigen ist die elektronische Übermittlung der Steuererklärung unzumutbar,
+wenn er nicht über die dazu erforderlichen technischen Voraussetzungen verfügt. Der Steuerpflichtige
+muss daher die Steuererklärung, die er selbst einreicht, nur dann elektronisch übermitteln, wenn er über
+einen Internet-Anschluss verfügt und er wegen Überschreitens der Umsatzgrenze zur Abgabe von Um-
+satzsteuervoranmeldungen verpflichtet ist. Reicht ein inländischer berufsmäßiger Parteienvertreter die
+Erklärung ein, so besteht die Verpflichtung zur elektronischen Übermittlung nur dann, wenn der Parteien-
+vertreter über einen Internet-Anschluss verfügt und wegen Überschreitens der Umsatzgrenze zur Abgabe
+von Umsatzsteuervoranmeldungen verpflichtet ist.
+§ 3. Der Umfang der elektronisch zu übermittelnden Abgabenerklärungen bestimmt sich nach § 1
+Abs. 2 FOnV 2002.
+§ 4. (1) Umsatzsteuervoranmeldungen sind elektronisch erstmals für den Zeitraum April 2003 zu
+übermitteln.
+(2) Die elektronische Übermittlung der Zusammenfassenden Meldung hat bis zum 15. des auf das
+Kalendervierteljahr zweitfolgenden Monats zu erfolgen.
+§ 5. Mit dem In-Kraft-Treten dieser Verordnung tritt die Verordnung des Bundesministers für Finan-
+zen betreffend die elektronische Übermittlung von Voranmeldungen, BGBl. II Nr. 226/2003, außer Kraft.
+Die Verordnung des Bundesministers für Finanzen betreffend die automationsunterstützte Übermittlung
+von Daten der Zusammenfassenden Meldung gemäß Art. 21 Abs. 10 UStG 1994, BGBl. Nr. 140/1995, ist
+für die Datenübermittlung betreffend Zeiträume, die nach dem 31. Dezember 2003 liegen, nicht mehr
+anzuwenden.
+Grasser
+www.ris.bka.gv.at

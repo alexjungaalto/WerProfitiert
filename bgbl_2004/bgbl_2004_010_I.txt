@@ -1,0 +1,1091 @@
+1 von 21
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 27. Februar 2004 Teil I
+10. Bundesgesetz: Erlassung eines E-Government-Gesetzes sowie Änderung des Allgemeinen
+Verwaltungsverfahrensgesetzes 1991, des Zustellgesetzes, des
+Gebührengesetzes 1957, des Meldegesetzes 1991 und des
+Vereinsgesetzes 2002
+(NR: GP XXII RV 252 AB 382 S. 46. BR: 6959 AB 6961 S. 705.)
+10. Bundesgesetz, mit dem ein E-Government-Gesetz erlassen wird sowie das Allgemeine
+Verwaltungsverfahrensgesetz 1991, das Zustellgesetz, das Gebührengesetz 1957, das
+Meldegesetz 1991 und das Vereinsgesetz 2002 geändert werden
+Der Nationalrat hat beschlossen:
+Artikel 1
+Bundesgesetz über Regelungen zur Erleichterung des elektronischen Verkehrs mit öffent-
+lichen Stellen
+(E-Government-Gesetz – E-GovG)
+Inhaltsverzeichnis
+1. Abschnitt
+Gegenstand und Ziele des Gesetzes
+§ 1.
+2. Abschnitt
+Identifikation und Authentifizierung im elektronischen Verkehr mit öffentlichen Stellen
+§ 2. Begriffsbestimmungen
+§ 3. Identität und Authentizität
+§ 4. Die Funktion „Bürgerkarte“
+§ 5. Bürgerkarte und Stellvertretung
+§ 6. Stammzahl
+§ 7. Stammzahlenregisterbehörde
+§ 8. Eindeutige Identifikation in Datenanwendungen
+§ 9. Bereichsspezifisches Personenkennzeichen
+§ 10. Erzeugung bereichsspezifischer Personenkennzeichen
+§ 11. Offenlegung bereichsspezifischer Personenkennzeichen in Mitteilungen
+§ 12. Schutz der Stammzahl natürlicher Personen
+§ 13. Weitere Garantien zum Schutz von Personenkennzeichen
+3. Abschnitt
+Verwendung der Bürgerkartenfunktion im privaten Bereich
+§ 14. Wirtschaftsbereichsspezifische Personenkennzeichen
+§ 15. Garantien zum Schutz der Stammzahl und der Personenkennzeichen
+4. Abschnitt
+Elektronischer Datennachweis
+§ 16. für Daten über selbständige wirtschaftliche Tätigkeiten
+§ 17. für Personenstands- und Staatsbürgerschaftsdaten
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 2 von 21
+§ 18. für sonstige Daten
+5. Abschnitt
+Besonderheiten elektronischer Aktenführung
+§ 19. Amtssignatur
+§ 20. Beweiskraft von Ausdrucken
+§ 21. Vorlage elektronischer Akten
+6. Abschnitt
+Strafbestimmungen
+§ 22. Unzulässige Verwendung von Stammzahlen, bereichsspezifischen Personenkennzeichen oder Amts-
+signaturen
+7. Abschnitt
+Übergangs- und Schlussbestimmungen
+§ 23. Sprachliche Gleichbehandlung
+§ 24. In-Kraft-Treten
+§ 25. Übergangsbestimmungen
+§ 26. Erlassung und In-Kraft-Treten von Verordnungen
+§ 27. Verweisungen
+§ 28. Vollziehung
+1. Abschnitt
+Gegenstand und Ziele des Gesetzes
+§ 1. (1) Dieses Bundesgesetz dient der Förderung rechtserheblicher elektronischer Kommunikation.
+Der elektronische Verkehr mit öffentlichen Stellen soll unter Berücksichtigung grundsätzlicher Wahlfrei-
+heit zwischen Kommunikationsarten für Anbringen an diese Stellen erleichtert werden.
+(2) Gegen Gefahren, die mit einem verstärkten Einsatz der automationsunterstützten Datenverarbei-
+tung zur Erreichung der in Abs. 1 genannten Ziele verbunden sind, sollen zur Verbesserung des Rechts-
+schutzes besondere technische Mittel geschaffen werden, die dort einzusetzen sind, wo nicht durch andere
+Vorkehrungen bereits ausreichender Schutz bewirkt wird.
+(3) Bei der Umsetzung der Ziele dieses Bundesgesetzes ist Vorsorge dafür zu treffen, dass behördli-
+che Internetauftritte, die Informationen anbieten oder Verfahren elektronisch unterstützen, spätestens bis
+1. Jänner 2008 so gestaltet sind, dass internationale Standards über die Web-Zugänglichkeit auch hin-
+sichtlich des barrierefreien Zugangs für behinderte Menschen eingehalten werden.
+2. Abschnitt
+Identifikation und Authentifizierung im elektronischen Verkehr mit öffentlichen Stellen
+Begriffsbestimmungen
+§ 2. Im Sinne dieses Abschnitts bedeutet
+1. „Identität“: die Bezeichnung der Nämlichkeit von Betroffenen (Z 7) durch Merkmale, die in
+besonderer Weise geeignet sind, ihre Unterscheidbarkeit von anderen zu ermöglichen; solche
+Merkmale sind insbesondere der Name, das Geburtsdatum und der Geburtsort, aber auch etwa
+die Firma oder (alpha)nummerische Bezeichnungen;
+2. „eindeutige Identität“: die Bezeichnung der Nämlichkeit eines Betroffenen (Z 7) durch ein oder
+mehrere Merkmale, wodurch die unverwechselbare Unterscheidung von allen anderen bewirkt
+wird;
+3. „Wiederholungsidentität“: die Bezeichnung von Betroffenen (Z 7) in der Weise, dass zwar nicht
+ihre eindeutige Identität, aber ihre Wiedererkennung im Hinblick auf ein früheres Ereignis, wie
+etwa ein früher gestelltes Anbringen, gesichert ist;
+4. „Identifikation“: den Vorgang, der zum Nachweis bzw. zur Feststellung der Identität erforderlich
+ist;
+5. „Authentizität“: die Echtheit einer Willenserklärung oder Handlung in dem Sinn, dass der vor-
+gebliche Urheber auch ihr tatsächlicher Urheber ist;
+6. „Authentifizierung“: den Vorgang, der zum Nachweis bzw. zur Feststellung der Authentizität
+erforderlich ist;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 3 von 21
+7. „Betroffener“: jede natürliche Person, juristische Person sowie sonstige Personenmehrheit oder
+Einrichtung, der bei ihrer Teilnahme am Rechts- oder Wirtschaftsverkehr eine eigene Identität
+zukommt;
+8. „Stammzahl“: eine zur Identifikation von natürlichen und juristischen Personen und sonstigen
+Betroffenen herangezogene Zahl, die demjenigen, der identifiziert werden soll, eindeutig zuge-
+ordnet ist und hinsichtlich natürlicher Personen auch als Ausgangspunkt für die Ableitung von
+(wirtschafts)bereichsspezifischen Personenkennzeichen (§§ 9 und 14) benützt wird;
+9. „Stammzahlenregister“: ein Register, das die für die eindeutige Identifikation von Betroffenen
+verwendeten Stammzahlen enthält bzw. die technischen Komponenten zur Ableitung von
+Stammzahlen im Bedarfsfall besitzt;
+10. „Bürgerkarte“: die unabhängig von der Umsetzung auf unterschiedlichen technischen Kompo-
+nenten gebildete logische Einheit, die eine elektronische Signatur mit einer Personenbindung (§ 4
+Abs. 2) und den zugehörigen Sicherheitsdaten und –funktionen sowie mit allenfalls vorhandenen
+Vollmachtsdaten verbindet.
+Identität und Authentizität
+§ 3. (1) Im elektronischen Verkehr mit Auftraggebern des öffentlichen Bereichs im Sinne des § 5
+Abs. 2 des Datenschutzgesetzes 2000, BGBl. I Nr. 165/1999, dürfen Zugriffsrechte auf personenbezogene
+Daten (§ 4 Z 1 DSG 2000), an welchen ein schutzwürdiges Geheimhaltungsinteresse im Sinne des § 1
+Abs. 1 DSG 2000 besteht, nur eingeräumt werden, wenn die eindeutige Identität desjenigen, der zugreifen
+will, und die Authentizität seines Ersuchens nachgewiesen sind. Dieser Nachweis muss in elektronisch
+prüfbarer Form erbracht werden. Ist nur der Nachweis der Wiederholungsidentität möglich, darf Zugriff
+nur auf jene personenbezogenen Daten des Einschreiters gewährt werden, die er selbst unter dieser Identi-
+tät zur Verfügung gestellt hat.
+(2) Im Übrigen darf eine Identifikation von Betroffenen im elektronischen Verkehr mit Auftragge-
+bern des öffentlichen Bereichs nur insoweit verlangt werden, als dies aus einem überwiegenden berech-
+tigten Interesse des Auftraggebers geboten ist, insbesondere weil dies eine wesentliche Voraussetzung für
+die Wahrnehmung einer ihm gesetzlich übertragenen Aufgabe ist.
+Die Funktion „Bürgerkarte“
+§ 4. (1) Die Bürgerkarte dient dem Nachweis der eindeutigen Identität eines Einschreiters und der
+Authentizität des elektronisch gestellten Anbringens in Verfahren, für die ein Auftraggeber des öffentli-
+chen Bereichs eine für den Einsatz der Bürgerkarte taugliche technische Umgebung eingerichtet hat.
+(2) Die eindeutige Identifikation einer natürlichen Person, die rechtmäßige Inhaberin einer Bürger-
+karte ist, wird in ihrer Bürgerkarte durch die Personenbindung bewirkt: Von der Stammzahlenregisterbe-
+hörde (§ 7) wird elektronisch signiert bestätigt, dass der in der Bürgerkarte als Inhaberin bezeichneten
+natürlichen Person eine bestimmte Stammzahl zur eindeutigen Identifikation zugeordnet ist. Hinsichtlich
+des Identitätsnachweises im Fall der Stellvertretung gilt § 5.
+(3) Die Eintragung der Personenbindung in der Bürgerkarte erfolgt durch die Stammzahlenregister-
+behörde oder in ihrem Auftrag durch andere Behörden oder sonstige geeignete Stellen, die in der gemäß
+Abs. 5 zu erlassenden Verordnung näher zu bezeichnen sind. Die Eignung ist nach dem Vorhandensein
+der notwendigen technischen Ausstattung und der zu ihrer Nutzung notwendigen Fachkenntnisse sowie
+der Verlässlichkeit im Hinblick auf die Einhaltung der rechtlichen Rahmenbedingungen zu beurteilen.
+(4) Die Authentizität eines mit Hilfe der Bürgerkarte gestellten Anbringens wird durch die in der
+Bürgerkarte enthaltene elektronische Signatur nachgewiesen.
+(5) Die näheren Regelungen zu den Abs. 1 bis 4 sind, soweit erforderlich, durch Verordnung des
+Bundeskanzlers im Einvernehmen mit den allfällig sonst zuständigen Bundesministern zu erlassen. Vor
+Erlassung der Verordnung sind die Länder und die Gemeinden, letztere vertreten durch den Gemeinde-
+bund und den Städtebund, anzuhören.
+Bürgerkarte und Stellvertretung
+§ 5. (1) Soll die Bürgerkarte für vertretungsweise Anbringen verwendet werden, muss auf der Bür-
+gerkarte des Vertreters ein Hinweis auf die Zulässigkeit der Vertretung eingetragen sein. Dies geschieht
+dadurch, dass die Stammzahlenregisterbehörde
+1. bei Nachweis eines aufrechten Vollmachtsverhältnisses bzw. Vorliegen gesetzlicher Stellvertre-
+tung auf Antrag des Vertreters die Stammzahl des Vertretenen und das Bestehen eines Voll-
+machtsverhältnisses mit allfälligen inhaltlichen und zeitlichen Beschränkungen auf der Bürger-
+karte des Vertreters einträgt oder
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 4 von 21
+2. in den Fällen berufsmäßiger Parteienvertretung, in welchen ein besonderer Vollmachtsnachweis
+nicht erforderlich ist, auf der Bürgerkarte des Vertreters die Berechtigung zur berufsmäßigen Par-
+teienvertretung elektronisch nachprüfbar anmerkt. Die elektronische Identifikation des Vertrete-
+nen erfolgt diesfalls gemäß § 10 Abs. 2.
+(2) § 4 Abs. 3 gilt für die nach dem Abs. 1 notwendigen Eintragungen in die Bürgerkarte sinngemäß.
+(3) Soweit bei Gemeinden oder Bezirksverwaltungsbehörden diese Dienstleistung eingerichtet ist,
+können bei diesen Behörden unabhängig von ihrer sachlichen und organisatorischen Zuständigkeit hiezu
+eigens ermächtigte Organwalter für Betroffene auf deren Verlangen Anträge in bürgerkartentauglichen
+Verfahren stellen. Der Antrag wird mit Hilfe der Bürgerkarte des Organwalters gefertigt, die elektroni-
+sche Identifikation des Betroffenen im Antrag erfolgt gemäß § 10 Abs. 2. Die generelle Befugnis des
+Organwalters zur Antragstellung für Betroffene muss aus dem Signaturzertifikat seiner Bürgerkarte her-
+vorgehen; der konkrete Auftrag seitens des Betroffenen ist durch die Beurkundung der bei der Behörde
+aufzubewahrenden Kopie des Antrags als Niederschrift gemäß § 14 AVG zu dokumentieren.
+Stammzahl
+§ 6. (1) In der Bürgerkarte erfolgt die eindeutige Identifikation von Betroffenen durch ihre Stamm-
+zahl.
+(2) Für natürliche Personen, die im Zentralen Melderegister einzutragen sind, wird die Stammzahl
+durch eine mit starker Verschlüsselung gesicherte Ableitung aus ihrer ZMR-Zahl (§ 16 Abs. 1 des Mel-
+degesetzes 1991, BGBl. Nr. 9/1992) gebildet. Für alle anderen natürlichen Personen ist ihre Ordnungs-
+nummer im Ergänzungsregister (Abs. 4) für die Ableitung der Stammzahl heranzuziehen. Die Benützung
+der ZMR-Zahl zur Bildung der Stammzahl ist keine Verwendung von Daten des Zentralen Melderegisters
+im Sinne des § 16a des Meldegesetzes 1991.
+(3) Für juristische Personen und sonstige Betroffene, die keine natürlichen Personen sind, ist als
+Stammzahl die Firmenbuchnummer (§ 3 Z 1 des Firmenbuchgesetzes, BGBl. Nr. 10/1991) bzw. die
+ZVR-Zahl (§ 18 Abs. 3 des Vereinsgesetzes 2002, BGBl. I Nr. 66/2002) bzw. die im Ergänzungsregister
+(Abs. 4) vergebene Ordnungsnummer zu verwenden.
+(4) Betroffene, die weder im Melderegister noch im Firmenbuch oder im Vereinsregister eingetragen
+sein müssen, sind auf ihren Antrag oder in den Fällen des § 10 Abs. 2 auf Antrag des Auftraggebers der
+Datenanwendung von der Stammzahlenregisterbehörde (§ 7) für Zwecke des elektronischen Nachweises
+ihrer eindeutigen Identität in das Ergänzungsregister einzutragen. Voraussetzung hiefür ist bei natürlichen
+Personen der Nachweis jener Daten, die den Identitätsdaten im Sinne des § 1 Abs. 5a des Meldegeset-
+zes 1991 entsprechen, bei anderen Betroffenen der Nachweis ihres rechtlichen Bestandes einschließlich
+ihrer rechtsgültigen Bezeichnung. Das Ergänzungsregister wird getrennt nach natürlichen Personen und
+sonstigen Betroffenen geführt. In dem die sonstigen Betroffenen erfassenden Teil des Ergänzungsregis-
+ters kann auch die Erteilung von Handlungsvollmachten eingetragen werden. Bei welchen Stellen der
+Nachweis von Daten für die Eintragung in das Ergänzungsregister im Inland und im Ausland erbracht
+werden kann und welche Stellen zur Eintragung der Personenbindung in die Bürgerkarte ermächtigt sind,
+ist in der gemäß § 4 Abs. 5 zu erlassenden Verordnung des Bundeskanzlers zu regeln. In dieser Verord-
+nung ist weiters zu regeln, inwieweit ein Kostenersatz für die Befassung der Stammzahlenregisterbehörde
+und der von ihm beauftragten Stellen für Zwecke des Identitätsnachweises im Zusammenhang mit der
+Eintragung im Ergänzungsregister sowie für Zwecke der Eintragung von Hinweisen auf die Stellvertre-
+tung zu leisten ist; die Gebietskörperschaften sind vom Kostenersatz jedenfalls auszunehmen.
+(5) Zum bloßen Nachweis der Wiederholungsidentität kann der Betroffene auch ohne Nachweis der
+nach Abs. 3 geforderten Daten auf seinen Antrag von der Stammzahlenregisterbehörde mit einer Ersatz-
+Stammzahl ausgestattet werden. Diese ist aufgrund von Daten des Betroffenen zu bilden, die in ihrer
+Summe - wie etwa Name und Geburtsdatum und Geburtsort oder Seriennummer eines Zertifikats - eine
+hinreichende Unterscheidbarkeit erwarten lassen; sie muss als Ersatz-Stammzahl erkennbar sein.
+(6) Die von der Stammzahlenregisterbehörde verwendeten mathematischen Verfahren zur Bildung
+der Stammzahlen (starkes Verschlüsselungsverfahren bei natürlichen Personen) und Ersatz-Stammzahlen
+(Hash-Wert über die Merkmale und zusätzlich starke Verschlüsselung bei natürlichen Personen) werden
+durch die Stammzahlenregisterbehörde festgelegt und - mit Ausnahme der verwendeten kryptographi-
+schen Schlüssel - im Internet veröffentlicht.
+Stammzahlenregisterbehörde
+§ 7. (1) Stammzahlenregisterbehörde ist die Datenschutzkommission, die diese Aufgabe im Wege
+des Datenverarbeitungsregisters wahrnimmt.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 5 von 21
+(2) Die Stammzahlenregisterbehörde bedient sich bei der Führung des Ergänzungsregisters sowie bei
+der Errechnung von Stammzahlen und bei der Durchführung der in den §§ 4, 9 und 10 geregelten Verfah-
+ren des Bundesministeriums für Inneres als Dienstleister, soweit natürliche Personen Betroffene sind, und
+des Bundesministeriums für Finanzen hinsichtlich aller anderen Betroffenen. Die näheren Regelungen
+über die sich daraus ergebende Aufgabenverteilung zwischen der Datenschutzkommission als Register-
+behörde und dem Bundesministerium für Inneres bzw. dem Bundesministerium für Finanzen als Dienst-
+leister werden durch Verordnung des Bundeskanzlers nach Anhörung der Datenschutzkommission im
+Einvernehmen mit dem Bundesminister für Inneres bzw. dem Bundesminister für Finanzen geregelt.
+Eindeutige Identifikation in Datenanwendungen
+§ 8. In den Datenanwendungen von Auftraggebern des öffentlichen Bereichs darf eine im Rahmen
+des Bürgerkartenkonzepts erfolgende Identifikation von Betroffenen im Hinblick auf natürliche Personen
+nur in Form des bereichsspezifischen Personenkennzeichens (§ 9) dargestellt werden. Für Betroffene, die
+keine natürlichen Personen sind, darf zur eindeutigen Identifikation die Stammzahl gespeichert werden.
+Bereichsspezifisches Personenkennzeichen
+§ 9. (1) Das bereichsspezifische Personenkennzeichen wird durch eine Ableitung aus der Stammzahl
+der betroffenen natürlichen Person gebildet. Die Identifikationsfunktion dieser Ableitung ist auf jenen
+staatlichen Tätigkeitsbereich beschränkt, dem die Datenanwendung zuzurechnen ist, in der das Personen-
+kennzeichen verwendet werden soll (bereichsspezifisches Personenkennzeichen, bPK). Die Zurechnung
+einer Datenanwendung zu einem bestimmten staatlichen Tätigkeitsbereich ergibt sich – soweit sie nicht
+unter § 17 Abs. 2 Z 1 bis 3 oder Abs. 3 fällt – aus ihrer Registrierung im Datenverarbeitungsregister oder
+aus der Standard- und Musterverordnung gemäß § 17 Abs. 2 Z 6 DSG 2000.
+(2) Die Abgrenzung der staatlichen Tätigkeitsbereiche ist für Zwecke der Bildung von bereichsspezi-
+fischen Personenkennzeichen so vorzunehmen, dass zusammengehörige Lebenssachverhalte in ein- und
+demselben Bereich zusammengefasst werden und miteinander unvereinbare Datenverwendungen (§ 6
+Abs. 1 Z 2 DSG 2000) innerhalb desselben Bereichs nicht vorgesehen sind. Die Bezeichnung und Ab-
+grenzung dieser Bereiche wird durch Verordnung des Bundeskanzlers festgelegt; vor Erlassung oder
+Änderung dieser Verordnung sind die Länder und die Gemeinden, letztere vertreten durch den Gemein-
+debund und den Städtebund, anzuhören.
+(3) Die zur Bildung des bPK eingesetzten mathematischen Verfahren (Hash-Verfahren über die
+Stammzahl und die Bereichskennung) werden von der Stammzahlenregisterbehörde festgelegt und - mit
+Ausnahme der verwendeten kryptographischen Schlüssel - im Internet veröffentlicht.
+Erzeugung bereichsspezifischer Personenkennzeichen
+§ 10. (1) Das bereichsspezifische Personenkennzeichen eines Betroffenen wird durch Einsatz der
+Bürgerkarte in solchen elektronischen Verfahren erzeugt, für die ein Auftraggeber des öffentlichen Be-
+reichs eine bürgerkartentaugliche Umgebung eingerichtet hat.
+(2) Die Erzeugung von bereichsspezifischen Personenkennzeichen ohne Einsatz der Bürgerkarte ist
+nur der Stammzahlenregisterbehörde erlaubt und nur zulässig, falls eine eindeutige Identifikation mit
+Hilfe des bPK im Rahmen von Datenanwendungen von Auftraggebern des öffentlichen Bereichs notwen-
+dig ist, weil personenbezogene Daten in einer dem DSG 2000 entsprechenden Art und Weise verarbeitet
+oder übermittelt werden sollen. Solche Fälle sind insbesondere auch die Amtshilfe, die Datenermittlung
+im Auftrag des Betroffenen oder das Einschreiten eines berufsmäßigen Parteienvertreters vor einer Be-
+hörde. Bei der Anforderung von bPKs aus einem Bereich, in dem der Anfordernde nicht zur Vollziehung
+berufen ist (Fremd-bPKs), dürfen nur Personenkennzeichen zur Verfügung gestellt werden, die nach
+Maßgabe des § 13 Abs. 2 verschlüsselt sind.
+(3) In der gemäß § 4 Abs. 5 zu erlassenden Verordnung ist auch der Kostenersatz für die nach Abs. 2
+im Zusammenhang mit beruflicher Parteienvertretung erfolgte Bereitstellung von bereichsspezifischen
+Personenkennzeichen zu regeln.
+Offenlegung bereichsspezifischer Personenkennzeichen in Mitteilungen
+§ 11. In Mitteilungen an den Betroffenen oder an Dritte sind bereichsspezifische Personenkennzei-
+chen nicht anzuführen. Die Erleichterung der Zuordnung solcher Mitteilungen zu Aufzeichnungen beim
+Auftraggeber über denselben Gegenstand ist auf andere Weise, wie etwa durch Anführung einer Ge-
+schäftszahl, zu bewerkstelligen.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 6 von 21
+Schutz der Stammzahl natürlicher Personen
+§ 12. (1) Soweit Stammzahlen keine öffentlichen Daten, wie etwa die Firmenbuchnummer oder die
+ZVR-Zahl sind, unterliegt ihre Vertraulichkeit besonderem Schutz durch folgende Vorkehrungen im
+Bürgerkartenkonzept:
+1. Eine dauernde Speicherung der als Stammzahl natürlicher Personen verwendeten Ableitung aus
+der ZMR-Zahl darf nur in der Bürgerkarte erfolgen und zwar nur im Rahmen der Personenbin-
+dung oder zur Darstellung eines Vollmachtsverhältnisses.
+2. Im Stammzahlenregister werden Stammzahlen natürlicher Personen nur im Bedarfsfall erzeugt,
+aber nicht dauernd gespeichert.
+3. Die Verwendung der Stammzahl natürlicher Personen im Errechnungsvorgang für das bPK darf
+zu keiner Speicherung der Stammzahl außerhalb des Errechnungsvorgangs führen.
+4. Für die Errechnung eines wbPK (§ 14) darf der Vorgang der Errechnung aus der Stammzahl
+nicht beim Auftraggeber des privaten Bereichs durchgeführt werden.
+(2) Die Verwendung der Stammzahl zur Ermittlung eines bereichsspezifischen Personenkennzei-
+chens darf nur erfolgen:
+1. unter Mitwirkung des Betroffenen durch Einsatz seiner Bürgerkarte, wobei der Betroffene über
+das elektronische Auslösen der Bürgerkartenfunktionen jeweils entsprechend unterrichtet sein
+muss, oder
+2. ohne Mitwirkung des Betroffenen durch die Stammzahlenregisterbehörde nach den näheren Best-
+immungen der §§ 10 und 13 Abs. 2.
+Weitere Garantien zum Schutz von Personenkennzeichen
+§ 13. (1) Bereichsspezifische Personenkennzeichen sind durch nicht-umkehrbare Ableitungen aus
+der Stammzahl zu bilden. Dies gilt im Interesse der Nachvollziehbarkeit staatlichen Handelns nicht für
+bereichsspezifische Personenkennzeichen, die ausschließlich im Zusammenhang mit der Tätigkeit einer
+Person als Organwalter verwendet werden.
+(2) Ist es zum Zweck der eindeutigen Identifikation eines Betroffenen gemäß § 10 Abs. 2 zulässig,
+von der Stammzahlenregisterbehörde ein bereichsspezifisches Personenkennzeichen anzufordern, ist
+dieses, sofern es sich um ein Fremd-bPK handelt - das ist ein bPK aus einem Bereich, in dem der Anfor-
+dernde nicht zur Vollziehung berufen ist - von der Stammzahlenregisterbehörde nur verschlüsselt zur
+Verfügung zu stellen. Die Verschlüsselung ist so zu gestalten, dass
+1. nur derjenige entschlüsseln kann, in dessen Datenanwendung das bPK in entschlüsselter Form
+zulässigerweise verwendet werden darf (Abs. 3), und
+2. durch Einbeziehung von zusätzlichen, dem Anfordernden nicht bekannten variablen Angaben in
+die Verschlüsselungsbasis das bPK auch in verschlüsselter Form keinen personenbezogenen
+Hinweis liefert.
+(3) Bereichsspezifische Personenkennzeichen dürfen unverschlüsselt in einer Datenanwendung nur
+dann gespeichert werden, wenn zur Bildung des bPK die Kennung jenes Bereichs verwendet wurde, der
+die Datenanwendung in Übereinstimmung mit der gemäß § 9 Abs. 2 erlassenen Verordnung zuzurechnen
+ist.
+3. Abschnitt
+Verwendung der Bürgerkartenfunktion im privaten Bereich
+Wirtschaftsbereichsspezifische Personenkennzeichen
+§ 14. (1) Für die Identifikation von natürlichen Personen im elektronischen Verkehr mit einem Auf-
+traggeber des privaten Bereichs (§ 5 Abs. 3 DSG 2000) kann durch Einsatz der Bürgerkarte eine spezifi-
+sche Ableitung aus dem Hashwert gebildet werden, der aus der Stammzahl des Betroffenen und der
+Stammzahl des Auftraggebers als Bereichskennung erzeugt wird (wirtschaftsbereichsspezifisches Perso-
+nenkennzeichen, wbPK). Voraussetzung hiefür ist, dass der Auftraggeber des privaten Bereichs eine für
+den Einsatz der Bürgerkarte taugliche technische Umgebung eingerichtet hat, in der seine Stammzahl als
+Bereichskennung im Errechnungsvorgang für das wbPK zur Verfügung gestellt wird.
+(2) Auftraggeber des privaten Bereichs dürfen nur solche wirtschaftsbereichsspezifische Personen-
+kennzeichen speichern und benützen, die mit Hilfe ihrer eigenen Stammzahl als Bereichskennung gebil-
+det wurden.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 7 von 21
+Garantien zum Schutz der Stammzahl und der Personenkennzeichen
+§ 15. (1) Die Erzeugung eines wirtschaftsbereichsspezifischen Personenkennzeichens darf aus-
+schließlich unter Mitwirkung des Betroffenen mit Hilfe der Bürgerkarte erfolgen, wobei der Betroffene
+über das elektronische Auslösen dieser Funktion jeweils entsprechend unterrichtet sein muss.
+(2) Die Stammzahl des Betroffenen darf einem Auftraggeber des privaten Bereichs von der Bürger-
+kartenfunktion in keiner Phase des Errechnungsvorgangs für das wbPK zur Verfügung gestellt werden.
+Die elektronische Überprüfbarkeit der Richtigkeit der vom Betroffenen verwendeten Personenbindung ist
+durch die Möglichkeit einer Anfrage an das zentrale Melderegister nach § 16 Abs. 1 des Meldegeset-
+zes 1991 gegeben.
+4. Abschnitt
+Elektronischer Datennachweis
+für Daten über selbständige wirtschaftliche Tätigkeiten
+§ 16. (1) Der elektronische Nachweis über die Art einer selbständigen Erwerbstätigkeit und über das
+Vorliegen der hiefür notwendigen Berufsberechtigungen kann durch Inanspruchnahme des Dokumentati-
+onsregisters nach § 114 Abs. 2 BAO geführt werden.
+(2) Soweit der Nachweis der in Abs. 1 bezeichneten Daten in Verfahren vor einem Auftraggeber des
+öffentlichen Bereichs notwendig ist, kann er vom Betroffenen selbst durch Vorlage der vom Dokumenta-
+tionsregister elektronisch signierten Auskunft erbracht oder auf Ersuchen des Betroffenen durch den Auf-
+traggeber im Wege der elektronischen Einsicht in das Register beschafft werden. Die amtswegige Be-
+schaffung des Nachweises ist bei Vorliegen der gesetzlichen Voraussetzungen für diese Datenermittlung
+zulässig.
+für Personenstands- und Staatsbürgerschaftsdaten
+§ 17. (1) Soweit die Richtigkeit der im Zentralen Melderegister gespeicherten Daten zum Personen-
+stand und zur Staatszugehörigkeit von den Meldebehörden durch Einsicht in die entsprechenden Doku-
+mente (Standarddokumente) geprüft wurde, haben sie dies dem Zentralen Melderegister mitzuteilen,
+worauf die erfolgte Prüfung im Zentralen Melderegister in geeigneter Weise elektronisch lesbar anzumer-
+ken ist. Diese Anmerkung kann vom Betroffenen auch außerhalb eines Meldevorgangs verlangt werden,
+wenn er der Meldebehörde die Richtigkeit eines Meldedatums durch Vorlage der entsprechenden Doku-
+mente nachweist.
+(2) Soweit andere Behörden die Richtigkeit eines Personenstands- oder Staatszugehörigkeitsdatums,
+das auch Meldedatum ist, in einem Verfahren als Vorfrage zu beurteilen haben, dürfen sie, wenn die
+Zustimmung des Betroffenen zur Datenbeschaffung oder eine gesetzliche Ermächtigung zur amtswegigen
+Datenermittlung vorliegt, an das Zentrale Melderegister eine diesbezügliche elektronische Anfrage rich-
+ten, die im Wege des § 16a Abs. 4 des Meldegesetzes 1991 zu behandeln ist.
+(3) Die Betroffenen können von der elektronischen Verfügbarkeit geprüfter Meldedaten Gebrauch
+machen, indem sie
+1. in Verfahren, in welchen die Vorlage von Standarddokumenten im Sinne des Abs. 1 erforderlich
+ist, der Beschaffung der benötigten Daten aus dem Zentralen Melderegister zustimmen, oder
+2. eine mit Amtssignatur (§ 19) elektronisch signierte Meldebestätigung des Zentralen Melderegis-
+ters anfordern, in der die Tatsache der geprüften Richtigkeit bei den einzelnen Meldedaten ange-
+merkt ist.
+für sonstige Daten
+§ 18. Inwieweit Behörden oder mit öffentlichem Glauben versehene Personen bereit sind, elektroni-
+sche Nachweise über von ihnen in ihrem Zuständigkeits- bzw. Geschäftsbereich gespeicherte Informatio-
+nen auszustellen, ist von ihnen im Internet zu veröffentlichen. Nachweise, die personenbezogene Daten
+enthalten, dürfen nur dem Betroffenen selbst ausgestellt werden bzw. Dritten nur im Auftrag des Be-
+troffenen, es sei denn dass eine gesetzliche Ermächtigung zur amtswegigen Datenermittlung vorliegt.
+5. Abschnitt
+Besonderheiten elektronischer Aktenführung
+Amtssignatur
+§ 19. (1) Die Amtssignatur ist eine elektronische Signatur im Sinne des Signaturgesetzes, deren Be-
+sonderheit durch ein entsprechendes Attribut im Signaturzertifikat ausgewiesen wird.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 8 von 21
+(2) Die Amtssignatur dient der erleichterten Erkennbarkeit der Herkunft eines Dokuments von einer
+Behörde. Sie darf daher ausschließlich von Behörden unter den näheren Bedingungen des Abs. 3 bei der
+elektronischen Unterzeichnung und bei der Ausfertigung der von ihnen erzeugten Dokumente verwendet
+werden.
+(3) Die Darstellung der Amtssignatur in Ansichten elektronischer Dokumente geschieht durch eine
+Bildmarke, die die Behörde im Internet als die ihre gesichert veröffentlicht hat. Neben der Bildmarke sind
+in der Ansicht zumindest die Seriennummer sowie der Name und das Herkunftsland des Zertifizierungs-
+diensteanbieters und der eigentliche Signaturwert anzugeben. Die Signaturprüfung muss über die Rück-
+führung der Ansicht des gesamten Dokuments in eine Form, die die Signaturprüfung zulässt, möglich
+sein. Jene zusätzlichen Informationen, die für die Wiederherstellung des elektronischen Dokuments aus
+der Ansicht notwendig sind, hat der Aussteller des Dokuments ebenfalls im Internet gesichert zu veröf-
+fentlichen.
+Beweiskraft von Ausdrucken
+§ 20. Auf Papier ausgedruckte elektronische Dokumente von Behörden haben die Vermutung der
+Echtheit für sich, wenn das Dokument mit einer Amtssignatur signiert ist und die Überprüfbarkeit der
+Signatur auch in der ausgedruckten Form durch Rückführbarkeit in das elektronische Dokument gegeben
+ist. Das Dokument muss zu diesem Zweck die Eigenschaft der Rückführbarkeit angeben und einen Hin-
+weis auf die Fundstelle im Internet enthalten, wo das Verfahren der Rückführung des Ausdrucks in das
+elektronische Dokument und die anwendbaren Prüfmechanismen dargestellt sind.
+Vorlage elektronischer Akten
+§ 21. (1) Soweit von einer Behörde Akten an eine andere Behörde vorgelegt werden müssen, und
+diese Akten elektronisch erzeugt und elektronisch genehmigt wurden, bezieht sich die Vorlagepflicht auf
+dieses elektronische Original. Dies gilt insbesondere für Akten aus einem durchgehend elektronisch ge-
+führten Aktenbearbeitungs- und –verwaltungssystem. Die Vorlage muss in einem Standardformat erfol-
+gen.
+(2) Als Standardformate gelten jene elektronischen Formate, die die Lesbarkeit eines Dokuments
+auch für Dritte während der voraussichtlichen Aufbewahrungsdauer nach dem Stand der Technik jeweils
+bestmöglich gewährleisten.
+(3) Hat die Behörde, der der elektronische Akt vorzulegen ist, einen elektronischen Zustelldienst mit
+der Entgegennahme von Sendungen für die Behörde betraut, kann die Aktenvorlage, insbesondere wenn
+sie nachweisbar sein soll, auch über diesen Zustelldienst erfolgen. Die Bestimmungen des Abschnitts III
+des Zustellgesetzes gelten diesfalls sinngemäß mit der Maßgabe, dass die Vorlage mit dem auf die elekt-
+ronische Absendung der Verständigung von der Bereitstellung folgenden Tag bewirkt wird.
+6. Abschnitt
+Strafbestimmungen
+Unzulässige Verwendung von Stammzahlen, bereichsspezifischen Personenkennzeichen oder Amts-
+signaturen
+§ 22. (1) Sofern die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden straf-
+baren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit strengerer Strafe bedroht
+ist, begeht eine Verwaltungsübertretung, die von der Bezirksverwaltungsbehörde mit Geldstrafe bis zu
+20 000 Euro zu ahnden ist, wer
+1. sich die Stammzahl einer natürlichen Person oder deren bereichsspezifisches Personenkennzei-
+chen entgegen den Bestimmungen des 2. oder 3. Abschnitts verschafft, um sie für die rechtswid-
+rige Ermittlung personenbezogener Daten des Betroffenen einzusetzen, oder
+2. ein wirtschaftsbereichsspezifisches Personenkennzeichen eines anderen Auftraggebers des priva-
+ten Bereichs unbefugt speichert oder benützt oder
+3. anderen Auftraggebern des privaten Bereichs die mit der eigenen Stammzahl gebildeten wirt-
+schaftsbereichsspezifischen Personenkennzeichen in einer nach § 8 DSG 2000 unzulässigen Wei-
+se zur Verfügung stellt oder
+4. ein wirtschaftsbereichsspezifisches Personenkennzeichen dazu benützt, um Dritten Daten über
+einen gemeldeten Wohnsitz des Betroffenen zu verschaffen oder
+5. eine Amtssignatur entgegen § 19 Abs. 2 verwendet oder ihre Verwendung vortäuscht.
+(2) Die Strafe des Verfalls von Gegenständen (§§ 10, 17 und 18 VStG 1991), die mit einer Verwal-
+tungsübertretung gemäß Abs. 1 in Zusammenhang stehen, kann ausgesprochen werden.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 9 von 21
+(3) Örtlich zuständig für Entscheidungen nach Abs. 1 und 2 ist jene Behörde, in deren Sprengel die
+Tat begangen worden ist.
+7. Abschnitt
+Übergangs- und Schlussbestimmungen
+Sprachliche Gleichbehandlung
+§ 23. Soweit in diesem Artikel auf natürliche Personen bezogene Bezeichnungen nur in männlicher
+Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise.
+In-Kraft-Treten
+§ 24. Dieses Bundesgesetz tritt mit Ausnahme seines 4. Abschnitts mit 1. März 2004 in Kraft. Der
+4. Abschnitt tritt mit 1. Jänner 2005 in Kraft.
+Übergangsbestimmungen
+§ 25. (1) Im Rahmen der Bürgerkartenfunktion dürfen bis zum 31. Dezember 2007 gleichgestellt mit
+sicheren Signaturen auch Verwaltungssignaturen verwendet werden. Verwaltungssignaturen sind Signatu-
+ren, die im zulässigen Bereich ihrer Verwendung hinreichende Sicherheit bieten, auch wenn sie nicht
+notwendigerweise allen Bedingungen der Erzeugung und Speicherung von Signaturerstellungsdaten der
+sicheren Signatur genügen und nicht notwendigerweise auf einem qualifizierten Zertifikat beruhen. Die
+sicherheitstechnischen und organisationsrelevanten Voraussetzungen für das Vorliegen einer Verwal-
+tungssignatur im Sinne dieses Bundesgesetzes werden durch Verordnung des Bundeskanzlers festgelegt.
+(2) In jenen Fällen, in welchen in einfachen Gesetzen die Verwendung einer sicheren elektronischen
+Signatur im Verkehr mit Behörden im Rahmen der Hoheitsverwaltung ausdrücklich verlangt wird, gilt
+diese Voraussetzung bis zum Ende der in Abs. 1 genannten Übergangsfrist auch bei Verwendung einer
+Verwaltungssignatur als erfüllt.
+Erlassung und In-Kraft-Treten von Verordnungen
+§ 26. Verordnungen auf Grund dieses Bundesgesetzes in seiner jeweiligen Fassung dürfen bereits
+von dem Tag an erlassen werden, der der Kundmachung der durchzuführenden Gesetzesbestimmungen
+folgt; sie dürfen jedoch nicht vor den durchzuführenden Gesetzesbestimmungen in Kraft treten.
+Verweisungen
+§ 27. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird,
+sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+Vollziehung
+§ 28. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
+1. hinsichtlich des § 4 Abs. 5 der Bundeskanzler im Einvernehmen mit den allfällig sonst zuständi-
+gen Bundesministern,
+2. hinsichtlich des § 7 Abs. 2 der Bundeskanzler im Einvernehmen mit dem Bundesminister für
+Inneres bzw. dem Bundesminister für Finanzen, je nach dem, ob es sich um Dienstleistungen be-
+treffend Stammzahlen natürlicher Personen oder um Dienstleistungen betreffend Stammzahlen
+nicht-natürlicher Personen handelt,
+3. hinsichtlich des § 9 Abs. 2 der Bundeskanzler,
+4. hinsichtlich des § 15 Abs. 2 letzter Satz und des § 17 der Bundesminister für Inneres,
+5. hinsichtlich des § 16 der Bundesminister für Finanzen,
+6. im übrigen, soweit sie nicht der Bundesregierung oder den Landesregierungen obliegt, jeder
+Bundesminister im Rahmen seines Wirkungsbereiches.
+Artikel 2
+Änderung des Allgemeinen Verwaltungsverfahrensgesetzes 1991
+Das Allgemeine Verwaltungsverfahrensgesetz 1991, BGBl. Nr. 51, zuletzt geändert durch das Bun-
+desgesetz BGBl. I Nr. 117/2002, wird wie folgt geändert:
+1. § 13 Abs. 1 lautet:
+„(1) Anträge, Gesuche, Anzeigen, Beschwerden oder sonstige Mitteilungen können, sofern in den
+Verwaltungsvorschriften nicht anderes bestimmt ist, bei der Behörde schriftlich oder, soweit es der Natur
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 10 von 21
+der Sache nach tunlich erscheint, mündlich eingebracht werden. Dies kann in jeder technischen Form
+geschehen, die die Behörde zu empfangen in der Lage ist. Einem mündlichen Anbringen ist unabhängig
+von der technischen Einbringungsform jedes Anbringen gleichzuhalten, dessen Inhalt nicht zumindest in
+Kopie zum Akt genommen werden kann. Als Kopie gilt jede inhaltlich unverfälschte Wiedergabe des
+Originals. Die Behörde hat die Adressen sowie die allenfalls bestehenden besonderen technischen Vo-
+raussetzungen, unter welchen Anbringen rechtswirksam eingebracht werden können, durch Anschlag an
+der Amtstafel und im Internet kundzumachen. Langt ein Anbringen an einer nicht kundgemachten Adres-
+se der Behörde ein, so ist es auf Gefahr des Einschreiters an eine kundgemachte Adresse weiterzuleiten.“
+2. § 13 Abs. 4 lautet:
+„(4) Die schriftliche Ausführung eines mündlichen Anbringens kann wegen inhaltlicher Unklarheit
+oder auch dann, wenn ein mündliches Anbringen der Natur der Sache nach nicht tunlich erscheint, aufge-
+tragen werden. Die Wiederholung eines Anbringens ist aufzutragen, wenn dessen Inhalt aus technischen
+Gründen nicht vollständig erkennbar ist. Verlangt der Gegenstand eines Anbringens den Nachweis der
+Nämlichkeit des Einschreiters und der Echtheit des Anbringens, so hat die Behörde, wenn diesbezügliche
+Zweifel bestehen, die Erbringung des Nachweises aufzutragen. Für die Behebung solcher Mängel ist eine
+angemessene Frist zu setzen, nach deren fruchtlosem Ablauf das Anbringen als zurückgezogen gilt.“
+3. § 13 Abs. 4a wird aufgehoben.
+4. § 13 Abs. 5 lautet:
+„(5) Zur Entgegennahme mündlicher Anbringen ist die Behörde, außer bei Gefahr im Verzug, nur
+während der für den Parteienverkehr bestimmten Zeit verpflichtet, zur Entgegennahme schriftlicher An-
+bringen nur während der Amtsstunden. Schriftliche Anbringen, die außerhalb der Amtsstunden binnen
+offener Frist in einer technischen Form eingebracht werden, die die Feststellung des Zeitpunkts des Ein-
+langens ermöglicht, gelten als rechtzeitig eingebracht. Behördliche Entscheidungsfristen beginnen jedoch
+erst mit dem Wiederbeginn der Amtsstunden zu laufen. Die Amtsstunden und die für den Parteienverkehr
+bestimmten Zeiten sind von der Behörde durch Anschlag an der Amtstafel sowie im Internet kundzuma-
+chen.“
+5. § 13 Abs. 9 wird aufgehoben.
+6. § 14 Abs. 2 Z 3 lautet:
+„3. die Beurkundung (§ 18 Abs. 2) durch den Leiter der Amtshandlung.“
+7. Der erste Satz des § 14 Abs. 5 lautet:
+„Die Niederschrift ist von den beigezogenen Personen durch Beisetzung ihrer eigenhändigen Unterschrift
+zu bestätigen; dies ist nicht erforderlich, wenn der Amtshandlung mehr als 20 Personen beigezogen wur-
+den oder wenn die Niederschrift elektronisch erstellt wurde und an Ort und Stelle nicht ausgedruckt wer-
+den kann.“
+8. § 14 Abs. 8 wird aufgehoben.
+9. § 16 Abs. 1 und 2 lauten:
+„(1) Amtliche Wahrnehmungen, mündliche Mitteilungen an die Behörde, ferner mündliche Beleh-
+rungen, Aufforderungen und Anordnungen, über die keine schriftliche Erledigung ergeht, schließlich
+Umstände, die nur für den inneren Dienst der Behörde in Betracht kommen, sind, wenn nicht anderes
+bestimmt und kein Anlass zur Aufnahme einer Niederschrift gegeben ist, erforderlichenfalls in einem
+Aktenvermerk kurz festzuhalten.
+(2) Der Inhalt des Aktenvermerks ist vom Amtsorgan unter Beisetzung des Datums zu beurkunden
+(§ 18 Abs. 2).“
+10. § 17 Abs. 1 letzter Satz lautet:
+„Nach Maßgabe der vorhandenen technischen Möglichkeiten kann Akteneinsicht auch im Wege des Zu-
+griffs über das Internet auf die zur Einsicht bereitgestellten Akten oder Aktenteile gewährt werden, wenn
+die Identität (§ 2 Z 2 E-GovG, BGBl. I Nr. 10/2004) des Einsichtswerbers und die Authentizität (§ 2 Z 5
+E-GovG) seines Begehrens elektronisch nachgewiesen wurden.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 11 von 21
+11. § 18 samt Überschrift lautet:
+„Erledigungen
+§ 18. (1) Die Behörde hat sich bei der Erledigung von Verfahren so viel als möglich einfacher, ra-
+scher und kostensparender Erledigungsformen zu bedienen.
+(2) Das für den Verfahrensausgang voraussichtlich wesentliche Geschehen ist im Akt zu dokumen-
+tieren (interne Erledigung); dies gilt insbesondere hinsichtlich von Anbringen von Beteiligten und Äuße-
+rungen der Behörde gegenüber Beteiligten. Der Verfahrensverlauf ist vom Genehmigungsberechtigten
+durch eigenhändige Unterzeichnung der zur Dokumentation erstellten Aktenstücke zu beurkunden. Die
+elektronische Beurkundung interner Erledigungen hat mit elektronischer Signatur zu erfolgen.
+(3) Mitteilungen an Beteiligte über den Inhalt interner Erledigungen (externe Erledigungen) sind,
+soweit keine besonderen Formvorschriften hiefür bestehen, in jener Form vorzunehmen, die der Behörde
+und den Beteiligen unter Wahrung ihrer Rechtsschutzinteressen den voraussichtlich geringsten Aufwand
+verursacht und in der sie nach den der Behörde zur Verfügung stehenden Informationen von den Beteilig-
+ten empfangen werden können.
+(4) Externe Erledigungen haben schriftlich zu ergehen, wenn dies in den Verwaltungsvorschriften
+ausdrücklich angeordnet ist oder von einer Partei verlangt wird oder wenn ihre Zustellung erforderlich ist.
+Die Ausfertigung der Erledigung hat die Bezeichnung der Behörde, das Datum der Genehmigung und den
+Namen des Genehmigenden zu enthalten. Sie kann ferner entweder vom Genehmigenden eigenhändig
+unterzeichnet oder als von der Kanzlei beglaubigte Ausfertigung ergehen. Die Verwendung einer Amts-
+signatur (§ 19 E-GovG) entfaltet jedenfalls die Wirkung einer Beglaubigung durch die Kanzlei.
+(5) Für Bescheide gilt der III. Teil, für Ladungsbescheide überdies § 19.“
+12. § 33 Abs. 3 lautet:
+„(3) Die Tage des Postenlaufes werden in die Frist nicht eingerechnet. Wird einem elektronischen
+Zustelldienst, der eine diesbezügliche vertragliche Verpflichtung übernommen hat, ein Dokument zur
+nachweisbaren elektronischen Übersendung an eine Behörde übergeben, so ist der Zeitraum zwischen
+dem Einlangen des Dokuments beim Zustelldienst und dem tatsächlichen Einlangen des Dokuments bei
+der Behörde nicht in den Fristenlauf einzurechnen. Der Zeitpunkt des Einlangens des Dokuments beim
+Zustelldienst ist von diesem in einer zum Nachweis geeigneten Art festzuhalten.“
+13. § 42 Abs. 1 erster Satz lautet:
+„(1) Wurde eine mündliche Verhandlung gemäß § 41 Abs. 1 zweiter Satz und in einer in den Ver-
+waltungsvorschriften vorgesehenen besonderen Form kundgemacht, so hat dies zur Folge, dass eine Per-
+son ihre Stellung als Partei verliert, wenn sie nicht spätestens am Tag vor Beginn der Verhandlung bei der
+Behörde oder während der Verhandlung Einwendungen erhebt; § 13 Abs. 5 zweiter Satz ist nicht an-
+wendbar.“
+14. Dem § 82 werden folgende Abs. 13 und 14 angefügt:
+„(13) § 13 Abs. 1, 4 und 5, § 14 Abs. 2 Z 3 und Abs. 5 erster Satz, § 16 Abs. 1 und 2, § 17 Abs. 1
+letzter Satz, § 18 samt Überschrift, § 33 Abs. 3 sowie § 42 Abs. 1 erster Satz, in der Fassung des Bundes-
+gesetzes BGBl. I Nr. 10/2004, treten mit 1. März 2004 in Kraft. Zugleich treten § 13 Abs. 9 sowie § 14
+Abs. 8, in der zu diesem Zeitpunkt geltenden Fassung, außer Kraft; § 13 Abs. 4a tritt mit Ablauf des
+30. Juni 2004 außer Kraft.
+(14) Die elektronische Beurkundung interner Erledigungen darf bis zum 31. Dezember 2007 auch
+durch andere geeignete Verfahren als die elektronische Signatur geschehen, wenn diese durch technische
+und organisatorische Maßnahmen mit hinlänglicher Sicherheit gewährleisten, dass die Nachweisbarkeit
+der eindeutigen Identität des Genehmigenden und der Authentizität des Genehmigungsvorgangs sowie die
+Unverfälschbarkeit des genehmigten Inhalts gegeben sind. Bis zum 31. Dezember 2007 bedürfen Ausfer-
+tigungen schriftlicher Erledigungen, die mittels automationsunterstützter Datenverarbeitung erstellt, aber
+nicht elektronisch signiert worden sind, und Ausfertigungen, die telegraphisch, fernschriftlich, mit Tele-
+fax, im Wege automationsunterstützter Datenübertragung oder in jeder anderen technisch möglichen
+Weise übermittelt werden, weder einer Unterschrift noch einer Beglaubigung; bei vervielfältigten schrift-
+lichen Erledigungen bedarf nur das Original der Unterschrift oder der Beglaubigung.“
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 12 von 21
+Artikel 3
+Änderung des Zustellgesetzes
+Das Zustellgesetz, BGBl. Nr. 200/1982, zuletzt geändert durch das Bundesgesetz BGBl. I
+Nr. 65/2002, wird wie folgt geändert:
+1. Der Titel lautet:
+„Bundesgesetz über die Zustellung behördlicher Dokumente (Zustellgesetz – ZustG)“
+2. Die §§ 1 bis 7 samt Überschriften werden durch folgende Bestimmungen ersetzt:
+„Anwendungsbereich
+§ 1. Dieses Bundesgesetz regelt die Zustellung der von Gerichten und Verwaltungsbehörden in Voll-
+ziehung der Gesetze zu übermittelnden Dokumente sowie die durch sie vorzunehmende Zustellung von
+Dokumenten ausländischer Behörden.
+Begriffsbestimmungen
+§ 2. Im Sinne dieses Bundesgesetzes bedeuten die Begriffe:
+1. „Empfänger“: die von der Behörde in der Zustellverfügung (§ 5) namentlich bezeichnete Person,
+in deren Verfügungsgewalt das zuzustellende Dokument gelangen soll;
+2. „Dokument“ („Sendung“): eine Aufzeichnung, unabhängig von ihrer technischen Form, insbe-
+sondere eine behördliche schriftliche Erledigung;
+3. „Adresse“: die für die Erreichbarkeit des Empfängers in einer bestimmten Kommunikationsform
+notwendigen Angaben;
+4. „Zustelladresse“: eine Abgabestelle (Z 5) oder elektronische Zustelladresse (Z 6);
+5. „Abgabestelle“: die Wohnung oder sonstige Unterkunft, die Betriebsstätte, der Sitz, der Ge-
+schäftsraum, die Kanzlei oder auch der Arbeitsplatz des Empfängers, im Falle einer Zustellung
+anlässlich einer Amtshandlung auch deren Ort, oder ein vom Empfänger der Behörde für die Zu-
+stellung in einem laufenden Verfahren angegebener Ort;
+6. „elektronische Zustelladresse“: eine vom Empfänger einem elektronischen Zustelldienst (Z 9)
+benannte oder vom Empfänger der Behörde für die Zustellung in einem laufenden Verfahren an-
+gegebene andere elektronische Adresse;
+7. „elektronisches Aktensystem“: ein durchgehend elektronisch geführtes Aktenbearbeitungs- und
+-verwaltungssystem einer Behörde;
+8. „Post“: die Österreichische Post AG (§ 2 Z 2 des Postgesetzes 1997, BGBl. I Nr. 18/1998);
+9. „Zustelldienst“: die Post und andere Universaldienstebetreiber nach § 5 Abs. 1 bis 3 des Postge-
+setzes 1997 im Bereich des Abschnitts II sowie behördliche Zustelldienste und durch Bescheid
+des Bundeskanzlers als elektronischer Zustelldienst zugelassene Stellen (§ 29) im Bereich des
+Abschnitts III.
+Zustellorgane
+§ 3. (1) Mit der Zustellung dürfen, sofern die Behörde sie nicht durch eigene Bedienstete vornimmt,
+die Post, ein anderer Zustelldienst oder, wenn dies im Interesse der Zweckmäßigkeit, Einfachheit und
+Raschheit gelegen ist, andere Behörden oder jene Gemeinde, in deren örtlichem Zuständigkeitsbereich die
+Abgabestelle liegt, betraut werden.
+(2) Die mit der Zustellung betrauten Organe und jene Personen, die zur Zustellung tatsächlich heran-
+gezogen werden (Zusteller), handeln hinsichtlich der Wahrung der Gesetzmäßigkeit der Zustellung für die
+Behörde, deren Dokument zugestellt werden soll.
+Bestimmung der Zustelladresse
+§ 4. (1) Soweit gesetzlich nicht die Zustellung an bestimmte Zustelladressen vorgeschrieben ist, darf
+einem Empfänger an jede Zustelladresse zugestellt werden. Sie ist in der Zustellverfügung zu benennen.
+Sieht die Zustellverfügung eine elektronische Zustellung mit Zustellnachweis vor, darf nur eine elektroni-
+sche Zustelladresse verwendet werden, die einem elektronischen Zustelldienst bekannt gegeben wurde.
+(2) Bei der Bestimmung der Zustelladresse ist neben den Zwecken des Verfahrens und den konkre-
+ten Umständen darauf Bedacht zu nehmen, dass bei der Zustellung von behördlichen Erledigungen aus
+einem elektronischen Aktensystem der elektronischen Zustellung der Vorzug zu geben ist.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 13 von 21
+(3) Als Zustelladresse darf eine Abgabestelle nicht verwendet werden, von welcher der Empfänger
+durch längere Zeit hindurch dauernd abwesend ist, oder eine elektronische Adresse, an welcher der Emp-
+fänger durch längere Zeit hindurch nicht erreichbar ist. Dies ist außer in Fällen offensichtlichen Miss-
+brauchs von Amts wegen zu berücksichtigen, wenn der Empfänger diesen Umstand bei der Behörde oder
+beim Zustelldienst rechtzeitig bekannt gegeben hat. Hat der Empfänger die Bekanntgabe seiner länger
+dauernden Abwesenheit von einer Abgabestelle unterlassen, dieses Geschehen aber in der Folge glaubhaft
+gemacht, wird die Zustellung erst mit dem auf seine Rückkehr an die Abgabestelle folgenden Tag wirk-
+sam.
+(4) Mangels einer Zustelladresse darf – unbeschadet der Möglichkeit einer Zustellung nach § 8 –
+dem Empfänger an jedem Ort zugestellt werden, an dem er angetroffen wird; die Zustellung kann zudem
+auch durch öffentliche Bekanntmachung gemäß § 25 erfolgen.
+(5) Trotz Vorhandenseins einer Zustelladresse darf an jedem Ort zugestellt werden, an dem der Emp-
+fänger angetroffen wird, wenn er die Annahme der Sendung nicht verweigert. Für die Zustellung durch
+unmittelbare Ausfolgung in Amtsräumen gilt § 24. Dieser gilt hinsichtlich der elektronischen Übergabe
+von Dokumenten durch die Behörde an den Empfänger im online-Dialogverkehr sinngemäß mit der
+Maßgabe, dass die Zustellung nur zulässig ist, wenn der Empfänger vor der elektronischen Entgegennah-
+me des Dokuments der Behörde seine Identität und die Authentizität der Kommunikation in geeigneter
+Form nachgewiesen hat.
+Zustellverfügung
+§ 5. Die Zustellung wird von der Behörde angeordnet, deren Dokument zuzustellen ist. Sie hat – so-
+weit dies notwendig ist – in geeigneter Form zu bestimmen:
+1. den Empfänger, dessen Identität möglichst eindeutig zu bezeichnen ist,
+2. die Zustelladresse, wobei die Behörde für die Feststellung der Zustelladresse die Mithilfe eines
+Zustelldienstes in Anspruch nehmen kann,
+3. ob die Zustellung mit oder ohne Zustellnachweis zu erfolgen hat,
+4. ob eine Zustellung zu eigenen Handen (§ 21) vorzunehmen ist,
+5. die für die Zustellung sonst, insbesondere gemäß §§ 13 bis 16 wesentlichen Vermerke,
+6. die Art oder das technische Verfahren, in dem zuzustellen ist, sofern sich dies nicht schon allein
+aus der Zustelladresse ergibt.
+Mehrmalige Zustellung
+§ 6. Ist ein Dokument zugestellt, so löst die neuerliche Zustellung des gleichen Dokuments keine
+Rechtswirkungen aus.
+Heilung von Zustellmängeln
+§ 7. (1) Unterlaufen im Verfahren der Zustellung Mängel, so gilt die Zustellung als in dem Zeitpunkt
+dennoch bewirkt, in dem das Dokument dem Empfänger tatsächlich zugekommen ist.
+(2) Der Versuch der Zustellung an einer gemäß § 4 nicht vorgesehenen Adresse ist ein Zustellmangel
+im Sinne des Abs. 1.“
+3. § 8a wird aufgehoben.
+4. § 9 samt Überschrift lautet:
+„Zustellungsbevollmächtigter
+§ 9. (1) Soweit in den Verfahrensvorschriften nicht anderes bestimmt ist, können die Parteien und
+Beteiligten andere natürliche oder juristische Personen, Personengesellschaften des Handelsrechts und
+eingetragene Erwerbsgesellschaften gegenüber der Behörde ausdrücklich zur Empfangnahme von Doku-
+menten bevollmächtigen (Zustellungsvollmacht).
+(2) Einer natürlichen Person, die keinen Hauptwohnsitz im Inland hat, kann eine Zustellungsvoll-
+macht nicht wirksam erteilt werden. Gleiches gilt für eine juristische Person, Personengesellschaft des
+Handelsrechts oder eingetragene Erwerbsgesellschaft, wenn diese keinen zur Empfangnahme von Doku-
+menten befugten Vertreter mit Hauptwohnsitz im Inland hat. Das Erfordernis des Hauptwohnsitzes im
+Inland gilt nicht für Staatsangehörige von EWR-Vertragsstaaten, falls Zustellungen durch Staatsverträge
+mit dem Vertragsstaat des Wohnsitzes des Zustellungsbevollmächtigten oder auf andere Weise sicherge-
+stellt sind.
+(3) Ist ein Zustellungsbevollmächtigter bestellt, so hat die Behörde, soweit gesetzlich nicht anderes
+bestimmt ist, diesen als Empfänger zu bezeichnen.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 14 von 21
+(4) Haben mehrere Parteien oder Beteiligte einen gemeinsamen Zustellungsbevollmächtigten, so gilt
+mit der Zustellung einer einzigen Ausfertigung des Dokumentes an ihn die Zustellung an alle Parteien
+oder Beteiligte als bewirkt. Hat eine Partei oder hat ein Beteiligter mehrere Zustellungsbevollmächtigte,
+so gilt die Zustellung als bewirkt, sobald sie an einen von ihnen vorgenommen worden ist.
+(5) Wird ein Anbringen von mehreren Parteien oder Beteiligten gemeinsam eingebracht und kein
+Zustellungsbevollmächtigter namhaft gemacht, so gilt die an erster Stelle genannte Person als gemeinsa-
+mer Zustellungsbevollmächtigter.“
+5. Die Überschrift des Abschnitts II lautet:
+„Zustellung an eine Abgabestelle“
+6. § 13 Abs. 5 und 6, § 17a und § 26a werden aufgehoben.
+7. Die §§ 26 und 27 samt Überschrift lauten:
+„Zustellung ohne Zustellnachweis
+§ 26. (1) Wurde die Zustellung ohne Zustellnachweis angeordnet, wird das Dokument zugestellt, in-
+dem es in den für die Abgabestelle bestimmten Briefkasten (Briefeinwurf, Hausbrieffach) eingelegt oder
+an der Abgabestelle zurückgelassen wird.
+(2) Die Zustellung gilt als am dritten Werktag nach der Übergabe an das Zustellorgan bewirkt. Im
+Zweifel hat die Behörde die Tatsache und den Zeitpunkt der Zustellung von Amts wegen festzustellen.
+Die Zustellung wird nicht bewirkt, wenn sich ergibt, dass der Empfänger wegen Abwesenheit von der
+Abgabestelle nicht rechtzeitig vom Zustellvorgang Kenntnis erlangen konnte, doch wird die Zustellung
+mit dem der Rückkehr an die Abgabestelle folgenden Tag wirksam.
+„Ausstattung der Dokumente, Zustellformulare
+§ 27. Die Bundesregierung hat durch Verordnung, soweit erforderlich, nähere Bestimmungen über
+1. die Ausstattung der zuzustellenden Dokumente und
+2. die Formulare für Zustellvorgänge
+zu erlassen.“
+8. Der bisherige Abschnitt III erhält die Bezeichnung „Abschnitt IV“.
+9. Die bisherigen §§ 28, 29 und 30 erhalten die Bezeichnungen „§ 38“, „§ 39“ und „§ 40“.
+10. Nach § 27 wird folgender neuer Abschnitt III eingefügt:
+„ABSCHNITT III
+Elektronische Zustellung
+Aufgaben eines elektronischen Zustelldienstes
+§ 28. (1) Ein elektronischer Zustelldienst muss jedenfalls die folgenden Dienstleistungen in der in
+diesem Abschnitt näher geregelten Form erbringen:
+1. die Führung eines Verzeichnisses jener Personen, die mit dem Zustelldienst vertraglich verein-
+bart haben, dass er an sie nach den näheren Bestimmungen dieses Bundesgesetzes behördliche
+Dokumente zustellt;
+2. das Betreiben einer technischen Einrichtung für die sichere elektronische Bereithaltung der zuzu-
+stellenden Dokumente;
+3. die Ersichtlichmachung von länger dauernden Zeiten der Unerreichbarkeit an einer dem Zustell-
+dienst gemeldeten elektronischen Adresse oder der Abwesenheit von der nach § 32 Abs. 1 ange-
+gebenen Abgabestelle über Ersuchen des Betroffenen;
+4. die Versendung der Verständigung an den Empfänger, dass für ihn auf der technischen Einrich-
+tung ein Dokument zur Abholung bereit liegt;
+5. die verschlüsselte Aufbewahrung und Versendung des zuzustellenden Dokuments, wenn der
+Empfänger die hiefür notwendigen Angaben gemacht hat;
+6. die Bereitstellung eines Verfahrens zur identifizierten und authentifizierten Abholung der bereit
+gehaltenen Dokumente;
+7. die Führung von Aufzeichnungen über den Zeitpunkt der Absendung von Verständigungen und
+der Abholung;
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 15 von 21
+8. die Vorlage des Zustellnachweises an die Behörde;
+9. Beratung des Empfängers, um rasche Abhilfe bei technischen Problemen bei der Abholung von
+Dokumenten von der technischen Einrichtung zu schaffen;
+10. gegen Ersatz der Kosten auf Verlangen des Empfängers Kopien des zuzustellenden Dokuments
+auf Papier oder gängigen elektronischen Speichermedien herzustellen und in geeigneter Form zu
+übermitteln.
+(2) Weitere Dienstleistungen, wie insbesondere die nachweisbare Zusendung von Dokumenten im
+Auftrag von Privaten, können in den Geschäftsbedingungen als fakultativer Vertragsinhalt angeboten
+werden. Für die nachweisbare Zusendung von Dokumenten im Auftrag von Privaten darf die Verteiler-
+leistung (§ 30 Abs. 2 Z 2) zu denselben Bedingungen wie für die Verteilung von behördlichen Dokumen-
+ten in Anspruch genommen werden.
+Zulassung als elektronischer Zustelldienst
+§ 29. (1) Soweit eine Behörde nicht selbst die Aufgaben eines elektronischen Zustelldienstes wahr-
+nimmt (behördlicher Zustelldienst) und dies dem Bundeskanzler bekannt gibt, dürfen Leistungen nach
+§ 28 Abs. 1 nur von Einrichtungen erbracht werden, die durch Bescheid des Bundeskanzlers als elektroni-
+scher Zustelldienst zugelassen wurden, nachdem sie die notwendige technische und organisatorische
+Leistungsfähigkeit und rechtliche, insbesondere datenschutzrechtliche Verlässlichkeit im Hinblick auf die
+ordnungsgemäße Erfüllung der von ihnen zu erbringenden Leistungen dargetan haben. Falls erforderlich
+können zur Gewährleistung der Aufrechterhaltung der Zulassungsvoraussetzungen im Bescheid Bedin-
+gungen und Auflagen erteilt werden. Der Bundeskanzler veröffentlicht im Internet die Liste der ihm ge-
+meldeten und der von ihm zugelassenen Zustelldienste einschließlich der bei der Zulassung gemachten
+Auflagen und Bedingungen.
+(2) Die Zulassung nach Abs. 1 ist durch Bescheid zu widerrufen, wenn feststeht, dass
+1. eine der für die Erteilung der Zulassung erforderlichen Voraussetzungen nicht mehr erbracht
+wird; oder
+2. ein ursprünglicher oder noch fortdauernder Mangel nachträglich hervorgekommen ist, der der
+Zulassung entgegengestanden wäre, und nicht behoben werden kann oder innerhalb gesetzter
+Frist nicht behoben wurde; oder
+3. sonstige Mängel trotz Aufforderung durch den Bundeskanzler innerhalb angemessener Frist nicht
+behoben wurden; oder
+4. ein nicht behebbarer Mangel vorliegt; oder
+5. der Betrieb des Zustelldienstes nicht innerhalb eines Jahres nach rechtskräftiger Zulassung auf-
+genommen oder die Ausübung für einen Zeitraum von mehr als sechs Monaten eingestellt wird.
+Nähere Umstände der Leistungserbringung
+§ 30. (1) Den gemäß § 29 zugelassenen Zustelldiensten gebührt für die Erbringung der in § 28
+Abs. 1 Z 1 bis 9 bezeichneten Leistungen ein Entgelt, das von der den Zustellauftrag erteilenden Behörde
+zu begleichen ist. Dieses Entgelt entspricht dem Entgelt, das jener zugelassene Zustelldienst für die Zu-
+stellleistung (Abs. 2 Z 1) erhält, dem nach Durchführung eines Vergabeverfahrens gemäß den Bestim-
+mungen des Bundesvergabegesetzes 2002, BGBl. I Nr. 99/2002, die Erbringung der Verteilerleistung
+(Abs. 2 Z 2) und der Verrechnungsleistung (Abs. 2 Z 3) zugeschlagen wurde.
+(2) Folgende Leistungen von Zustelldiensten sind zu unterscheiden:
+1. Die Zustellleistung ist die Zustellung von Dokumenten gemäß § 28 Abs. 1 Z 1 bis 9 an die eige-
+nen Kunden eines Zustelldienstes;
+2. die Verteilerleistung hat die Weiterleitung zuzustellender Dokumente an andere zugelassene
+Zustelldienste zum Zweck der Zustellung an deren Kunden zum Gegenstand;
+3. die Verrechnungsleistung umfasst die Weiterleitung des von der Behörde für eine Zustellung
+bezahlten Entgelts an andere zugelassene Zustelldienste, sofern diese an einen ihrer Kunden zu-
+gestellt haben, und die Verrechnung der weitergegebenen Entgelte mit den Auftrag gebenden
+Behörden.
+(3) Die Zustelldienste sind hinsichtlich der von ihnen für die Besorgung der Aufgaben nach § 28
+verwendeten Daten Auftraggeber im Sinne des § 4 Z 4 DSG 2000. Sie haben alle ihnen über ihre Kunden
+zur Kenntnis gelangenden Daten ausschließlich für Zwecke der Zustellung zu verwenden, soweit keine
+besonderen vertraglichen Vereinbarungen mit ihren Kunden bestehen. Diese Vereinbarungen dürfen
+keine Weitergabe von Daten über Herkunft und Inhalt zuzustellender Dokumente vorsehen. Der Ab-
+schluss eines Vertrages über die Zustellleistung darf nicht von der Zustimmung zur Weitergabe von Da-
+ten an Dritte abhängig gemacht oder inhaltlich beeinflusst werden.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 16 von 21
+(4) Zustelldienste dürfen in ihren allgemeinen Geschäftsbedingungen Einschränkungen dahingehend
+vorsehen, dass sie Zustellungen nur an bestimmte Personengruppen anbieten. Angehörige einer solchen
+Personengruppe dürfen bei Einhaltung der allgemeinen Geschäftsbedingungen vom Abschluss eines Ver-
+trages über die Teilnahme an den gemäß § 28 Abs. 1 angebotenen Dienstleistungen nicht ausgeschlossen
+werden. Die Geschäftsbedingungen dürfen keine Einschränkungen hinsichtlich der Herkunft der zuzustel-
+lenden behördlichen Dokumente enthalten. Die Geschäftsbedingungen des Zustelldienstes sind mit dem
+Antrag auf Zulassung vorzulegen und bei Übereinstimmung mit den gesetzlichen Voraussetzungen und
+Eignung zur Gewährleistung der ordnungsgemäßen und sicheren Erbringung der Zustellleistung im Zu-
+lassungsbescheid zu genehmigen.
+(5) Die von einem Zustelldienst gemäß § 28 zu erbringenden Zustellleistungen sind so zu gestalten,
+dass nach dem jeweiligen Stand der Technik der barrierefreie Zugang zu diesen Dienstleistungen für
+behinderte Menschen gewährleistet ist.
+Aufsicht
+§ 31. (1) Die nach § 29 zugelassenen elektronischen Zustelldienste unterliegen der Aufsicht durch
+den Bundeskanzler.
+(2) Der Bundeskanzler ist als Aufsichtsbehörde berechtigt, im Falle von Beschwerden oder sonst
+hervorgekommenen Bedenken alle geeigneten Maßnahmen zu ergreifen, insbesondere Auskünfte einzu-
+holen und sonstige Ermittlungen zu führen, um zu prüfen, ob Zustelldienste den für ihre Tätigkeit maß-
+geblichen rechtlichen Vorschriften genügen.
+(3) Wurden aufgrund eines aufsichtsbehördlichen Verfahrens Mängel festgestellt, ist ihre Behebung
+binnen angemessener Frist aufzutragen. Der Bundeskanzler kann auch zusätzliche Auflagen und Bedin-
+gungen mit Bescheid vorschreiben, wenn anders die Einhaltung der von einem Zustelldienst vorzusor-
+genden technischen und organisatorischen Leistungsfähigkeit und rechtlichen Verlässlichkeit im Hinblick
+auf die ordnungsgemäße Erfüllung der von ihm angebotenen Leistungen gemäß § 28 Abs. 1 nicht ge-
+währleistet ist. Wird den Anordnungen der Aufsichtsbehörde nicht fristgerecht entsprochen, ist die Zulas-
+sung als Zustelldienst mit Bescheid zu widerrufen.
+Anmeldung
+§ 32. (1) Jeder Zustelldienst hat im Internet ein elektronisches Verfahren bereit zu stellen, nach dem
+die Anmeldung zur elektronischen Zustellung mit Hilfe der Bürgerkarte möglich ist. Für jeden Angemel-
+deten sind jedenfalls die folgenden Daten zu ermitteln:
+1. Name bzw. Bezeichnung,
+2. das zu seiner eindeutigen Identifikation im Bereich „Zustellwesen“ notwendige bereichsspezifi-
+sche Personenkennzeichen (bPK gemäß § 9 E-GovG) bzw. für nicht-natürliche Personen ihre
+Stammzahl (§ 6 E-GovG),
+3. die zur inhaltlichen Verschlüsselung von zuzustellenden Dokumenten notwendigen Angaben,
+wenn sie vom Anmelder zur Verfügung gestellt werden und
+4. die vom Angemeldeten benannten Zustelladressen, wobei neben der elektronischen Adresse auch
+jene Abgabestelle bezeichnet sein muss, an welche der Angemeldete eine allfällige nicht-
+elektronische Verständigung gemäß § 34 Abs. 3 zugesandt erhalten will. Mehrere elektronische
+Zustelladressen oder Abgabestellen sind zu verzeichnen, wenn als Zusatzleistung im Sinne des
+§ 28 Abs. 2 vertraglich vereinbart wurde, die Verständigung gemäß § 34 Abs. 3 an mehrere oder
+alle diese Adressen zu versenden.
+Die Ermittlung weiterer Daten ist zulässig, soweit sie für die technische Abwicklung der Zustellleistung
+und für die Erbringung und Verrechnung von Zusatzleistungen notwendig sind.
+(2) Die Verantwortung dafür, dass die in Abs. 1 Z 1, 3 und 4 bezeichneten Angaben laufend richtig
+sind, trägt der Anmeldende insofern, als es seine Aufgabe ist, Änderungen dem Zustelldienst bekannt zu
+geben; der Zustelldienst ist dafür verantwortlich, dass Änderungsmeldungen umgehend in seinen Auf-
+zeichnungen Berücksichtigung finden.
+Ermittlung des zuständigen Zustelldienstes
+§ 33. (1) Zum Zweck der Abfassung der Zustellverfügung beauftragt die Behörde den gemäß § 30
+Abs. 1 für die Verteilerleistung zuständigen Zustelldienst, zu ermitteln, ob und bei welchem elektroni-
+schen Zustelldienst der Empfänger angemeldet ist. Liegt eine solche Anmeldung vor, sind diese Informa-
+tion und, soweit vorhanden, die für eine inhaltliche Verschlüsselung notwendigen Angaben an die Behör-
+de rückzumitteln. Verfügt die Behörde daraufhin die elektronische Zustellung, ist das Dokument, wenn
+möglich in verschlüsselter Form, dem zuständigen Zustelldienst zur weiteren Veranlassung zu übergeben.
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 17 von 21
+(2) Die Abfrage an die Zustelldienste nach Abs. 1 darf ausschließlich für Zwecke der Verteilerleis-
+tung erfolgen und hat sich auf das Aufsuchen von namentlich und allenfalls durch ihr Personenkennzei-
+chen bezeichneten Angemeldeten zu beschränken. Es ist insbesondere unzulässig, Querschnittsabfragen
+nach allen Angemeldeten, die ein oder mehrere bestimmte Merkmale erfüllen, durchzuführen.
+(3) Hat sich ein Empfänger bei mehreren elektronischen Zustelldiensten angemeldet, so kann die
+Behörde frei wählen, welcher Zustelldienst mit der Zustellung des Dokuments beauftragt wird. Zustell-
+diensten, bei welchen Angaben zur inhaltlichen Verschlüsselung gemacht wurden, ist der Vorzug zu
+geben.
+Elektronische Zustellung mit Zustellnachweis
+§ 34. (1) Der Zustelldienst, bei dem der Empfänger angemeldet ist, hat nach Übergabe des zuzustel-
+lenden Dokuments ohne unnötigen Aufschub den Empfänger durch Benachrichtigung an seine elektroni-
+sche Zustelladresse davon zu verständigen, dass für ihn ein Dokument zur Abholung von der technischen
+Einrichtung bereit liegt. Hat der Empfänger beim Zustelldienst mehrere elektronische Zustelladressen
+bekannt gegeben, so ist die Benachrichtigung nach den näheren vertraglichen Vereinbarungen an diese
+Adressen vorzunehmen; für den Eintritt der Zustellwirkungen maßgeblich ist der Zeitpunkt der erstmali-
+gen Versendung einer Verständigung.
+(2) Die elektronische Verständigung hat in deutlich sichtbarer und leicht erkennbarer Weise zu ent-
+halten:
+1. das Datum der Absendung der elektronischen Verständigung,
+2. die elektronische Adresse, unter der das zuzustellende Schriftstück zur Abholung bereit liegt,
+3. das Ende der Abholfrist,
+4. das Erfordernis einer Signierung bei der Abholung (§ 35) zum Zweck des Nachweises der Zustel-
+lung und
+5. einen Hinweis auf den Zeitpunkt des Eintritts der Wirkungen der Zustellung, insbesondere hin-
+sichtlich des Beginns des Laufes von Rechtsmittelfristen.
+Die Bundesregierung hat durch Verordnung, soweit erforderlich, die Anforderungen an die elektronischen
+Verständigungsformulare näher zu regeln.
+(3) Verzeichnet die technische Einrichtung des Zustelldienstes keine Abholung des Dokumentes in-
+nerhalb der auf die Versendung der Verständigung folgenden beiden Tage, so wird die elektronische
+Verständigung wiederholt. Wird das Dokument auch innerhalb der nächsten 24 Stunden nicht abgeholt,
+so wird dem Adressaten an die dem Zustelldienst bekannt gegebene Abgabestelle eine Verständigung mit
+dem in Abs. 2 bezeichneten Inhalt auf nicht-elektronischem Wege übersandt. Die Verständigung an diese
+Abgabestelle kann sofort erfolgen, wenn sich schon die Durchführung der ersten elektronischen Verstän-
+digung als nicht möglich erweist.
+(4) Die Rechtswirkungen der Zustellung treten mit dem Zeitpunkt der Abholung, spätestens jedoch
+eine Woche nach dem Tag der Versendung der ersten Verständigung ein. Stellt sich nachträglich heraus,
+dass die Verständigung an die dem Zustelldienst bezeichnete Abgabestelle wegen länger dauernder Ab-
+wesenheit des Empfängers nicht erfolgreich war, so wird die Zustellung erst an dem der Rückkehr an die
+Abgabestelle folgenden Tag wirksam.
+(5) Falls der Empfänger das zuzustellende Dokument innerhalb offener Frist nicht abgeholt hat, ist
+die Behörde hievon unverzüglich nach Ablauf der Frist zu verständigen. Das bereitgehaltene Dokument
+ist im Fall der Abholung oder auch des erfolglosen Ablaufs der Abholfrist durch zwei weitere Wochen
+hindurch in der technischen Einrichtung zu speichern, worauf es zu löschen ist.
+Abholung und Zustellnachweis
+§ 35. (1) Die elektronische Abholung des bereitgehaltenen Dokuments ist nur einem Betroffenen zu
+ermöglichen, der sich als Empfänger bei der Abholung mit Hilfe der Bürgerkarte eindeutig identifiziert
+und authentifiziert hat.
+(2) Hat die Behörde die elektronische Zustellung mit Zustellnachweis angeordnet, so wird dieser
+Nachweis durch die elektronische Signatur des Empfängers beim Abholvorgang erbracht. An die Stelle
+der sicheren elektronischen Signatur darf aufgrund besonderer Vereinbarung mit dem Zustelldienst eine
+an die Verwendung sicherer Technik gebundene automatisiert ausgelöste Signatur treten. Der Zugriff auf
+das in der technischen Einrichtung hinterlegte Dokument ist dem Betroffenen erst nach Einlangen dieses
+Nachweises beim Zustelldienst zu ermöglichen.
+(3) Der Zustelldienst hat die eingegangenen Zustellnachweise zu protokollieren und die Information
+über die erfolgreiche Zustellung an die Auftrag gebende Behörde weiterzuleiten.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 18 von 21
+Elektronische Zustellung ohne Zustellnachweis
+§ 36. Hat die Behörde verfügt, dass die Zustellung an eine bei einem Zustelldienst angemeldete
+elektronische Adresse keines Nachweises bedarf, gilt § 34 mit der Maßgabe, dass
+1. die in Abs. 3 vorgesehene nicht-elektronische Verständigung an die Abgabestelle entfällt, es sei
+denn, dass sich eine elektronischen Verständigung als nicht möglich erwiesen hat,
+2. im Falle der Nicht-Abholung von der technischen Einrichtung die Behörde die Tatsache und den
+Zeitpunkt der Zustellung von Amts wegen festzustellen hat, wenn Zweifel daran bestehen, dass
+die Verständigung von der Bereithaltung des Dokuments auf der technischen Einrichtung in den
+Verfügungsbereich des Empfängers gelangt ist.
+Anwendungsbereich der elektronischen Zustellung
+§ 37. Soweit die für das Verfahren geltenden Vorschriften nicht anderes bestimmen, ist eine elektro-
+nische Zustellung nach den Bestimmungen dieses Abschnitts vorzunehmen. Die elektronische Zustellung
+der Gerichte richtet sich nach den §§ 89a ff GOG.“
+11. § 39 lautet:
+„§ 39. Mit der Vollziehung dieses Bundesgesetzes ist hinsichtlich der §§ 29, 30 und 31 der Bundes-
+kanzler, hinsichtlich der übrigen Bestimmungen die Bundesregierung betraut.“
+12. Dem nunmehrigen § 40 werden folgende Abs. 4, 5 und 6 angefügt:
+„(4) Der Titel, §§ 1 bis 7 und 9 samt Überschriften, die Überschrift des Abschnitts II und die §§ 26
+und 27 samt Überschriften, Abschnitt III, die Bezeichnungen des nunmehrigen Abschnitt IV und der
+nunmehrigen §§ 38, 39 und 40 sowie § 40 Abs. 4 und 5 in der Fassung des Bundesgesetzes BGBl. I
+Nr. 10/2004 treten mit 1. März 2004 in Kraft. Zugleich treten § 8a, § 13 Abs. 5 und 6, § 17a und § 26a, in
+der zu diesem Zeitpunkt geltenden Fassung, außer Kraft.
+(5) Bis zum 31. Dezember 2007 dürfen von den Behörden jene Verfahren der elektronischen Zustel-
+lung, die am 29. Februar 2004 auf Grund gesetzlicher Vorschriften angewendet wurden, weitergeführt
+werden.
+(6) Aus Gründen der Entwicklung eines Marktes für Zustelldienste kann der Bundeskanzler durch
+Verordnung festlegen, dass die in § 30 Abs. 1 vorgesehene Ausschreibung auf einen längstens drei Jahren
+nach dem in Abs. 4 bezeichneten Zeitpunkt verschoben und die Funktion der Zustelldienste während
+dieses Zeitraums von einem behördlichen Zustelldienst wahrgenommen wird. In der Verordnung ist jene
+Stelle zu bezeichnen, die den Zustelldienst wahrnimmt; weiters sind die Bedingungen der Leistungser-
+bringung unter Beachtung des § 30 Abs. 3 bis 5 näher zu regeln.“
+Artikel 4
+Änderung des Gebührengesetzes 1957
+Das Gebührengesetz 1957, BGBl. Nr. 267, zuletzt geändert durch das Bundesgesetz BGBl. I
+Nr. 84/2002, wird wie folgt geändert:
+1. § 10 lautet:
+„§ 10. Unter Schriften im Sinne des § 1 sind die in den Tarifbestimmungen (§ 14) angeführten Ein-
+gaben und Beilagen, amtlichen Ausfertigungen, Protokolle, Rechnungen und Zeugnisse zu verstehen,
+Eingaben und Beilagen jedoch nur dann, wenn sie nicht elektronisch unter Verwendung der Bürgerkar-
+tenfunktion eingebracht wurden.“
+2. Dem § 37 wird folgender Abs. 11 angefügt:
+„(11) § 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 10/2004 tritt mit 1. März 2004 in Kraft
+und mit 31. Dezember 2006 außer Kraft.“
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 19 von 21
+Artikel 5
+Änderung des Meldegesetzes 1991
+Das Meldegesetz 1991 (MeldeG), BGBl. Nr. 9/1992, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 98/2001, wird wie folgt geändert:
+1. Dem § 3 wird folgender Abs. 5 angefügt:
+„(5) Anstelle einer Anmeldung gem. Abs. 1 kann anlässlich der Anzeige der Geburt gem. § 18 Per-
+sonenstandsgesetz - PStG, BGBl. Nr. 60/1983, unter Anschluss eines entsprechend vollständig ausgefüll-
+ten Meldezettels das Kind im Wege der Personenstandsbehörde und bereits vor Unterkunftnahme ange-
+meldet werden. Die Personenstandsbehörde hat diesfalls für die für den Wohnsitz zuständige Meldebe-
+hörde die Meldedaten dem Bundesminister für Inneres im Wege eines Änderungszugriffes auf das ZMR
+zu überlassen. Absatz 4 sowie § 4a gelten sinngemäß, wobei an die Stelle des Anmeldevermerks Amts-
+siegel und Unterschrift des Standesbeamten treten.“
+2. § 11 Abs. 1 lautet:
+„(1) Evidenzstellen gemäß § 51 StbG 1985, BGBl. Nr. 311, haben Änderungen hinsichtlich der
+Staatsbürgerschaft von Menschen, die im Bundesgebiet gemeldet sind, dem Bundesminister für Inneres
+im Wege eines Änderungszugriffes auf das ZMR zu übermitteln.“
+3. Nach § 11 Abs. 1 wird folgender Abs. 1a eingefügt:
+„(1a) Personenstandsbehörden im Sinne des PStG haben Änderungen hinsichtlich des Namens oder
+des Geschlechts von Menschen, die im Bundesgebiet angemeldet sind, dem Bundesminister für Inneres
+im Wege eines Änderungszugriffes auf das ZMR zu übermitteln.“
+4. § 16 Abs. 1 lautet:
+„(1) Das zentrale Melderegister ist insofern ein öffentliches Register, als der Hauptwohnsitz eines
+Menschen oder jener Wohnsitz, an dem dieser Mensch zuletzt mit Hauptwohnsitz gemeldet war, abge-
+fragt werden kann, wenn der Anfragende den Menschen durch Vor- und Familiennamen sowie zumindest
+ein weiteres Merkmal, wie etwa das wirtschaftsbereichsspezifische Personenkennzeichen (§ 14 des
+E-Government-Gesetzes), Geburtsdatum, Geburtsort oder einen bisherigen Wohnsitz, im Hinblick auf
+alle im ZMR verarbeiteten Gesamtdatensätze eindeutig bestimmen kann. Wird ein wbPK zur Identifizie-
+rung des Betroffenen angegeben, so muss der Anfragende auch seine eigene Stammzahl zwecks Überprü-
+fung der Richtigkeit des wbPK zur Verfügung stellen. Über andere gemeldete Wohnsitze dieses Men-
+schen darf einem Abfragenden nur bei Nachweis eines berechtigten Interesses Auskunft erteilt werden.“
+5. § 16a Abs. 4 lautet:
+„(4) Der Bundesminister für Inneres ist ermächtigt, Organen von Gebietskörperschaften, Gemeinde-
+verbänden, Gerichtskommissären im Sinne des Gerichtskommissärsgesetzes und den Sozialversiche-
+rungsträgern auf deren Verlangen eine Abfrage im Zentralen Melderegister in der Weise zu eröffnen, dass
+sie, soweit dies zur Besorgung einer gesetzlich übertragenen Aufgabe erforderlich ist, den Gesamtdaten-
+satz bestimmter Menschen im Datenfernverkehr ermitteln können.“
+6. In § 16a Abs. 5 wird der Beistrich nach dem Wort „benötigen“ durch einen Punkt ersetzt und der rest-
+liche Satzteil entfällt.
+7. Nach § 16a Abs. 5 wird folgender Abs. 5a eingefügt:
+„(5a) Eine gemäß Abs. 5 eingeräumte Abfrageberechtigung darf im konkreten Fall nur für die glaub-
+haft gemachten eigenen Zwecke in Anspruch genommen werden; die bloße Weitergabe von im Wege
+dieser Abfrageberechtigung ermittelten Meldedaten an Dritte ist kein eigener Zweck im Sinne dieser
+Bestimmung. Liegen die für die Erteilung der Berechtigung notwendigen Voraussetzungen nicht mehr
+vor, hat der Berechtigte dies unverzüglich dem Bundesminister für Inneres zu melden.“
+8. In § 16a Abs. 7 lautet Z 2:
+„2. die Abfrageberechtigung gemäß § 22 Abs. 1 rechtskräftig entzogen wurde, “
+9. In § 18 Abs. 1 wird vor dem Wort „bestimmbarer“ das Wort „eindeutig“ eingefügt und entfällt der
+letzte Satz.
+www.ris.bk.a.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 20 von 21
+10. Dem § 18 wird folgender Abs. 1a angefügt:
+„(1a) Nach Maßgabe der technischen Möglichkeiten kann eine Meldeauskunft auch im Datenfern-
+verkehr aus dem Zentralen Melderegister unter Verwendung der Bürgerkarte (E-GovG, BGBl. I
+Nr. 10/2004) verlangt und erteilt werden. Die Höhe der dafür zu entrichtenden Verwaltungsabgabe ist in
+der Verordnung gem. § 16a Abs. 8 festzulegen.“
+11. In § 22 Abs. 1 wird die bisherig Z 7 gestrichen und es werden folgende Bestimmungen an Z 6 ange-
+fügt:
+„7. als Unterkunftgeber gegen seine Verpflichtung nach § 12 Abs. 2 verstößt oder
+8. gegen § 16a Abs. 5a verstößt,
+begeht eine Verwaltungsübertretung und ist mit Geldstrafe bis zu 726 Euro, im Wiederholungsfall mit
+Geldstrafe bis zu 2 180 Euro, zu bestrafen. In Fällen der Z 8 kann neben der Verhängung einer Geldstrafe
+auch über den Entzug der Abfrageberechtigung gemäß § 16a Abs. 5 für die Dauer von höchstens sechs
+Monaten erkannt werden, wenn dies erforderlich erscheint, um den Betroffenen von weiteren gleicharti-
+gen Verwaltungsübertretungen abzuhalten.“
+12. § 22 Abs. 2 Z 2 lautet:
+„2. die ihn treffende Meldepflicht nach § 17 Abs. 4 nicht erfüllt oder“
+13. Dem § 23 wird folgender Abs. 7 angefügt:
+„(7) Die §§ 16 Abs. 1, 16a Abs. 4, 5, 5a und 7, 18 Abs. 1 und 1a sowie 22 Abs. 1 in der Fassung des
+Artikels 5 des Bundesgesetzes BGBl. I Nr. 10/2004 treten mit 1. März 2004 in Kraft. Die §§ 3 Abs. 5,
+11 Abs. 1 und 1a sowie 22 Abs. 2 Z 2 in der Fassung des Artikels 5 des Bundesgesetzes BGBl. I
+Nr. 10/2004 treten mit 1. Jänner 2005 in Kraft.“
+Artikel 6
+Änderung des Vereinsgesetzes 2002
+Das Vereinsgesetz 2002, BGBl. I Nr. 66, wird wie folgt geändert:
+1. An § 18 Abs. 3 wird folgender Satz angefügt:
+„Die ZVR-Zahl ist von den Vereinen im Rechtsverkehr nach außen zu führen.“
+2. § 19 lautet:
+„Verwendung der Daten des Zentralen Vereinsregisters
+§ 19. (1) Der Bundesminister für Inneres hat die ihm für Zwecke des ZVR überlassenen Vereinsda-
+ten so zu verarbeiten, dass deren Auswählbarkeit aus der gesamten Menge nur nach dem Vereinsnamen
+und der ZVR-Zahl der Vereine vorgesehen ist; § 17 Abs. 1 gilt für das ZVR sinngemäß.
+(1a) Die Vereinsbehörden dürfen die im Zentralen Vereinsregister verarbeiteten Daten gemeinsam
+benützen und Auskünfte daraus erteilen. Für die Erteilung von Auskünften gilt § 17 sinngemäß, wobei
+diese – abweichend von § 9 Abs. 3 – unabhängig vom Sitz eines Vereins von jeder Vereinsbehörde erster
+Instanz zu erteilen sind.
+(2) Der Bundesminister für Inneres ist ermächtigt, Organen von Gebietskörperschaften auf Verlan-
+gen sowie Körperschaften öffentlichen Rechts auf deren Antrag eine Abfrage im Zentralen Vereinsregis-
+ter in der Weise zu eröffnen, dass sie, soweit dies zur Besorgung einer gesetzlich übertragenen Aufgabe
+erforderlich ist, die dort verarbeiteten Daten - ausgenommen jene nach § 16 Abs. 1 Z 9 und 15 - bestimm-
+ter Vereine im Datenfernverkehr ermitteln können.
+(3) Unbeschadet der Bestimmungen des Abs. 2 ist der Bundesminister für Inneres ermächtigt, jeder-
+mann die gebührenfreie Abfrage der im ZVR verarbeiteten Daten gemäß § 16 Abs. 1 Z 1 bis 7, 10 bis 13
+und 16 eines nach seinem Namen oder seiner ZVR-Zahl bestimmten Vereins, für den keine Auskunfts-
+sperre gemäß § 17 Abs. 4 besteht, im Weg des Datenfernverkehrs zu eröffnen (Online-Einzelabfrage).
+(4) Der Zeitpunkt der Aufnahme des Echtbetriebs des Zentralen Vereinsregisters sowie Näheres über
+die Vorgangsweise bei dem in Abs. 1 bis 3 vorgesehenen Verwenden von Daten im Hinblick auf die für
+die jeweilige Datenverwendung notwendigen Datensicherheitsmaßnahmen, sind vom Bundesminister für
+Inneres durch Verordnung festzulegen, wobei für das Verwenden von Daten gemäß Abs. 1a und 2 insbe-
+sondere vorzusehen ist, dass seitens des Empfängers sichergestellt wird, dass
+www.ris.bka.gv.at
+BGBl. I – Ausgegeben am 27. Februar 2004 – Nr. 10 21 von 21
+1. in seinem Bereich ausdrücklich festgelegt wird, wer unter welchen Voraussetzungen eine Abfra-
+ge durchführen darf,
+2. abfrageberechtigte Mitarbeiter über ihre nach Datenschutzvorschriften bestehenden Pflichten
+belehrt werden,
+3. entsprechende Regelungen über die Abfrageberechtigungen und den Schutz vor Einsicht und
+Verwendung der Vereinsdaten durch Unbefugte getroffen werden,
+4. durch technische oder programmgesteuerte Vorkehrungen Maßnahmen gegen unbefugte Abfra-
+gen ergriffen werden,
+5. Aufzeichnungen geführt werden, damit tatsächlich durchgeführte Verwendungsvorgänge im
+Hinblick auf ihre Zulässigkeit im notwendigen Ausmaß nachvollzogen werden können,
+6. Maßnahmen zum Schutz vor unberechtigtem Zutritt zu Räumlichkeiten, von denen aus Abfragen
+durchgeführt werden können, ergriffen werden und
+7. eine Dokumentation über die gemäß Z 1 bis 6 getroffenen Maßnahmen geführt wird.
+(5) Eine auf Antrag eröffnete Abfrageberechtigung im Zentralen Vereinsregister ist vom Bundesmi-
+nister für Inneres zu unterbinden, wenn
+1. die Voraussetzungen, unter denen die Abfrageberechtigung erteilt wurde, nicht mehr vorliegen,
+1a. die damit ermittelten Daten zu anderen Zwecken als zur Erfüllung eines gesetzlichen Auftrages
+verwendet werden,
+2. schutzwürdige Geheimhaltungsinteressen Betroffener von Auskünften verletzt wurden,
+3. gegen Datensicherheitsmaßnahmen gemäß Abs. 4 Z 1 bis 7 verstoßen wurde oder
+4. ausdrücklich auf sie verzichtet wird.“
+3. Dem § 31 Z 4 wird folgende lit. e angefügt:
+„e) die ZVR-Zahl nicht gemäß § 18 Abs. 3 letzter Satz verwendet oder“
+4. Dem § 33 wird folgender Abs. 5 angefügt:
+„(5) § 19 in der Fassung des Artikels 6 des Bundesgesetzes BGBl. I Nr. 10/2004 tritt mit 1. März
+2004 in Kraft. Die §§ 18 Abs. 3 und 31 Z 4 lit. e in der Fassung des Artikels 6 des Bundesgesetzes
+BGBl. I Nr. 10/2004 treten drei Monate nach dem durch Verordnung des Bundesministers für Inneres
+gemäß § 19 Abs. 4 festzulegenden Zeitpunkt der Aufnahme des Echtbetriebes des Zentralen Vereinsregis-
+ters in Kraft.“
+Klestil
+Schüssel
+www.ris.bk.a.gv.at

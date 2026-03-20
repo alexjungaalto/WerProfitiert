@@ -1,0 +1,470 @@
+1 von 9
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 11. Mai 2004 Teil II
+205. Verordnung: Änderung der Standard- und Musterverordnung 2000 (2. Novelle zur
+StMV)
+205. Verordnung des Bundeskanzlers, mit der die Standard- und Musterverordnung 2000
+geändert wird (2. Novelle zur StMV)
+Auf Grund der §§ 17 Abs. 2 Z 6 und 19 Abs. 2 des Datenschutzgesetzes 2000 (DSG 2000), BGBl. I
+Nr. 165/1999, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 136/2001, wird verordnet:
+Die Standard- und Musterverordnung 2000 (StMV), BGBl. II Nr. 201/2000, zuletzt geändert durch
+die Verordnung BGBl. II Nr. 232/2003, wird wie folgt geändert:
+1. § 2 Abs. 2 lautet:
+„(2) Die in der Anlage 2 für Zwecke der Registrierung allgemein beschriebenen Übermittlungen sind
+im einzelnen Übermittlungsfall jeweils nur insoweit zulässig, als für diesen Fall eine Rechtsgrundlage
+gemäß den §§ 6 – 9 DSG 2000 besteht.“
+2. Die Standardanwendung "SA002 Personalverwaltung für privatrechtliche Dienstverhältnisse" in Anla-
+ge 1 wird wie folgt geändert:
+a) Bei der Datenart 62 ("Daten zur Pensionskasse (insbesondere Ein- und Austritt, Beitragsdaten und
+Versicherungszeiten in der gesetzlichen Sozialversicherung im Zeitraum der Beschäftigung)") lauten die
+Empfängerkreise:
+"5, 12, 14, 19, 21, 22".
+b) Bei der Datenart 105 ("Daten zur Pensionskasse (insbesondere Ein- und Austritt, Beitragsdaten und
+Versicherungszeiten in der gesetzlichen Sozialversicherung)") lauten die Empfängerkreise:
+"5, 12, 14, 19, 21, 22".
+3. Nach der Standardanwendung „SA024 Patientenverwaltung und Honorarabrechnung“ wird folgende
+Standardanwendung „SA025 Evidenzen der Schüler sowie Evidenz über den Aufwand für Bildungsein-
+richtungen“ eingefügt:
+„SA025 Evidenzen der Schüler sowie Evidenz über den Aufwand für Bildungseinrichtungen
+Zweck der Datenanwendung:
+1. Führung von dezentralen Evidenzen der Schüler für Zwecke des Bildungseinrichtungsstandortes
+durch die dazu verpflichteten Leiter von Bildungseinrichtungen des Schul- und Erziehungswesens gemäß
+§ 2 Abs. 1 Z 1 lit. a, b, c, f, g, h des Bundesgesetzes über die Dokumentation im Bildungswesen (Bil-
+dungsdokumentationsgesetz), BGBl. I Nr. 12/2002 idgF, bzw. durch die gemäß § 3 Abs. 5 leg.cit. dazu
+verpflichteten Landes- und Bezirksschulräte;
+2. Übermittlung der gesetzlich vorgesehenen Daten durch die dazu verpflichteten Leiter bzw. Lan-
+des- und Bezirksschulräte an den zuständigen Bundesminister zur Führung der Gesamtevidenz der Schü-
+ler für Zwecke der Planung, Steuerung und Wahrung der gesetzlichen Aufsichtspflichten, für Zwecke der
+Bundes- und Verwaltungsstatistik sowie für Zwecke der Information der Abfrageberechtigten zur Wahr-
+nehmung der ihnen gesetzlich übertragenen Aufgaben;
+3. Übermittlung der gesetzlich vorgesehenen Daten durch die dazu verpflichteten Rechtsträger bzw.
+Bundesdienststellen an den zuständigen Bundesminister zur Führung der Evidenz über den Personal-,
+Betriebs- und Erhaltungsaufwand der Bildungseinrichtungen gemäß § 2 Abs. 1 Z 1 lit. a, b, c, f, h des
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 2 von 9
+Bildungsdokumentationsgesetzes für Zwecke der Planung, der Steuerung, der Wahrung der gesetzlichen
+Aufsichtspflichten sowie der Bundes- und Verwaltungsstatistik, sofern dieser Aufwand zur Gänze oder
+zum Teil aus Bundesmitteln getragen wird;
+4. Übermittlung der vorgesehenen Daten an die Bundesanstalt Statistik Österreich zur Führung der
+Bundesstatistik zum Bildungswesen sowie des Bildungsstandregisters;
+einschließlich automationsunterstützt erstellter und archivierter Textdokumente (wie z.B. Korres-
+pondenz) in diesen Angelegenheiten.
+Rechtsgrundlagen der Anwendung sind insbesondere die folgenden Gesetze und Verordnungen (in
+der geltenden Fassung):
+Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002; Bildungsdokumentationsverordnung, BGBl. II
+Nr. 499/2003; Privatschulen-Statistikverordnung, BGBl. II Nr. 500/2003.
+Höchstdauer der zulässigen Datenaufbewahrung:
+Entsprechend den gesetzlichen Vorschriften.
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+Schüler und Absolventen von 01 Vor- und Familienname, akad. Grad 2 (ohne akad. Grad, soweit
+Bildungseinrichtungen gemäß § 2 keine Sozialversicherungs-
+Abs. 1 Z 1 lit. a, b, c, f und h des nummer vorhanden)
+Bildungsdokumentations- 02 Geburtsdatum 1, 2x
+gesetzes: 03 Sozialversicherungsnummer 1, 2x
+04 Ersatzkennzeichnung, falls keine 1, 2 (soweit keine Sozial-
+Sozialversicherungsnummer besteht versicherungsnummer vor-
+handen bzw. bei erstmaliger
+Übermittlung der Sozialver-
+sicherungs-nummer)
+05 Geschlecht 1, 2x
+06 Staatsangehörigkeit 1, 2x
+07 Anschrift am Heimatort sowie allfäl- 2 (ausschließlich Anschrift
+lige Zustelladresse am Bildungsein- am Heimatort, soweit keine
+richtungsort Sozialversicherungsnummer
+vorhanden)
+08 Postleitzahl und Ort der Anschrift 1, 2x
+am Heimatort sowie die Information,
+ob am Bildungseinrichtungsort eine
+zusätzliche Anschrift besteht
+09 Beginndatum der jeweiligen Ausbil- 1, 2x
+dung unter Angabe deren Bezeich-
+nung
+10 Beendigungsdatum und -form der 1, 2x
+jeweiligen Ausbildung sowie die
+Bezeichnung der beendeten Ausbil-
+dung
+11 Allfälliges bildungseinrichtungsspe- 1
+zifisches Personenkennzeichen (z.B.
+Matrikelnummer)
+12 Religionsbekenntnis
+13 Erstes (Kalender-)Jahr der allgemei- 1, 2x
+nen Schulpflicht
+14 Festgestellter sonderpädagogischer 1, 2x
+Förderbedarf
+15 Eigenschaft als ordentlicher oder 1, 2x
+außerordentlicher Schüler
+16 Schulkennzahl 1, 2x
+17 Schulformkennzahl 1, 2x
+18 Schuljahr, Schulstufe, Klasse bzw. 1, 2x
+Jahrgang
+19 Unterrichtsorganisation (ganzjährig, 1, 2x
+semesterweise, lehrgangsmäßig,
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 3 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+saisonmäßig)
+20 Schulerfolg (in der Differenzierung 1, 2x
+gemäß Bildungsdokumentationsver-
+ordnung)
+21 Schulerfolg im Rahmen abschlie- 1, 2x
+ßender Prüfungen (in der Differen-
+zierung gemäß Bildungsdokumenta-
+tionsverordnung)
+22 Verwendung einer Fremdsprache als 1, 2x
+Unterrichtssprache
+23 Teilnahme am Religions- bzw. 1, 2x
+Ethikunterricht
+24 Im Alltag gebrauchte(n) Sprache(n) 1, 2x
+25 Teilnahme an Pflichtgegenständen 1, 2x
+„Textiles Werken“ und „Technisches
+Werken“ (in der Sekundarstufe 1)
+26 Angaben zur Teilnahme am Sprach- 1, 2x
+unterricht gemäß Bildungsdokumen-
+tationsverordnung
+27 Besuchter Fachbereich an Polytech- 1
+nischen Schulen
+28 Angaben zur Teilnahme an Schul- 1
+veranstaltungen gemäß Bildungsdo-
+kumentationsverordnung
+29 Inanspruchnahme der Schulbuchak- 1
+tion sowie der Schülerfreifahrt
+30 Angaben zum Besuch des Betreu- 1, 2x
+ungsteiles ganztägiger Schulformen
+gemäß Bildungsdokumentationsver-
+ordnung
+31 Zusätzliche Angaben hinsichtlich der 1, 2x
+Schüler/ Absolventen von Berufspä-
+dagogischen Akademien, Pädagogi-
+schen Akademien, Pädagogischen
+Instituten, Land- und forstwirtschaft-
+lichen berufspädagogischen Akade-
+mien und Land- und forstwirtschaft-
+lichen berufspädagogischen Institu-
+ten gemäß Bildungsdokumentations-
+verordnung
+Externisten gemäß § 42 des 32 Vor- und Familienname, akad. Grad 2 (ohne akad. Grad, soweit
+Schulunterrichtsgesetzes (ein- keine Sozialversicherungs-
+schließlich § 8c des Schulorgani- nummer vorhanden)
+sations-
+gesetzes an Bildungsein- 33 Geburtsdatum 1, 2x
+richtungen gemäß § 2 34 Sozialversicherungsnummer 1, 2x
+Abs. 1 Z 1 lit. a, b, c, und f des 35 Ersatzkennzeichnung, falls keine 1, 2 (soweit keine Sozial-
+Bildungsdokumentationsgesetzes: Sozialversicherungsnummer besteht versicherungsnummer vor-
+handen bzw. bei erstmaliger
+Übermittlung der Sozialver-
+sicherungs-nummer)
+36 Geschlecht 1, 2x
+37 Staatsangehörigkeit 1, 2x
+38 Anschrift am Heimatort sowie allfäl- 2 (ausschließlich Anschrift
+lige Zustelladresse am Bildungsein- am Heimatort, soweit keine
+richtungsort Sozialversicherungsnummer
+vorhanden)
+39 Postleitzahl und Ort der Anschrift 1, 2x
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 4 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+am Heimatort sowie die Information,
+ob am Bildungseinrichtungsort eine
+zusätzliche Anschrift besteht
+40 Beginndatum der jeweiligen Ausbil- 1, 2x
+dung unter Angabe deren Bezeich-
+nung
+41 Beendigungsdatum und -form der 1, 2x
+jeweiligen Ausbildung sowie die
+Bezeichnung der beendeten Ausbil-
+dung
+42 Allfälliges bildungseinrichtungsspe- 1
+zifisches Personenkennzeichen (z.B.
+Matrikelnummer)
+43 Erstes (Kalender-)Jahr der allgemei- 1, 2x
+nen Schulpflicht
+44 Schulkennzahl 1, 2x
+45 Schulformkennzahl 1, 2x
+46 Schulstufe 1, 2x
+47 Art der Externistenprüfung 1, 2x
+48 Datum des Prüfungszeugnisses so- 1, 2x
+wie das Ergebnis der Externistenprü-
+fung
+49 Zusätzliche Angaben im Fall der 1, 2x
+Ablegung einer Externistenprüfung,
+die einer Reifeprüfung, einer Reife-
+und Diplomprüfung, einer Diplom-
+prüfung oder einer Abschlussprü-
+fung entspricht gemäß Bildungsdo-
+kumentationsverordnung
+50 Zusätzliche Angaben im Fall der 1, 2x
+Ablegung einer Berufsreifeprüfung
+gemäß Bildungsdokumentationsver-
+ordnung
+Personen, die von Prüfungen 51 Vor- und Familienname, akad. Grad 2 (ohne akad. Grad, soweit
+gemäß § 13 Abs. 3 des Schul- keine Sozialversicherungs-
+pflichtgesetzes nummer vorhanden)
+1985, vom Besuch der
+Berufsschule gemäß § 23 52 Geburtsdatum 1, 2x
+des Schulpflichtgesetzes 53 Sozialversicherungsnummer 1, 2x
+1985 oder von der Schulpflicht 54 Ersatzkennzeichnung, falls keine 1, 2 (soweit keine Sozial-
+wegen Schulunfähigkeit gemäß Sozialversicherungsnummer besteht versicherungsnummer vor-
+§ 15 des Schulpflichtgesetzes handen bzw. bei erstmaliger
+1985 befreit sind: Übermittlung der Sozialver-
+sicherungs-nummer)
+55 Geschlecht 1, 2x
+56 Staatsangehörigkeit 1, 2x
+57 Anschrift am Heimatort sowie allfäl- 2 (ausschließlich Anschrift
+lige Zustelladresse am Bildungsein- am Heimatort, soweit keine
+richtungsort Sozialversicherungsnummer
+vorhanden)
+58 Postleitzahl und Ort der Anschrift 1, 2x
+am Heimatort sowie die Information,
+ob am Bildungseinrichtungsort eine
+zusätzliche Anschrift besteht
+59 Beginndatum der jeweiligen Ausbil- 1, 2x
+dung unter Angabe deren Bezeich-
+nung
+60 Beendigungsdatum und -form der 1, 2x
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 5 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+jeweiligen Ausbildung sowie die
+Bezeichnung der beendeten Ausbil-
+dung
+61 Allfälliges bildungseinrichtungsspe- 1
+zifisches Personenkennzeichen (z.B.
+Matrikelnummer)
+62 Erstes (Kalender-)Jahr der allgemei- 1, 2x
+nen Schulpflicht
+63 Datum der Befreiung vom regulären 1, 2x
+Schulbesuch
+64 Ersatzart der Schulpflicht 1, 2x
+65 Schuljahr 1, 2x
+66 Datum des Endes der Schulersatz- 1, 2x
+pflicht
+Schüler an Privatschulen gemäß 67 Vor- und Familienname 2 (soweit keine Sozialversi-
+Privatschulgesetz (§ 2 Abs. 1 Z 1 cherungsnummer vorhan-
+lit. g des den)
+Bildungsdokumentations- 68 Geburtsdatum 2
+gesetzes): 69 Sozialversicherungsnummer 2
+70 Ersatzkennzeichnung, falls keine 2 (soweit keine Sozialversi-
+Sozialversicherungsnummer besteht cherungsnummer vorhan-
+den bzw. bei erstmaliger
+Übermittlung der Sozialver-
+sicherungs-nummer)
+71 Geschlecht 2
+72 Staatsangehörigkeit 2
+73 Postleitzahl und Ort der Anschrift 2
+am Heimatort sowie die Information,
+ob am Bildungseinrichtungsort eine
+zusätzliche Anschrift besteht
+74 Anschrift am Heimatort 2 (soweit keine Sozialversi-
+cherungsnummer vorhan-
+den)
+75 Beginndatum der jeweiligen Ausbil- 2
+dung unter Angabe deren Bezeich-
+nung
+76 Beendigungsdatum und -form der 2
+jeweiligen Ausbildung sowie die
+Bezeichnung der beendeten Ausbil-
+dung
+77 Erstes (Kalender-)Jahr der allgemei- 2
+nen Schulpflicht
+78 Festgestellter sonderpädagogischer 2
+Förderbedarf
+79 Eigenschaft als ordentlicher oder 2
+außerordentlicher Schüler
+80 Schulkennzahl 2
+81 Schulformkennzahl 2
+82 Schuljahr, Schulstufe, Klasse bzw. 2
+Jahrgang
+83 Unterrichtsorganisation 2
+84 Schulerfolg (in der Differenzierung 2
+gemäß Privatschulen-
+Statistikverordnung)
+85 Schulerfolg im Rahmen abschlie- 2
+ßender Prüfungen (in der Differen-
+zierung gemäß Privatschulen-
+Statistikverordnung)
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 6 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+86 Verwendung einer Fremdsprache als 2
+Unterrichtssprache
+87 Teilnahme am Religions- bzw. 2
+Ethikunterricht
+88 Im Alltag gebrauchte Sprachen 2
+89 Angaben zur Teilnahme am Sprach- 2
+unterricht gemäß Privatschulen-
+Statistikverordnung
+90 Angaben zum Besuch des Betreu- 2
+ungsteiles ganztägiger Schulformen
+gemäß Privatschulen-
+Statistikverordnung
+91 Zusätzliche Angaben hinsichtlich der 2
+Schüler/ Absolventen von mit Öf-
+fentlichkeitsrecht ausgestatteten
+Berufspädagogischen Akademien,
+Pädagogischen Akademien, Pädago-
+gischen Instituten, Land- und forst-
+wirtschaftlichen berufspädagogi-
+schen Akademien und Land- und
+forstwirtschaftlichen berufspädago-
+gischen Instituten gemäß § 4 Privat-
+schulen-Statistikverordnung
+Externisten an Privatschulen 92 Vor- und Familienname 2 (soweit keine Sozialversi-
+gemäß Privatschulengesetz (§ 2 cherungsnummer vorhan-
+den)
+Abs. 1 Z 1 lit. g des 93 Geburtsdatum 2
+Bildungsdokumentations- 94 Sozialversicherungsnummer 2
+gesetzes): 95 Ersatzkennzeichnung, falls keine 2 (soweit keine Sozialversi-
+Sozialversicherungsnummer besteht cherungsnummer vorhan-
+den bzw. bei erstmaliger
+Übermittlung der Sozialver-
+sicherungs-nummer)
+96 Geschlecht 2
+97 Staatsangehörigkeit 2
+98 Postleitzahl und Ort der Anschrift 2
+am Heimatort sowie die Information,
+ob am Bildungseinrichtungsort eine
+zusätzliche Anschrift besteht
+99 Anschrift am Heimatort 2 (soweit keine Sozialversi-
+cherungsnummer vorhan-
+den)
+100 Beginndatum der jeweiligen Ausbil- 2
+dung unter Angabe deren Bezeich-
+nung
+101 Beendigungsdatum und -form der 2
+jeweiligen Ausbildung sowie die
+Bezeichnung der beendeten Ausbil-
+dung
+102 Erstes (Kalender-)Jahr der allgemei- 2
+nen Schulpflicht
+103 Festgestellter sonderpädagogischer 2
+Förderbedarf
+104 Eigenschaft als ordentlicher oder 2
+außerordentlicher Schüler
+105 Schulkennzahl 2
+106 Schulformkennzahl 2
+107 Schulstufe 2
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 7 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+108 Art der Externistenprüfung 2
+109 Datum des Prüfungszeugnisses so- 2
+wie das Ergebnis der Externistenprü-
+fung
+110 Zusätzliche Angaben im Fall der 2
+Ablegung einer Externistenprüfung,
+die einer Reifeprüfung, einer Reife-
+und Diplomprüfung, einer Diplom-
+prüfung oder einer Abschlussprü-
+fung entspricht gemäß Privatschu-
+len-Statistikverordnung
+111 Zusätzliche Angaben im Fall der 2
+Ablegung einer Berufsreifeprüfung
+gemäß Privatschulen-
+Statistikverordnung
+Erhalter von 112 Bezeichnung 1, 2x
+Bildungseinrichtungen gemäß § 2 113 Anschrift 1, 2x
+Abs. 1 Z 1
+lit. a, b, c, f, h des 114 Rechtsnatur 1, 2x
+Bildungsdokumentations- 115 Anzahl der Beschäftigten (gegliedert 1, 2x
+gesetzes (Verarbeitung und nach Ausbildung, Verwendung,
+Übermittlung an den zuständigen Funktion, Geschlecht, Geburtsjahr,
+Beschäftigungsart, -ausmaß und
+Bildungseinrichtung)
+Bundesminister durch den 116 Personalaufwand (gegliedert nach 1, 2x
+Rechtsträger, der die Bildungseinrichtung)
+Dienstgeberfunktion an 117 Anzahl der ausgeschriebenen Stellen 1
+Bildungseinrichtungen, deren 118 Anzahl der Pensionierungen 1
+Personalaufwand zur Gänze oder
+zum Teil aus Bundesmitteln
+getragen wird, wahrnimmt):
+Erhalter von Bildungseinrichtun- 119 Bezeichnung 1, 2x
+gen
+gemäß § 2 Abs. 1 Z 1 120 Anschrift 1, 2x
+lit. a, b, c, f, h des 121 Rechtsnatur 1, 2x
+Bildungsdokumentations- 122 Einnahmen und Ausgaben in der 1, 2x
+gesetzes (Verarbeitung und Bildungseinrichtungserhaltung (ge-
+Übermittlung an den zuständigen gliedert nach Einnahmen- und Aus-
+gabenarten sowie Arten der Bil-
+dungseinrichtungen)
+Bundesminister durch die Bun- 123 Räumliche und technische Ausstat- 1
+desdienststelle, aus deren Bun- tung der Bildungseinrichtungen
+desbudget der Betriebs- und
+Erhaltungsaufwand der Bildungs-
+einrichtung zur Gänze oder zum
+Teil getragen wird):
+Erhalter von 124 Bezeichnung 2
+Privatschulen gemäß § 2 125 Anschrift 2
+Abs. 1 Z 1 lit. g des 126 Rechtsnatur 2
+Bildungsdokumentations- 127 Anzahl der beschäftigten Personen 2
+gesetzes (Verarbeitung und (gegliedert nach Ausbildung, Ver-
+Übermittlung durch den Leiter wendung, Funktion, Geschlecht,
+der Geburtsjahr, Beschäftigungsart, -
+ausmaß und Bildungseinrichtung)
+Bildungseinrichtung oder vom 128 Personalaufwand (gegliedert nach 2
+Rechtsträger, der die Dienstge- Bildungseinrichtung)
+berfunktion an dieser Bildungs-
+einrichtung wahrnimmt):
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 8 von 9
+Betroffene Personengruppen: Nr.: Datenarten: Empfängerkreise:
+Erhalter von 129 Bezeichnung 2
+Privatschulen gemäß § 2 130 Anschrift 2
+Abs. 1 Z 1 lit. g des 131 Rechtsnatur 2
+Bildungsdokumentations- 132 Einnahmen und Ausgaben in der 2
+gesetzes (Verarbeitung und Bildungseinrichtungserhaltung (ge-
+Übermittlung durch den Leiter gliedert nach Einnahmen- und Aus-
+der Bildungseinrichtung oder gabenarten sowie Arten der Bil-
+vom Rechtsträger, der den Be- dungseinrichtungen)
+triebs- und Erhaltungsaufwand
+trägt):
+Erhalter von Bildungseinrichtun- 133 Bezeichnung 2
+gen gemäß § 2 Abs. 1 Z 1 lit. a, b,
+c, f und h des Bildungsdokumen-
+tationsgesetzes (Verarbeitung und
+Übermittlung durch den Leiter
+der Bildungseinrichtung oder
+vom Rechtsträger, der die
+Dienstgeberfunktion an Bil-
+dungseinrichtungen, deren Perso-
+nalaufwand nicht zur Gänze oder
+nur zum Teil aus Bundesmitteln
+getragen wird, wahrnimmt):
+134 Anschrift 2
+135 Rechtsnatur 2
+136 Anzahl der Beschäftigten (gegliedert 2
+nach Ausbildung, Verwendung,
+Funktion, Geschlecht, Geburtsjahr,
+Beschäftigungsart, -ausmaß und
+Bildungseinrichtung)
+137 Personalaufwand (gegliedert nach 2
+Bildungseinrichtung)
+138 Anzahl der ausgeschriebenen Stellen 2
+139 Anzahl der Pensionierungen 2
+Erhalter von Bildungseinrichtun- 140 Bezeichnung 2
+gen gemäß § 2 Abs. 1 Z 1 lit. a, b,
+c, f und h des Bildungsdokumen-
+tationsgesetzes (Verarbeitung und
+Übermittlung durch den Rechts-
+träger, der den Betriebs- und
+Erhaltungsaufwand dieser Bil-
+dungseinrichtung zur Gänze oder
+zum Teil trägt):
+141 Anschrift 2
+142 Rechtsnatur 2
+143 Einnahmen und Ausgaben in der 2
+Bildungseinrichtungserhaltung (ge-
+gliedert nach Einnahmen- und Aus-
+gabenarten sowie Arten der Bil-
+dungseinrichtungen)
+144 Räumliche und technische Ausstat- 2
+tung der Bildungseinrichtungen
+Empfängerkreise:
+1 Zuständiger Bundesminister zum Zwecke der Führung der Gesamtevidenz der Schüler bzw. Studie-
+renden;
+2 Statistik Österreich (bei Kennzeichnung mit „x“ erfolgt die Übermittlung im Wege des für die Füh-
+rung der Gesamtevidenzen zuständigen Bundesministers).“
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 11. Mai 2004 – Nr. 205 9 von 9
+Schüssel
+www.ris.bka.gv.at

@@ -1,0 +1,323 @@
+1 von 7
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 1. März 2004 Teil II
+101. Verordnung: 2. Novelle zur Prüf- und Begutachtungsstellenverordnung
+[CELEX-Nr.: 32000L0030, 32003L0026, 32003L0027]
+101. Verordnung des Bundesministers für Verkehr, Innovation und Technologie, mit der
+die Prüf- und Begutachtungsstellenverordnung geändert wird (2. Novelle zur PBStV)
+Auf Grund der §§ 24 Abs. 5, 24a Abs. 7, 56 Abs. 4, 57 Abs. 9, 57a Abs. 2, Abs. 7c und Abs. 8 und
+§ 58 Abs. 2a und Abs. 4 des Kraftfahrgesetzes 1967, BGBl. Nr. 267, zuletzt geändert durch das Bundes-
+gesetz BGBl. I Nr. 60/2003, wird verordnet:
+Die Prüf- und Begutachtungsstellenverordnung, BGBl. II Nr. 78/1998, zuletzt geändert mit der Ver-
+ordnung BGBl. II Nr. 165/2001, wird wie folgt geändert:
+1. Im Inhaltsverzeichnis wird im 3. Abschnitt nach § 10 eingefügt:
+„§ 10a. Technische Unterwegskontrollen“
+2. Im Inhaltsverzeichnis wird im Verzeichnis der Anlagen nach Anlage 6 folgende Anlage 6a eingefügt:
+„Anlage 6a: § 10a Prüfbericht über die technische Unterwegskontrolle“
+3. Nach § 3 Abs. 1 wird folgender Abs. 1a eingefügt:
+„(1a) Die Begutachtungsstelle muss über eine geeignete Person verfügen, die berechtigt ist, das zu
+begutachtende Fahrzeug zu lenken.“
+4. § 3 Abs. 2 Z 3 lautet:
+„3. erfolgreich bestandene Reifeprüfung an einer österreichischen Höheren technischen und gewerb-
+lichen Lehranstalt mit schwerpunktmäßiger Ausbildung in dem Bereich Maschinenbau, Maschi-
+neningenieurwesen, Elektrotechnik oder Mechatronik oder im Ausland erfolgreich bestandene
+Prüfung, die diesen Abschlüssen auf Grund einer völkerrechtlichen Vereinbarung oder auf Grund
+einer Nostrifikation gleichwertig ist und jeweils mindestens zweijährige fachliche Tätigkeit im
+Bereich der Fahrzeugtechnik;“
+5. § 6 Abs. 2 Z 4 lautet:
+„4. Krafträder und Kraftwagen der Klassen L2 und L5, die folgende Abgasgrenzwerte nicht über-
+schreiten:
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 2 von 7
+gemessen nach CO HC NOx Absorptions-
+(g/km) (g/km) (g/km) beiwert **
+(m-1)
+L1 97/24/EG 1,0 1,2 97/24/EG
+L2 idF.2002/51/EG 3,5 1,2 idF.2002/51/EG
+Kap. V Kap. V
+Anh. I Anh. III
+L3/L4 97/24/EG 5,5 1,2 0,3 2,5
+<150ccm idF.2002/51/EG
+L3/L4 Kap. V 5,5 1,0 0,3
+>=150ccm Anh. II
+L5 mit 7,0 1,5 0,4
+Fremdzündungsmotor
+L5 mit 2,0 1,0 0,65
+Selbstzündungsmotor
+**) für Fahrzeuge mit Dieselmotor“
+6. § 8 Abs. 3 lautet:
+„(3) Der Hersteller der Begutachtungsplakette hat in diese über Anordnung der bestellenden Behörde
+das Kennzeichen der mit der Begutachtungsplakette gemeinsam zu liefernden Kennzeichentafel in die
+Begutachtungsplakette einzuperforieren und der Kennzeichentafel beizupacken. Der Hersteller der Be-
+gutachtungsplakette hat den von ihm belieferten Behörden kostenlos eine Maschine zum Anbringen der
+Kennzeichenperforation beizustellen und diese kostenlos zu warten und betriebsfähig zu halten sowie für
+die Dauer dieser Arbeiten unentgeltlich eine Ersatzmaschine zur Verfügung zu stellen. Der Hersteller der
+Begutachtungsplakette hat weiters in angemessenem Zeitraum den ermächtigten Ziviltechnikern, Verei-
+nen und Gewerbetreibenden kostenlos eine Software zur Erfassung der Daten des Begutachtungsform-
+blattes zur Verfügung zu stellen. Diese Software muss auch die erforderlichen Applikationen für die im
+Rahmen der Qualitätssicherung durchzuführenden Revisionen des Landeshauptmannes aufweisen. Diese
+Leistungen sind Bestandteil der Herstellungskosten.“
+7. Nach § 10 wird folgender § 10a samt Überschrift eingefügt:
+„Technische Unterwegskontrollen
+§ 10a. Bei technischen Unterwegskontrollen gemäß § 58 Abs. 2a KFG 1967 sind einer, mehrere oder
+alle der im Prüfbericht gemäß Anlage 6a vorgesehenen Prüfpunkte zu überprüfen. Die Zuordnung und
+Beurteilung festgestellter Mängel richtet sich nach § 10. Das Ergebnis der Prüfung ist im Prüfbericht
+festzuhalten. Die Inhalte des Prüfberichtes müssen dem Muster der Anlage 6a entsprechen. Werden bei
+der Überprüfung der Abgasemissionen oder der Bremsanlage auch Messungen durchgeführt, so sind auch
+die Messergebnisse im Prüfbericht festzuhalten. Die für die technischen Unterwegskontrollen eingesetz-
+ten Prüforgane müssen mindestens die persönlichen Voraussetzungen des § 3 für die geeigneten Personen
+erfüllen.“
+8. In § 11 Abs. 1 wird der Punkt am Ende der Z 9 durch einen Beistrich ersetzt und folgende Z 10 ange-
+fügt:
+„10. für die Prüfung von digitalen Kontrollgeräten zusätzlich über geeignete, vom Kontrollgeräteher-
+steller freigegebene Hard- und Software zum Kalibrieren der digitalen Kontrollgeräte und zum
+Herunterladen und Speichern der erforderlichen Daten sowie über die dafür notwendigen adäqua-
+ten Schnittstellen.“
+9. § 11 Abs. 2 lautet:
+„(2) Die für die ordnungsgemäße Durchführung der Prüfung geeigneten Personen müssen die hiefür
+erforderlichen Erfahrungen auf den Gebieten der Kraftfahrzeugtechnik, Elektronik und der Feinmechanik
+besitzen. Sie müssen nachweislich an einem mindestens zweitägigen Lehrgang (Aufbaulehrgang) eines
+Fahrtschreiber- oder Kontrollgeräteherstellers oder eines Herstellers von Prüfgeräten für Fahrtschreiber
+oder Kontrollgeräte mit Erfolg teilgenommen haben. Die für die ordnungsgemäße Durchführung der
+Prüfungen geeigneten Personen müssen nach dem Aufbaulehrgang mindestens alle zwei Jahre an einem
+mindestens eintägigen Lehrgang über Aufbau, Funktion und Prüfung von Fahrtschreibern/Kontrollgeräten
+(Fortbildungslehrgang) eines Fahrtschreiber- oder Kontrollgeräteherstellers oder eines Herstellers von
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 3 von 7
+Prüfgeräten für Fahrtschreiber oder Kontrollgeräte mit Erfolg teilnehmen. Darüber ist der Behörde auf
+Verlangen ein Nachweis vorzulegen.“
+10. Nach § 11 Abs. 2 wird folgender Abs. 2a eingefügt:
+„(2a) Die für die ordnungsgemäße Durchführung der Prüfung von digitalen Kontrollgeräten geeigne-
+ten Personen müssen zusätzlich zu den Anforderungen des Abs. 2 nachweislich an einem mindestens
+dreitägigen Lehrgang (Aufbaulehrgang) eines Herstellers von digitalen Kontrollgeräten mit Erfolg teilge-
+nommen haben. Nach dem Aufbaulehrgang müssen sie mindestens alle zwei Jahre an einem mindestens
+eintägigen Lehrgang über Aufbau, Funktion und Prüfung von digitalen Kontrollgeräten (Fortbildungs-
+lehrgang) eines Herstellers von digitalen Kontrollgeräten mit Erfolg teilnehmen. Darüber ist der Behörde
+auf Verlangen ein Nachweis vorzulegen.“
+11. § 11 Abs. 4 lautet:
+„(4) Nach jeder Prüfung des Fahrtschreibers oder des Kontrollgerätes ist ein Prüfnachweis auszustel-
+len. Die Inhalte des Prüfnachweises müssen dem Muster der Anlage 7 entsprechen. Maßnahmen zur Ver-
+hinderung unerlaubter Eingriffe sind darin festzuhalten.“
+12. In § 12 Abs. 2 wird nach dem Wort “Geschwindigkeitsbegrenzerherstellers“ die Wortfolge “oder des
+Kontrollgeräteherstellers“ angefügt.
+13. In § 12 Abs. 4 und in § 13 Abs. 2 wird jeweils nach dem Wort „Geschwindigkeitsbegrenzerherstellers“
+ein Beistrich gesetzt und das Wort “Kontrollgeräteherstellers“ eingefügt.
+14. § 13 Abs. 3 lautet:
+„(3) Nach jeder Prüfung des Geschwindigkeitsbegrenzers ist ein Prüfnachweis auszustellen. Die In-
+halte des Prüfnachweises müssen dem Muster der Anlage 7 entsprechen. Maßnahmen zur Verhinderung
+unerlaubter Eingriffe sind darin festzuhalten.“
+15. Nach § 17 Abs. 4 wird folgender Abs. 5 angefügt:
+„(5) Anlage 6 in der Fassung BGBl. II Nr. 101/2004 tritt mit 1. März 2004 in Kraft. § 3 Abs. 1a in
+der Fassung BGBl. II Nr. 101/2004 tritt mit 1. Juli 2004 in Kraft.“
+16. Anlage 2a Z 5 lautet:
+„5. ein Rollenbremsprüfstand gemäß Z 3, bei dem jedoch die Registriermöglichkeit der Bremskräfte
+und der Pedalkraft nicht erforderlich ist, oder ein mindestens gleichwertiger Plattenbremsprüf-
+stand (nicht erforderlich für die besondere Überprüfung);“
+17. In der Anlage 2a entfällt in der Z 17 der Klammerausdruck “(optional)“.
+18. In der Anlage 2a entfällt in der Übersicht über die jeweils erforderlichen Einrichtungen in Spalte
+Nr. 17 die Fußnote „8)“.
+19. In der Anlage 2a werden in der Übersicht über die jeweils erforderlichen Einrichtungen in der Z 1.2
+in beiden Zeilen jeweils in der Spalte Nr. 4 die Symbole „x“ ersetzt durch„-“.
+20. In der Anlage 2a werden in der Übersicht über die jeweils erforderlichen Einrichtungen in der Z 3 in
+der Zeile „landwirtschaftliche“ jeweils in den Spalten Nr. 8 und 9 die Symbole „x“ ersetzt durch„-“ und
+die Fußnoten „2)“ entfallen.
+21. In der Anlage 2a werden in der Übersicht über die jeweils erforderlichen Einrichtungen in der Z 4 in
+der Zeile „> 3 500 kg“ jeweils in den Spalten Nr. 8 und 9 die Symbole „x“ ersetzt durch „-“.
+22. In der Anlage 6 wird unter der Prüfnummer 1.1.10 die Position „Bremsflüssigkeit Siedepunkt (unter
+150° C bzw. Wasseranteil > 2 %“ samt Zuordnung „SM“ ersetzt durch folgende Positionen samt Zuord-
+nung:
+„Siedepunkt niedriger als 180° C/Wassergehalt größer als LM
+1,5 %
+Siedepunkt niedriger als 150° C/Wassergehalt größer als 2 % SM“
+23. In der Anlage 6 wird unter der Prüfnummer 1.1.10 als letzte Prüfposition samt Zuordnung angefügt:
+„Bremsflüssigkeit unbrauchbar (zB Verwendung nicht geeigneter Flüssigkeiten) GV“
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 4 von 7
+24. In der Anlage 6 wird unter der Prüfnummer 1.1.20 folgende Position samt Zuordnung angefügt:
+„Betätigungsweg zu groß SM“
+25. In der Anlage 6 wird unter der Prüfnummer 3.1 die Position „stark behindernde Aufkleber an Front-
+und Heckscheibe“ durch die Position “stark behindernde Aufkleber an der Front- und den vorderen Sei-
+tenscheiben (bei mehr als 10 % der Scheibenfläche oder bei weniger als 10 % wenn im Hauptsichtbe-
+reich des Lenkers befindlich“ ersetzt.
+26. In der Anlage 6 wird unter Prüfnummer 3.2 die Position „Windschutzscheibe geringfügig gesprungen
+oder zerkratzt, außerhalb des Sichtfeldes des Fahrers“ samt Zuordnung “LM“ ersetzt durch folgende Posi-
+tion samt Zuordnung:
+„Windschutzscheibe außerhalb des Hauptsichtbereiches des Lenkers zerkratzt oder gesprungen LM, SM“
+27. In der Anlage 6 wird unter der Prüfnummer 3.2 folgende Position samt Zuordnung und Anmerkung
+angefügt:
+„Windschutzscheibe mit Folien SM, GV, VM gilt auch für getönte Sonnen-
+oder Folienstreifen beklebt schutzfolien am oberen Bereich
+der Windschutzscheibe“
+28. In der Anlage 6 wird unter der Prüfnummer 3.3 zur Position „Spiegel beschädigt oder blind“ folgende
+Zuordnung und Anmerkung angefügt:
+„SM mehr als 10 % der Fläche blind“
+29. In der Anlage 6 wird unter der Prüfnummer 3.3 folgende Position samt Zuordnung angefügt:
+„Genehmigungszeichen fehlt VM“
+30. In der Anlage 6 wird unter Prüfnummer 3.4 die Position „Heckscheibenwischer defekt oder unwirk-
+sam“ ersetzt durch die Position“Heckscheibenwischer defekt, fehlt oder unwirksam“.
+31. In der Anlage 6 wird unter Prüfnummer 4.1.2 folgende Position samt Zuordnung angefügt:
+„Leuchtweitenregulierung fehlt/defekt bei Fahrzeugen mit Gasentladungsscheinwerfern SM“
+32. In der Anlage 6 wird unter Prüfnummer 4.1.4 folgende Position samt Zuordnung angefügt:
+„Scheinwerferreinigungsanlage fehlt/defekt bei Fahrzeugen mit Gasentladungsscheinwerfern SM“
+33. In der Anlage 6 werden unter den Prüfnummern 4.2.1, 4.3.1, 4.4.1, 4.5.2 und 4.6.1 jeweils folgende
+Positionen samt Zuordnung angefügt:
+„bei Leuchten mit mehreren Lichtquellen: 50 % oder mehr der Lichtquellen ausgefallen SM
+bei Leuchten mit mehreren Lichtquellen: weniger als 50 % der Lichtquellen ausgefallen LM“
+34. In der Anlage 6 wird unter Prüfnummer 6.1.7 die Zuordnung „VM“ ersetzt durch „LM“.
+35. In der Anlage 6 wird unter Prüfnummer 6.2.1 in der Zuordnung zur Position „gefährdende Fahrzeug-
+teile innen oder außen“ die Buchstabenkombination „GV“ angefügt.
+36. In der Anlage 6 wird unter Prüfnummer 7.1.2 in der Zuordnung zur Position „unzul. Anbringung“ die
+Buchstabenkombination „SM“ angefügt.
+37. In der Anlage 6 wird unter Prüfnummer 7.7 folgende Position samt Zuordnung angefügt:
+„Rückfahrwarner nicht rückschaltbar VM“
+38. In der Anlage 6 wird unter Prüfnummer 7.16 folgende Position samt Zuordnung angefügt:
+„Tragfähigkeitsschild fehlt VM“
+39. In der Anlage 6 werden unter der Prüfnummer 8.1 in der Position „Stand- und/oder Fahrgeräusch
+offensichtlich erheblich über dem zulässigen Wert“ nach der Zuordnung „SM“ die Anmerkung „Nahfeld-
+pegel (gemessen) um mehr als 6 dB(A) über dem genehmigten Wert“ und die Zuordnung „GV“ samt
+Anmerkung „Nahfeldpegel (gemessen) um mehr als 12 dB(A) über dem genehmigten Wert“ angefügt.
+40. In der Anlage 6 lauten die Prüfnummern 8.2.1 und 8.2.2:
+„8.2.1 501 Kraftfahrzeuge mit Motoren mit Fremdzündung:
+erforderliche Bauteile zur Emissionsminderung schadhaft, fehlen zur Gänze
+oder unvollständig SM, GV
+Auspuffanlage undicht, schadhaft SM
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 5 von 7
+565 übermäßige Rauchentwicklung SM
+531 Zündanlage
+Fliehkraftverstellung/Unterdruckverstellung/Kondensator/Zündspule/
+Verteiler/Zündkabel/Kerzenstecker/Kerze defekt SM
+Zündkerze offensichtlich falscher Wärmewert SM
+Unterbrecher stark verschlissen SM
+Unterdruckschläuche porös/undicht LM,SM
+Zündzeitpunkt mehr als 3 ° abweichend (Anmerkung: vom Sollwert bei
+Herstellerangabe) SM
+Schließwinkel mehr als 5 ° abweichend (Anmerkung: vom Sollwert bei
+Herstellerangabe) SM
+542 Luftfilter
+unsachgemäßbefestigt/lose LM, SM
+Filtereinsatz fehlt oder nicht funktionstüchtig SM
+Filtereinsatz verschmutzt LM, SM
+a.) Bei Kraftfahrzeugen mit Motoren mit Fremdzündung, ausgenommen Fahrzeuge der Klasse L:
+a.1) ohne moderne Abgasreinigungsanlage wie z.B. Dreiwege-Katalysator mit Lambdasondenregelung*)
+561,562 a.1.1.) CO-Gehalt über dem vom Hersteller angegebenen Wert bzw. wenn keine
+entsprechenden Werte vorliegen über 3,5 Vol-% SM
+a.1.2.) HC-Gehalt über dem vom Hersteller angegebenen Wert bzw. wenn keine
+564
+entsprechenden Werte vorliegen über 600 ppm, sofern auf mangelnde Verdichtung
+zurückzuführen SM
+a.2.) mit moderner Abgasreinigungsanlage wie z.B. Dreiwege-Katalysator mit Lambdasondenregelung*)
+561,562 a.2.1.) CO-Gehalt über dem vom Hersteller angegebenen Wert SM
+Liegen hierzu keine Werte vor, gilt für
+a.2.2.) CO-Gehalt im Leerlauf:
+- Für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 1. Juli 2002 oder sol-
+chen, welche gemäß den Grenzwerten der Richtlinie 70/220/EWG idF. 98/69/EG
+oder später geänderten Fassungen (d.h. ab EURO III) genehmigt wurden, bei
+einem Wert höher als 0,3 Vol.-% SM
+- In allen anderen Fällen Wert höher als 0,5 Vol.-% SM
+a.2.3.) CO-Gehalt bei erhöhter Leerlaufdrehzahl (ohne Last) von mindestens 2000 1/min:
+- Für Kraftfahrzeuge mit erstmaliger Zulassung nach dem 1. Juli 2002 oder sol-
+chen, welche gemäß den Grenzwerten der Richtlinie 70/220/EWG idF. 98/69/EG
+oder später geänderten Fassungen ( d.h. ab EURO III) genehmigt wurden, bei
+einem Wert höher als 0,2 Vol.-% SM
+- In allen anderen Fällen Wert höher als 0,3 Vol.-% SM
+563 a.2.4.) Lambda kleiner als 0,97 oder größer als 1,03 SM
+564 a.2.5.) HC-Wert über 60 ppm, sofern auf mangelnde Verdichtung zurückzuführen SM
+a.3.) mit On-Board-Diagnosesystemen (OBD)*):
+a.3.1.) -bei Einschalten der Zündung leuchtet OBD-Kontrollleuchte nicht SM
+-bei laufendem Motor blinkt diese bzw. leuchtet ständig SM
+a.3.2.) Bei Kraftfahrzeugen, welche mit On-Board-Diagnosesystemen ausgerüstet sind, kann alternativ zu
+den Prüfungen nach a.2.2. ein angemessenes Auslesen des OBD-Gerätes bei gleichzeitiger Prüfung des
+ordnungsgemäßen Funktionierens des OBD-Systems erfolgen:
+Abgassystem bzw. OBD-System funktioniert nicht ordnungsgemäß SM
+*) Anmerkung: ausgenommen Fahrzeuge mit Motoren mit Kurbelgehäusespülung
+b.) Bei Kraftfahrzeugen der Klasse L mit Motoren mit Fremdzündung, ausgenommen solche
+mit Kurbelgehäusespülung: CO-Gehalt im Leerlauf höher als 4,5 Vol.-% SM
+8.2.2. 502 Kraftfahrzeuge mit Motoren mit Selbstzündung:
+erforderliche Bauteile zur Emissionsminderung schadhaft, fehlen zur Gän-
+ze oder unvollständig SM
+Auspuffanlage undicht, schadhaft SM
+565 übermäßige Rauchentwicklung SM
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 6 von 7
+542 Luftfilter
+unsachgemäß befestigt/lose LM, SM
+Filtereinsatz fehlt oder nicht funktionstüchtig SM
+Filtereinsatz verschmutzt LM, SM
+c.) Messung der Abgastrübung:
+c.1.) Gemessener Wert der Abgastrübung liegt um 0,5 m-1 über dem vom Fahrzeugher-
+steller angegebenen Wert (Anmerkung: gemäß der Richtlinie 72/306/EWG oder
+77/537/EWG) SM
+Überschreitet der um 0,5 m-1 erhöhte gemessene Wert die Grenzen nach c.2., c.3.
+oder c.4. (wo zutreffend) SM
+Liegen vom Fahrzeughersteller keine Werte vor, gilt:
+c.2.) für Kraftfahrzeuge mit Saugmotoren Absorptionsbeiwert über 2,5 m-1 SM
+c.3.) für Kraftfahrzeuge mit Turbomotoren Absorptionsbeiwert über 3,0 m-1 SM
+c.4.) für Kraftfahrzeuge
+- welche gem. den Grenzwerten Zeile B, Anh. I, Abschnitt 5.3.1.4. der Richtlinie
+70/220/EWG idF. 98/69/EG oder später geänderten Fassungen (d.h. ab EURO IV)
+genehmigt wurden oder
+- welche zumindest gemäß den Grenzwerten Zeile B1, Anh. I, Abschnitt 6.2.1. der
+Richtlinie 88/77/EWG idF. 1999/96/EG oder später geänderten Fassungen (d.h. ab
+EURO IV) genehmigt wurden oder
+- mit erstmaliger Zulassung nach dem 1. Juli 2008: Absorptionsbeiwert über1,5 m-1 SM
+für Kraftfahrzeuge mit erstmaliger Zulassung vor dem 1. Jänner 1980: mehr als 1
+c.5.)
+Bacharacheinheit über dem Genehmigungswert SM
+Liegen hierzu keine Werte vor, gilt: mehr als 6 Bacharacheinheiten SM“
+41. In der Anlage 6 wird unter der Prüfnummer 9.4 in der Zuordnung zur Prüfposition „Sitzplatzanzahl
+über der genehmigten“ die Buchstabenkombination „VM“ angefügt.
+42. In der Anlage 6 lautet die Prüfnummer 10.1:
+„10.1 Kennzeichentafeln
+schlecht lesbar, umgebogen, beschädigt LM, SM
+nicht fest oder nicht ordnungsgemäß angebracht LM, SM“
+43. Nach Anlage 6 wird folgende Anlage 6a eingefügt:
+www.ris.bka.gv.at
+Teil II – Ausgegeben am 1. März 2004 – Nr. 101 7 von 7
+„Anlage 6a
+BERICHT ÜBER DIE TECHNISCHE UNTERWEGSKONTROLLE
+1. Ort der Kontrolle:........................................................... 2. Datum: ... ... 20.. 3. Uhrzeit: .. : ..
+4. Länderkennzeichen und amtl. Kennzeichen des Kraftfahrzeuges: ........................................
+5. Länderkennzeichen und amtl. Kennzeichen des Anhängers/Sattelanhängers: ......................................
+6. Fahrzeugklasse:
+a) (cid:127) leichtes Nutzfahrzeug (3,5 – 12t) e) (cid:127) schweres Nutzfahrzeug (über 12t)
+b) (cid:127) Anhänger f) (cid:127) Sattelanhänger
+c) (cid:127) Lastzug g) (cid:127) Sattelzug
+d) (cid:127) Kraftomnibus
+7. Unternehmen, das den Transport durchführt / Anschrift:...........................................................................
+8. Nationalität: 9. Fahrer:................................................................................
+10. Prüfpunkte:
+nicht nicht
+kontrolliert kontrolliert vorschriftsmäßig
+a) Bremsanlage und deren Bestandteile (cid:127) (cid:127) (cid:127)
+b) Auspuffanlage (cid:127) (cid:127) (cid:127)
+c) Abgastrübung (Selbstzündungsmotoren) (cid:127) (cid:127) (cid:127)
+d) Gasförmige Emissionen (Fremdzündungsmotoren)(cid:127) (cid:127) (cid:127)
+e) Lenkanlage (cid:127) (cid:127) (cid:127)
+f) Beleuchtungs- und Signaleinrichtungen (cid:127) (cid:127) (cid:127)
+g) Räder/Reifen (cid:127) (cid:127) (cid:127)
+h) Federung (sichtbare Mängel) (cid:127) (cid:127) (cid:127)
+i) Fahrgestell (sichtbare Mängel) (cid:127) (cid:127) (cid:127)
+j) Fahrtschreiber (Einbau) (cid:127) (cid:127) (cid:127)
+k) Geschwindigkeitsbegrenzer (Einbau,Funktion) (cid:127) (cid:127) (cid:127)
+l) Austritt von Kraftstoff und/oder Öl (cid:127) (cid:127) (cid:127)
+11. Ergebnisse der Kontrolle: Das Fahrzeug weist schwere Mängel auf (cid:127)
+die Benutzung wird vorläufig untersagt (cid:127)
+12. Verschiedenes/Bemerkungen:
+Messergebnisse: CO [Vol-%] rpm [1/min]
+Leerlauf Leerlauf
+CO [Vol-%] rpm [1/min] Lambda [1]
+Leerlauferhöht Leerlauf
+Abgastrübung [1/m] rpm [1/min]
+Abregeldrehzahl
+Bremswerte links rechts Bemerkungen:
+Achse [kN] [kN]
+1
+2
+3
+4
+Feststellbremse
+13. Kontrollierende Behörde/Beauftragter oder Prüfer:.................................................................................“
+Gorbach
+www.ris.bka.gv.at

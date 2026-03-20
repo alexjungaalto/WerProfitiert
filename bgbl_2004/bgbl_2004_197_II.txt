@@ -1,0 +1,183 @@
+1 von 4
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 6. Mai 2004 Teil II
+197. Verordnung: Verdienststrukturstatistik-Verordnung
+197. Verordnung des Bundesministers für Wirtschaft und Arbeit über die
+Verdienststrukturstatistik im Produzierenden Bereich und in Teilen des
+Dienstleistungsbereichs (Verdienststrukturstatistik-Verordnung)
+Auf Grund der §§ 4 bis 10 und 30 des Bundesstatistikgesetzes 2000, BGBl. I Nr. 163/1999, zuletzt
+geändert durch BGBl. I Nr. 71/2003, wird im Einvernehmen mit dem Bundeskanzler verordnet:
+Anordnung zur Erstellung der Statistik
+§ 1. Die Bundesanstalt Statistik Österreich (Bundesanstalt) hat zur Erfüllung der Verpflichtungen
+Österreichs auf Grund
+1. der Verordnung (EG) Nr. 530/1999 zur Statistik über die Struktur der Verdienste und der Ar-
+beitskosten,
+2. der Verordnung (EG) Nr. 1916/2000 zur Durchführung der Verordnung (EG) Nr. 530/1999 hin-
+sichtlich der Definition und Übermittlung der Informationen über die Verdienststruktur und
+3. der Verordnung (EG) Nr. 72/2002 zur Durchführung der Verordnung (EG) Nr. 530/1999 hin-
+sichtlich der Qualitätsbewertung der Verdienststrukturstatistik
+gemäß dieser Verordnung eine Erhebung für das Berichtsjahr 2002 durchzuführen und die entsprechende
+Verdienststrukturstatistik zu erstellen.
+Begriffsbestimmungen
+§ 2. Im Sinne dieser Verordnung bedeuten:
+1. Soziale Stellung: Unterscheidung zwischen Arbeitern, Angestellten, Beamten, Lehrlingen.
+2. Normalarbeitszeit: Wöchentliche Arbeitszeit gemäß § 68 Abs. 4 des Einkommensteuergeset-
+zes 1988 (EStG 1988).
+3. Vertraglich vereinbarte Arbeitszeit: Von der Normalarbeitszeit abweichend vereinbarte Wo-
+chenarbeitszeit.
+4. Überstunden: Über die Normalarbeitszeit hinausgehend geleistete und mit Zuschlag bezahlte
+Stunden.
+5. Mehrstunden: Über die vertraglich (Teilzeit) oder gemäß § 68 Abs. 4 Z 2 bis 6 EStG 1988 ver-
+kürzte Arbeitszeit hinausgehend geleistete und ohne Zuschlag bezahlte Stunden.
+6. Fehltage: Vom Unternehmen bezahlte Arbeitstage der Abwesenheit vom Arbeitsplatz wegen
+Krankheit, Pflegefreistellung, Kuraufenthalt sowie Aus- und Fortbildung und sonstigen Ereignis-
+sen, jedoch mit Ausnahme der Urlaubstage und Zeitausgleichstage.
+Berichtszeitraum
+§ 3. (1) Die Erhebung ist für das Berichtsjahr 2002 und den Berichtsmonat Oktober 2002 durchzu-
+führen.
+(2) Die Merkmale gemäß Anlage, Punkt 1 (Unternehmen), Punkt 2.1. bis 2.14. und 2.17. sind über
+den Kalendermonat Oktober (Berichtsmonat) 2002 zu erheben.
+(3) Die Merkmale gemäß Anlage, Punkt 2.15. und 2.16., Punkt 2.18. bis 2.20. sind über das Kalen-
+derjahr (Berichtsjahr) 2002 zu erheben.
+Statistische Einheiten, Erhebungsmasse
+§ 4. Statistische Einheiten im Sinne dieser Verordnung sind:
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 6. Mai 2004 – Nr. 197 2 von 4
+1. Unternehmen gemäß Artikel 1 und 2 der Verordnung (EWG) Nr. 696/93 betreffend die statisti-
+schen Einheiten für die Beobachtung und Analyse der Wirtschaft in der Gemeinschaft mit zehn
+oder mehr unselbständig Beschäftigten zum Stichtag 31. Oktober 2002, die schwerpunktmäßig
+eine Tätigkeit gemäß Abteilung 10 bis 74 des Anhanges zur Verordnung (EWG) Nr. 3037/90 be-
+treffend die statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft
+selbständig und in der Absicht zur Erzielung eines Ertrages oder sonstigen wirtschaftlichen Vor-
+teils verrichten;
+2. unselbständig Beschäftigte in Unternehmen gemäß Z 1.
+Erhebungsmerkmale
+§ 5. (1) Es sind zu erheben:
+1. über die statistischen Einheiten gemäß § 4 Z 1 die Merkmale gemäß Anlage, Punkt 1;
+2. über die statistischen Einheiten gemäß § 4 Z 2 die Merkmale gemäß Anlage, Punkt 2.
+Erhebungsarten
+§ 6. (1) Die Erhebungsmerkmale sind auf folgende Arten zu erheben:
+1. die Merkmale gemäß Anlage, Punkt 1.1 bis 1.3. und Punkt 1.7. durch Heranziehung der Daten
+des Unternehmensregisters gemäß § 25 des Bundesstatistikgesetzes 2000;
+2. die Merkmale gemäß Anlage, Punkt 1.6. und 1.8, Punkt 2.1 bis 2.5 sowie Punkt 2.17 und 2.18
+durch Beschaffung von Verwaltungsdaten beim Hauptverband der österreichischen Sozial-
+versicherungsträger;
+3. die Merkmale gemäß Anlage, Punkt 2.6 durch Heranziehung der Daten des Bildungsstandregis-
+ters gemäß § 10 Bildungsdokumentationsgesetz;
+4. die Merkmale gemäß Anlage, Punkt 1.4. und 1.5. sowie Punkt 2.15 und 2.16 durch Beschaffung
+von Verwaltungsdaten bei den Finanzbehörden;
+5. die übrigen Merkmale (Anlage Punkt 1.9 bis 1.11, Punkt 2.7 bis 2.14 sowie Punkt 2.19 und 2.20)
+durch Befragung beim Unternehmen.
+(2) Die Erhebung der in Abs. 1 Z 1 bis 3 angeführten Merkmale ist mit Ausnahme der Merkmale
+gemäß Anlage Punkt 2.1 und 2.2 in der Art einer Vollerhebung durchzuführen. Im Übrigen hat die Erhe-
+bung in der Art einer Stichprobenerhebung (§ 7) zu erfolgen.
+Auswahl der Stichprobe
+§ 7. (1) Die Bundesanstalt hat in einem Zufallsverfahren
+1. zunächst aus dem Unternehmensregister gemäß § 25 des Bundesstatistikgesetzes 2000 die Unter-
+nehmen (§ 4 Z 1), geschichtet nach Größenklassen, Wirtschaftszweigen und Regionen und
+2. sodann die bei diesen Unternehmen unselbständig Beschäftigten (§ 4 Z 2)
+auszuwählen.
+(2) Für die Auswahl der Unternehmen und der unselbständig Beschäftigten gemäß Abs. 1 hat die
+Bundesanstalt die vom Hauptverband der Sozialversicherungsträger gemäß § 8 Abs. 1 übermittelten Da-
+ten heranzuziehen.
+(3) Die Bundesanstalt hat bei der Auswahl und bei der Festlegung des Umfangs der Stichprobe zu
+berücksichtigen, dass die in den Verordnungen gemäß § 1 festgelegten Qualitätserfordernisse, insbeson-
+dere die Erfordernisse des Artikels 10 der Verordnung (EG) Nr. 530/1999, gewährleistet sind.
+Durchführung der Erhebung
+§ 8. (1) Der Hauptverband der österreichischen Sozialversicherungsträger hat der Bundesanstalt die
+Daten gemäß Anlage, Punkt 2.3. bis 2.5., Punkt 2.17. und 2.18. aller im Oktober 2002 unselbständig Be-
+schäftigten verknüpft mit den Daten gemäß Punkt 1.6. ihres Dienstgebers für die Feststellung der Grund-
+gesamtheit der Unternehmen mit zehn oder mehr unselbständig Beschäftigten, für die Durchführung der
+Stichprobenziehung, für die Aufschätzung fehlender Werte und für die Hochrechnung der Stichprobe auf
+die Grundgesamtheit zu übermitteln.
+(2) Die Bundesanstalt hat die Sozialversicherungsnummern der gemäß § 7 Abs. 2 und 3 in die Stich-
+probe einbezogenen unselbständig Beschäftigten dem Hauptverband der österreichischen Sozialversiche-
+rungsträger zur Beschaffung der Daten gemäß Anlage Punkt 2.1. und 2.2. zur Verfügung zu stellen. Der
+Hauptverband der österreichischen Sozialversicherungsträger hat diese Daten verknüpft mit der Sozial-
+versicherungsnummer des jeweiligen Beschäftigten der Bundesanstalt zu übermitteln.
+(3) Die Bundesanstalt hat die Sozialversicherungsnummern der gemäß § 7 Abs. 2 und 3 in die Stich-
+probe einbezogenen unselbständig Beschäftigten den Finanzbehörden zwecks Beschaffung der Daten
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 6. Mai 2004 – Nr. 197 3 von 4
+gemäß Punkt 2.15. und 2.16 zu übermitteln. Die Finanzbehörden haben diese Daten verknüpft mit der
+Sozialversicherungsnummer des jeweiligen Beschäftigten und mit den Daten gemäß Punkt 1.4. und 1.5.
+seines Dienstgebers der Bundesanstalt zu übermitteln.
+(4) Die Befragung gemäß § 6 Abs. 1 Z 5 hat auf schriftlichem Wege zu erfolgen. Die Bundesanstalt
+hat die Erhebungsunterlagen (Fragebogen samt Erläuterungen) einheitlich für das Bundesgebiet aufzule-
+gen und für die Zustellung an die Auskunftspflichtigen zu sorgen. Hinsichtlich der Erhebung der Daten
+über die bei den Unternehmen Beschäftigten hat die Bundesanstalt einen Fragebogen zuzustellen, in dem
+zur Identifizierung der in die Stichprobe einbezogenen statistischen Einheiten gemäß § 4 Z 2 die Merkma-
+le gemäß Anlage, Punkt 2.1 bis 2.3 vorgedruckt sind. Die Bundesanstalt hat zudem Vorsorge zu treffen,
+dass die Auskunftserteilung und die Übermittlung der Daten auch auf elektronischem Weg erfolgen kann.
+Rückfragen und Urgenzen können von der Bundesanstalt auch auf telefonischem Wege durchgeführt
+werden.
+Pflichten der Inhaber von Verwaltungsdaten
+§ 9. (1) Der Hauptverband der österreichischen Sozialversicherungsträger und die Finanzbehörden
+haben die Daten gemäß den §§ 6 und 8 auf Verlangen der Bundesanstalt innerhalb von acht Wochen
+kostenlos auf elektronischen Datenträgern zur Verfügung zu stellen. Zu den Daten sind die für die Verar-
+beitung notwendigen Datenbeschreibungen und Merkmalsdefinitionen zur Verfügung zu stellen.
+(2) Die Datenübermittlung gemäß § 6 Abs. 1 Z 4 erfolgt durch die Bundesrechenzentrum GmbH als
+Dienstleister gemäß § 10 des Datenschutzgesetzes 2000 für die Finanzbehörden.
+Mitwirkungspflicht der Auskunftspflichtigen
+§ 10. (1) Bei der Befragung gemäß § 6 Abs. 1 Z 5 besteht Auskunftspflicht gemäß § 9 des Bundes-
+statistikgesetzes 2000.
+(2) Zur Auskunftserteilung sind jene natürlichen oder juristischen Personen sowie Personengesell-
+schaften des Handelsrechtes verpflichtet, die im eigenen Namen ein Unternehmen führen, dem eine statis-
+tische Einheit zugeordnet ist, die gemäß § 7 ausgewählt wurde.
+(3) Die Auskunftspflichtigen gemäß Abs. 2 sind verpflichtet, die von der Bundesanstalt aufgelegten
+Erhebungsformulare vollständig und nach bestem Wissen auszufüllen und diese der Bundesanstalt inner-
+halb von drei Wochen nach Erhalt der Erhebungsunterlagen an die dort angegebene Adresse zu übermit-
+teln.
+(4) Hat ein Unternehmer im Inland weder Wohnsitz noch Sitz oder Betriebsstätte, so ist zur Aus-
+kunftserteilung der Fiskalvertreter (gemäß § 27 Abs. 8 des Umsatzsteuergesetzes 1994) verpflichtet.
+Informationen über Erhebungszweck, Datenschutz sowie Auskunfts- und Mitwirkungspflichten
+§ 11. (1) Die Bundesanstalt Statistik Österreich hat die Auskunftspflichtigen gemäß § 10 über den
+Erhebungszweck und die getroffenen Datenschutzmaßnahmen zu informieren.
+(2) Die Bundesanstalt Statistik Österreich hat die Auskunfts- und Mitwirkungspflichtigen über die
+Rechtsfolgen gemäß § 66 des Bundesstatistikgesetzes 2000 bei Verweigerung der Mitwirkung oder Aus-
+kunft und bei wissentlich unvollständigen oder nicht dem besten Wissen entsprechenden Angaben zu
+belehren.
+Veröffentlichung
+§ 12. Die Bundesanstalt Statistik Österreich hat die Hauptergebnisse der Erhebung binnen zwei Jah-
+ren nach Ende des Berichtsjahres in gedruckter Form zu veröffentlichen sowie gleichzeitig der Öffent-
+lichkeit im Internet kostenlos zur Verfügung zu stellen. Der Umfang der gedruckten Veröffentlichung
+sowie der unentgeltlich verfügbaren Internetversion hat den im Jahr 2003 im Bereich der bevölkerungs-
+und sozialstatistischen Veröffentlichungen der Bundesanstalt üblichen Standards zu entsprechen und
+zudem einen ausführlichen Bericht über die Evaluierung der Datenqualität samt der zum Verständnis
+erforderlichen Begriffs- und Konzepterläuterungen (Metadaten) zu enthalten.
+Verwendung der geschlechtsspezifischen Form
+§ 13. Soweit in dieser Verordnung personenbezogene Begriffe verwendet werden, kommt ihnen kei-
+ne geschlechtsspezifische Bedeutung zu. Sie sind bei der Anwendung auf bestimmte Personen in der
+jeweils geschlechtsspezifischen Form zu verwenden.
+Verweisungen
+§ 14. Soweit in dieser Verordnung auf andere Rechtsvorschriften verwiesen wird, sind diese in fol-
+gender Fassung anzuwenden:
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 6. Mai 2004 – Nr. 197 4 von 4
+1. Verordnung (EG) Nr. 530/1999 zur Statistik über die Struktur der Verdienste und der Arbeitskos-
+ten, ABl. Nr. L 63 vom 12. März 1999, S 6 (CELEX-Nr. 31999R0530);
+2. Verordnung (EG) Nr. 1916/2000 zur Durchführung der Verordnung (EG) Nr. 530/1999 hinsicht-
+lich der Definition und Übermittlung der Informationen über die Verdienststruktur,
+ABl. Nr. L 229 vom 9. September 2000, S 3 (CELEX-Nr. 32000R1916);
+3. Verordnung (EG) Nr. 72/2002 zur Durchführung der Verordnung (EG) Nr. 530/1999 hinsichtlich
+der Qualitätsbewertung der Verdienststrukturstatistik, ABl. Nr. L 15 vom 17. Jänner 2002, S 7
+(CELEX-Nr. 32002R0072);
+4. Verordnung (EWG) Nr. 696/93 betreffend die statistischen Einheiten für die Beobachtung und
+Analyse der Wirtschaft in der Gemeinschaft, ABl. Nr. L 76 vom 30. März 1993 S 1 (CELEX-
+Nr. 31993R0696);
+5. Verordnung (EWG) Nr. 3037/90 betreffend die statistische Systematik der Wirtschaftszweige in
+der europäischen Gemeinschaft, ABl. Nr. L 293 vom 24. Oktober 1990, S 1 (CELEX-
+Nr. 31990R3037), zuletzt geändert durch die Verordnung (EG) Nr. 761/93, ABl. Nr. L 83 vom
+3. April 1993, S 1 (CELEX-Nr. 31993R0761);
+6. Richtlinie 80/723/EWG über die Transparenz der finanziellen Beziehungen zwischen den Mit-
+gliedstaaten und den öffentlichen Unternehmen, ABl. Nr. L 195 vom 29. Juli 1980, S 35
+(CELEX-Nr. 31980L0723);
+7. Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 169/2002;
+8. Einkommensteuergesetz 1988, BGBl. Nr. 400/1988, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 133/2003;
+9. Umsatzsteuergesetz 1994, BGBl. Nr. 663/1994, zuletzt geändert durch das Bundesgesetz BGBl. I
+Nr. 134/2003.
+Bartenstein
+www.ris.bka.gv.at

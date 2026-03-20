@@ -1,0 +1,359 @@
+1 von 8
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 27. Februar 2004 Teil II
+93. Verordnung: Eichstellenverordnung - EichstellenV
+93. Verordnung des Bundesministers für Wirtschaft und Arbeit betreffend Eichstellen -
+EichstellenV
+Auf Grund der §§ 35 Abs. 4, 36 Abs. 3 und 57 Abs. 1 des Maß- und Eichgesetzes (MEG),
+BGBl. Nr. 152/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 146/2002, wird – hinsichtlich
+des § 15 im Einvernehmen mit dem Bundesminister für Finanzen – verordnet:
+Begriffsbestimmungen
+§ 1. (1) Akkreditierte Eichstellen – nachfolgend Eichstellen genannt – sind Stellen, die für die in-
+nerstaatliche Eichung von Messgeräten akkreditiert sind.
+(2) Träger der Eichstelle im Sinne dieser Verordnung ist jene physische oder juristische Person o-
+der Personengesellschaft des Handelsrechtes, die die Akkreditierung beantragt (Antragsteller) und der die
+Akkreditierung durch Bescheid erteilt wird.
+(3) Eichtechnischer Prüfraum im Sinne dieser Verordnung ist eine Liegenschaft mit darauf befind-
+licher zweckentsprechender baulicher Gestaltung, die unter der Verantwortung der Eichstelle steht, wobei
+in diesem Prüfraum
+1. die Eichungen der Messgeräte durchgeführt, die geeichten Messgeräte jedoch nicht im eich-
+pflichtigen Verkehr verwendet werden,
+2. alle für die Eichung erforderlichen Einrichtungen verwendet oder bereitgehalten werden und
+3. die Lagerung der geeichten Messgeräte zum Zweck der Überprüfung durch die Behörde erfolgt.
+(4) Messgeräteart im Sinne dieser Verordnung umfasst gemäß dem Maß- und Eichgesetz eich-
+pflichtige Messgeräte einer oder mehrerer Messgrößen.
+Messgerätearten
+§ 2. Eichstellen können für die Eichung von Messgeräten, die gemäß § 8, § 9, § 11, § 13 Abs. 1,
+§ 13 Abs. 2 Z 3, 4, 5, 6 und 7 sowie § 13 Abs. 3 MEG eichpflichtig sind, akkreditiert werden.
+Allgemeine Akkreditierungsvoraussetzungen
+§ 3. (1) Die Akkreditierung als Eichstelle hat zu erfolgen, wenn zusätzlich zu den Anforderungen der
+§§ 20 und 21 des Akkreditierungsgesetzes (AkkG), BGBl. Nr. 468/1992, zuletzt geändert durch das Bun-
+desgesetz BGBl. I Nr. 85/2002, die Anforderungen der Abs. 2 bis 8 erfüllt sind.
+(2) Der Antragsteller muss seinen Wohnsitz bzw. seinen Sitz in einem Mitgliedstaat der Europäi-
+schen Union (EU) oder in einem Mitgliedstaat des Abkommens über den Europäischen Wirtschaftsraum
+(EWR) oder in der Schweiz haben.
+(3) Die Eichstelle muss ihren Sitz in Österreich haben.
+(4) Die Unparteilichkeit, Unabhängigkeit und Integrität muss wie folgt gegeben sein:
+1. die Eichstelle und ihr Personal müssen frei von kommerziellen, finanziellen und anderen Einflüs-
+sen sein, die ihr technisches Urteil beeinträchtigen könnten;
+2. jegliche Einflussnahme außenstehender Personen oder Organisationen auf die Ergebnisse der
+Eichungen muss ausgeschlossen sein;
+3. die Eichstelle darf sich nicht mit Tätigkeiten befassen, die das Vertrauen in die Unabhängigkeit
+der Beurteilung und Integrität bezüglich ihrer Eichtätigkeiten gefährden könnte;
+4. die Vergütung des zu Eichtätigkeiten eingesetzten Personals darf weder von der Anzahl der
+durchgeführten Eichungen noch von deren Ergebnis abhängen;
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 2 von 8
+5. ist die Eichstelle auch an der Entwicklung, Herstellung oder Vertrieb der Messgeräte nach § 2
+beteiligt, die geeicht werden sollen, oder werden die Messgeräte von der Eichstelle verwendet,
+muss eine Trennung der Verantwortung zwischen der Tätigkeit der Eichstelle und den übrigen
+Tätigkeiten sichergestellt und nachgewiesen werden.
+(5) Das Personal muss die für die vorgesehenen Messungen erforderliche Sachkunde und Erfahrung
+besitzen. Insbesondere ist die Kenntnis des MEG und des AkkG, der zum MEG und zum AkkG erlasse-
+nen Verordnungen, der Zulassungen zur Eichung, einschlägiger EG-Richtlinien und der einschlägigen
+Eichvorschriften Voraussetzung.
+(6) Für jede Messgeräteart muss mindestens ein Zeichnungsberechtigter vorhanden sein, der über die
+erforderliche Sachkunde verfügt und der die Verantwortung für die fachliche Richtigkeit der Eichungen
+und der ausgestellten Eichscheine trägt. Ferner muss die Eichstelle einen gesamtverantwortlichen Leiter
+haben, der auch Zeichnungsberechtigter sein kann.
+(7) Die Rückführung der messtechnischen Einrichtungen und der messtechnischen Normale ist
+nachzuweisen. Als Nachweis gelten Kalibrierscheine der folgenden Stellen:
+1. Bundesamt für Eich- und Vermessungswesen oder gleichwertige Institute anderer Staaten;
+2. Kalibrierstellen, die im Rahmen des Österreichischen Kalibrierdienstes akkreditiert wurden;
+3. Kalibrierstellen, für die die Gegenseitigkeit und Gleichwertigkeit im Rahmen einer Verordnung
+nach § 18 Z 4 MEG festgestellt wurde.
+(8) Die in Abs. 7 genannten Prüfzeugnisse und Kalibrierzertifikate der messtechnischen Normale
+müssen insbesondere enthalten:
+1. die Angabe der Prüf- oder Kalibrierergebnisse in Form von Zahlenwerten, Formeln, Tabellen
+oder grafischen Darstellungen unter Nennung der Messunsicherheiten und der Umgebungsbedin-
+gungen;
+2. Kurzbeschreibung des Prüf- oder Kalibrierverfahrens;
+3. eine Erklärung, dass die messtechnischen Normale an international anerkannte nationale Norma-
+le gemäß § 4 Abs. 1 MEG angeschlossen sind.
+Erfordernisse für Leiter oder Zeichnungsberechtigte einer Eichstelle
+§ 4. (1) Den Nachweis der erforderlichen Sachkunde als Leiter oder als Zeichnungsberechtigter der
+Eichstelle hat erbracht, wer die Anforderungen nach § 3 Abs. 5 erfüllt und mindestens zwei Jahre lang
+eine vergleichbare Tätigkeit ausgeführt hat.
+(2) Eine Tätigkeit als Leiter oder Zeichnungsberechtigter ist ausgeschlossen, wenn Tatsachen die
+Annahme rechtfertigen, dass die vorgeschlagene Person die erforderliche Zuverlässigkeit oder Unpartei-
+lichkeit für die vorgesehene Tätigkeit nicht besitzt. Die Zuverlässigkeit ist nicht gegeben, wenn Gründe
+gemäß § 13 Abs. 1 bis 6 GewO 1994, BGBl. Nr. 194/1994, zuletzt geändert durch das Bundesgesetz
+BGBl. I Nr. 111/2002, vorliegen.
+Rechte und Pflichten von Eichstellen
+§ 5. Eichstellen sind berechtigt:
+1. eichfähige Messgeräte zu eichen;
+2. Eichscheine gemäß § 9 auszustellen;
+3. das im Anhang festgelegte Zeichen (Logo) des Österreichischen Eichdienstes (Bundeswappen
+mit rechts stehender Schrift „EICHDIENST“ umgeben von einer Ellipse) bei allen Tätigkeiten zu
+verwenden, die im Rahmen der Akkreditierung durchgeführt werden;
+4. das Zeichen nach Z 3 auf allen Eichscheinen zu verwenden.
+§ 6. (1) Eichstellen haben die Prüfungen entsprechend den Eichvorschriften, der jeweiligen Zulas-
+sung zur Eichung und den im Rahmen der Akkreditierung genehmigten Verfahren durchzuführen.
+(2) Entsprechen die Messgeräte den Vorschriften, so sind auf den Messgeräten der Eichstempel so-
+wie gegebenenfalls Sicherungsstempel an den in der Zulassung zur Eichung vorgesehenen Stellen (Stem-
+pelstellen für die Eichstempel sowie Sicherungsstempel) anzubringen. Somit gelten die Messgeräte als
+geeicht.
+(3) Entsprechen die Messgeräte nicht den Vorschriften, so sind sie zurückzuweisen und gut sichtbar
+zu kennzeichnen.
+(4) Die Eichstellen haben über die von ihnen durchgeführten Eichungen Unterlagen anzufertigen und
+mindestens 5 Jahre lang aufzubewahren. Diese Unterlagen müssen die folgenden Angaben enthalten:
+1. Name (Firmenbezeichnung) des Antragstellers;
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 3 von 8
+2. Bezeichnung des zu eichenden Messgerätes (Art des Messgerätes / Typenbezeichnung, gegebe-
+nenfalls Zulassungsbezeichnung, Herstellungsnummer bzw. Identifikation);
+3. Hersteller;
+4. Datum sowie Ort der Eichung;
+5. Eichnummer als eine Zahlen-Buchstaben-Kombination, aus der die Anzahl der im laufenden Jahr
+geeichten Messgeräte ablesbar sein muss;
+6. Messergebnisse einschließlich der Angabe der Umgebungsbedingungen und - sofern ein Eich-
+schein nach § 9 ausgestellt wird - die Angabe der Messunsicherheiten;
+7. Angaben über die an der Eichung beteiligten Personen;
+8. an wen die geeichten Messgeräte geliefert worden sind (entfällt bei Eichung am Aufstellungsort);
+9. zutreffendenfalls eine Kopie des Eichscheines.
+(5) Die messtechnischen Einrichtungen und die messtechnischen Normale der Eichstellen sind vor
+der erstmaligen Verwendung, nach Reparaturen und dann mindestens in den im Akkreditierungsbescheid
+festgelegten Abständen überprüfen zu lassen. Bei Bedarf sind unter Berücksichtigung der Eigenart der
+Einrichtungen und der Normale weitere Überprüfungen und Kontrollmessungen in kürzeren Abständen
+durchzuführen, um festzustellen, ob die festgelegten Messunsicherheiten eingehalten werden. Der Träger
+der Eichstelle hat für diese Untersuchungen Hilfskräfte und Einrichtungen zur Verfügung zu stellen. Als
+Überwachungsmaßnahme im Rahmen der Akkreditierung muss an nationalen oder internationalen Ring-
+versuchen unter Aufsicht des Bundesministeriums für Wirtschaft und Arbeit auf eigene Kosten teilge-
+nommen werden.
+(6) Wenn die in dieser Verordnung sowie im Akkreditierungsbescheid festgelegten Bestimmungen
+nicht eingehalten werden können, dürfen Eichungen der Messgerätearten, die davon betroffen sind, so
+lange nicht durchgeführt werden, bis der ordnungsgemäße Betrieb wieder gewährleistet ist.
+(7) Eichstellen sind verpflichtet, jeden Antrag auf Eichung, der sich auf Messgeräte bezieht, die in
+den Akkreditierungsumfang der Eichstelle fallen, ohne unnötigen Aufschub, spätestens aber zwei Monate
+nach Einlangen des Antrages zu bearbeiten und die eichtechnische Prüfung der Messgeräte zu vereinba-
+ren.
+(8) Die Entgegennahme der Messgeräte zur Eichung sowie der Anträge und sonstiger Schriftstücke,
+die sich auf die Tätigkeit der Eichstelle beziehen, sowie die Rückgabe der Messgeräte muss in Österreich
+erfolgen.
+(9) Wenn die Umgebungsbedingungen oder andere technische Gegebenheiten des Aufstellungsortes
+bei der Eichung nicht anders berücksichtigt werden können oder die Eichvorschriften oder die Zulassung
+zur Eichung es vorsehen, sind die Messgeräte am Aufstellungsort zu eichen.
+Verantwortlichkeit des Leiters und der Zeichnungsberechtigten
+§ 7. (1) Der Leiter der Eichstelle ist dafür verantwortlich, dass
+1. die Eichungen ordnungsgemäß vorgenommen werden und
+2. Eichstempel und Sicherungsstempel gegen missbräuchliche Verwendung ausreichend gesichert
+sind.
+(2) Eichungen dürfen von einer Eichstelle nur dann vorgenommen werden, wenn ein Zeichnungsbe-
+rechtigter für die jeweilige Messgeräteart anwesend ist und selbst an der Eichung mitwirkt. Bei Eichun-
+gen in einem eichtechnischen Prüfraum ist es ausreichend, dass der Zeichnungsberechtigte für die jewei-
+lige Messgeräteart in geeigneter Weise die Aufsicht über die ordnungsgemäße Durchführung der Eichung
+übernimmt.
+(3) Der Leiter der Eichstelle ist dafür verantwortlich, dass die fachliche Eignung des Personals durch
+regelmäßige Teilnahme an geeigneten Schulungsveranstaltungen aufrecht erhalten wird.
+Eichzeichen, Jahreszeichen und Eichschein
+§ 8. (1) Es sind Eichzeichen und Jahreszeichen gemäß § 19 der Eich-Zulassungsverordnung,
+BGBl. Nr. 785/1992, unter Beachtung der Bestimmungen der Eichvorschriften und der jeweiligen Zulas-
+sung anzubringen.
+(2) Der Eichstempel besteht aus dem Eichzeichen und dem Jahreszeichen.
+(3) Der Sicherungsstempel besteht aus dem Eichzeichen.
+(4) Kundeninformationen, die auf den voraussichtlichen Ablauf der Nacheichfrist hinweisen, dürfen
+zusätzlich angebracht werden.
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 4 von 8
+§ 9. Der Eichschein besteht aus dem im Anhang I dargestellten Deckblatt und hat zusätzlich die fol-
+genden Angaben zu enthalten:
+1. eine Kurzbeschreibung des Prüfverfahrens oder der Hinweis auf eine Eichanweisung, die im
+Amtsblatt für das Eichwesen veröffentlicht ist,
+2. die Darstellung der Ergebnisse der Eichung in Form einer Erklärung, dass das geeichte Messgerät
+vorgegebenen messtechnischen Anforderungen entspricht mit einem Hinweis auf diese Anforde-
+rungen, sowie die Angabe der Messunsicherheiten und der relevanten Umgebungsbedingungen,
+3. die Eichnummer, die Eichstellennummer auf Grund des Akkreditierungsbescheides, die Da-
+tumsangabe auf jeder Seite sowie die Gesamtseitenzahl des Eichscheines.
+Erteilung, Änderung, Erweiterung, Einschränkung, Entzug und Erlöschen der Akkreditierung
+§ 10. (1) Die Akkreditierung als Eichstelle ist beim Bundesministerium für Wirtschaft und Arbeit
+schriftlich zu beantragen.
+(2) Der Antrag auf Akkreditierung hat mindestens die folgenden Angaben zu enthalten:
+1. Name und Anschrift des Antragstellers,
+2. Angaben über rechtliche bzw. wirtschaftliche Nahverhältnisse zu Firmen, Körperschaften oder
+sonstigen Institutionen,
+3. die Messgeräteart bzw. die Messgerätearten, die Messbereiche, die Beschreibung der Prüfverfah-
+ren, möglichst durch Bezugnahme auf die entsprechenden technischen Spezifikationen (gegebe-
+nenfalls mit Einschränkungen), für die die Akkreditierung beantragt wird,
+4. die Namen des gesamtverantwortlichen Leiters für den technischen Bereich, gegebenenfalls
+seines Stellvertreters und der Zeichnungsberechtigten, die für die fachliche Richtigkeit der Ei-
+chungen und der Eichscheine verantwortlich sein sollen,
+5. Angaben über Ausbildung, Schulung, technische Kenntnisse und Praxis des Leiters, gegebenen-
+falls seines Stellvertreters und der Zeichnungsberechtigten,
+6. ein Verzeichnis der vorhandenen Prüfeinrichtungen,
+7. das Qualitätssicherungshandbuch,
+8. zugehörige Verfahrensanweisungen und Prüfanweisungen,
+9. bei juristischen Personen und Personengesellschaften des Handelsrechts der Firmanbuchauszug;
+liegt zum Zeitpunkt der Antragstellung die Eintragung im Firmenbuch nicht vor, so gilt für alle
+Gesellschaftsformen § 10 GewO 1994;
+10. Angaben darüber, wo die eichtechnischen Prüfungen durchgeführt werden sollen;
+11. Prüfzeugnisse, die die Erfüllung der Anforderungen nach § 3 Abs. 7 nachweisen;
+12. eine schriftliche Erklärung, dass der Träger für die Unparteilichkeit des Personals der Eichstelle -
+soweit es sich um Eichtätigkeiten im Rahmen der Eichstelle handelt - sorgt.
+(3) Der Bescheid, mit dem die Akkreditierung ausgesprochen wird, hat jedenfalls folgende Angaben
+zu enthalten:
+1. den Namen und die Anschrift der Eichstelle,
+2. die Eichstellennummer und das Aussehen des Eichzeichens,
+3. die Messgeräteart bzw. die Messgerätearten, technische Spezifikationen (gegebenenfalls mit
+Einschränkungen) und Festlegungen, wo die eichtechnischen Prüfungen durchgeführt werden
+dürfen,
+4. die Namen des gesamtverantwortlichen Leiters, gegebenenfalls seines Stellvertreters und der
+Zeichnungsberechtigten, die für die fachliche Richtigkeit der Eichungen und der Eichscheine
+verantwortlich sind,
+5. erforderlichenfalls der Beginn der Geltung der Akkreditierung und
+6. allfällige Bedingungen und Auflagen, wobei die Erfordernisse für die Überprüfung sowie die
+internationale Anerkennung der von den akkreditierten Eichstellen durchgeführten Tätigkeiten zu
+berücksichtigen sind.
+(4) Für Anträge auf Änderung oder Erweiterung einer bestehenden Akkreditierung gelten die Best-
+immungen der Abs. 1 und 2 sinngemäß.
+(5) Jede akkreditierte Eichstelle ist durch den Bundesminister für Wirtschaft und Arbeit mindestens
+alle fünf Jahre ab erfolgter Akkreditierung einer Überprüfung zu unterziehen, ob die akkreditierte Eich-
+stelle die für sie geltenden Akkreditierungsvoraussetzungen weiterhin erfüllt und keine Mängel im Sinne
+des Abs. 6 vorliegen.
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 5 von 8
+(6) Die Akkreditierung ist durch Bescheid zu entziehen oder der Akkreditierungsumfang einzu-
+schränken, wenn mindestens einer der folgenden Mängel vorliegt und dieser Mangel nicht innerhalb einer
+angemessenen Frist, die vom Bundesminister für Wirtschaft und Arbeit durch Bescheid festzusetzen ist,
+behoben wird. Ein Mangel im Sinne dieser Bestimmung liegt vor, wenn
+1. mindestens eine Akkreditierungsvoraussetzung nicht mehr erfüllt wird,
+2. eichtechnische Prüfungen, Stempelungen und die Ausstellung von Eichscheinen nicht gemäß
+dem Maß- und Eichgesetz, dieser Verordnung sowie den einschlägigen Eichvorschriften und der
+Zulassung zur Eichung durchgeführt werden oder
+3. behördlichen Anordnungen sowie den Meldepflichten gemäß §§ 13 und 14 Abs. 1 nicht oder
+nicht rechtzeitig nachgekommen wird.
+(7) Die Akkreditierung erlischt,
+1. wenn sie durch Bescheid entzogen wurde,
+2. mit dem Tod einer physischen Person oder dem Verlust der Eigenberechtigung, wenn diese Per-
+son Träger der Eichstelle ist,
+3. mit dem Untergang des Rechtssubjektes,
+4. mit Zurücklegung der Berechtigung durch die akkreditierte Stelle oder
+5. nach Ablauf des Zeitraumes von sechs Monaten, wenn die Akkreditierung durch ein anderes
+Rechtssubjekt ausgeübt wird, das den Bestimmungen des § 11 GewO 1994, nicht aber den Best-
+immungen dieser Verordnung entspricht.
+Überwachung von Eichstellen
+§ 11. (1) Das Bundesamt für Eich- und Vermessungswesen hat die von den Eichstellen geeichten
+Messgeräte auf Einhaltung der Eichvorschriften und der jeweiligen Zulassung zur Eichung gemäß § 12 zu
+überwachen.
+(2) Entspricht auch nur ein überprüftes Messgerät nicht den Eichvorschriften oder der Zulassung, so
+hat
+1. das Bundesamt für Eich- und Vermessungswesen den Bundesminister für Wirtschaft und Arbeit
+unverzüglich über den Vorfall in Kenntnis zu setzen, sowie
+2. die Eichstelle ihre Tätigkeit unverzüglich einer internen Überprüfung zu unterziehen, auf Grund
+der festgestellten Ursachen die erforderlichen Verbesserungen durchzuführen und dem Bundes-
+minister für Wirtschaft und Arbeit über die festgestellten Ursachen und die getroffenen Maß-
+nahmen schriftlich Bericht zu erstatten.
+In diesem Jahr ist eine zusätzliche Überprüfung durchzuführen sowie die Anzahl der zu überprüfenden
+Messgeräte um 5 zu erhöhen
+(3) Überwachungsmaßnahmen einschließlich der Überprüfung von Messgeräten dürfen am Sitz der
+Eichstelle, in einem eichtechnischen Prüfraum der Eichstelle, am Ort der eichtechnischen Prüfung und am
+Aufstellungsort der Messgeräte durchgeführt werden.
+(4) Werden Überwachungsmaßnahmen während einer laufenden eichtechnischen Prüfung durchge-
+führt, so hat die Eichstelle erforderliche Einrichtungen und Hilfskräfte unentgeltlich zur Verfügung zu
+stellen. Ferner darf durch Überwachungsmaßnahmen die eichtechnische Prüfung verzögert werden, wobei
+die Organe des Bundesamtes für Eich- und Vermessungswesen bei den Amtshandlungen gemäß Abs. 1
+bis 3 darauf Bedacht zu nehmen haben, dass jede nicht unbedingt erforderliche Störung oder Behinderung
+des Betriebes vermieden wird.
+(5) Überwachungsmaßnahmen haben grundsätzlich unangemeldet zu erfolgen.
+(6) Das Bundesamt für Eich- und Vermessungswesen hat die akkreditierten Eichstellen einmal jähr-
+lich hinsichtlich des Qualitätsmanagementsystems stichprobenweise zu überprüfen.
+§ 12. (1) Die Prüfmethode des Bundesamtes für Eich- und Vermessungswesen gemäß § 11 wird wie
+folgt festgelegt:
+1. Es ist eine Anzahl von Messgeräten, die bereits geeicht worden sind oder deren Eichung gerade
+durchgeführt wird, nach der Kategorie der Eichstelle gemäß Abs. 2 auszuwählen. Die Auswahl
+hat dabei den Akkreditierungsumfang als Grundlage und die Art der eichtechnischen Prüfung der
+Messgeräte zu berücksichtigen. Bei der Auswahl von Messgeräten können auch die Ergebnisse
+von eichpolizeilichen Revisionen berücksichtigt werden.
+2. Es sind, wie in Abs. 2 angegeben, Überprüfungen vorzunehmen, wobei der Richtwert der zu
+überprüfenden Messgeräte – gegebenenfalls erhöht gemäß § 11 Abs. 2 – zu beachten ist.
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 6 von 8
+3. Jedes Messgerät wird vom Bundesamt für Eich- und Vermessungswesen auf die Erfüllung der
+Vorschriften nach § 6 geprüft und muss diesen entsprechen. Dabei können auch verkürzte Ver-
+fahren angewendet werden.
+4. Bei der Überprüfung der Arbeitsweise der Eichstelle sind zur Beurteilung innerhalb der ersten
+drei Wochen nach der Eichung die Eichfehlergrenzen, sonst die Verkehrsfehlergrenzen heranzu-
+ziehen.
+(2) Die Kategorien der Eichstellen sind gemäß der nachfolgenden Tabelle festgelegt.
+Kategorie der A B C D
+Eichstelle
+Anzahl der bis 101 301 1001 2501 5001 bis 20001 bis über 60000
+geeichten 100 bis bis bis bis 20000 60000
+Messgeräte 300 1000 2500 5000
+pro Jahr
+Richtwert der 5*) 10 20 30 35 70 120 150
+Anzahl der zu
+prüfenden
+Messgeräte
+pro Jahr
+*) mindestens jedoch 10% der in diesem Jahr geeichten Messgeräte
+Meldepflichten
+§ 13. (1) Wird die eichtechnische Prüfung in einem eichtechnischen Prüfraum durchgeführt, so hat
+die Eichstelle am Ende jedes zweiten Monats die Summe der im laufenden Jahr geeichten Messgeräte
+dem Bundesamt für Eich- und Vermessungswesen mitzuteilen.
+(2) Bei eichtechnischen Prüfungen der nachfolgend genannten Messgeräte ist von der Eichstelle spä-
+testens drei Tage im Vorhinein die beabsichtigte Eichung dem Bundesamt für Eich- und Vermessungswe-
+sen mitzuteilen:
+1. Waagen mit einer Höchstlast von mehr als 3 000 kg;
+2. selbsttätige Waagen zum Abwägen;
+3. selbsttätige Waagen zum Wägen;
+4. Förderbandwaagen;
+5. Mengenmessgeräte und Messanlagen auf Tankwagen;
+6. Taxameter.
+(3) Bei eichtechnischen Prüfungen, die nicht in Abs. 1 und 2 genannt sind, sowie in Einzelfällen bei
+Abweichen von den gemäß Abs. 2 mitgeteilten beabsichtigten Eichungen hat die Eichstelle spätestens an
+dem der Eichung folgenden Werktag die Durchführung der Eichung dem Bundesamt für Eich- und Ver-
+messungswesen mitzuteilen.
+(4) Die Mitteilung gemäß Abs. 2 und 3 hat unter Verwendung der elektronischen Datenübertragung
+(Internet) sowie allgemein üblicher Software zu erfolgen und hat jedenfalls zu enthalten:
+1. das Datum der eichtechnischen Prüfung;
+2. den genauen Prüfort (Verwender, Adresse);
+3. den Zeichnungsberechtigten;
+4. die Messgeräteart;
+5. die Stückzahl;
+6. die Fertigungsnummer bzw. die Fertigungsnummern.
+Zusätzlich sind bei Eichung von nichtselbsttätigen Waagen die Genauigkeitsklasse und die Höchstlast
+sowie bei Eichung von Betriebsstoffmessanlagen die maximale Durchfluss-Stärke anzugeben.
+§ 14. (1) Über die innerhalb eines Jahres im Rahmen der Akkreditierung durchgeführten Tätigkeiten
+hat die Eichstelle dem Bundesminister für Wirtschaft und Arbeit spätestens im Februar des Folgejahres
+einen Bericht zu übermitteln.
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 7 von 8
+(2) Über die innerhalb eines Jahres durchgeführten Überwachungen hat das Bundesamt für Eich- und
+Vermessungswesen dem Bundesminister für Wirtschaft und Arbeit spätestens im Februar des Folgejahres
+einen Jahresbericht zu übermitteln.
+Kosten
+§ 15. (1) Die Eichstelle hat für die Verfahren gemäß § 10 Abs. 1 und Abs. 5 jeweils an Verwaltungs-
+abgaben zu entrichten:
+1. als Grundgebühr 1 150 Euro, sowie
+2. zusätzlich zur Gebühr nach Z 1 für jeden Zeichnungsberechtigten 650 Euro.
+(2) Die Eichstelle hat für eine Abänderung des Akkreditierungsbescheides an Verwaltungsabgaben
+zu entrichten:
+1. als Grundgebühr 430 Euro, sowie
+2. zusätzlich zur Gebühr nach Z 1 für jeden begutachteten Zeichnungsberechtigten 650 Euro.
+(3) Die Eichstellen haben für die Überwachung nach § 11 Verwaltungsabgaben gemäß § 14a der
+Eichgebührenverordnung, BGBl. II Nr. 467/1998, geändert durch BGBl. II Nr. 10/2002, zu entrichten.
+Übergangs- und Schlussbestimmungen
+§ 16. (1) Beglaubigungsstellen, die gemäß der Verordnung des Bundesministers für Wirtschaft und
+Arbeit betreffend Beglaubigungsstellen (Beglaubigungsstellenverordnung), BGBl. Nr. 809/1994, zuletzt
+geändert durch die Verordnung BGBl. II Nr. 490/2001, akkreditiert wurden, gelten als Eichstellen. Auf
+diese Eichstellen sind die Bestimmungen der Beglaubigungsstellenverordnung anzuwenden, solange noch
+keine neuerliche Überprüfung gemäß § 13 Abs. 1 AkkG erfolgt ist. Eine neuerliche Überprüfung der
+jeweiligen Eichstelle gemäß § 13 Abs. 1 AkkG hat gemäß den Bestimmungen dieser Verordnung zu er-
+folgen.
+(2) Das Beglaubigungszeichen gemäß § 7 der Beglaubigungsstellenverordnung gilt als Eichstempel
+und darf von Stellen nach Abs. 1 bis 31. Dezember 2007 weiter verwendet werden.
+§ 17. (1) Diese Verordnung tritt mit dem auf ihre Kundmachung viertfolgenden Monatsersten in
+Kraft. Anträge können schon vor Inkrafttreten dieser Verordnung gestellt werden.
+(2) Mit Inkrafttreten dieser Verordnung tritt – unbeschadet der Bestimmungen des § 16 – die Ver-
+ordnung des Bundesministers für Wirtschaft und Arbeit betreffend Beglaubigungsstellen (Beglaubigungs-
+stellenverordnung), BGBl. Nr. 809/1994, zuletzt geändert durch die Verordnung BGBl. II Nr. 490/2001,
+außer Kraft.
+Notifikation
+§ 18. Diese Verordnung wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG
+ABl. L 204 S 37 vom 21. 7. 1998, in der Fassung der Richtlinie 98/48/EG ABl. L 217 S 18 vom
+5. 8. 1998, notifiziert (Notifikationsnummer 2002/362/A).
+Bartenstein
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 27. Februar 2004 – Nr. 93 8 von 8
+www.ris.bka.gv.at

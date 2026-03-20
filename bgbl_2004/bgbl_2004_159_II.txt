@@ -1,0 +1,177 @@
+1 von 4
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 15. April 2004 Teil II
+159. Verordnung: Regelung der sicherheitstechnischen und organisationsrelevanten
+Voraussetzungen für Verwaltungssignaturen (VerwSigV)
+159. Verordnung des Bundeskanzlers, mit der die sicherheitstechnischen und
+organisationsrelevanten Voraussetzungen für Verwaltungssignaturen geregelt werden
+(VerwSigV)
+Auf Grund des § 25 des Bundesgesetzes über Regelungen zur Erleichterung des elektronischen Ver-
+kehrs mit öffentlichen Stellen (E-Government-Gesetz – E-GovG), BGBl. I Nr. 10/2004, und auf Grund
+des § 9 des Signaturgesetzes, BGBl. I Nr. 190/1999, wird – hinsichtlich des § 9 im Einvernehmen mit
+dem Bundesminister für Justiz – verordnet:
+Signaturerstellungsdaten
+§ 1. (1) Die Signaturerstellungsdaten der Verwaltungssignatur müssen hinsichtlich ihrer Schlüssel-
+länge und ihrer Verwendbarkeit in Algorithmen den Signaturerstellungsdaten der sicheren Signatur im
+Sinne des § 2 Z 3 SigG entsprechen.
+(2) Die Erzeugung der Signaturerstellungsdaten muss auf zufälligen Werten beruhen und es muss
+ausgeschlossen sein, dass sich Signaturerstellungsdaten eines Signators aus den Signaturerstellungsdaten
+anderer Signatoren errechnen lassen. Der eingesetzte Zufall muss auch mit hinreichend hoher Sicherheit
+ausschließen, dass es bei der Grundmenge an erwartbaren Zertifikaten zu zwei Zertifikaten mit gleichen
+Signaturerstellungsdaten kommen kann. Dazu müssen mindestens 128 Bit Zufall in die Erzeugung der
+Signaturerstellungsdaten eingehen und diese so gestaltet sein, dass die gesamten Signaturerstellungsdaten
+vom Zufall abhängig sind.
+(3) Der Erzeugungsvorgang darf nicht die Freisetzung der Signaturerstellungsdaten außerhalb der
+Signaturerstellungseinheit bewirken. Spezielle Hardwareelemente für die Erzeugung der Signaturerstel-
+lungsdaten sind jedoch nicht vorgeschrieben
+Authorisierungscode
+§ 2. (1) Der Authorisierungscode des Benutzers einer Verwaltungssignatur darf in keiner der für die
+Verwaltungssignatur eingesetzten Systemkomponenten gespeichert sein und darf nach seiner Erstellung
+nur für den Benutzer verfügbar sein. Das System muss so ausgelegt sein, dass ein für Zwecke des Signie-
+rens eingegebener Authorisierungscode ausschließlich zur Erstellung von Signaturen und zum Ändern des
+Codes an einen allenfalls beteiligten Sicherheitsserver übermittelt werden kann. Dabei darf der Code
+weder im Eingabegerät, noch auf dem Weg zur Signaturerstellungseinheit, noch in der Signaturerstel-
+lungseinheit selbst über den Vorgang der Signaturerstellung oder Code-Änderung hinaus gespeichert
+bleiben.
+(2) Sofern der Authorisierungscode nicht frei durch den Signator gewählt wird, muss seine Erstel-
+lung auf Zufallselementen beruhen, sodass ein Errechnen des Codes aus den Schlüsselwerten oder aus
+anderen Authorisierungscodes nicht möglich ist. Die Länge des Codes muss mindestens sechs Dezi-
+malziffern entsprechen.
+Signaturerstellungseinheit
+§ 3. Signaturerstellungseinheit für die Verwaltungssignatur können entweder Signaturerstellungsge-
+räte (einschließlich der zugehörigen Mechanismen) beim Signator sein, die die Signaturerstellungsdaten
+hinreichend schützen, oder Signaturdienste, die im Auftrag des Signators auf Sicherheitsservern, die in-
+nerhalb eines gesicherten Bereichs betrieben werden, eingerichtet sind. Diese Signaturerstellungseinhei-
+ten müssen den nachfolgenden besonderen Sicherheitsbedingungen genügen:
+1. Im Falle der Verwendung von Signaturerstellungsgeräten beim Signator:
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 15. April 2004 – Nr. 159 2 von 4
+a) Es sind nur Geräte zugelassen, die auf der Grundlage geeigneter Hardware die Signaturerstel-
+lungsdaten vor dem Ausspähen und Auslesen sowie vor der unbefugten Verwendung (ohne
+Einsatz der korrekten Authorisierungscodes) schützen.
+b) Der Schutz vor der unbefugten Verwendung hat auch den Schutz vor dem „wiederholten Aus-
+probieren“ von Authorisierungscodes zu beinhalten.
+c) Die kryptographischen Mechanismen, die von den Signaturerstellungsdaten abhängig sind
+bzw. Zufallselemente benötigen, müssen zur Gänze auf dem Signaturerstellungsgerät durchge-
+führt werden. Ein Ermitteln der Hashwerte der zu signierenden Daten außerhalb des Signatur-
+erstellungsgerätes ist jedoch zulässig.
+2. Im Falle der Verwendung von Signaturdiensten auf Sicherheitsservern:
+a) Das Erfordernis, dass sich die Signaturerstellungsdaten in der ausschließlichen Verfügungs-
+gewalt des Signators befinden müssen, ist dadurch sicherzustellen, dass zusätzlich zum Autho-
+risierungscode ein Einmalcode verwendet wird, der außerhalb des Sicherheitsservers bzw.
+durch andere Personen als den Signator nicht systematisch ermittelbar ist.
+aa) Sofern der Einmalcode in einem Gerät und/oder mit einem Mechanismus beim Signator
+erzeugt oder vorgehalten wird, dürfen nur solche Geräte oder Mechanismen eingesetzt
+werden, die den Signator in die Lage versetzen, sich hinreichend vor der missbräuchlichen
+Verwendung des Einmalcodes schützen zu können.
+bb) Es muss sichergestellt sein, dass sowohl verwendete als auch nicht verwendete Einmal-
+codes aus der Vergangenheit nicht weiter verwendbar bleiben.
+b) Die bei der Signatur zum Einsatz kommenden Komponenten (Geräte und Mechanismen) sind
+auch gegen den Missbrauch durch das eigene Personal des Betreibers des Sicherheitsservers
+zu schützen (z. B durch alternative Verteilungswege für die Einmalcodes). Es sind jedenfalls
+die folgenden Komponenten sicherheitskritisch:
+aa) der Sicherheitsserver,
+bb) die Erzeugung und Verwendung von Authorisierungscodes (Wissenskomponente) und
+cc) der Mechanismus des Einmalcodes (Besitzkomponente).
+c) Als Sicherheitsserver wird jene Komponente bezeichnet, innerhalb der die Signaturerstel-
+lungsdaten des Signators zur Verwendung entschlüsselt werden können und auf Verfügung
+des Signators zur Anwendung gebracht werden. Der Sicherheitsserver darf nur sicherheitskri-
+tische Funktionen vergleichbarer Sicherheitsstufen umfassen (Signaturerstellung, Sperre und
+Widerruf, Vernichten von Signaturerstellungsdaten, Verschlüsselung, Erzeugung von Zu-
+fallswerten für die Kryptographie, Zeitstempel, etc.). Die Funktionen müssen vollständig do-
+kumentiert sein und dürfen nicht dynamisch ergänzt werden.
+d) Der Zugriff auf den Sicherheitsserver ist auf das absolut notwendige Mindestmaß zu be-
+schränken (z.B. durch eine Firewall, die nur einen Dienst offen hält). Die Art der Beschrän-
+kung ist nachprüfbar zu dokumentieren.
+e) Signaturerstellungsdaten dürfen – außer zur Verwendung entsprechend der Verfügung des
+Signators während der Erstellung einer Signatur – auf dem Sicherheitsserver nur in verschlüs-
+selter Form abgelegt sein. Signaturerstellungsdaten können zum Betrieb und zur Sicherung
+außerhalb des Sicherheitsservers verschlüsselt gespeichert werden, wenn durch „starke“ Ver-
+schlüsselung (> 100 Bit symmetrisch).sichergestellt ist, dass sie ausschließlich durch den Si-
+cherheitsserver entschlüsselt werden können. Der hiefür notwendige Schlüssel muss organisa-
+torisch (Vieraugenprinzip und Protokoll) und technisch (Safe) gesichert sein. In den Schlüssel
+zur verschlüsselten Speicherung ist der Authorisierungscode des Signators oder eine krypto-
+graphische Sicherung, die den Zugriffswillen des Benutzers zum gegebenen Zeitpunkt tech-
+nisch sicherstellt, einzubinden, damit sichergestellt ist, dass ein Zugang zu den Signaturerstel-
+lungsdaten selbst dann nicht möglich ist, wenn die Inhalte der Speichermedien freigesetzt
+würden.
+f) Authorisierungscode und Einmalcode sind beim Transport vom Benutzer zum gesicherten
+Bereich geeignet kryptographisch zu schützen. Vorzugsweise ist eine Verschlüsselung vom
+Eingabegerät bis zum Sicherheitsserver vorzusehen.
+g) Der Sicherheitsserver muss ohne Bedienung arbeiten. Sofern zu Betriebs- oder Wartungszwe-
+cken irgendwelcher Art ein Zutritt notwendig ist, ist dieser organisatorisch (Vieraugenprinzip
+und Protokoll) und technisch (geeignete Absperrung des Raumes) abzusichern.
+h) Ein Zugang über Datenübertragung zum gesicherten Bereich ist außer für die definierten Si-
+cherheitsdienste nicht einzurichten (keine Remote Konsole, kein Telnet, usw.).
+www. ris.bka.gv.at
+BGBl. II – Ausgegeben am 15. April 2004 – Nr. 159 3 von 4
+i) Im Wartungsfall dürfen keine Datenträger aus der Hand gegeben werden. Diese sind, sofern
+sie nicht mehr verwendet werden oder nicht mehr verwendbar sind, geeignet zu löschen und
+zu vernichten.
+j) Es sind sämtliche Betriebs- und Wartungsarbeiten, soweit das System dies zulässt, auch auto-
+matisch zu dokumentieren. Die Dokumentation ist zumindest fünf Jahre aufzubewahren und
+muss allfälligen Audits zur Verfügung stehen.
+Prüfung der Geräte und Mechanismen
+§ 4. (1) Eine Prüfung oder Zertifizierung der für Verwaltungssignaturen eingesetzten Geräte und
+Mechanismen nach einem Schutzprofil wird nicht explizit vorgeschrieben. Geräte oder Mechanismen
+sind jedenfalls als geeignet anzusehen, wenn sie die Bedingungen der sicheren Signatur bzw. die Bedin-
+gungen der Geräte und Mechanismen erfüllen, die bei Zertifizierungsdiensteanbietern für qualifizierte
+Zertifikate eingesetzt werden.
+(2) Liegt keine Evaluierung der zum Einsatz bei Verwaltungssignaturen bestimmten Komponenten
+(Geräte und Mechanismen) nach einem Schutzprofil vor, so dürfen diese nur eingesetzt werden, nachdem
+ein Gutachten einer Bestätigungsstelle im Sinne des § 19 SigG mit dem in Absatz 3 bezeichneten Inhalt
+die Einhaltung der Anforderungen gemäß §§ 1 bis 3 festgestellt hat.
+(3) Das Gutachten der Bestätigungsstelle hat auf die einzelnen Punkte der in den §§ 1 bis 3 genann-
+ten Anforderungen einzugehen und hat auch festzustellen, in welchen Zeiträumen ein Audit zur Aufrecht-
+erhaltung der Sicherheit notwendig ist. Die Schlussaussage des Gutachtens muss „nach den Anforderun-
+gen für die Verwaltungssignatur geeignet“ oder „nach den Anforderungen für die Verwaltungssignatur
+nicht geeignet“ lauten. Notwendige Betriebsbedingungen können in einem derartigen Gutachten festge-
+stellt werden.
+(4) Im Sicherheitskonzept des Zertifizierungsdiensteanbieters ist auszuweisen, welche der eingesetz-
+ten Komponenten die Anforderungen für den Einsatz bei sicheren Signaturen bzw. bei Zertifizierungs-
+diensteanbietern für qualifizierte Zertifikate erfüllen und für welche Komponenten die Erfüllung der An-
+forderungen der Verwaltungssignatur in einem Gutachten nach Abs. 3 festgestellt wurde.
+Personal
+§ 5. Die Anforderungen des § 10 Abs. 4 und 5 SigV an die Fachkunde und Sicherheit des für die
+Ausstellung und die weitere Verwaltung sicherer Signaturen beim Zertifizierungsdienstanbieter eingesetz-
+ten Personals gelten auch hinsichtlich der Verwaltungssignaturen. Die Maßnahmen zur Gewährleistung
+der Erfüllung dieser Anforderungen sind im Sicherheitskonzept des Zertifizierungsdiensteanbieters darzu-
+stellen.
+Identifikation
+§ 6. Die im Hinblick auf die Bestätigung der Identität im Zertifikat notwendige Identifikation des
+Signators darf bei der Registrierung für die Verwaltungssignatur nur erfolgen
+1. in seiner Anwesenheit und aufgrund der Vorlage eines amtlichen Lichtbildausweises oder
+2. ohne sein persönliches Erscheinen beim Zertifizierungsdiensteanbieter
+a) durch Übersendung der für die Freischaltung der Verwaltungssignatur notwendigen Informa-
+tionen in einer Form, die die Überprüfung der Identität des Empfängers mit jener Verlässlich-
+keit gewährleistet, die bei der Zustellung zu eigenen Handen (§ 21 ZustellG) eingehalten wird;
+b) elektronisch durch Verwendung einer weiteren Bürgerkarte des Signators.
+Verzeichnisdienste
+§ 7. Verzeichnisdienste für die Zertifikate der Verwaltungssignatur müssen verfügbar sein. Darüber
+hinausgehende Auflagen der Verfügbarkeit und Sicherheit dürfen von Behörden nicht gestellt werden,
+sofern bei den bei ihnen verwendeten Signaturformaten das Zertifikat dem gültig signierten Dokument
+beigelegt wird.
+Widerrufsdienste
+§ 8. Der Widerruf eines Zertifikates ist von dem hiezu berufenen Zertifizierungsdiensteanbieter zu
+veröffentlichen (Widerrufsdienst), es sei denn dass die Signaturerstellungsdaten ausschließlich im Sicher-
+heitsserver verwendbar sind und mit dem Widerruf das Vernichten der Signaturerstellungsdaten sicherge-
+stellt ist. Das Vorliegen des letzteren Falles ist im Sicherheitskonzept des Zertifizierungsdiensteanbieters
+festzuhalten und als „automatischer und impliziter Widerrufsdienst“ zu bezeichnen.
+www. ris.bka.gv.at
+BGBl. II – Ausgegeben am 15. April 2004 – Nr. 159 4 von 4
+Bürgerkarte
+§ 9. (1) Abgesehen von sicheren Signaturen dürfen nur Signaturen, die die für Verwaltungssignatu-
+ren nach den vorstehenden Bestimmungen geltenden Anforderungen erfüllen, für die Funktion „Bürger-
+karte“ verwendet werden. Die Stammzahlenregisterbehörde darf daher eine Personenbindung nur vor-
+nehmen, wenn sie auf ihr Verlangen vom Zertifizierungsdiensteanbieter alle Auskünfte und Nachweise
+erhält, die sie benötigt, um das Vorliegen einer Verwaltungssignatur beurteilen zu können.
+(2) Eine Verwaltungssignatur im Sinne dieser Verordnung liegt nur vor, wenn die Voraussetzungen
+der §§ 1 bis 8 erfüllt sind. Zertifizierungsdiensteanbieter von Verwaltungssignaturen, die in Bürgerkarten
+Verwendung finden, haben in geeigneter Weise dafür Vorsorge zu treffen, dass einzelne oder alle Zertifi-
+kate durch Widerruf unverzüglich für ungültig erklärt werden, wenn die Stammzahlenregisterbehörde
+feststellt, dass die Gefahr einer missbräuchlichen Verwendung des Zertifikates besteht.
+Inkrafttreten
+§ 10. Diese Verordnung tritt mit 16. April 2004 in Kraft.
+Schüssel
+www. ris.bka.gv.at

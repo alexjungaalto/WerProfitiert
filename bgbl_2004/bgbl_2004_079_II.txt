@@ -1,0 +1,54 @@
+1 von 2
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004 Ausgegeben am 13. Februar 2004 Teil II
+79. Verordnung: Derivate-Risikoberechnungs- und Meldeverordnung
+79. Verordnung der Finanzmarktaufsichtsbehörde über die Risikoberechnung und
+Meldung von Derivaten (Derivate-Risikoberechnungs- und Meldeverordnung)
+Auf Grund des § 21 Abs. 2 und 3 des Investmentfondsgesetzes – InvFG 1993, BGBl. Nr. 532,
+Art. II, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 80/2003, wird verordnet:
+§ 1. Die Kapitalanlagegesellschaften haben der Finanzmarktaufsichtsbehörde (FMA) nach den Vor-
+schriften dieser Verordnung quartalsweise schriftliche Meldungen mit den Stichtagen 31. März, 30. Juni,
+30. September und 31. Dezember zu erstatten; diese sind der FMA innerhalb eines Monats zu übermit-
+teln.
+§ 2. Die Meldungen haben für jeden von der Kapitalanlagegesellschaft verwalteten Kapitalanlage-
+fonds für die im Fondsvermögen befindlichen Derivate zu enthalten:
+1. Angaben betreffend die einfachen Derivate gemäß der Gliederung in Anlage 1;
+2. Angaben betreffend die komplexen Derivate sowie die „Sonstigen im Fondsvermögen befindli-
+chen Derivate“ gemäß der Gliederung in Anlage 2;
+3. Angaben betreffend die mit den jeweiligen Basiswerten verbundenen allgemeinen Risiken;
+4. Angaben betreffend die in den Fondsbestimmungen vorgesehenen besonderen Anlagegrenzen
+alternativ in Anlage 1 oder in Anlage 2;
+5. Angaben betreffend das Gesamtrisiko als Prozentsatz des Nettovermögens des Kapitalanlage-
+fonds unter Anführung des Fondsnamens und der Wertpapierkennnummer(n) in der Form einer
+Gesamtaufstellung der Kapitalanlagegesellschaft.
+Befinden sich zum Stichtag keine Derivate im Fondsvermögen, so ist eine Leermeldung zu erstatten.
+§ 3. Zur Berechnung des mit den Derivaten verbundenen Risikos ist der Commitment Approach her-
+anzuziehen, wobei die nicht in Anlage 1 angeführten Derivate zusätzlich mit dem Value-at-Risk-
+Approach (VaR-Approach) zu bewerten sind; die in Anlage 1 angeführten Derivate können zusätzlich mit
+dem VaR-Approach bewertet werden. Bei Verwendung des VaR-Approach sind die über § 5 hinausge-
+henden angewendeten Parameter anzuführen und der Ansatz detailliert schriftlich zu erläutern.
+§ 4. Unter Commitment Approach wird die Umrechnung der Derivativpositionen in die jeweiligen
+Basiswerte verstanden. Derivate, deren Einsatz eine risikoreduzierende Wirkung hat, können jeweils mit
+den Kassapositionen und den Derivaten, deren Einsatz eine risikoerhöhende Wirkung hat, sowohl zur
+Ermittlung des Gesamtrisikos des Fonds gemäß § 21 Abs. 3 InvFG 1993 als auch für die Ermittlung der
+Emittentengrenzen gemäß § 20 InvFG 1993 gegeneinander aufgerechnet werden. Die Umrechnung von
+Optionen in das jeweilige Wertpapieräquivalent hat unter Heranziehung des entsprechenden Optionsdel-
+tas zu erfolgen. Futures, Swaps sowie Devisentermingeschäfte sind mit dem Marktpreis zu bewerten. Bei
+der Berechnung des Gesamtrisikos von OTC-Derivaten ist zu berücksichtigen, dass das Ausfallsrisiko
+gemäß § 21 Abs. 4 InvFG 1993 bei OTC-Derivaten mit dem maximalen Verlustrisiko zu bemessen ist
+und dass Forderungen und Verbindlichkeiten gegenüber derselben Gegenpartei aufgerechnet werden
+können, wenn rechtsverbindliche Aufrechnungsvereinbarungen zwischen den Vertragspartnern vereinbart
+worden sind. Das maximale Verlustrisiko ist mit der Marktpreismethode zu bewerten.
+§ 5. Für den VaR-Approach, der den maximal möglichen Verlust innerhalb eines bestimmten Zeitho-
+rizontes bei vorgegebenem Konfidenzintervall ermittelt, sind folgende Parameter heranzuziehen:
+1. Konfidenzintervall von 99 vH;
+2. Halteperiode von bis zu 30 Tagen;
+www.ris.bka.gv.at
+BGBl. II – Ausgegeben am 13. Februar 2004 – Nr. 79 2 von 2
+3. der historische Beobachtungszeitraum, der bei Berechnung der Volatilitäten zugrunde gelegt
+wird, darf maximal ein Jahr betragen.
+§ 6. Diese Verordnung tritt mit 14. Februar 2004 in Kraft. Eine Meldung im Sinne dieser Verord-
+nung ist erstmals mit Stichtag 31. Dezember 2004 zu erstatten.
+Grünbichler Pribil
+www.ris.bka.gv.at
