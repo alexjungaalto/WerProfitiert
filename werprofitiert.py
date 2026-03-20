@@ -20,18 +20,16 @@ Verwendung:
     python werprofitiert.py
 """
 
-import io
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from datetime import datetime
 from pathlib import Path
 
 import anthropic
-import pdfplumber
-import requests
 from tqdm import tqdm
 
 from download_bgbl import download_year, jahr_vollstaendig, pdf_dir, pdf_path
@@ -42,11 +40,12 @@ MODEL            = "claude-sonnet-4-5"
 MAX_TEXT_CHARS   = 6000
 RATE_LIMIT_DELAY = 0.5
 
-PDF_BASE_URL = "https://www.ris.bka.gv.at/Dokumente/BgblPdf/{year}_{nr}_0/{year}_{nr}_0.pdf"
 
 CONFIG_GRUPPEN  = Path("gruppen.txt")
 CONFIG_ZEITRAUM = Path("Zeitraum.txt")
 BERICHT         = Path("Bericht.txt")
+SCRATCHPAD      = Path("temp.txt")
+KONVERTER       = Path("pdf_to_text.py")
 
 # ── Konfiguration lesen ────────────────────────────────────────────────────────
 
@@ -143,31 +142,184 @@ def metadaten_aus_pdf(text: str) -> tuple[str, str]:
     return titel, datum
 
 
-def pdf_zu_text(data: bytes) -> str:
-    with pdfplumber.open(io.BytesIO(data)) as pdf:
-        teile = [page.extract_text() or "" for page in pdf.pages]
-    return " ".join(teile).strip()
+def txt_pfad(pdf: Path) -> Path:
+    return pdf.with_suffix(".txt")
 
 
-def lade_pdf_text(bgbl_nr: str) -> str:
-    """Lädt PDF-Text: zuerst lokal, dann direkt von RIS."""
-    m = re.search(r"(\d{4})/(\d+)", bgbl_nr)
-    if not m:
-        raise ValueError(f"BGBl-Nummer konnte nicht geparst werden: {bgbl_nr}")
-    year, nr = int(m.group(1)), int(m.group(2))
+# ── Claude-generierter PDF-Konverter ──────────────────────────────────────────
 
-    # Lokal
-    lokal = pdf_path(year, nr)
-    if lokal.exists():
-        return pdf_zu_text(lokal.read_bytes())
+KONVERTER_PROMPT = """\
+Schreibe ein Python-Skript das:
+1. Einen PDF-Dateipfad als erstes Kommandozeilenargument entgegennimmt
+2. Den gesamten Text des PDFs nach stdout ausgibt (UTF-8)
+3. Robust mit verschiedenen PDF-Formaten umgeht (gescannte PDFs, digitale PDFs)
+4. Nur pdfplumber verwendet (ist bereits installiert)
+5. Bei Fehler eine kurze Fehlermeldung nach stderr schreibt und mit Exit-Code 1 endet
 
-    # Remote
-    url  = PDF_BASE_URL.format(year=year, nr=nr)
-    resp = requests.get(url, timeout=30)
-    resp.raise_for_status()
-    if "pdf" not in resp.headers.get("Content-Type", "").lower():
-        raise ValueError(f"Kein PDF erhalten (Content-Type: {resp.headers.get('Content-Type')})")
-    return pdf_zu_text(resp.content)
+Gib NUR den reinen Python-Code aus — kein Markdown, keine Erklärungen.\
+"""
+
+def generiere_konverter(client: anthropic.Anthropic) -> None:
+    """Lässt Claude pdf_to_text.py schreiben; testet es und korrigiert Fehler (max 10 Versuche)."""
+    if KONVERTER.exists():
+        return
+
+    print("  Generiere PDF-Konverter via Claude…")
+    test_pdf = next(Path(".").glob("bgbl_*/*.pdf"), None)
+    prompt   = KONVERTER_PROMPT
+    code     = ""
+
+    for versuch in range(1, 11):
+        resp = client.messages.create(
+            model      = MODEL,
+            max_tokens = 2000,
+            messages   = [{"role": "user", "content": prompt}],
+        )
+        code = resp.content[0].text.strip()
+        # Strip markdown fences if Claude added them anyway
+        if code.startswith("```"):
+            code = re.sub(r"^```[^\n]*\n?", "", code)
+            code = re.sub(r"\n?```\s*$", "", code)
+
+        KONVERTER.write_text(code, encoding="utf-8")
+
+        if test_pdf is None:
+            print(f"  Konverter gespeichert (kein Test-PDF vorhanden)")
+            return
+
+        result = subprocess.run(
+            [sys.executable, str(KONVERTER), str(test_pdf)],
+            capture_output=True, text=True, timeout=60,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            print(f"  Konverter bereit (Versuch {versuch})")
+            return
+
+        fehler = (result.stderr or "Kein Output erzeugt").strip()[:500]
+        print(f"  Versuch {versuch} fehlgeschlagen: {fehler}")
+        prompt = (
+            f"Das Skript hat folgenden Fehler produziert:\n{fehler}\n\n"
+            f"Hier ist der fehlerhafte Code:\n{code}\n\n"
+            "Schreibe das Skript neu und behebe den Fehler. "
+            "Gib NUR den reinen Python-Code aus."
+        )
+
+    print("  WARNUNG: Konverter konnte nicht generiert werden — nutze pdfplumber als Fallback")
+    KONVERTER.write_text(
+        "import sys, io, pdfplumber\n"
+        "with pdfplumber.open(sys.argv[1]) as pdf:\n"
+        "    print(' '.join(p.extract_text() or '' for p in pdf.pages))\n",
+        encoding="utf-8",
+    )
+
+
+def revise_konverter(client: anthropic.Anthropic, fehler: str) -> bool:
+    """Lässt Claude den Konverter anhand des Fehlers überarbeiten. Gibt True zurück wenn erfolgreich."""
+    if not KONVERTER.exists():
+        return False
+    test_pdf = next(Path(".").glob("bgbl_*/*.pdf"), None)
+    if not test_pdf:
+        return False
+
+    code   = KONVERTER.read_text(encoding="utf-8")
+    prompt = (
+        f"Das PDF-Konverter-Skript hat folgenden Fehler produziert:\n{fehler}\n\n"
+        f"Hier ist der aktuelle Code:\n{code}\n\n"
+        "Schreibe das Skript neu und behebe den Fehler. "
+        "Gib NUR den reinen Python-Code aus."
+    )
+
+    for versuch in range(1, 6):
+        resp = client.messages.create(
+            model      = MODEL,
+            max_tokens = 2000,
+            messages   = [{"role": "user", "content": prompt}],
+        )
+        neuer_code = resp.content[0].text.strip()
+        if neuer_code.startswith("```"):
+            neuer_code = re.sub(r"^```[^\n]*\n?", "", neuer_code)
+            neuer_code = re.sub(r"\n?```\s*$",    "", neuer_code)
+
+        KONVERTER.write_text(neuer_code, encoding="utf-8")
+
+        result = subprocess.run(
+            [sys.executable, str(KONVERTER), str(test_pdf)],
+            capture_output=True, text=True, timeout=60,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            print(f"    Konverter korrigiert (Versuch {versuch})")
+            return True
+
+        fehler = (result.stderr or "Kein Output").strip()[:500]
+        prompt = (
+            f"Immer noch fehlerhaft:\n{fehler}\n\nCode:\n{neuer_code}\n\n"
+            "Behebe den Fehler. Gib NUR den reinen Python-Code aus."
+        )
+
+    return False
+
+
+def stelle_text_sicher(datensatz: dict, client: anthropic.Anthropic) -> str | None:
+    """
+    Stellt sicher dass ein .txt für diesen Datensatz vorhanden ist:
+      1. .txt vorhanden → direkt zurückgeben
+      2. PDF vorhanden → konvertieren (mit Konverter-Revision bei Fehler)
+      3. PDF fehlt     → einzeln herunterladen, dann konvertieren
+    Gibt den Text zurück oder None wenn nicht möglich.
+    """
+    pdf = datensatz["path"]
+    txt = txt_pfad(pdf)
+
+    if txt.exists():
+        inhalt = txt.read_text(encoding="utf-8")
+        if not inhalt.startswith("[Fehler"):
+            return inhalt
+
+    # PDF herunterladen falls fehlend
+    if not pdf.exists():
+        bgbl_nr = datensatz["bgbl_nr"]
+        m = re.search(r"(\d{4})/(\d+)(?:\s+Teil\s+(\S+))?", bgbl_nr)
+        if not m:
+            return None
+        year, nr, teil = int(m.group(1)), int(m.group(2)), m.group(3) or ""
+        print(f"    PDF fehlt, lade herunter: {bgbl_nr}")
+        try:
+            import requests
+            from download_bgbl import BASE_URL_AUTH, BASE_URL_PDF, BGBL_AUTH_START
+            session = requests.Session()
+            url = (
+                BASE_URL_AUTH.format(year=year, teil=teil or "I", nr=nr)
+                if year >= BGBL_AUTH_START
+                else BASE_URL_PDF.format(year=year, nr=nr)
+            )
+            resp = session.get(url, timeout=30)
+            if resp.status_code == 200 and "pdf" in resp.headers.get("Content-Type", "").lower():
+                pdf.parent.mkdir(exist_ok=True)
+                pdf.write_bytes(resp.content)
+            else:
+                print(f"    Download fehlgeschlagen (HTTP {resp.status_code})")
+                return None
+        except Exception as e:
+            print(f"    Download-Fehler: {e}")
+            return None
+
+    # PDF → .txt konvertieren (mit Revision bei Fehler)
+    for versuch in range(1, 4):
+        result = subprocess.run(
+            [sys.executable, str(KONVERTER), str(pdf)],
+            capture_output=True, text=True, timeout=60,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            txt.write_text(result.stdout, encoding="utf-8")
+            return result.stdout
+
+        fehler = (result.stderr or "Kein Output").strip()
+        print(f"    Konvertierung fehlgeschlagen (Versuch {versuch}): {fehler[:120]}")
+        if not revise_konverter(client, fehler):
+            break
+
+    txt.write_text("[Fehler bei PDF-Extraktion]", encoding="utf-8")
+    return None
 
 
 def sammle_datensaetze(von_jahr: int, bis_jahr: int) -> list[dict]:
@@ -180,12 +332,14 @@ def sammle_datensaetze(von_jahr: int, bis_jahr: int) -> list[dict]:
             continue
         pdfs = sorted(d.glob("*.pdf"))
         for pdf in pdfs:
-            m = re.search(r"bgbl_(\d{4})_(\d+)\.pdf", pdf.name)
+            m = re.search(r"bgbl_(\d{4})_(\d+)(?:_(I{1,3}|IV|V?I{0,3}|II?I?))?\.pdf", pdf.name)
             if m:
-                nr = int(m.group(2))
+                nr   = int(m.group(2))
+                teil = m.group(3) or ""
+                bgbl_nr = f"BGBl. {jahr}/{nr} Teil {teil}" if teil else f"BGBl. {jahr}/{nr}"
                 datensaetze.append({
                     "jahr":    jahr,
-                    "bgbl_nr": f"BGBl. {jahr}/{nr}",
+                    "bgbl_nr": bgbl_nr,
                     "path":    pdf,
                 })
         print(f"  {jahr}: {len(pdfs)} PDFs gefunden")
@@ -241,14 +395,9 @@ Sei differenziert: Die meisten Gesetze betreffen nur 1-3 Gruppen wirklich stark.
 def analysiere_gesetz(client: anthropic.Anthropic, datensatz: dict, gruppen: list[str]) -> dict | None:
     bgbl_nr = datensatz["bgbl_nr"]
 
-    try:
-        text = lade_pdf_text(bgbl_nr)
-    except Exception as e:
-        print(f"  [Fehler] PDF nicht ladbar für {bgbl_nr}: {e}")
-        return None
-
-    if not text:
-        print(f"  [Warnung] Leerer PDF-Text für {bgbl_nr}")
+    text = stelle_text_sicher(datensatz, client)
+    if not text or text.startswith("[Fehler"):
+        print(f"  [Fehler] Kein Text verfügbar für {bgbl_nr}")
         return None
 
     titel, datum = metadaten_aus_pdf(text)
@@ -264,7 +413,7 @@ def analysiere_gesetz(client: anthropic.Anthropic, datensatz: dict, gruppen: lis
     try:
         resp = client.messages.create(
             model      = MODEL,
-            max_tokens = 1000,
+            max_tokens = 4096,
             system     = SYSTEM_PROMPT,
             messages   = [{"role": "user", "content": prompt}],
         )
@@ -322,6 +471,26 @@ def initialisiere_bericht(gruppen: list[str], von_jahr: int, bis_jahr: int) -> N
     BERICHT.write_text(header, encoding="utf-8")
 
 
+# ── Scratchpad ────────────────────────────────────────────────────────────────
+
+def aktualisiere_scratchpad(von_jahr: int, bis_jahr: int, gesamt: int,
+                             analysiert: int, fehler: int, aktuell: str) -> None:
+    verbleibend = gesamt - analysiert
+    fortschritt = f"{analysiert}/{gesamt}" if gesamt else "0/0"
+    inhalt = "\n".join([
+        "WerProfitiert — Status",
+        f"Stand      : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+        f"Zeitraum   : {von_jahr} – {bis_jahr}",
+        f"Gesamt     : {gesamt}",
+        f"Analysiert : {analysiert}  ({fortschritt})",
+        f"Fehler     : {fehler}",
+        f"Verbleibend: {verbleibend}",
+        f"Aktuell    : {aktuell or '—'}",
+        "",
+    ])
+    SCRATCHPAD.write_text(inhalt, encoding="utf-8")
+
+
 # ── Hauptprogramm ─────────────────────────────────────────────────────────────
 
 def main():
@@ -349,6 +518,10 @@ def main():
         )
     client = anthropic.Anthropic(api_key=api_key)
 
+    print("Schritt 0: PDF-Konverter vorbereiten…")
+    generiere_konverter(client)
+    print()
+
     print("Schritt 1: PDFs herunterladen (falls noch nicht vorhanden)…")
     for jahr in range(von_jahr, bis_jahr + 1):
         if jahr_vollstaendig(jahr):
@@ -357,23 +530,30 @@ def main():
             download_year(jahr)
     print()
 
-    print("Schritt 2: PDFs einlesen…")
+    print("Schritt 2: Datensätze einlesen…")
     alle = sammle_datensaetze(von_jahr, bis_jahr)
-    print(f"  → {len(alle)} Gesetze gefunden\n")
+    gesamt = len(alle)
+    print(f"  → {gesamt} BGBl-Einträge gefunden\n")
 
     if not BERICHT.exists():
         initialisiere_bericht(gruppen, von_jahr, bis_jahr)
 
     zu_tun = [g for g in alle if g["bgbl_nr"].strip() not in bereits]
-    print(f"Schritt 3: {len(zu_tun)} Gesetze analysieren…\n")
+    print(f"Schritt 3: {len(zu_tun)} Gesetze zu analysieren ({gesamt - len(zu_tun)} bereits erledigt)…\n")
 
-    fehler = 0
+    fehler        = 0
+    analysiert    = gesamt - len(zu_tun)  # already done from previous runs
+
     for datensatz in tqdm(zu_tun, unit="Gesetz"):
+        bgbl_nr = datensatz["bgbl_nr"].strip()
+
+        aktualisiere_scratchpad(von_jahr, bis_jahr, gesamt, analysiert, fehler, bgbl_nr)
+
         analyse = analysiere_gesetz(client, datensatz, gruppen)
 
         if analyse is None:
             fehler += 1
-            platzhalter = f"{datensatz['bgbl_nr']} | | \n  [Analysefehler]\n\n"
+            platzhalter = f"{bgbl_nr} | | \n  [Analysefehler]\n\n"
             with BERICHT.open("a", encoding="utf-8") as f:
                 f.write(platzhalter)
         else:
@@ -381,12 +561,16 @@ def main():
             with BERICHT.open("a", encoding="utf-8") as f:
                 f.write(zeile + "\n")
 
+        bereits.add(bgbl_nr)
+        analysiert += 1
         time.sleep(RATE_LIMIT_DELAY)
 
+    aktualisiere_scratchpad(von_jahr, bis_jahr, gesamt, analysiert, fehler, "Fertig")
     print(f"\nFertig!")
     print(f"  Analysiert : {len(zu_tun) - fehler}")
     print(f"  Fehler     : {fehler}")
     print(f"  Bericht    : {BERICHT.resolve()}")
+    print(f"  Status     : {SCRATCHPAD.resolve()}")
 
 
 if __name__ == "__main__":
